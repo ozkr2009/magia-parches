@@ -1,0 +1,271 @@
+{
+    "story":
+    {
+        "group_1": [
+        {
+            "autoTurnLast": 0.01,
+            "chara": [
+            {
+                "cheek": 1,
+                "face": "mtn_ex_060.exp.json",
+                "id": 100200,
+                "motion": 301,
+                "pos": 0
+            },
+            {
+                "cheek": 1,
+                "face": "mtn_ex_060.exp.json",
+                "id": 100100,
+                "motion": 0,
+                "pos": 2
+            }],
+            "turnChangeIn": "fadeIn"
+        },
+        {
+            "bg": "bg_adv_15053.jpg",
+            "bgm": "bgm02_boss03",
+            "chara": [
+            {
+                "id": 100100,
+                "motion": 301,
+                "mouthOpen": 0,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-1"
+            }],
+            "nameLeft": "Yachiyo",
+            "nameRight": "Iroha",
+            "textRight": "*Jadear* *Jadear*",
+            "turnChangeOut": "fadeOut"
+        },
+        {
+            "chara": [
+            {
+                "id": 100200,
+                "mouthOpen": 0,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-2",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-1"
+            }],
+            "textLeft": "*Jadear* *Jadear*"
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_020.exp.json",
+                "id": 250001,
+                "motion": 0,
+                "pos": 0,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-3",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-2"
+            }],
+            "nameLeft": "Mami",
+            "textLeft": "Ahora bien, ¿ponemos fin a esto?"
+        },
+        {
+            "chara": [
+            {
+                "id": 100100,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-4",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-3"
+            }],
+            "textRight": "Cómo ha podido pasar esto..."
+        },
+        {
+            "chara": [
+            {
+                "id": 100100,
+                "motion": 401,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-5",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-4"
+            }],
+            "textRight": "¡Justo cuando Yachiyo y yo estábamos@a punto de ir a salvar a las demás!"
+        },
+        {
+            "chara": [
+            {
+                "cheek": 1,
+                "face": "mtn_ex_030.exp.json",
+                "id": 100200,
+                "motion": 0,
+                "pos": 2,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-6",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-5"
+            }],
+            "nameRight": "Yachiyo",
+            "textRight": "Iroha..."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_010.exp.json",
+                "id": 250001,
+                "motion": 101,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-7",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-6"
+            }],
+            "textLeft": "Las Alas de Magius nos salvarán a todas."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_040.exp.json",
+                "id": 250001,
+                "motion": 300,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-8",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-7"
+            }],
+            "textLeft": "Tenemos una visión clara."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_030.exp.json",
+                "id": 250001,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-9",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-8"
+            }],
+            "textLeft": "Aunque admito que también hay algunos huevos@podridos entre nuestras filas..."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_010.exp.json",
+                "id": 250001,
+                "motion": 200,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-10",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-9"
+            }],
+            "textLeft": "No debes luchar... Ven... Únete a nosotras."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 1,
+                "face": "mtn_ex_021.exp.json",
+                "id": 100200,
+                "motion": 301,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-11",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-10"
+            }],
+            "textRight": "Ya estoy harto de que me inviten a@unirme a tu pequeña secta."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_030.exp.json",
+                "id": 250001,
+                "motion": 100,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-12",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-11"
+            }],
+            "textLeft": "Entonces debo hacer lo que Magius me ha ordenado."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_010.exp.json",
+                "id": 250001,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-13",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-12"
+            }],
+            "textLeft": "Muy bien. Te lo enseñaré."
+        },
+        {
+            "chara": [
+            {
+                "cheek": 0,
+                "face": "mtn_ex_011.exp.json",
+                "id": 250001,
+                "motion": 101,
+                "voiceFull": "fullvoice/section_101606/vo_full_101606-11-14",
+                "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-13"
+            }],
+            "textLeft": "Mi Florencia, tan preciosa como un ángel..."
+        },
+        {
+            "autoTurnLast": 0.3,
+            "bgEffect": "shakeSmall",
+            "flashEffect": "flashWhite2",
+            "textClear": 1,
+            "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-14"
+        },
+        {
+            "autoTurnLast": 0.1,
+            "item": [
+            {
+                "path": "resource/scenario/img/chapter6/101606_holymami_doppel02.jpg",
+                "posX": 0,
+                "posY": 0,
+                "visible": "appear"
+            }],
+            "turnChangeIn": "whiteIn"
+        },
+        {
+            "turnChangeOut": "whiteOut"
+        },
+        {
+            "autoTurnLast": 1.0,
+            "bgm": "stop",
+            "chara": [
+            {
+                "cheek": 1,
+                "eyeClose": 1,
+                "face": "mtn_ex_030.exp.json",
+                "id": 100100,
+                "motion": 301,
+                "pos": 1
+            }],
+            "item": [
+            {
+                "path": "resource/scenario/img/chapter6/101606_holymami_doppel02.jpg",
+                "visible": "hide"
+            }],
+            "turnChangeIn": "fadeIn"
+        },
+        {
+            "autoTurnLast": 0.01,
+            "bg": "white",
+            "bgm": "bgm03_story12",
+            "nameNarration": "Iroha",
+            "narrationBg": "narration",
+            "narrationEffect": "in",
+            "turnChangeOut": "fadeOut"
+        },
+        {
+            "narration": "Esto no puede estar pasando...",
+            "voiceFull": "fullvoice/section_101606/vo_full_101606-11-15"
+        },
+        {
+            "narration": "Acabo de decirle a Yachiyo que no moriría...",
+            "voiceFull": "fullvoice/section_101606/vo_full_101606-11-16",
+            "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-15"
+        },
+        {
+            "narration": "Fui lo suficientemente arrogante como para decirle@que se diera otra oportunidad,@y luego pasa esto...",
+            "voiceFull": "fullvoice/section_101606/vo_full_101606-11-17",
+            "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-16"
+        },
+        {
+            "narration": "No podremos salvar a los demás...",
+            "voiceFull": "fullvoice/section_101606/vo_full_101606-11-18",
+            "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-17"
+        },
+        {
+            "narration": "Finalmente encontré amigos en los que podía confiar.@Quería presentárselos a Ui.",
+            "voiceFull": "fullvoice/section_101606/vo_full_101606-11-19",
+            "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-18"
+        },
+        {
+            "autoTurnLast": 2.0,
+            "narrationEffect": "out",
+            "turnChangeIn": "fadeIn",
+            "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-19"
+        }]
+    },
+    "version": 3
+}

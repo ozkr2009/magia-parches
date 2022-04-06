@@ -1,0 +1,588 @@
+{
+  "story": {
+    "group_1": [
+      {
+        "autoTurnLast": 0.01,
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100101,
+            "motion": 0,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_040.exp.json",
+            "id": 100401,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "turnChangeIn": "fadeIn"
+      },
+      {
+        "bg": "bg_adv_21203.jpg",
+        "bgm": "bgm03_story02",
+        "chara": [
+          {
+            "id": 100101,
+            "motion": 401,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-1"
+          }
+        ],
+        "nameLeft": "Iroha",
+        "nameRight": "Sana",
+        "textLeft": "¿Ya es tan tarde? Tengo que empezar a@hacer la cena pronto...",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_040.exp.json",
+            "id": 100401,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-2",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-1"
+          }
+        ],
+        "textRight": "Ah, Iroha... Yo también ayudaré..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 100401,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-3",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-2"
+          }
+        ],
+        "textRight": "Quiero... aprender a cocinar..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 100101,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-4",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-3"
+          }
+        ],
+        "textLeft": "Gracias, Sana."
+      },
+      {
+        "bgEffect": "shakeSmall",
+        "nameNarration": "",
+        "narration": "*SMASH* ",
+        "narrationBg": "narration",
+        "narrationEffect": "in",
+        "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-4"
+      },
+      {
+        "narration": "*BANG* *CRASH* *BOOM*",
+        "se": "7108_arrivals"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100101
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100401,
+            "motion": 400,
+            "mouthOpen": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-7"
+          }
+        ],
+        "narrationEffect": "out",
+        "textRight": "[chara:100401:effect_emotion_surprise_0][se:7226_shock]¡Eek!"
+      },
+      {
+        "bgEffect": "shakeSmall",
+        "nameCenter": "Tsuruno",
+        "textBg": "shout",
+        "textCenter": "¡Te dije que tuvieras cuidado con eso!",
+        "voiceFull": "fullvoice/section_101601/vo_full_101601-2-8",
+        "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-7"
+      },
+      {
+        "bgEffect": "shakeSmall",
+        "nameCenter": "Felicia",
+        "textBg": "shout",
+        "textCenter": "¡Oh, cállate! ¡No lo hice a propósito!",
+        "voiceFull": "fullvoice/section_101601/vo_full_101601-2-9",
+        "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-8"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100101,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-10",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-9"
+          }
+        ],
+        "textLeft": "[chara:100101:effect_emotion_surprise_0][se:7226_shock]¡¿Tsuruno?! ¡¿Felicia?!"
+      },
+      {
+        "bgEffect": "shakeSmall",
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 200,
+            "pos": 2
+          }
+        ],
+        "nameNarration": "",
+        "narration": "*WHAM*",
+        "narrationBg": "narration",
+        "narrationEffect": "in",
+        "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-10"
+      },
+      {
+        "chara": [
+          {
+            "cheek": -1,
+            "face": "mtn_ex_042.exp.json",
+            "id": 100201,
+            "motion": 0,
+            "pos": 0
+          },
+          {
+            "cheek": 1,
+            "face": "mtn_ex_040.exp.json",
+            "id": 100301,
+            "motion": 201,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-12"
+          }
+        ],
+        "nameLeft": "Yachiyo",
+        "nameRight": "Tsuruno",
+        "narrationEffect": "out",
+        "textRight": "¡Maestra, escucha!@¡Felicia está siendo una gran idiota!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": -1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100201,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-13",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-12"
+          }
+        ],
+        "textLeft": "¡Abra la puerta con SUAVIDAD,@por favor!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100301,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-14",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-13"
+          }
+        ],
+        "textRight": "Ah, er, ¡L-lo siento!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": -1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-15",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-14"
+          }
+        ],
+        "textLeft": "¿A qué se debe todo este alboroto?@ "
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-16",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-15"
+          }
+        ],
+        "textRight": "¡Bueno!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-17",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-16"
+          }
+        ],
+        "textRight": "Hemos traído un montón de verduras de@Banbanzai."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-18",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-17"
+          }
+        ],
+        "textRight": "¡Entonces Felicia los olvidó en@el Laberinto de la Bruja!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100101,
+            "motion": 0,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-19",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-18"
+          }
+        ],
+        "nameLeft": "Iroha",
+        "textLeft": "Los vegetales..."
+      },
+      {
+        "autoTurnFirst": 1.0,
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100101,
+            "motion": 401,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-20",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-19"
+          }
+        ],
+        "enableSkipAutoTurn": 1,
+        "textLeft": "[chara:100101:effect_emotion_surprise_0][se:7226_shock]¡¿Qué?! Iba a usar esos esta noche..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101
+          }
+        ]
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100501,
+            "motion": 200,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-21",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-20"
+          }
+        ],
+        "enableSkipAutoTurn": 0,
+        "nameLeft": "Felicia",
+        "textLeft": "¿Qué esperabas que hiciera?@¡Había una bruja!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-22",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-21"
+          }
+        ],
+        "textRight": "Por eso te dije que los pusieras en algún sitio@obvio antes de que te lanzaras a pelear."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-23",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-22"
+          }
+        ],
+        "textRight": "Cómo se supone que ibamos a saber dónde estaban@si las tiraste por todos lados."
+      },
+      {
+        "autoTurnFirst": 2.3,
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100501,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-24",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-23"
+          }
+        ],
+        "enableSkipAutoTurn": 1,
+        "textLeft": "Sí, Pero... Pero... había una BRUJA, así que@no podía NO cazarla, ¿verdad?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100501,
+            "motion": 200
+          }
+        ]
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100501,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-25",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-24"
+          }
+        ],
+        "enableSkipAutoTurn": 0,
+        "textLeft": "¡No quería perderlas!@Me crees, ¿No es así, Iroha?"
+      },
+      {
+        "autoTurnFirst": 2.0,
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100101,
+            "motion": 401,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-26",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-25"
+          }
+        ],
+        "enableSkipAutoTurn": 1,
+        "nameRight": "Iroha",
+        "textRight": "¡¿Eh?! Bueno... Tirarlas es un poco demasiado..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "motion": 1
+          }
+        ]
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100501,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-27",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-26"
+          }
+        ],
+        "enableSkipAutoTurn": 0,
+        "textLeft": "*Huff* *Huff* *Huff*..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-28",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-27"
+          }
+        ],
+        "textRight": "Er... Ah... bueno..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 100,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-29",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-28"
+          }
+        ],
+        "nameRight": "Tsuruno",
+        "textRight": "No es que solo lo haya hecho una o dos veces."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100501,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-30",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-29"
+          }
+        ],
+        "textLeft": "¡Cállate! Si odias tanto cómo lo hago,@¡Entonces lleva tú las estúpidas verduras!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": -1,
+            "face": "mtn_ex_042.exp.json",
+            "id": 100201,
+            "motion": 1,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-31",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-30"
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_040.exp.json",
+            "id": 100401,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "nameLeft": "Yachiyo",
+        "nameRight": "Sana",
+        "textLeft": "Ugh..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_040.exp.json",
+            "id": 100401,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-32",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-31"
+          }
+        ],
+        "textRight": "Um..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100401,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-33",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-32"
+          }
+        ],
+        "textRight": "Esto... Todas... Por favor,@¡Piensen en los vecinos!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": -1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100201,
+            "motion": 201,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-34",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-33"
+          }
+        ],
+        "textLeft": "Sana tiene razón."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100501,
+            "motion": 200,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-35",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-34"
+          },
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "nameLeft": "Felicia",
+        "nameRight": "Tsuruno",
+        "textLeft": "Grrr... GRRRrrrrrr..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100301,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-36",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-35"
+          }
+        ],
+        "textRight": "Bien. Lo que sea... Puedes estudiar por tu@cuenta esta noche, entonces..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100501,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101601/vo_full_101601-2-37",
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-36"
+          }
+        ],
+        "textLeft": "¡Como si me importara! ¡Iroha me va a ayudar a estudiar!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "lipSynch": 0,
+            "motion": 0,
+            "pos": 2,
+            "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-37"
+          }
+        ],
+        "nameRight": "Iroha",
+        "textRight": "...[wait:1.2][chara:100101:motion_401][chara:100101:cheek_0][chara:100101:face_mtn_ex_050.exp.json][chara:100101:lipSynch_1][chara:100101:effect_emotion_surprise_0][se:7226_shock][chara:100101:voiceFull_fullvoice/section_101601/vo_full_101601-2-38]¡¿Espera, yo?!"
+      },
+      {
+        "autoTurnLast": 2.0,
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-38"
+      }
+    ]
+  },
+  "version": 3
+}

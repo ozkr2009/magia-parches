@@ -1,0 +1,598 @@
+{
+  "story": {
+    "group_1": [
+      {
+        "bg": "black",
+        "bgm": "bgm03_story12",
+        "nameNarration": "Touka",
+        "narration": "Entonces, en un momento crítico, C se@levantó y cargó contra la Bruja, sola.",
+        "narrationAnchor": "bottom",
+        "narrationBg": "narration",
+        "narrationCoverOpacity": 110.0,
+        "narrationEffect": "in",
+        "narrationFontSize": 30.0,
+        "narrationLineMargin": 35.0,
+        "narrationLineSpace": 20.0,
+        "turnChangeIn": "fadeIn",
+        "turnChangeOut": "fadeOut",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-5-1"
+      },
+      {
+        "narration": "Gracias a ella, el punto débil de la bruja@quedó al descubierto, y A pudo acabar con ella.",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-5-2",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-1"
+      },
+      {
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture03.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ],
+        "narration": "Sin embargo, C murió, sin que se encontrara@una sola herida en su cuerpo.",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-5-3",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-2"
+      },
+      {
+        "autoTurnLast": 1.0,
+        "bg": "bg_adv_11093.jpg",
+        "chara": [
+          {
+            "cheek": 0,
+            "eyeClose": 1,
+            "face": "mtn_ex_010.exp.json",
+            "id": 304900,
+            "motion": 400,
+            "pos": 1
+          }
+        ],
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture03.jpg",
+            "visible": "hide"
+          }
+        ],
+        "narrationEffect": "out",
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-3"
+      },
+      {
+        "chara": [
+          {
+            "id": 304900,
+            "lipSynch": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-4"
+          }
+        ],
+        "nameCenter": "Kanae",
+        "textCenter": "...",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "motion": 0,
+            "pos": 1,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-5",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-1"
+          }
+        ],
+        "nameCenter": "Yachiyo",
+        "textCenter": "¡Kanae! ¡Kanae! No tiene ni un rasguño...@Entonces ¿por qué...?"
+      },
+      {
+        "chara": [
+          {
+            "id": 100200,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-6",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-5"
+          }
+        ],
+        "textCenter": "¡Por favor, despierta!"
+      },
+      {
+        "chara": [
+          {
+            "id": 100200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-7",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-6"
+          }
+        ],
+        "textCenter": "¡¿No habías encontrado por fin un sueño@que perseguir?!"
+      },
+      {
+        "chara": [
+          {
+            "id": 100200,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-8",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-7"
+          }
+        ],
+        "textCenter": "¡No puede haber sido suficiente con encontrarlo!@¡No lo tires todo por la borda!"
+      },
+      {
+        "chara": [
+          {
+            "id": 100200,
+            "pos": 0
+          },
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100600,
+            "motion": 0,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-9",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-8"
+          }
+        ],
+        "nameLeft": "Iroha",
+        "nameRight": "Mifuyu",
+        "textRight": "Yachan...mira esto..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100100,
+            "motion": 0,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-10",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-9"
+          }
+        ],
+        "nameLeft": "Iroha",
+        "textLeft": "¿Eso es...?"
+      },
+      {
+        "chara": [
+          {
+            "id": 100600,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-11",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-10"
+          }
+        ],
+        "textRight": "Es la Soul Gem de Kanae..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_031.exp.json",
+            "id": 100600,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-12",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-11"
+          }
+        ],
+        "textRight": "La bruja debe haberla destrozado cuando@la atacó."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100100,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-13",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-12"
+          }
+        ],
+        "textLeft": "¡Déjame verla!"
+      },
+      {
+        "autoTurnLast": 2.0,
+        "flashEffect": "flashWhiteSlow2",
+        "se": "7210_souljem_01",
+        "textClear": 1,
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-13"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100100,
+            "lipSynch": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-14"
+          }
+        ],
+        "textLeft": "..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100100,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-15",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-14"
+          }
+        ],
+        "textLeft": "No... La Grief Seed no está funcionando..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100200,
+            "motion": 0,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-16",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-15"
+          }
+        ],
+        "nameRight": "Yachiyo",
+        "textRight": "Mifuyu, Iroha... ¿Qué puede significar esto?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "id": 100200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-17",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-16"
+          }
+        ],
+        "textRight": "No hay ninguna herida en su cuerpo...@Pero no se despierta."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "id": 100200,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-18",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-17"
+          }
+        ],
+        "textRight": "Solo su Gema del Alma está rota...@Eso... debe significar..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100100,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-19",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-18"
+          }
+        ],
+        "textLeft": "Pero eso es imposible..."
+      },
+      {
+        "autoTurnLast": 0.01,
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture04.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ],
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-19"
+      },
+      {
+        "bg": "black",
+        "nameNarration": "Touka",
+        "narration": "Junto al cuerpo ileso de C yacía su@Soul Gem, hecha pedazos.",
+        "narrationAnchor": "bottom",
+        "narrationBg": "narration",
+        "narrationCoverOpacity": 110.0,
+        "narrationEffect": "in",
+        "narrationFontSize": 30.0,
+        "narrationLineMargin": 35.0,
+        "narrationLineSpace": 20.0,
+        "turnChangeOut": "fadeOut",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-5-20"
+      },
+      {
+        "narration": "Fue entonces cuando A y B se dieron cuenta de que una@Soul Gem es, tal y como su nombre indica,@la vida de una Chica Mágica.",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-5-21",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-20"
+      },
+      {
+        "autoTurnLast": 0.01,
+        "bg": "bg_adv_21263.jpg",
+        "chara": [
+          {
+            "cheek": 2,
+            "eyeClose": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "motion": 300,
+            "pos": 0,
+            "tear": 1
+          },
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100601,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture04.jpg",
+            "visible": "hide"
+          }
+        ],
+        "narrationEffect": "out",
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-21"
+      },
+      {
+        "bg": "bg_adv_21203.jpg",
+        "chara": [
+          {
+            "id": 100101,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-22"
+          }
+        ],
+        "nameLeft": "Iroha",
+        "nameRight": "Mifuyu",
+        "textLeft": "Nnngh...*Llorar*",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100601,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-23",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-22"
+          }
+        ],
+        "textRight": "Iroha... somos Chicas Mágicas."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_031.exp.json",
+            "id": 100601,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-24",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-23"
+          }
+        ],
+        "textRight": "Tarde o temprano, todas tenemos que morir."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "eyeClose": 0,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100101,
+            "motion": 400,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-25",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-24"
+          }
+        ],
+        "textLeft": "¡¿Cómo eso explica algo?!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100601,
+            "motion": 400,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-26",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-25"
+          }
+        ],
+        "textBg": "shout",
+        "textRight": "¡¿Esperas que te dé una explicación@razonable?!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100101,
+            "lipSynch": 0,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-27",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-26"
+          }
+        ],
+        "textLeft": "¡¿...?!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-28",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-27"
+          }
+        ],
+        "textLeft": "Lo siento..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 0,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-29",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-28"
+          }
+        ],
+        "nameRight": "Yachiyo",
+        "textRight": "Al menos deberíamos..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-30",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-29"
+          }
+        ],
+        "textRight": "...tomar este horrible conocimiento y aprender@de él."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-31",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-30"
+          }
+        ],
+        "textRight": "Podemos usar lo que Kanae nos enseñó."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-32",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-31"
+          }
+        ],
+        "textLeft": "Sobre las Soul Gems..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100601,
+            "motion": 1,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-33",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-32"
+          }
+        ],
+        "nameRight": "Mifuyu",
+        "textRight": "Sí, tienes razón..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "eyeClose": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "motion": 301,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-34",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-33"
+          }
+        ],
+        "textLeft": "*Sollozar*"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 0,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-35",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-34"
+          }
+        ],
+        "nameRight": "Yachiyo",
+        "textRight": "Ahora tenemos demasiadas tazas..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 301,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-36",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-35"
+          }
+        ],
+        "textRight": "No te preocupes, Kanae... No te dejaré morir..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-5-37",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-36"
+          }
+        ],
+        "textRight": "Nunca. No mientras esté viva..."
+      },
+      {
+        "autoTurnLast": 0.01,
+        "bg": "black",
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug01.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ],
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-5-37"
+      },
+      {
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug02.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ]
+      },
+      {
+        "autoTurnLast": 2.0,
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug01.jpg",
+            "visible": "hide"
+          },
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug02.jpg",
+            "visible": "hide"
+          }
+        ],
+        "turnChangeIn": "fadeIn"
+      }
+    ]
+  },
+  "version": 3
+}

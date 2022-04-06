@@ -1,0 +1,1012 @@
+{
+  "story": {
+    "group_1": [
+      {
+        "bg": "black",
+        "nameNarration": "Touka",
+        "narration": "A se encontró en un aprieto,@y F se sacrificó para protegerla.",
+        "narrationAnchor": "bottom",
+        "narrationBg": "narration",
+        "narrationCoverOpacity": 110.0,
+        "narrationEffect": "in",
+        "narrationFontSize": 30.0,
+        "narrationLineMargin": 30.0,
+        "narrationLineSpace": 20.0,
+        "turnChangeIn": "fadeIn",
+        "turnChangeOut": "fadeOut",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-10-1"
+      },
+      {
+        "narration": "La bruja escapó, poniendo fin@a la lucha, pero F estaba en mal estado.@Peor aún, no tenían Grief Seeds.",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-10-2",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-1"
+      },
+      {
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture07.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ],
+        "narration": "Cuando su Soul Gem se volvió negra como@el azabache, dejó de moverse.",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-10-3",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-2"
+      },
+      {
+        "autoTurnLast": 0.01,
+        "bg": "bg_adv_21133.jpg",
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100600,
+            "motion": 0,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "effect": "ef_adv_08",
+            "face": "mtn_ex_030.exp.json",
+            "id": 303700,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture07.jpg",
+            "visible": "hide"
+          }
+        ],
+        "narrationEffect": "out",
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-3"
+      },
+      {
+        "bgm": "bgm03_story12",
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100600,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-4"
+          }
+        ],
+        "nameLeft": "Mifuyu",
+        "nameRight": "Mel",
+        "textLeft": "Mel...",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "motion": 201,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-5",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-4"
+          }
+        ],
+        "nameLeft": "Yachiyo",
+        "textLeft": "¡Te dije que no te movieras!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 303700,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-6",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-5"
+          }
+        ],
+        "textRight": "Lo siento mucho... Yachiyo... senp..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100200,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-7",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-6"
+          }
+        ],
+        "textLeft": "Mel... Tu... tu Gema del Alma..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-8",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-7"
+          }
+        ],
+        "textLeft": "¡No! ¡No tengo suficiente magia para curarla!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_051.exp.json",
+            "id": 100200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-9",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-8"
+          }
+        ],
+        "textLeft": "¡¿Tenemos alguna semilla de dolor de sobra?!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100600,
+            "motion": 1,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-10",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-9"
+          }
+        ],
+        "nameRight": "Mifuyu",
+        "textRight": "No..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101000,
+            "motion": 1,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-11",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-10"
+          }
+        ],
+        "nameLeft": "Momoko",
+        "textLeft": "Y no derrotamos a la bruja, así que no@conseguimos su Grief Seed..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_031.exp.json",
+            "id": 100600,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-12",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-11"
+          }
+        ],
+        "textRight": "Si hubiera hecho algo..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100200,
+            "motion": 300,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-13",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-12"
+          }
+        ],
+        "nameLeft": "Yachiyo",
+        "textLeft": "No, esto fue mi culpa. Esto es porque@me resbalé..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-14",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-13"
+          }
+        ],
+        "textLeft": "¡...!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-15",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-14"
+          }
+        ],
+        "textLeft": "¡Tenemos que ir a cazar otra bruja! ¡Todavía hay tiempo!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "effect": "ef_adv_08",
+            "face": "mtn_ex_030.exp.json",
+            "id": 303700,
+            "motion": 0,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-16",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-15"
+          }
+        ],
+        "nameRight": "Mel",
+        "textRight": "Es... espera..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100200,
+            "motion": 201,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-17",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-16"
+          }
+        ],
+        "textLeft": "Mel, suéltate... Vamos a conseguirte una@Grief Seed ahora mismo."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 303700,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-18",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-17"
+          }
+        ],
+        "textRight": "No... No, es... es demasiado tarde, lo sé..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-19",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-18"
+          }
+        ],
+        "textLeft": "¡No digas eso!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 303700,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-20",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-19"
+          }
+        ],
+        "textRight": "Cada vez tengo más frío...@Lo... sé..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100200,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-21",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-20"
+          }
+        ],
+        "textLeft": "Creía que hoy iba a haber suerte.@¿Qué clase de suerte es esta?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 303700,
+            "lipSynch": 0,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-22",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-21"
+          }
+        ],
+        "textRight": "..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-23",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-22"
+          }
+        ],
+        "textLeft": "¡¿Qué estás diciendo?!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "eyeClose": 1,
+            "face": "mtn_ex_020.exp.json",
+            "id": 303700,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-24",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-23"
+          }
+        ],
+        "textRight": "Ghhh... ¡URGHHH!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100200,
+            "motion": 400,
+            "mouthOpen": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-25",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-24"
+          }
+        ],
+        "textBg": "shout",
+        "textLeft": "¡Mel!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_001.exp.json",
+            "id": 100600,
+            "motion": 400,
+            "mouthOpen": 0,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-26",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-25"
+          }
+        ],
+        "nameLeft": "Mifuyu",
+        "textBg": "shout",
+        "textLeft": "¡¡¡Mel!!!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100100,
+            "motion": 401,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-27",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-26"
+          }
+        ],
+        "nameLeft": "Iroha",
+        "textLeft": "¡Su Soul Gem!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 101000,
+            "motion": 1,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-28",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-27"
+          }
+        ],
+        "nameLeft": "Momoko",
+        "textLeft": "¡¿Qué está pasando?!"
+      },
+      {
+        "autoTurnLast": 0.5,
+        "flashEffect": "flashWhite2",
+        "textClear": 1,
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-28"
+      },
+      {
+        "autoTurnLast": 2.0,
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 101000,
+            "motion": 0,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100100,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "turnChangeIn": "whiteIn",
+        "turnEffect": "blackPromist"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 101000,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-29"
+          }
+        ],
+        "nameLeft": "Momoko",
+        "nameRight": "Iroha",
+        "textLeft": "¿Qué... en el mundo?",
+        "turnChangeOut": "whiteOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 100100,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-30",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-29"
+          }
+        ],
+        "textRight": "Esto no puede... ser real, ¿verdad?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100200,
+            "motion": 0,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-31",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-30"
+          }
+        ],
+        "nameLeft": "Yachiyo",
+        "textLeft": "No... no, esto no puede ser... Mel...ella..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100600,
+            "motion": 300,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-32",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-31"
+          }
+        ],
+        "nameLeft": "Mifuyu",
+        "textLeft": "Una bruja salió de ella..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100100,
+            "motion": 400,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-33",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-32"
+          }
+        ],
+        "textRight": "¡Mifuyu!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100600,
+            "motion": 400,
+            "mouthOpen": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-34",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-33"
+          }
+        ],
+        "textBg": "shout",
+        "textLeft": "¡¿Qué?! ¡Viste lo que pasó, igual que yo!"
+      },
+      {
+        "autoTurnLast": 0.01,
+        "turnChangeIn": "fadeIn",
+        "turnEffect": "stop",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-34"
+      },
+      {
+        "bg": "black",
+        "nameNarration": "Touka",
+        "narration": "Había una Soul Gem ennegrecida que descansaba@en la palma de la mano de F.",
+        "narrationAnchor": "bottom",
+        "narrationBg": "narration",
+        "narrationCoverOpacity": 110.0,
+        "narrationEffect": "in",
+        "narrationFontSize": 30.0,
+        "narrationLineMargin": 35.0,
+        "narrationLineSpace": 20.0,
+        "turnChangeOut": "fadeOut",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-10-35"
+      },
+      {
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture08.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ],
+        "narration": "F empezó a retorcerse de dolor y la Soul Gem@se convirtió de repente en una Semilla de Dolor.@Así, nació una Bruja.",
+        "voiceFull": "fullvoice/section_101604/vo_full_101604-10-36",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-35"
+      },
+      {
+        "autoTurnLast": 0.01,
+        "bg": "bg_adv_21263.jpg",
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 0,
+            "pos": 0
+          },
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101603_lecture08.jpg",
+            "visible": "hide"
+          }
+        ],
+        "narrationEffect": "out",
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-36"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-37"
+          }
+        ],
+        "nameLeft": "Yachiyo",
+        "nameRight": "Momoko",
+        "textLeft": "Esta taza ya no tiene dueña tampoco...",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-38",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-37"
+          }
+        ],
+        "textLeft": "*Llorar* Mel..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-39",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-38"
+          }
+        ],
+        "textRight": "No, esto es demasiado... No puedo creerlo... "
+      },
+      {
+        "chara": [
+          {
+            "id": 100201,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-40",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-39"
+          }
+        ],
+        "textLeft": "Momoko..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-41",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-40"
+          }
+        ],
+        "textRight": "Si es verdad, ¿sabes lo que significa?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-42",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-41"
+          }
+        ],
+        "textRight": "Todas esas cosas que matamos en la batalla,@eran todas Chicas Mágicas, ¡¿no es así?!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 100601,
+            "motion": 400,
+            "pos": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-43",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-42"
+          }
+        ],
+        "nameLeft": "Mifuyu",
+        "textBg": "shout",
+        "textLeft": "¡No digas eso, Momoko!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_020.exp.json",
+            "id": 101001,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-44",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-43"
+          }
+        ],
+        "textRight": "¡Pero es verdad!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-45",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-44"
+          }
+        ],
+        "textRight": "Nos concedieron nuestros deseos, ¿y para qué?@¿Para poder ser asesinas?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100201,
+            "motion": 201,
+            "pos": 0,
+            "tear": 1
+          },
+          {
+            "cheek": 2,
+            "effect": "shake",
+            "face": "mtn_ex_060.exp.json",
+            "id": 101001,
+            "motion": 0
+          }
+        ],
+        "nameNarration": "",
+        "narration": "*Slap*",
+        "narrationEffect": "in",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-45"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-47"
+          }
+        ],
+        "narrationEffect": "out",
+        "textRight": "Yachiyo..."
+      },
+      {
+        "chara": [
+          {
+            "id": 100201,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-48",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-47"
+          }
+        ],
+        "nameLeft": "Yachiyo",
+        "textLeft": "Mel, ella... era una Chica Mágica que@siempre vivió al máximo..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_021.exp.json",
+            "id": 100201,
+            "motion": 201,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-49",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-48"
+          }
+        ],
+        "textLeft": "No te atrevas...@¡No te atrevas a llamarla asesina!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-50",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-49"
+          }
+        ],
+        "textRight": "Lo siento..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100101,
+            "motion": 0,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-51",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-50"
+          }
+        ],
+        "nameRight": "Iroha",
+        "textRight": "Pero Yachiyo... Tarde o temprano,@¿no vamos a terminar como Mel?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-52",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-51"
+          }
+        ],
+        "textLeft": "Ella nunca hizo nada malo..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-53",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-52"
+          }
+        ],
+        "textLeft": "Yo soy la responsable de lo que pasó..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 301,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-54",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-53"
+          }
+        ],
+        "textLeft": "La destruiré antes de que haga algún daño."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100601,
+            "motion": 0,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-55",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-54"
+          }
+        ],
+        "nameRight": "Mifuyu",
+        "textRight": "Esto es igual que lo que pasó con Kanae...@Tomar lecciones de la muerte de la gente..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_031.exp.json",
+            "id": 100601,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-56",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-55"
+          }
+        ],
+        "textRight": "¿Por qué cuanto más sobrevives,@más miserable te hace?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100601,
+            "motion": 300,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-57",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-56"
+          }
+        ],
+        "textRight": "¿Por qué, Yachan?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-58",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-57"
+          }
+        ],
+        "textLeft": "Mifuyu... Momoko..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-59",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-58"
+          }
+        ],
+        "textLeft": "Si las cosas se salen de control...@Por favor, mátenme..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100601,
+            "motion": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-60",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-59"
+          }
+        ],
+        "textRight": "Haz lo mismo por mí."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-61",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-60"
+          }
+        ],
+        "textLeft": "Te prometo que lo haré."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_031.exp.json",
+            "id": 100601,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-62",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-61"
+          }
+        ],
+        "textRight": "Yo también lo prometo."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 1,
+            "pos": 2,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-63",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-62"
+          }
+        ],
+        "nameRight": "Momoko",
+        "textRight": "Sí..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 2,
+            "eyeClose": 1,
+            "face": "mtn_ex_030.exp.json",
+            "id": 100201,
+            "motion": 300,
+            "tear": 1,
+            "voiceFull": "fullvoice/section_101604/vo_full_101604-10-64",
+            "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-63"
+          }
+        ],
+        "textLeft": "*Llorar* *Llorar*..."
+      },
+      {
+        "autoTurnLast": 0.01,
+        "bg": "black",
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug02.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ],
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-64"
+      },
+      {
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug03.jpg",
+            "posX": 0,
+            "posY": 0,
+            "visible": "appear"
+          }
+        ]
+      },
+      {
+        "autoTurnLast": 2.0,
+        "item": [
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug02.jpg",
+            "visible": "hide"
+          },
+          {
+            "path": "resource/scenario/img/chapter6/101604_mug03.jpg",
+            "visible": "hide"
+          }
+        ],
+        "turnChangeIn": "fadeIn"
+      }
+    ]
+  },
+  "version": 3
+}

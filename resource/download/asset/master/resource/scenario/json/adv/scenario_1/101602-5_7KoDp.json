@@ -1,0 +1,504 @@
+{
+  "story": {
+    "group_1": [
+      {
+        "autoTurnLast": 0.01,
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "motion": 0,
+            "pos": 0
+          },
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 0,
+            "pos": 2
+          }
+        ],
+        "turnChangeIn": "fadeIn"
+      },
+      {
+        "bg": "bg_adv_11061.jpg",
+        "bgm": "bgm03_story02",
+        "chara": [
+          {
+            "id": 101700,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-1"
+          }
+        ],
+        "nameLeft": "Mitama",
+        "nameRight": "Momoko",
+        "textLeft": "¿Y tú, Momoko? ¿Qué vas a hacer?",
+        "turnChangeOut": "fadeOut"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 101001,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-2",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-1"
+          }
+        ],
+        "textRight": "¿Qué voy a hacer?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-3",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-2"
+          }
+        ],
+        "textLeft": "Haciéndote la tonta, ¿No?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101700,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-4",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-3"
+          }
+        ],
+        "textLeft": "[chara:101700:effect_emotion_joy_0][se:7222_happy]Hay una linda pareja con osos, y otra@con gatitos-."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 1,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-5",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-4"
+          }
+        ],
+        "textRight": "Te lo dije, ¡Eso es una estupidez!"
+      },
+      {
+        "bgm": "stop",
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-6",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-5"
+          }
+        ],
+        "textLeft": "Brujas♪"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_050.exp.json",
+            "id": 101001,
+            "lipSynch": 0,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-7",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-6"
+          }
+        ],
+        "textRight": "[chara:101001:effect_emotion_surprise_0][se:7226_shock]...¡¿?!"
+      },
+      {
+        "bgm": "bgm03_story07",
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-8",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-7"
+          }
+        ],
+        "textRight": "Tú..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-9",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-8"
+          }
+        ],
+        "textLeft": "No he olvidado lo que ha estado en tu mente,@Momoko."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-10",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-9"
+          }
+        ],
+        "textRight": "Ugh, no hay fin a tu malicia.@Es un poco aterrador..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_011.exp.json",
+            "id": 101700,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-11",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-10"
+          }
+        ],
+        "textLeft": "*Risita*"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-12",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-11"
+          }
+        ],
+        "textRight": "*Suspira*"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 1,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-13",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-12"
+          }
+        ],
+        "textRight": "Para ser honesta, todavía estoy preocupada por@ello. No sé si debería decírselo..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-14",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-13"
+          }
+        ],
+        "textLeft": "Creo que deberías hacerlo."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-15",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-14"
+          }
+        ],
+        "textLeft": "Rena y Kaede merecen saberlo."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-16",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-15"
+          }
+        ],
+        "textRight": "Es fácil para ti decirlo."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-17",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-16"
+          }
+        ],
+        "textRight": "Sabes lo que me preocupa, así que deberías@entender por qué es difícil, ¿Verdad?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_051.exp.json",
+            "id": 101700,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-18",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-17"
+          }
+        ],
+        "textLeft": "¿Tienes miedo de cómo reaccionarán cuando@les cuentes tu secreto?"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-19",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-18"
+          }
+        ],
+        "textRight": "Sí..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 101700,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-20",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-19"
+          }
+        ],
+        "textLeft": "Dudo que alguna vez dejes de tener miedo @de eso."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-21",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-20"
+          }
+        ],
+        "textRight": "Entonces deja de decirme que debería hablarles@de eso..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 101700,
+            "motion": 200,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-22",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-21"
+          }
+        ],
+        "textLeft": "Aun así..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 101700,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-23",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-22"
+          }
+        ],
+        "textLeft": "Personalmente, creo que que te lo diga alguien@en quien confías es completamente diferente..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-24",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-23"
+          }
+        ],
+        "textLeft": "...que enterarse de otra forma..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 1,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-25",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-24"
+          }
+        ],
+        "textRight": "Ugh..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "motion": 100,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-26",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-25"
+          }
+        ],
+        "textLeft": "Realmente creo que sería mejor que se enteraran@por ti, Momoko."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101700,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-27",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-26"
+          }
+        ],
+        "textLeft": "Y lo que es más importante, deberías estar ahí@para ellas después de que se enteren, si no..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-28",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-27"
+          }
+        ],
+        "textRight": "Sí, pero..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101700,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-29",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-28"
+          }
+        ],
+        "textLeft": "No es propio de ti tener tan poca fe@en ti misma."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-30",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-29"
+          }
+        ],
+        "textRight": "Cielos..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "motion": 300,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-31",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-30"
+          }
+        ],
+        "textRight": "Tienes razón, esto no es propio de mí..."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_030.exp.json",
+            "id": 101001,
+            "lipSynch": 0,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-32",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-31"
+          }
+        ],
+        "textRight": "..."
+      },
+      {
+        "autoTurnFirst": 1.7,
+        "chara": [
+          {
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-33",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-32"
+          }
+        ],
+        "enableSkipAutoTurn": 1,
+        "textRight": "De acuerdo... ¡Está bien!"
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101001,
+            "motion": 200
+          }
+        ]
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-34",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-33"
+          }
+        ],
+        "enableSkipAutoTurn": 0,
+        "textRight": "Se los diré yo misma."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_010.exp.json",
+            "id": 101001,
+            "motion": 1,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-35",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-34"
+          }
+        ],
+        "textRight": "No me gustaría que lo vieran con sus@propios ojos y se enfadaran."
+      },
+      {
+        "chara": [
+          {
+            "cheek": 0,
+            "face": "mtn_ex_020.exp.json",
+            "id": 101001,
+            "voiceFull": "fullvoice/section_101602/vo_full_101602-5-36",
+            "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-35"
+          }
+        ],
+        "textRight": "Se los tengo que decir."
+      },
+      {
+        "autoTurnLast": 2.0,
+        "turnChangeIn": "fadeIn",
+        "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-36"
+      }
+    ]
+  },
+  "version": 3
+}
