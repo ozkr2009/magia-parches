@@ -1,0 +1,114 @@
+[
+	{
+		"id": 40284,
+		"default": true,
+		"name": "Tart Final ver.",
+		"desc": "Tart awakened as a true hero by changing everyone’s hope and karma into power. Along with the power of Light, her jet black gauntlet carries the power of Shadow. A \"Perfect Irregularity\" beyond the limits of a Magical Girl made by a fleeting miracle of a certain wish.",
+		"cv": "Yui Horie"
+	},
+	{
+		"id": 41214,
+		"default": true,
+		"name": " Isabeau Witch ver.",
+		"desc": "A former queen of France who sold the throne to England in the Hundred Years' War, and was called the \"traitor queen\". She does not transform into a Magical Girl, but uses unusual magic reminiscent of a Witch, and stands as the last enemy of Tart and the others.",
+		"cv": "Chiaki Takahashi"
+	},
+	{
+		"id": 40244,
+		"default": true,
+		"name": "Minou",
+		"desc": "A masked Magical Girl who fights in the shadows for the English in the Hundred Years' War. The youngest sister of three, her behavior is calm and calculated. She directs her battles from the sidelines. Her mother is a noblewoman, whom she loves more than anyone.",
+		"cv": "Rie Tanaka"
+	},
+	{
+		"id": 40264,
+		"default": true,
+		"name": " Elisa Celjska",
+		"desc": "This Magical Girl is a member of the Holy Order of the Dragon. She partnered with Tart to help crown the new French king. Even as a daughter of the Roman emperor, she is able to forge deep friendships with the people she sees worthy. Just like snakes, she hates Qube.",
+		"cv": "Miyuki Sawashiro"
+	},
+	{
+		"id": 40214,
+		"default": true,
+		"name": "Tart",
+		"desc": "A Magical Girl from medieval France known today as Jeanne d'Arc. Upon the death of her dear sister, Catherine, she resolved to save France from the brink of ruin. Simple, innocent, and trusting of others, she fondly refers to Qube (Kyubey) as \"Monsieur Angel\".",
+		"cv": "Yui Horie"
+	},
+	{
+		"id": 40224,
+		"default": true,
+		"name": "Liz Hawkwood",
+		"desc": "A cool-headed Magical Girl from medieval Italy who uses shadow magic. In the midst of the Hundred Years' War, she fights alongside Tart and the French army to save France. Though she would never speak of it, she is said to be descended from a famous soldier.",
+		"cv": "Ami Koshimizu"
+	},
+	{
+		"id": 40273,
+		"default": true,
+		"name": "Lapin",
+		"desc": "A masked Magical Girl who helped the English during the Hundred Years' War. The eldest of three sisters, but very childish. She considers people nothing more than \"playthings\" for her to break. She cares deeply for her mother and little sisters.",
+		"cv": "Shiori Izawa"
+	},
+	{
+		"id": 40253,
+		"default": true,
+		"name": "Corbeau",
+		"desc": "A masked Magical Girl who fights in the shadows for the English in the Hundred Years' War. The second sister of three, and adores her family. This love does not extend to her enemies though. For nothing excites her more than a strong opponent, it’s what she lives for.",
+		"cv": "Yuka Ootsubo"
+	},
+	{
+		"id": 10011,
+		"default": true,
+		"name": "Iroha Tamaki",
+		"desc": "Iroha came to Kamihama to investigate strange dreams she was having. Kind-hearted, she tends to worry too much about others. She's not up on the latest trends and isn't good with her phone. Usually reserved, she can be a fighter when it matters most.",
+		"cv": "Momo Asakura"
+	},
+	{
+		"id": 10022,
+		"default": true,
+		"name": "Yachiyo Nanami",
+		"desc": "A seasoned Magical Girl who has fought Witches for 7 years in Kamihama. Yachiyo is well informed about the city and Magical Girls in general. She keeps her distance from other Magical Girls while she compiles files on the Rumors of Kamihama City.",
+		"cv": "Sora Amamiya"
+	},
+	{
+		"id": 10032,
+		"default": true,
+		"name": "Tsuruno Yui",
+		"desc": "A reckless Magical Girl who's full of energy. Tsuruno loves her family, especially her grandfather and great-grandfather, who lead the Yuis to their former prosperity. She fights to become the strongest Magical Girl in order to restore the Yui name.",
+		"cv": "Shiina Natsukawa"
+	},
+	{
+		"id": 10094,
+		"default": true,
+		"name": "Rena Minami",
+		"desc": "A Magical Girl who has trouble opening up to others. Rena acts cocky to make up for her lack of self-confidence, which leads people who don't know her well to misunderstanding her. She's a picky eater and loves sweets. She is also a big fan of idols.",
+		"cv": "Kaori Ishihara"
+	},
+	{
+		"id": 10104,
+		"default": true,
+		"name": "Momoko Togame",
+		"desc": "A Magical Girl who is always looking out for rookies. The middle child, Momoko was influenced by her two brothers' boyishness, but she loves cute, girly things like stuffed animals. Because she loves cute things she's also a fan of female idols.",
+		"cv": "Mikako Komatsu"
+	},
+	{
+		"id": 10113,
+		"default": true,
+		"name": "Kaede Akino",
+		"desc": "A worrywart, Kaede is easily scared. She is also kind, caring, and ready to take risks for her friends. She loves animals, plants, and insects, and nature in general. She enjoys gardening, and though she's not good at them, she likes UFO Catchers.",
+		"cv": "Ayaka Oohashi"
+	},
+	{
+		"id": 10052,
+		"default": true,
+		"name": "Felicia Mitsuki",
+		"desc": "Felicia is a spirited Magical Girl, full of energy and determination, who hates Witches for taking the lives of her parents. She now works as a mercenary, hunting Witches all across Kamihama. Her tough talk hides a kind heart and a love of animals.",
+		"cv": "Ayane Sakura"
+	},
+	{
+		"id": 10042,
+		"default": true,
+		"name": "Sana Futaba",
+		"desc": "A pessimistic Magical Girl, Sana was rejected by her family and those around her, so she has hardly any self-confidence. However, she'll quietly stand by the people who need her, ready to help them when the time comes.",
+		"cv": "Yui Ogura"
+	}
+]
