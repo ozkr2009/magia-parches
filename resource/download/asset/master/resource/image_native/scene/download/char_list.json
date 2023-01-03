@@ -1,114 +1,100 @@
 [
-	{
-		"id": 40284,
-		"default": true,
-		"name": "Tart Final ver.",
-		"desc": "Tart awakened as a true hero by changing everyone’s hope and karma into power. Along with the power of Light, her jet black gauntlet carries the power of Shadow. A \"Perfect Irregularity\" beyond the limits of a Magical Girl made by a fleeting miracle of a certain wish.",
-		"cv": "Yui Horie"
-	},
-	{
-		"id": 41214,
-		"default": true,
-		"name": " Isabeau Witch ver.",
-		"desc": "A former queen of France who sold the throne to England in the Hundred Years' War, and was called the \"traitor queen\". She does not transform into a Magical Girl, but uses unusual magic reminiscent of a Witch, and stands as the last enemy of Tart and the others.",
-		"cv": "Chiaki Takahashi"
-	},
-	{
-		"id": 40244,
-		"default": true,
-		"name": "Minou",
-		"desc": "A masked Magical Girl who fights in the shadows for the English in the Hundred Years' War. The youngest sister of three, her behavior is calm and calculated. She directs her battles from the sidelines. Her mother is a noblewoman, whom she loves more than anyone.",
-		"cv": "Rie Tanaka"
-	},
-	{
-		"id": 40264,
-		"default": true,
-		"name": " Elisa Celjska",
-		"desc": "This Magical Girl is a member of the Holy Order of the Dragon. She partnered with Tart to help crown the new French king. Even as a daughter of the Roman emperor, she is able to forge deep friendships with the people she sees worthy. Just like snakes, she hates Qube.",
-		"cv": "Miyuki Sawashiro"
-	},
-	{
-		"id": 40214,
-		"default": true,
-		"name": "Tart",
-		"desc": "A Magical Girl from medieval France known today as Jeanne d'Arc. Upon the death of her dear sister, Catherine, she resolved to save France from the brink of ruin. Simple, innocent, and trusting of others, she fondly refers to Qube (Kyubey) as \"Monsieur Angel\".",
-		"cv": "Yui Horie"
-	},
-	{
-		"id": 40224,
-		"default": true,
-		"name": "Liz Hawkwood",
-		"desc": "A cool-headed Magical Girl from medieval Italy who uses shadow magic. In the midst of the Hundred Years' War, she fights alongside Tart and the French army to save France. Though she would never speak of it, she is said to be descended from a famous soldier.",
-		"cv": "Ami Koshimizu"
-	},
-	{
-		"id": 40273,
-		"default": true,
-		"name": "Lapin",
-		"desc": "A masked Magical Girl who helped the English during the Hundred Years' War. The eldest of three sisters, but very childish. She considers people nothing more than \"playthings\" for her to break. She cares deeply for her mother and little sisters.",
-		"cv": "Shiori Izawa"
-	},
-	{
-		"id": 40253,
-		"default": true,
-		"name": "Corbeau",
-		"desc": "A masked Magical Girl who fights in the shadows for the English in the Hundred Years' War. The second sister of three, and adores her family. This love does not extend to her enemies though. For nothing excites her more than a strong opponent, it’s what she lives for.",
-		"cv": "Yuka Ootsubo"
-	},
-	{
+    {
+        "id": 22034,
+        "default": true,
+        "name": "Homura Akemi ver. Haregi",
+        "desc": "Homura Akemi se transformó en una persona diferente al tener recuerdos de una linea temporal diferente. Pasea por santuario Hatsuyume ambientado en la cuidad de Kamihama y busca la salida del sueño de Madoka. Aunque está confundida por la situación tan diferente, se deseo de salvar a Madoka es inquebrantable.",
+        "cv": "Chiwa Saitou"
+    },
+    {
+        "id": 11254,
+        "default": true,
+        "name": "Shizuka Tokime ver. Primer Amanecer del Año",
+        "desc": "Una Chica Mágica que quiere liderar al Clan Tokime a un nuevo comienzo. Ella reza por la paz en la Tierra del Sol Naciente y por la paz para su familia en el auspicioso primer amanecer del año. Ella se ha enterado desde entonces que mucha combinaciones diferentes de ozouni para disfrutar, como mochi redondo o mochi cuadrado con pollo o medregal. Aunque na vez se mete bajo el kotatsu, ya no puede salir.",
+        "cv": "Shuu Uchida"
+    },
+    {
+        "id": 14014,
+        "default": true,
+        "name": "Iroha・Ui ver. Miko",
+        "desc": "Dos hermanas muy cercanas quienes están ayudando en el santuario durante el Año Nuevo con sus trajes de Miko. Ellas sirven al santuario como doncellas, apoyándose con todo desde guiar guiar a gente por los terrenos del santuario hasta realizando el Kagura. Tienen ansiedad de aprender la terminología del santuario o la posibilidad de toparse con sus compañeros de clase.",
+        "cv": "Momo Asakura & Manaka Iwami"
+    },
+    {
+        "id": 24004,
+        "default": true,
+        "name": "Sayaka Miki ver. Haregi",
+        "desc": "Una Chica Mágica que vive en Mitakihara. Su hermosa ropa brinda una protección suprema y lucha empuñando una pincel que se adapta a sus manos como una cuchilla. Detrás de sus golpes audaces y su victoria, parece tener gustarle alguien de su edad.",
+        "cv": "Eri Kitamura"
+    },
+    {
+        "id": 11174,
+        "default": true,
+        "name": "Mitama Yakumo ver. Haregi",
+        "desc": "Una Chica Mágica que trabaja duro y se la juega desde el primer dia del año. Le gusta mucho el kimono que recibió de Yachiyo, por lo que lo infundió con magia para usarlo en batalla. Con sus cartas como arma, ataca a cualquiera que no pueda jugar su juego correctamente.",
+        "cv": "Yui Horie"
+    },
+    {
+        "id": 21004,
+        "default": true,
+        "name": "Madoka Kaname ver. Haregi",
+        "desc": "Una Chica Mágica que va a la escuela en la Cuidad de Mitakihara. El poder de su deseo infundió su kimono, y ahora puede luchar mientras lo usa. Su arma ahora es un hagoita, bueno para batalla a corto y largo rango. Si te fijas en su hagoita veras a alguien que ya conoces...",
+        "cv": "悠木碧"
+    },
+    {
 		"id": 10011,
 		"default": true,
 		"name": "Iroha Tamaki",
-		"desc": "Iroha came to Kamihama to investigate strange dreams she was having. Kind-hearted, she tends to worry too much about others. She's not up on the latest trends and isn't good with her phone. Usually reserved, she can be a fighter when it matters most.",
+		"desc": "Iroha vino a Kamihama para investigar los extraños sueños que estaba teniendo. De buen corazón, tiende a preocuparse demasiado por otros. No está al tanto de las últimas tendencias y no es buena con su teléfono. Generalmente reservada, puede ser una luchadora cuando más importa.",
 		"cv": "Momo Asakura"
-	},
-	{
+	  },
+	  {
 		"id": 10022,
 		"default": true,
 		"name": "Yachiyo Nanami",
-		"desc": "A seasoned Magical Girl who has fought Witches for 7 years in Kamihama. Yachiyo is well informed about the city and Magical Girls in general. She keeps her distance from other Magical Girls while she compiles files on the Rumors of Kamihama City.",
+		"desc": "Una Chica Mágica veterana que ha luchado contra Brujas durante 7 años en Kamihama. Yachiyo está bien informada sobre la ciudad y Chicas Mágicas en general. Ella mantiene su distancia de otras Chicas Mágicas mientras compila archivos sobre los Rumores de la ciudad de Kamihama.",
 		"cv": "Sora Amamiya"
-	},
-	{
+	  },
+	  {
 		"id": 10032,
 		"default": true,
 		"name": "Tsuruno Yui",
-		"desc": "A reckless Magical Girl who's full of energy. Tsuruno loves her family, especially her grandfather and great-grandfather, who lead the Yuis to their former prosperity. She fights to become the strongest Magical Girl in order to restore the Yui name.",
+		"desc": "Una Chica Mágica imprudente y llena de energía. Tsuruno ama a su familia, especialmente a su abuelo y su bisabuelo, quien llevó a los Yuis a su antigua prosperidad. Ella pelea por ser la Chica Mágica más poderosa para restaurar el nombre Yui.",
 		"cv": "Shiina Natsukawa"
-	},
-	{
+	  },
+	  {
 		"id": 10094,
 		"default": true,
 		"name": "Rena Minami",
-		"desc": "A Magical Girl who has trouble opening up to others. Rena acts cocky to make up for her lack of self-confidence, which leads people who don't know her well to misunderstanding her. She's a picky eater and loves sweets. She is also a big fan of idols.",
+		"desc": "Una Chica Mágica que tiene problemas para abrirse a los demás. Rena actúa engreída para compensar su falta de confianza en sí misma, que causa que la gente que no la conoce la malinterprete. Ella es quisquillosa con la comida y le encantan los dulces. También es una gran fan de las idols.",
 		"cv": "Kaori Ishihara"
-	},
-	{
+	  },
+	  {
 		"id": 10104,
 		"default": true,
 		"name": "Momoko Togame",
-		"desc": "A Magical Girl who is always looking out for rookies. The middle child, Momoko was influenced by her two brothers' boyishness, but she loves cute, girly things like stuffed animals. Because she loves cute things she's also a fan of female idols.",
+		"desc": "Una Chica Mágica que siempre está cuidando de novatas. La hija del medio, Momoko as sido influenciada por la masculinidad de sus hermanos, pero le encantan las cosas femeninas como los animales de peluche. Y como le gustan las cosas lindas, también es fan de las idols femeninas.",
 		"cv": "Mikako Komatsu"
-	},
-	{
+	  },
+	  {
 		"id": 10113,
 		"default": true,
 		"name": "Kaede Akino",
-		"desc": "A worrywart, Kaede is easily scared. She is also kind, caring, and ready to take risks for her friends. She loves animals, plants, and insects, and nature in general. She enjoys gardening, and though she's not good at them, she likes UFO Catchers.",
+		"desc": "Una preocupona, Kaede se asusta fácilmente. Ella también es amable, cariñosa y lista para correr riesgos por sus amigas. Le encantan los animales, las plantas, insectos, y la naturaleza en general. Le gusta la jardinería, y aunque no es buena en esp, le gustan los UFO Catchers.",
 		"cv": "Ayaka Oohashi"
-	},
-	{
+	  },
+	  {
 		"id": 10052,
 		"default": true,
 		"name": "Felicia Mitsuki",
-		"desc": "Felicia is a spirited Magical Girl, full of energy and determination, who hates Witches for taking the lives of her parents. She now works as a mercenary, hunting Witches all across Kamihama. Her tough talk hides a kind heart and a love of animals.",
+		"desc": "Felicia es una Chica Mágica enérgica, llena de energía y determinación, que odia a las Brujas por tomas las vidas de sus padres. Ahora trabaja como mercenaria, cazando brujas por toda Kamihama. Su dura forma de hablar esconde su corazón amable y su amor por los animales.",
 		"cv": "Ayane Sakura"
-	},
-	{
+	  },
+	  {
 		"id": 10042,
 		"default": true,
 		"name": "Sana Futaba",
-		"desc": "A pessimistic Magical Girl, Sana was rejected by her family and those around her, so she has hardly any self-confidence. However, she'll quietly stand by the people who need her, ready to help them when the time comes.",
+		"desc": "Una Chica Mágica pesimista, Sana fue rechazada por su familia y aquellos a su alrededor, así que no tiene mucha autoestima. Aun así, ella apoyará silenciosamente a la gente que la necesita, lista para ayudar cuando llegue la hora.",
 		"cv": "Yui Ogura"
-	}
+	  }
 ]
