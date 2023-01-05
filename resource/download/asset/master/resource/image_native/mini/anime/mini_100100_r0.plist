@@ -4,7 +4,7 @@
 	<dict>
 		<key>frames</key>
 		<dict>
-			<key>100100_r_parts_b_img.png</key>
+			<key>100100r_parts_b_img.png</key>
 			<dict>
 				<key>width</key>
 				<integer>1</integer>
@@ -23,7 +23,7 @@
 				<key>offsetY</key>
 				<real>-3.5</real>
 			</dict>
-			<key>100100_r_parts_ef_hair00.png</key>
+			<key>100100r_parts_ef_hair00.png</key>
 			<dict>
 				<key>width</key>
 				<integer>78</integer>
@@ -42,7 +42,7 @@
 				<key>offsetY</key>
 				<real>-10</real>
 			</dict>
-			<key>100100_r_parts_ef_hair01.png</key>
+			<key>100100r_parts_ef_hair01.png</key>
 			<dict>
 				<key>width</key>
 				<integer>75</integer>
@@ -61,7 +61,7 @@
 				<key>offsetY</key>
 				<real>-10.5</real>
 			</dict>
-			<key>100100_r_parts_ef_hair02.png</key>
+			<key>100100r_parts_ef_hair02.png</key>
 			<dict>
 				<key>width</key>
 				<integer>84</integer>
@@ -80,7 +80,7 @@
 				<key>offsetY</key>
 				<real>-9.5</real>
 			</dict>
-			<key>100100_r_parts_ef_hair03.png</key>
+			<key>100100r_parts_ef_hair03.png</key>
 			<dict>
 				<key>width</key>
 				<integer>85</integer>
@@ -99,7 +99,7 @@
 				<key>offsetY</key>
 				<real>-9</real>
 			</dict>
-			<key>100100_r_parts_ef_hair04.png</key>
+			<key>100100r_parts_ef_hair04.png</key>
 			<dict>
 				<key>width</key>
 				<integer>87</integer>
@@ -118,7 +118,7 @@
 				<key>offsetY</key>
 				<real>-9</real>
 			</dict>
-			<key>100100_r_parts03_ex0.png</key>
+			<key>100100r_parts03_ex0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>102</integer>
@@ -137,7 +137,7 @@
 				<key>offsetY</key>
 				<real>11.5</real>
 			</dict>
-			<key>100100_r_parts13_ex0.png</key>
+			<key>100100r_parts13_ex0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>106</integer>
@@ -156,7 +156,7 @@
 				<key>offsetY</key>
 				<real>15</real>
 			</dict>
-			<key>100100_r_parts03_ex3.png</key>
+			<key>100100r_parts03_ex3.png</key>
 			<dict>
 				<key>width</key>
 				<integer>92</integer>
@@ -175,7 +175,7 @@
 				<key>offsetY</key>
 				<real>1.5</real>
 			</dict>
-			<key>100100_r_parts13_ex3.png</key>
+			<key>100100r_parts13_ex3.png</key>
 			<dict>
 				<key>width</key>
 				<integer>81</integer>
@@ -194,7 +194,7 @@
 				<key>offsetY</key>
 				<real>5</real>
 			</dict>
-			<key>100100_r_parts03_hair1.png</key>
+			<key>100100r_parts03_hair1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>31</integer>
@@ -213,7 +213,7 @@
 				<key>offsetY</key>
 				<real>-3.5</real>
 			</dict>
-			<key>100100_r_parts13_hair1.png</key>
+			<key>100100r_parts13_hair1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>28</integer>
@@ -232,7 +232,7 @@
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts23_hair1.png</key>
+			<key>100100r_parts23_hair1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>20</integer>
@@ -251,7 +251,7 @@
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts03_hair2.png</key>
+			<key>100100r_parts03_hair2.png</key>
 			<dict>
 				<key>width</key>
 				<integer>20</integer>
@@ -270,7 +270,7 @@
 				<key>offsetY</key>
 				<real>-4.5</real>
 			</dict>
-			<key>100100_r_parts13_hair2.png</key>
+			<key>100100r_parts13_hair2.png</key>
 			<dict>
 				<key>width</key>
 				<integer>23</integer>
@@ -289,7 +289,7 @@
 				<key>offsetY</key>
 				<real>2.5</real>
 			</dict>
-			<key>100100_r_parts03_ex1.png</key>
+			<key>100100r_parts03_ex1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>97</integer>
@@ -308,7 +308,7 @@
 				<key>offsetY</key>
 				<real>-42.5</real>
 			</dict>
-			<key>100100_r_parts13_ex1.png</key>
+			<key>100100r_parts13_ex1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>68</integer>
@@ -327,7 +327,7 @@
 				<key>offsetY</key>
 				<real>-39.5</real>
 			</dict>
-			<key>100100_r_parts99a.png</key>
+			<key>100100r_parts99a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>60</integer>
@@ -346,7 +346,7 @@
 				<key>offsetY</key>
 				<real>1.5</real>
 			</dict>
-			<key>100100_r_parts99b.png</key>
+			<key>100100r_parts99b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>24</integer>
@@ -365,7 +365,7 @@
 				<key>offsetY</key>
 				<real>1.5</real>
 			</dict>
-			<key>100100_r_parts99c.png</key>
+			<key>100100r_parts99c.png</key>
 			<dict>
 				<key>width</key>
 				<integer>26</integer>
@@ -384,7 +384,7 @@
 				<key>offsetY</key>
 				<real>1.5</real>
 			</dict>
-			<key>100100_r_parts00a.png</key>
+			<key>100100r_parts00a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -403,7 +403,7 @@
 				<key>offsetY</key>
 				<real>-5</real>
 			</dict>
-			<key>100100_r_parts00b.png</key>
+			<key>100100r_parts00b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -422,7 +422,7 @@
 				<key>offsetY</key>
 				<real>-0.5</real>
 			</dict>
-			<key>100100_r_parts00c.png</key>
+			<key>100100r_parts00c.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -441,7 +441,7 @@
 				<key>offsetY</key>
 				<real>-4.5</real>
 			</dict>
-			<key>100100_r_parts00d.png</key>
+			<key>100100r_parts00d.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -460,7 +460,7 @@
 				<key>offsetY</key>
 				<real>-0.5</real>
 			</dict>
-			<key>100100_r_parts20a.png</key>
+			<key>100100r_parts20a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -479,7 +479,7 @@
 				<key>offsetY</key>
 				<real>-5</real>
 			</dict>
-			<key>100100_r_parts20b.png</key>
+			<key>100100r_parts20b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -498,7 +498,7 @@
 				<key>offsetY</key>
 				<real>-5</real>
 			</dict>
-			<key>100100_r_parts01a_ex0.png</key>
+			<key>100100r_parts01a_ex0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>20</integer>
@@ -517,7 +517,7 @@
 				<key>offsetY</key>
 				<real>6</real>
 			</dict>
-			<key>100100_r_parts01a_ex1.png</key>
+			<key>100100r_parts01a_ex1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>22</integer>
@@ -536,7 +536,7 @@
 				<key>offsetY</key>
 				<real>7.5</real>
 			</dict>
-			<key>100100_r_parts01a.png</key>
+			<key>100100r_parts01a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>14</integer>
@@ -555,7 +555,7 @@
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
-			<key>100100_r_parts01b.png</key>
+			<key>100100r_parts01b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>15</integer>
@@ -574,7 +574,7 @@
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
-			<key>100100_r_parts21a.png</key>
+			<key>100100r_parts21a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>13</integer>
@@ -593,7 +593,7 @@
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
-			<key>100100_r_parts21b.png</key>
+			<key>100100r_parts21b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>14</integer>
@@ -612,7 +612,7 @@
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
-			<key>100100_r_parts02a.png</key>
+			<key>100100r_parts02a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -631,7 +631,7 @@
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02b.png</key>
+			<key>100100r_parts02b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -650,7 +650,7 @@
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts02c.png</key>
+			<key>100100r_parts02c.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -669,7 +669,7 @@
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02d.png</key>
+			<key>100100r_parts02d.png</key>
 			<dict>
 				<key>width</key>
 				<integer>14</integer>
@@ -688,7 +688,7 @@
 				<key>offsetY</key>
 				<real>-1.5</real>
 			</dict>
-			<key>100100_r_parts02f.png</key>
+			<key>100100r_parts02f.png</key>
 			<dict>
 				<key>width</key>
 				<integer>26</integer>
@@ -707,7 +707,7 @@
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts02g.png</key>
+			<key>100100r_parts02g.png</key>
 			<dict>
 				<key>width</key>
 				<integer>20</integer>
@@ -726,7 +726,7 @@
 				<key>offsetY</key>
 				<real>10.5</real>
 			</dict>
-			<key>100100_r_parts02h.png</key>
+			<key>100100r_parts02h.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -745,7 +745,7 @@
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02i.png</key>
+			<key>100100r_parts02i.png</key>
 			<dict>
 				<key>width</key>
 				<integer>15</integer>
@@ -764,7 +764,7 @@
 				<key>offsetY</key>
 				<real>-0.5</real>
 			</dict>
-			<key>100100_r_parts02j.png</key>
+			<key>100100r_parts02j.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -783,7 +783,7 @@
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02k.png</key>
+			<key>100100r_parts02k.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -802,7 +802,7 @@
 				<key>offsetY</key>
 				<real>-1.5</real>
 			</dict>
-			<key>100100_r_parts02m.png</key>
+			<key>100100r_parts02m.png</key>
 			<dict>
 				<key>width</key>
 				<integer>26</integer>
@@ -821,7 +821,7 @@
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts02n.png</key>
+			<key>100100r_parts02n.png</key>
 			<dict>
 				<key>width</key>
 				<integer>19</integer>
@@ -840,12 +840,12 @@
 				<key>offsetY</key>
 				<real>5.5</real>
 			</dict>
-			<key>100100_r_parts03a.png</key>
+			<key>100100r_parts03a.png</key>
 			<dict>
 				<key>width</key>
-				<integer>51</integer>
+				<integer>50</integer>
 				<key>height</key>
-				<integer>39</integer>
+				<integer>38</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
@@ -855,14 +855,14 @@
 				<key>y</key>
 				<integer>271</integer>
 				<key>offsetX</key>
-				<real>-14</real>
+				<real>-13.5</real>
 				<key>offsetY</key>
-				<real>-21</real>
+				<real>-20.5</real>
 			</dict>
-			<key>100100_r_parts03b.png</key>
+			<key>100100r_parts03b.png</key>
 			<dict>
 				<key>width</key>
-				<integer>50</integer>
+				<integer>48</integer>
 				<key>height</key>
 				<integer>33</integer>
 				<key>originalWidth</key>
@@ -874,16 +874,16 @@
 				<key>y</key>
 				<integer>444</integer>
 				<key>offsetX</key>
-				<real>-13.5</real>
+				<real>-12.5</real>
 				<key>offsetY</key>
-				<real>-24</real>
+				<real>-23</real>
 			</dict>
-			<key>100100_r_parts03c.png</key>
+			<key>100100r_parts03c.png</key>
 			<dict>
 				<key>width</key>
-				<integer>46</integer>
+				<integer>48</integer>
 				<key>height</key>
-				<integer>31</integer>
+				<integer>34</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
@@ -893,16 +893,16 @@
 				<key>y</key>
 				<integer>97</integer>
 				<key>offsetX</key>
-				<real>-13.5</real>
+				<real>-12.5</real>
 				<key>offsetY</key>
-				<real>-25</real>
+				<real>-24.5</real>
 			</dict>
-			<key>100100_r_parts03d.png</key>
+			<key>100100r_parts03d.png</key>
 			<dict>
 				<key>width</key>
-				<integer>46</integer>
+				<integer>49</integer>
 				<key>height</key>
-				<integer>33</integer>
+				<integer>32</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
@@ -912,16 +912,16 @@
 				<key>y</key>
 				<integer>409</integer>
 				<key>offsetX</key>
-				<real>-13.5</real>
+				<real>-13</real>
 				<key>offsetY</key>
-				<real>-26</real>
+				<real>-25.5</real>
 			</dict>
-			<key>100100_r_parts03e.png</key>
+			<key>100100r_parts03e.png</key>
 			<dict>
 				<key>width</key>
-				<integer>45</integer>
+				<integer>50</integer>
 				<key>height</key>
-				<integer>30</integer>
+				<integer>32</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
@@ -931,16 +931,16 @@
 				<key>y</key>
 				<integer>210</integer>
 				<key>offsetX</key>
-				<real>-12</real>
+				<real>-12.5</real>
 				<key>offsetY</key>
-				<real>-26.5</real>
+				<real>-24.5</real>
 			</dict>
-			<key>100100_r_parts03f.png</key>
+			<key>100100r_parts03f.png</key>
 			<dict>
 				<key>width</key>
-				<integer>51</integer>
+				<integer>50</integer>
 				<key>height</key>
-				<integer>39</integer>
+				<integer>38</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
@@ -950,14 +950,14 @@
 				<key>y</key>
 				<integer>368</integer>
 				<key>offsetX</key>
-				<real>-14</real>
+				<real>-13.5</real>
 				<key>offsetY</key>
-				<real>-21</real>
+				<real>-20.5</real>
 			</dict>
-			<key>100100_r_parts03g.png</key>
+			<key>100100r_parts03g.png</key>
 			<dict>
 				<key>width</key>
-				<integer>50</integer>
+				<integer>48</integer>
 				<key>height</key>
 				<integer>33</integer>
 				<key>originalWidth</key>
@@ -965,20 +965,20 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>419</integer>
+				<integer>231</integer>
 				<key>y</key>
-				<integer>130</integer>
+				<integer>311</integer>
 				<key>offsetX</key>
-				<real>-13.5</real>
+				<real>-12.5</real>
 				<key>offsetY</key>
-				<real>-24</real>
+				<real>-23</real>
 			</dict>
-			<key>100100_r_parts13a.png</key>
+			<key>100100r_parts13a.png</key>
 			<dict>
 				<key>width</key>
-				<integer>18</integer>
+				<integer>17</integer>
 				<key>height</key>
-				<integer>39</integer>
+				<integer>38</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
@@ -988,49 +988,49 @@
 				<key>y</key>
 				<integer>45</integer>
 				<key>offsetX</key>
-				<real>-28.5</real>
+				<real>-28</real>
 				<key>offsetY</key>
-				<real>-20</real>
+				<real>-20.5</real>
 			</dict>
-			<key>100100_r_parts13b.png</key>
+			<key>100100r_parts13b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>18</integer>
 				<key>height</key>
-				<integer>32</integer>
+				<integer>36</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>231</integer>
+				<integer>492</integer>
 				<key>y</key>
-				<integer>312</integer>
-				<key>offsetX</key>
-				<real>-29.5</real>
-				<key>offsetY</key>
-				<real>-23.5</real>
-			</dict>
-			<key>100100_r_parts13c.png</key>
-			<dict>
-				<key>width</key>
-				<integer>16</integer>
-				<key>height</key>
-				<integer>31</integer>
-				<key>originalWidth</key>
-				<integer>165</integer>
-				<key>originalHeight</key>
-				<integer>165</integer>
-				<key>x</key>
-				<integer>292</integer>
-				<key>y</key>
-				<integer>235</integer>
+				<integer>45</integer>
 				<key>offsetX</key>
 				<real>-28.5</real>
 				<key>offsetY</key>
-				<real>-24</real>
+				<real>-21.5</real>
 			</dict>
-			<key>100100_r_parts03h.png</key>
+			<key>100100r_parts13c.png</key>
+			<dict>
+				<key>width</key>
+				<integer>18</integer>
+				<key>height</key>
+				<integer>34</integer>
+				<key>originalWidth</key>
+				<integer>165</integer>
+				<key>originalHeight</key>
+				<integer>165</integer>
+				<key>x</key>
+				<integer>419</integer>
+				<key>y</key>
+				<integer>133</integer>
+				<key>offsetX</key>
+				<real>-28.5</real>
+				<key>offsetY</key>
+				<real>-24.5</real>
+			</dict>
+			<key>100100r_parts03h.png</key>
 			<dict>
 				<key>width</key>
 				<integer>50</integer>
@@ -1041,34 +1041,34 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>310</integer>
+				<integer>292</integer>
 				<key>y</key>
-				<integer>242</integer>
+				<integer>244</integer>
 				<key>offsetX</key>
-				<real>-13.5</real>
+				<real>-12.5</real>
 				<key>offsetY</key>
 				<real>-22</real>
 			</dict>
-			<key>100100_r_parts03i.png</key>
+			<key>100100r_parts03i.png</key>
 			<dict>
 				<key>width</key>
-				<integer>48</integer>
+				<integer>49</integer>
 				<key>height</key>
-				<integer>38</integer>
+				<integer>37</integer>
 				<key>originalWidth</key>
 				<integer>165</integer>
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>251</integer>
+				<integer>117</integer>
 				<key>y</key>
-				<integer>312</integer>
+				<integer>443</integer>
 				<key>offsetX</key>
-				<real>-14.5</real>
+				<real>-13</real>
 				<key>offsetY</key>
-				<real>-21.5</real>
+				<real>-21</real>
 			</dict>
-			<key>100100_r_parts03_hair0.png</key>
+			<key>100100r_parts03_hair0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>94</integer>
@@ -1079,15 +1079,15 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>157</integer>
+				<integer>362</integer>
 				<key>y</key>
-				<integer>409</integer>
+				<integer>184</integer>
 				<key>offsetX</key>
 				<real>-6.5</real>
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
-			<key>100100_r_parts13_hair0.png</key>
+			<key>100100r_parts13_hair0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>96</integer>
@@ -1098,15 +1098,15 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>301</integer>
+				<integer>291</integer>
 				<key>y</key>
-				<integer>283</integer>
+				<integer>285</integer>
 				<key>offsetX</key>
 				<real>-8.5</real>
 				<key>offsetY</key>
 				<real>-3</real>
 			</dict>
-			<key>100100_r_parts03.png</key>
+			<key>100100r_parts03.png</key>
 			<dict>
 				<key>width</key>
 				<integer>79</integer>
@@ -1117,15 +1117,15 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>419</integer>
+				<integer>389</integer>
 				<key>y</key>
-				<integer>165</integer>
+				<integer>275</integer>
 				<key>offsetX</key>
 				<real>-3</real>
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts13.png</key>
+			<key>100100r_parts13.png</key>
 			<dict>
 				<key>width</key>
 				<integer>80</integer>
@@ -1136,15 +1136,15 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>253</integer>
+				<integer>215</integer>
 				<key>y</key>
-				<integer>382</integer>
+				<integer>384</integer>
 				<key>offsetX</key>
 				<real>-3.5</real>
 				<key>offsetY</key>
 				<real>-2</real>
 			</dict>
-			<key>100100_r_parts23.png</key>
+			<key>100100r_parts23.png</key>
 			<dict>
 				<key>width</key>
 				<integer>102</integer>
@@ -1155,15 +1155,15 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>399</integer>
+				<integer>297</integer>
 				<key>y</key>
-				<integer>256</integer>
+				<integer>384</integer>
 				<key>offsetX</key>
 				<real>-7.5</real>
 				<key>offsetY</key>
 				<real>-2.5</real>
 			</dict>
-			<key>100100_r_parts04_ex1.png</key>
+			<key>100100r_parts04_ex1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>34</integer>
@@ -1174,15 +1174,15 @@
 				<key>originalHeight</key>
 				<integer>60</integer>
 				<key>x</key>
-				<integer>467</integer>
+				<integer>469</integer>
 				<key>y</key>
-				<integer>86</integer>
+				<integer>85</integer>
 				<key>offsetX</key>
 				<real>1</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>100100_r_parts14_ex1.png</key>
+			<key>100100r_parts14_ex1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>45</integer>
@@ -1193,15 +1193,15 @@
 				<key>originalHeight</key>
 				<integer>60</integer>
 				<key>x</key>
-				<integer>335</integer>
+				<integer>439</integer>
 				<key>y</key>
-				<integer>382</integer>
+				<integer>133</integer>
 				<key>offsetX</key>
 				<real>7.5</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>100100_r_parts04a.png</key>
+			<key>100100r_parts04a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>43</integer>
@@ -1212,15 +1212,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>335</integer>
+				<integer>168</integer>
 				<key>y</key>
-				<integer>420</integer>
+				<integer>408</integer>
 				<key>offsetX</key>
 				<real>3.5</real>
 				<key>offsetY</key>
 				<real>17</real>
 			</dict>
-			<key>100100_r_parts14a.png</key>
+			<key>100100r_parts14a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>40</integer>
@@ -1231,15 +1231,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>382</integer>
+				<integer>458</integer>
 				<key>y</key>
-				<integer>382</integer>
+				<integer>171</integer>
 				<key>offsetX</key>
 				<real>2</real>
 				<key>offsetY</key>
 				<real>16.5</real>
 			</dict>
-			<key>100100_r_parts24a.png</key>
+			<key>100100r_parts24a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>41</integer>
@@ -1250,15 +1250,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>424</integer>
+				<integer>168</integer>
 				<key>y</key>
-				<integer>368</integer>
+				<integer>460</integer>
 				<key>offsetX</key>
 				<real>2.5</real>
 				<key>offsetY</key>
 				<real>17.5</real>
 			</dict>
-			<key>100100_r_parts04b.png</key>
+			<key>100100r_parts04b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>43</integer>
@@ -1269,15 +1269,15 @@
 				<key>originalHeight</key>
 				<integer>105</integer>
 				<key>x</key>
-				<integer>253</integer>
+				<integer>215</integer>
 				<key>y</key>
-				<integer>471</integer>
+				<integer>346</integer>
 				<key>offsetX</key>
 				<real>2</real>
 				<key>offsetY</key>
 				<real>-16.5</real>
 			</dict>
-			<key>100100_r_parts14b.png</key>
+			<key>100100r_parts14b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>38</integer>
@@ -1288,15 +1288,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>298</integer>
+				<integer>458</integer>
 				<key>y</key>
-				<integer>472</integer>
+				<integer>224</integer>
 				<key>offsetX</key>
 				<real>4</real>
 				<key>offsetY</key>
 				<real>-15</real>
 			</dict>
-			<key>100100_r_parts24b.png</key>
+			<key>100100r_parts24b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>42</integer>
@@ -1307,15 +1307,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>338</integer>
+				<integer>211</integer>
 				<key>y</key>
-				<integer>472</integer>
+				<integer>473</integer>
 				<key>offsetX</key>
 				<real>2</real>
 				<key>offsetY</key>
 				<real>-16.5</real>
 			</dict>
-			<key>100100_r_parts04_ex0.png</key>
+			<key>100100r_parts04_ex0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>64</integer>
@@ -1326,15 +1326,15 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>382</integer>
+				<integer>401</integer>
 				<key>y</key>
-				<integer>435</integer>
+				<integer>366</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts14_ex0.png</key>
+			<key>100100r_parts14_ex0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>57</integer>
@@ -1345,15 +1345,15 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>448</integer>
+				<integer>401</integer>
 				<key>y</key>
-				<integer>419</integer>
+				<integer>406</integer>
 				<key>offsetX</key>
 				<real>1</real>
 				<key>offsetY</key>
 				<real>-1.5</real>
 			</dict>
-			<key>100100_r_parts24_ex0.png</key>
+			<key>100100r_parts24_ex0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>64</integer>
@@ -1364,15 +1364,15 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>504</integer>
+				<integer>401</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>447</integer>
 				<key>offsetX</key>
 				<real>-1.5</real>
 				<key>offsetY</key>
 				<real>-1.5</real>
 			</dict>
-			<key>100100_r_parts05a.png</key>
+			<key>100100r_parts05a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>25</integer>
@@ -1383,15 +1383,15 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>504</integer>
+				<integer>470</integer>
 				<key>y</key>
-				<integer>39</integer>
+				<integer>264</integer>
 				<key>offsetX</key>
 				<real>1</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>100100_r_parts05b.png</key>
+			<key>100100r_parts05b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>25</integer>
@@ -1402,15 +1402,15 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>119</integer>
+				<integer>470</integer>
 				<key>y</key>
-				<integer>444</integer>
+				<integer>328</integer>
 				<key>offsetX</key>
 				<real>1</real>
 				<key>offsetY</key>
 				<real>1.5</real>
 			</dict>
-			<key>100100_r_parts15a.png</key>
+			<key>100100r_parts15a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>26</integer>
@@ -1421,15 +1421,15 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>531</integer>
+				<integer>467</integer>
 				<key>y</key>
-				<integer>39</integer>
+				<integer>395</integer>
 				<key>offsetX</key>
 				<real>1.5</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>100100_r_parts15b.png</key>
+			<key>100100r_parts15b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>26</integer>
@@ -1440,7 +1440,7 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>570</integer>
+				<integer>512</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -1448,7 +1448,7 @@
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
-			<key>100100_r_parts25a.png</key>
+			<key>100100r_parts25a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>25</integer>
@@ -1459,7 +1459,7 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>598</integer>
+				<integer>540</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -1467,7 +1467,7 @@
 				<key>offsetY</key>
 				<real>0.5</real>
 			</dict>
-			<key>100100_r_parts25b.png</key>
+			<key>100100r_parts25b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>25</integer>
@@ -1478,58 +1478,20 @@
 				<key>originalHeight</key>
 				<integer>88</integer>
 				<key>x</key>
-				<integer>503</integer>
+				<integer>567</integer>
 				<key>y</key>
-				<integer>103</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>100100_r_parts07a.png</key>
+			<key>100100r_parts07a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>18</integer>
 				<key>height</key>
 				<integer>17</integer>
-				<key>originalWidth</key>
-				<integer>63</integer>
-				<key>originalHeight</key>
-				<integer>63</integer>
-				<key>x</key>
-				<integer>348</integer>
-				<key>y</key>
-				<integer>184</integer>
-				<key>offsetX</key>
-				<real>-0.5</real>
-				<key>offsetY</key>
-				<real>-5</real>
-			</dict>
-			<key>100100_r_parts07b.png</key>
-			<dict>
-				<key>width</key>
-				<integer>18</integer>
-				<key>height</key>
-				<integer>17</integer>
-				<key>originalWidth</key>
-				<integer>63</integer>
-				<key>originalHeight</key>
-				<integer>63</integer>
-				<key>x</key>
-				<integer>191</integer>
-				<key>y</key>
-				<integer>338</integer>
-				<key>offsetX</key>
-				<real>-0.5</real>
-				<key>offsetY</key>
-				<real>-5</real>
-			</dict>
-			<key>100100_r_parts17a.png</key>
-			<dict>
-				<key>width</key>
-				<integer>20</integer>
-				<key>height</key>
-				<integer>16</integer>
 				<key>originalWidth</key>
 				<integer>63</integer>
 				<key>originalHeight</key>
@@ -1539,11 +1501,30 @@
 				<key>y</key>
 				<integer>479</integer>
 				<key>offsetX</key>
-				<real>1.5</real>
+				<real>-0.5</real>
 				<key>offsetY</key>
-				<real>-9.5</real>
+				<real>-5</real>
 			</dict>
-			<key>100100_r_parts17b.png</key>
+			<key>100100r_parts07b.png</key>
+			<dict>
+				<key>width</key>
+				<integer>18</integer>
+				<key>height</key>
+				<integer>17</integer>
+				<key>originalWidth</key>
+				<integer>63</integer>
+				<key>originalHeight</key>
+				<integer>63</integer>
+				<key>x</key>
+				<integer>63</integer>
+				<key>y</key>
+				<integer>479</integer>
+				<key>offsetX</key>
+				<real>-0.5</real>
+				<key>offsetY</key>
+				<real>-5</real>
+			</dict>
+			<key>100100r_parts17a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>20</integer>
@@ -1554,7 +1535,7 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>65</integer>
+				<integer>83</integer>
 				<key>y</key>
 				<integer>479</integer>
 				<key>offsetX</key>
@@ -1562,7 +1543,26 @@
 				<key>offsetY</key>
 				<real>-9.5</real>
 			</dict>
-			<key>100100_r_parts27a.png</key>
+			<key>100100r_parts17b.png</key>
+			<dict>
+				<key>width</key>
+				<integer>20</integer>
+				<key>height</key>
+				<integer>16</integer>
+				<key>originalWidth</key>
+				<integer>63</integer>
+				<key>originalHeight</key>
+				<integer>63</integer>
+				<key>x</key>
+				<integer>512</integer>
+				<key>y</key>
+				<integer>66</integer>
+				<key>offsetX</key>
+				<real>1.5</real>
+				<key>offsetY</key>
+				<real>-9.5</real>
+			</dict>
+			<key>100100r_parts27a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -1573,7 +1573,7 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>22</integer>
+				<integer>83</integer>
 				<key>y</key>
 				<integer>497</integer>
 				<key>offsetX</key>
@@ -1581,7 +1581,7 @@
 				<key>offsetY</key>
 				<real>-9</real>
 			</dict>
-			<key>100100_r_parts27b.png</key>
+			<key>100100r_parts27b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -1592,15 +1592,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>41</integer>
+				<integer>419</integer>
 				<key>y</key>
-				<integer>497</integer>
+				<integer>169</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>-9</real>
 			</dict>
-			<key>100100_r_parts06a.png</key>
+			<key>100100r_parts06a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>18</integer>
@@ -1611,15 +1611,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>368</integer>
+				<integer>505</integer>
 				<key>y</key>
-				<integer>184</integer>
+				<integer>84</integer>
 				<key>offsetX</key>
 				<real>1.5</real>
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts06b.png</key>
+			<key>100100r_parts06b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>18</integer>
@@ -1630,15 +1630,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>388</integer>
+				<integer>594</integer>
 				<key>y</key>
-				<integer>184</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>1.5</real>
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts16a.png</key>
+			<key>100100r_parts16a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>18</integer>
@@ -1649,15 +1649,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>216</integer>
+				<integer>534</integer>
 				<key>y</key>
-				<integer>346</integer>
+				<integer>66</integer>
 				<key>offsetX</key>
 				<real>1.5</real>
 				<key>offsetY</key>
 				<real>4</real>
 			</dict>
-			<key>100100_r_parts16b.png</key>
+			<key>100100r_parts16b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>18</integer>
@@ -1668,7 +1668,7 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>625</integer>
+				<integer>614</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -1676,7 +1676,7 @@
 				<key>offsetY</key>
 				<real>4</real>
 			</dict>
-			<key>100100_r_parts26a.png</key>
+			<key>100100r_parts26a.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -1687,15 +1687,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>362</integer>
+				<integer>554</integer>
 				<key>y</key>
-				<integer>236</integer>
+				<integer>65</integer>
 				<key>offsetX</key>
 				<real>1</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>100100_r_parts26b.png</key>
+			<key>100100r_parts26b.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -1706,15 +1706,15 @@
 				<key>originalHeight</key>
 				<integer>100</integer>
 				<key>x</key>
-				<integer>530</integer>
+				<integer>634</integer>
 				<key>y</key>
-				<integer>103</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>100100_r_parts02a_ex.png</key>
+			<key>100100r_parts02a_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -1725,15 +1725,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>87</integer>
+				<integer>344</integer>
 				<key>y</key>
-				<integer>479</integer>
+				<integer>244</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02b_ex.png</key>
+			<key>100100r_parts02b_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -1744,15 +1744,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>471</integer>
+				<integer>260</integer>
 				<key>y</key>
-				<integer>122</integer>
+				<integer>346</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts02c_ex.png</key>
+			<key>100100r_parts02c_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -1763,15 +1763,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>236</integer>
+				<integer>105</integer>
 				<key>y</key>
-				<integer>352</integer>
+				<integer>482</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02d_ex.png</key>
+			<key>100100r_parts02d_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>14</integer>
@@ -1782,15 +1782,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>236</integer>
+				<integer>486</integer>
 				<key>y</key>
-				<integer>377</integer>
+				<integer>121</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>-1.5</real>
 			</dict>
-			<key>100100_r_parts02f_ex.png</key>
+			<key>100100r_parts02f_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>26</integer>
@@ -1801,15 +1801,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>559</integer>
+				<integer>573</integer>
 				<key>y</key>
-				<integer>66</integer>
+				<integer>64</integer>
 				<key>offsetX</key>
 				<real>0.5</real>
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts02h_ex.png</key>
+			<key>100100r_parts02h_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -1820,15 +1820,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>254</integer>
+				<integer>123</integer>
 				<key>y</key>
-				<integer>352</integer>
+				<integer>482</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02i_ex.png</key>
+			<key>100100r_parts02i_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>15</integer>
@@ -1839,15 +1839,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>381</integer>
+				<integer>142</integer>
 				<key>y</key>
-				<integer>236</integer>
+				<integer>482</integer>
 				<key>offsetX</key>
 				<real>-1</real>
 				<key>offsetY</key>
 				<real>-0.5</real>
 			</dict>
-			<key>100100_r_parts02j_ex.png</key>
+			<key>100100r_parts02j_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -1858,15 +1858,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>273</integer>
+				<integer>502</integer>
 				<key>y</key>
-				<integer>352</integer>
+				<integer>136</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>2</real>
 			</dict>
-			<key>100100_r_parts02k_ex.png</key>
+			<key>100100r_parts02k_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>16</integer>
@@ -1877,15 +1877,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>645</integer>
+				<integer>525</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>116</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>-1.5</real>
 			</dict>
-			<key>100100_r_parts02m_ex.png</key>
+			<key>100100r_parts02m_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>26</integer>
@@ -1896,15 +1896,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>549</integer>
+				<integer>653</integer>
 				<key>y</key>
-				<integer>103</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>0.5</real>
 				<key>offsetY</key>
 				<real>-1</real>
 			</dict>
-			<key>100100_r_parts02n_ex.png</key>
+			<key>100100r_parts02n_ex.png</key>
 			<dict>
 				<key>width</key>
 				<integer>19</integer>
@@ -1915,15 +1915,15 @@
 				<key>originalHeight</key>
 				<integer>63</integer>
 				<key>x</key>
-				<integer>398</integer>
+				<integer>543</integer>
 				<key>y</key>
-				<integer>236</integer>
+				<integer>116</integer>
 				<key>offsetX</key>
 				<real>1</real>
 				<key>offsetY</key>
 				<real>5</real>
 			</dict>
-			<key>100100_r_parts01b_ex0.png</key>
+			<key>100100r_parts01b_ex0.png</key>
 			<dict>
 				<key>width</key>
 				<integer>17</integer>
@@ -1934,15 +1934,15 @@
 				<key>originalHeight</key>
 				<integer>71</integer>
 				<key>x</key>
-				<integer>587</integer>
+				<integer>500</integer>
 				<key>y</key>
-				<integer>66</integer>
+				<integer>161</integer>
 				<key>offsetX</key>
 				<real>-1</real>
 				<key>offsetY</key>
 				<real>7.5</real>
 			</dict>
-			<key>100100_r_parts01b_ex1.png</key>
+			<key>100100r_parts01b_ex1.png</key>
 			<dict>
 				<key>width</key>
 				<integer>25</integer>
@@ -1953,15 +1953,15 @@
 				<key>originalHeight</key>
 				<integer>71</integer>
 				<key>x</key>
-				<integer>663</integer>
+				<integer>614</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>50</integer>
 				<key>offsetX</key>
 				<real>3</real>
 				<key>offsetY</key>
 				<real>8</real>
 			</dict>
-			<key>100100_r_parts03_hair3.png</key>
+			<key>100100r_parts03_hair3.png</key>
 			<dict>
 				<key>width</key>
 				<integer>86</integer>
@@ -1972,15 +1972,15 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>500</integer>
+				<integer>573</integer>
 				<key>y</key>
-				<integer>167</integer>
+				<integer>95</integer>
 				<key>offsetX</key>
 				<real>-1.5</real>
 				<key>offsetY</key>
 				<real>-23.5</real>
 			</dict>
-			<key>100100_r_parts03_ex2.png</key>
+			<key>100100r_parts03_ex2.png</key>
 			<dict>
 				<key>width</key>
 				<integer>42</integer>
@@ -1991,15 +1991,15 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>606</integer>
+				<integer>520</integer>
 				<key>y</key>
-				<integer>65</integer>
+				<integer>148</integer>
 				<key>offsetX</key>
 				<real>-34.5</real>
 				<key>offsetY</key>
 				<real>-22.5</real>
 			</dict>
-			<key>100100_r_parts13_ex2.png</key>
+			<key>100100r_parts13_ex2.png</key>
 			<dict>
 				<key>width</key>
 				<integer>77</integer>
@@ -2010,7 +2010,7 @@
 				<key>originalHeight</key>
 				<integer>165</integer>
 				<key>x</key>
-				<integer>690</integer>
+				<integer>681</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -2018,7 +2018,7 @@
 				<key>offsetY</key>
 				<real>-10</real>
 			</dict>
-			<key>100100_r_parts03_hair4.png</key>
+			<key>100100r_parts03_hair4.png</key>
 			<dict>
 				<key>width</key>
 				<integer>28</integer>
@@ -2029,15 +2029,15 @@
 				<key>originalHeight</key>
 				<integer>116</integer>
 				<key>x</key>
-				<integer>650</integer>
+				<integer>498</integer>
 				<key>y</key>
-				<integer>32</integer>
+				<integer>224</integer>
 				<key>offsetX</key>
 				<real>0.5</real>
 				<key>offsetY</key>
 				<real>1</real>
 			</dict>
-			<key>100100_r_parts13_hair4.png</key>
+			<key>100100r_parts13_hair4.png</key>
 			<dict>
 				<key>width</key>
 				<integer>31</integer>
@@ -2048,15 +2048,15 @@
 				<key>originalHeight</key>
 				<integer>116</integer>
 				<key>x</key>
-				<integer>588</integer>
+				<integer>564</integer>
 				<key>y</key>
-				<integer>123</integer>
+				<integer>159</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
 				<real>-0.5</real>
 			</dict>
-			<key>100100_r_parts04_ex2.png</key>
+			<key>100100r_parts04_ex2.png</key>
 			<dict>
 				<key>width</key>
 				<integer>99</integer>
@@ -2067,15 +2067,15 @@
 				<key>originalHeight</key>
 				<integer>160</integer>
 				<key>x</key>
-				<integer>621</integer>
+				<integer>597</integer>
 				<key>y</key>
-				<integer>123</integer>
+				<integer>159</integer>
 				<key>offsetX</key>
 				<real>-0.5</real>
 				<key>offsetY</key>
 				<real>-3.5</real>
 			</dict>
-			<key>100100_r_parts14_ex2.png</key>
+			<key>100100r_parts14_ex2.png</key>
 			<dict>
 				<key>width</key>
 				<integer>65</integer>
@@ -2086,15 +2086,15 @@
 				<key>originalHeight</key>
 				<integer>160</integer>
 				<key>x</key>
-				<integer>503</integer>
+				<integer>760</integer>
 				<key>y</key>
-				<integer>231</integer>
+				<integer>0</integer>
 				<key>offsetX</key>
 				<real>9.5</real>
 				<key>offsetY</key>
 				<real>6.5</real>
 			</dict>
-			<key>100100_r_parts14_ex3.png</key>
+			<key>100100r_parts14_ex3.png</key>
 			<dict>
 				<key>width</key>
 				<integer>59</integer>
@@ -2105,9 +2105,9 @@
 				<key>originalHeight</key>
 				<integer>160</integer>
 				<key>x</key>
-				<integer>769</integer>
+				<integer>497</integer>
 				<key>y</key>
-				<integer>0</integer>
+				<integer>308</integer>
 				<key>offsetX</key>
 				<real>2.5</real>
 				<key>offsetY</key>
