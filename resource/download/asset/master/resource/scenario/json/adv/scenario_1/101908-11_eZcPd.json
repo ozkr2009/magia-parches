@@ -33,7 +33,7 @@
         ],
         "nameLeft": "Yachiyo",
         "nameRight": "Iroha",
-        "textRight": "I can't see the bottom...",
+        "textRight": "No puedo ver el fondo...",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -46,7 +46,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-1"
           }
         ],
-        "textRight": "These stairs look like they've been swallowed@up by the darkness."
+        "textRight": "Estas escaleras se ven como si fueran absorbidas@por la oscuridad."
       },
       {
         "chara": [
@@ -58,7 +58,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-2"
           }
         ],
-        "textRight": "I don't feel too well."
+        "textRight": "No me siento muy bien."
       },
       {
         "chara": [
@@ -69,7 +69,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-3"
           }
         ],
-        "textLeft": "I don't think it's simply the gloomy@atmosphere."
+        "textLeft": "No creo que solo sea la atmósfera@sombría."
       },
       {
         "chara": [
@@ -79,7 +79,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-4"
           }
         ],
-        "textLeft": "The further we descend, the more I sense@strong impurities."
+        "textLeft": "Mientras más descendemos, siento más fuertes@las impurezas."
       },
       {
         "chara": [
@@ -94,7 +94,7 @@
           }
         ],
         "nameRight": "Kanagi",
-        "textRight": "Hm, maybe the Magius's pet, Eve, has@something to do with it?"
+        "textRight": "Hm, ¿tal vez la mascota de las Magius@, Eve, tiene algo que ver?"
       },
       {
         "autoTurnLast": 0.02,
@@ -134,7 +134,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-7"
           }
         ],
-        "textLeft": "What's wrong, mad dog? What happened to@all that fight you had in you?"
+        "textLeft": "¿Qué pasa, chihuahua? ¿Qué le pasó a toda@la energía que tenías?"
       },
       {
         "chara": [
@@ -146,7 +146,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-8"
           }
         ],
-        "textRight": "My chest feels really bad..."
+        "textRight": "Mi pecho se siente muy mal..."
       },
       {
         "chara": [
@@ -156,7 +156,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-9"
           }
         ],
-        "textRight": "I feel like I did when Mom and Dad got@killed."
+        "textRight": "Me siento como cuando mataron a Mamá y@a Papá."
       },
       {
         "chara": [
@@ -167,7 +167,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-10"
           }
         ],
-        "textRight": "It's weird, my heart's beatin' fast."
+        "textRight": "Es raro, mi corazón late muy rápido."
       },
       {
         "chara": [
@@ -182,7 +182,7 @@
           }
         ],
         "nameLeft": "Tsuruno",
-        "textLeft": "Don't worry too much about it, Felicia."
+        "textLeft": "No te preocupes mucho por eso, Felicia."
       },
       {
         "chara": [
@@ -192,7 +192,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-12"
           }
         ],
-        "textLeft": "Whatever's in the air isn't magic, and it's@not directly affecting our bodies."
+        "textLeft": "Lo que sea que esté en el aire, no es magia,@y no afecta directamente nuestros cuerpos."
       },
       {
         "chara": [
@@ -202,7 +202,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-13"
           }
         ],
-        "textLeft": "If our resolve wavers, we might just get@pulled down into the gloom."
+        "textLeft": "Si nuestro propósito flaquea, nos@arrastrarán directo al abismo."
       },
       {
         "chara": [
@@ -215,7 +215,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-14"
           }
         ],
-        "textLeft": "We've gotta keep our spirits up! C'mon!@Cheer up!"
+        "textLeft": "¡Debemos mantenernos animadas! ¡Vamos!@¡Anímense!"
       },
       {
         "chara": [
@@ -228,7 +228,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-15"
           }
         ],
-        "textLeft": "Yep, yep!"
+        "textLeft": "¡Sip, sip!"
       },
       {
         "autoTurnFirst": 2.0,
@@ -244,7 +244,7 @@
           }
         ],
         "enableSkipAutoTurn": 1,
-        "textRight": "Yeah, you're right. You're right!"
+        "textRight": "Si, tienes razón. ¡Tienes razón!"
       },
       {
         "chara": [
@@ -267,7 +267,7 @@
           }
         ],
         "enableSkipAutoTurn": 0,
-        "textRight": "Hmph!"
+        "textRight": "¡Hmph!"
       },
       {
         "chara": [
@@ -290,7 +290,7 @@
         ],
         "nameLeft": "Iroha",
         "nameRight": "Sana",
-        "textLeft": "Are you feeling okay, Sana?"
+        "textLeft": "¿Te sientes bien, Sana?"
       },
       {
         "chara": [
@@ -301,7 +301,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-19"
           }
         ],
-        "textRight": "Y-yes. I can manage."
+        "textRight": "S-sí. Puedo soportarlo."
       },
       {
         "chara": [
@@ -313,7 +313,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-20"
           }
         ],
-        "textRight": "But, are you sure this isn't a trap?"
+        "textRight": "Pero, ¿estás segura que no es una trampa?"
       },
       {
         "chara": [
@@ -324,7 +324,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-21"
           }
         ],
-        "textLeft": "Because there's so much impurity here?"
+        "textLeft": "¿Por qué hay muchas impurezas aquí?"
       },
       {
         "chara": [
@@ -335,7 +335,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-22"
           }
         ],
-        "textRight": "Yes..."
+        "textRight": "Si..."
       },
       {
         "chara": [
@@ -345,7 +345,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-23"
           }
         ],
-        "textRight": "The air keeps getting thicker with these@impurities the further we go down."
+        "textRight": "El aire sigue haciéndose más pesado con@estas impurezas entre más bajamos."
       },
       {
         "chara": [
@@ -355,7 +355,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-24"
           }
         ],
-        "textRight": "I'm not sure I believe that the three Magius@are down there."
+        "textRight": "No estoy segura que estas tres Magius estén@ahí abajo."
       },
       {
         "chara": [
@@ -366,7 +366,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-25"
           }
         ],
-        "textRight": "How could they be fine in this?"
+        "textRight": "¿Como podrían estar bien con eso?"
       },
       {
         "chara": [
@@ -379,7 +379,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-26"
           }
         ],
-        "textLeft": "They wanted to hide this place so badly that@they isolated it with magic."
+        "textLeft": "Querían esconder tanto este lugar que lo@aislaron con magia."
       },
       {
         "chara": [
@@ -389,7 +389,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-27"
           }
         ],
-        "textLeft": "I'm certain they're down here."
+        "textLeft": "Estoy segura de que están aquí abajo."
       },
       {
         "chara": [
@@ -400,7 +400,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-28"
           }
         ],
-        "textRight": "You're probably right."
+        "textRight": "Tal vez tienes razón."
       },
       {
         "chara": [
@@ -411,7 +411,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-29"
           }
         ],
-        "textLeft": "And besides, they might be testing us."
+        "textLeft": "Y además, tal vez nos están probando."
       },
       {
         "chara": [
@@ -421,7 +421,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-30"
           }
         ],
-        "textLeft": "If we give up here, that's the end for us."
+        "textLeft": "Si nos rendimos aquí, será el fin para nosotros."
       },
       {
         "chara": [
@@ -434,7 +434,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-31"
           }
         ],
-        "textLeft": "We can't give in to some impurities. We@have to stay strong."
+        "textLeft": "No nos podemos rendir por unas impurezas.@Debemos seguir fuertes."
       },
       {
         "chara": [
@@ -444,7 +444,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-32"
           }
         ],
-        "textLeft": "Otherwise, we can't stop their plans."
+        "textLeft": "De otra forma, no podremos detener sus planes."
       },
       {
         "chara": [
@@ -463,7 +463,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "That's true."
+        "textRight": "Eso es cierto."
       },
       {
         "chara": [
@@ -474,7 +474,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-34"
           }
         ],
-        "textRight": "We don't know what awaits us down there."
+        "textRight": "No sabemos que nos espera ahí abajo."
       },
       {
         "chara": [
@@ -484,7 +484,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-35"
           }
         ],
-        "textRight": "Mifuyu is preparing to destroy this entire@building."
+        "textRight": "Mifuyu se está preparando para destruir@todo este edificio."
       },
       {
         "chara": [
@@ -495,7 +495,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-36"
           }
         ],
-        "textRight": "We must withstand this until then."
+        "textRight": "Debemos soportarlo hasta entonces."
       },
       {
         "autoTurnLast": 0.01,
@@ -511,7 +511,7 @@
         "turnChangeOut": "fadeOut"
       },
       {
-        "narration": "They're here. They're here...",
+        "narration": "Están aquí. Están aquí...",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-38"
       },
       {
@@ -547,7 +547,7 @@
         ],
         "nameLeft": "Tsuruno",
         "nameRight": "Sana",
-        "textLeft": "Who's here, Sana?",
+        "textLeft": "¿Quién está aquí, Sana?",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -561,7 +561,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-39"
           }
         ],
-        "textRight": "Huh? I didn't say anything."
+        "textRight": "¿Huh? No he dicho nada."
       },
       {
         "chara": [
@@ -574,7 +574,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-40"
           }
         ],
-        "textLeft": "Huh?"
+        "textLeft": "¿Huh?"
       },
       {
         "chara": [
@@ -586,7 +586,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-41"
           }
         ],
-        "textLeft": "I thought that was your voice. Am I hearing@things?"
+        "textLeft": "Pensé que escuché tu voz. ¿Estoy escuchando@cosas?"
       },
       {
         "autoTurnLast": 0.01,
@@ -601,7 +601,7 @@
         "turnChangeOut": "fadeOut"
       },
       {
-        "narration": "What weak lil' losers, whinin' about feelin'@bad in such a small amount of impurities.",
+        "narration": "Que perdedoras tan inútiles, se sienten tan@mal con una poca cantidad de impurezas.",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-43"
       },
       {
@@ -636,7 +636,7 @@
         ],
         "nameLeft": "Kanagi",
         "nameRight": "Felicia",
-        "textRight": "Hey! Who just made fun of me?!",
+        "textRight": "¡Hey! ¡¿Quién se está burlando de mí?!",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -648,7 +648,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-44"
           }
         ],
-        "textLeft": "That was your own voice, mad dog."
+        "textLeft": "Fue tu propia voz, chihuahua."
       },
       {
         "chara": [
@@ -659,7 +659,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-45"
           }
         ],
-        "textRight": "Why the hell would I make fun of myself?"
+        "textRight": "¿Por qué diablos me burlaría de mí misma?"
       },
       {
         "chara": [
@@ -672,7 +672,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-46"
           }
         ],
-        "textLeft": "Don't ask me."
+        "textLeft": "No me preguntes a mí."
       },
       {
         "chara": [
@@ -687,7 +687,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "It looks like we're not alone in here."
+        "textRight": "Parece que no estamos solas."
       },
       {
         "autoTurnLast": 0.01,
@@ -702,28 +702,28 @@
         "turnChangeOut": "fadeOut"
       },
       {
-        "narration": "Nah ha ha!@Everyone's so confused!@Aren't they pathetic, Master?",
+        "narration": "¡Nah ha ha!@¡Todas están tan confundidas!@¿No son patéticas, Maestra?",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-49"
       },
       {
         "nameNarration": "Yachiyo",
-        "narration": "Yes, I'm ashamed just@thinking they are our allies.",
+        "narration": "Si, me avergüenzo de@solo pensar que son nuestras aliadas.",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-50",
         "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-49"
       },
       {
-        "narration": "Right, Iroha?",
+        "narration": "¿Verdad, Iroha?",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-51",
         "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-50"
       },
       {
         "nameNarration": "Iroha",
-        "narration": "Yes. We're better than that.",
+        "narration": "Si. Somos mejores que eso.",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-52",
         "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-51"
       },
       {
-        "narration": "Everyone's forgotten who they really are.",
+        "narration": "Todas han olvidado lo que realmente son.",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-53",
         "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-52"
       },
@@ -759,7 +759,7 @@
           }
         ],
         "nameLeft": "Iroha",
-        "textLeft": "There's no doubt, Yachiyo...",
+        "textLeft": "No hay duda, Yachiyo...",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -771,7 +771,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-54"
           }
         ],
-        "textRight": "They really have no shame."
+        "textRight": "Realmente no tienen vergüenza"
       },
       {
         "autoTurnLast": 0.01,
@@ -786,18 +786,18 @@
         "turnChangeOut": "fadeOut"
       },
       {
-        "narration": "Can I suggest something to you guys,@as your leader?",
+        "narration": "¿Puedo sugerirles algo, como su líder?",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-56"
       },
       {
         "nameNarration": "Kanagi?",
-        "narration": "Yes. We will follow your orders, Iroha.",
+        "narration": "Si. Seguiremos tus ordenes, Iroha.",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-57",
         "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-56"
       },
       {
         "nameNarration": "Iroha?",
-        "narration": "Let's teach them who they really are.",
+        "narration": "Enseñémosles lo que realmente son.",
         "voiceFull": "fullvoice/section_101965/vo_full_101965-1-58",
         "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-57"
       },
@@ -831,7 +831,7 @@
             "voiceFull": "fullvoice/section_101965/vo_full_101965-1-59"
           }
         ],
-        "textRight": "What about us, Leader?",
+        "textRight": "¿Y ahora nosotras que, líder?",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -852,11 +852,11 @@
         "select": [
           {
             "group": "group_2",
-            "textSelect": "Mogyuuu!@(Let's listen to the copies.)"
+            "textSelect": "¡Mogyuuu!@(Escuchemos a las copias.)"
           },
           {
             "group": "group_3",
-            "textSelect": "Mokyu, mokyu.@(We don't need to listen to the copies.)"
+            "textSelect": "Mokyu, mokyu.@(No necesitamos escuchar a las copias.)"
           }
         ]
       }
@@ -871,7 +871,7 @@
           }
         ],
         "nameRight": "userName",
-        "textRight": "Mogyuuu!"
+        "textRight": "¡Mogyuuu!"
       },
       {
         "autoTurnLast": 0.1,
@@ -885,7 +885,7 @@
             "voiceFull": "fullvoice/section_101965/vo_full_101965-1-61"
           }
         ],
-        "textLeft": "Yeah, maybe we should hear them out."
+        "textLeft": "Si, tal vez deberíamos escucharlas."
       },
       {
         "chara": [
@@ -895,7 +895,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-61"
           }
         ],
-        "textLeft": "Although I'm sure nothing they say will@change our minds."
+        "textLeft": "Aunque estoy segura de que nada de lo que@dirán cambiará nuestras mentes."
       },
       {
         "changeGroup": "group_4",
@@ -926,7 +926,7 @@
             "voiceFull": "fullvoice/section_101965/vo_full_101965-1-64"
           }
         ],
-        "textLeft": "Yeah, we don't have to listen to these@copies."
+        "textLeft": "Si, no necesitamos escuchar a esas@copias."
       },
       {
         "chara": [
@@ -936,7 +936,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-64"
           }
         ],
-        "textLeft": "Nothing they say can change our minds."
+        "textLeft": "Nada de lo que digan cambiará nuestras@mentes."
       },
       {
         "changeGroup": "group_4",
@@ -956,7 +956,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "You're right."
+        "textRight": "Tienes razón."
       },
       {
         "chara": [
@@ -966,7 +966,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-66"
           }
         ],
-        "textRight": "This cheap trick won't work on us."
+        "textRight": "Este truco barato no funcionara con@nosotras."
       },
       {
         "chara": [
@@ -977,7 +977,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-67"
           }
         ],
-        "textRight": "My resolve was set before I even came here."
+        "textRight": "Mi propósito era claro desde antes de venir@aquí."
       },
       {
         "chara": [
@@ -988,7 +988,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-68"
           }
         ],
-        "textLeft": "Me too."
+        "textLeft": "Yo también."
       },
       {
         "chara": [
@@ -999,7 +999,7 @@
             "voiceFullStop": "fullvoice/section_101965/vo_full_101965-1-69"
           }
         ],
-        "textLeft": "So let's eliminate these corrupt copies."
+        "textLeft": "Entonces eliminemos estas copias corruptas."
       },
       {
         "autoTurnLast": 2.0,

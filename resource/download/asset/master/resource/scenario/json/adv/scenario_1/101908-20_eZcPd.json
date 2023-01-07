@@ -17,7 +17,7 @@
       {
         "bgm": "bgm03_story04",
         "nameNarration": "Iroha",
-        "narration": "― Iroha ―@What's happening?",
+        "narration": "― Iroha ―@¿Qué está pasando?",
         "narrationAnchor": "bottom",
         "narrationCoverOpacity": 110.0,
         "narrationEffect": "in",
@@ -28,19 +28,19 @@
         "voiceFull": "fullvoice/section_101969/vo_full_101969-2-1"
       },
       {
-        "narration": "― Iroha ―@Is Eve absorbing Touka's impurities?!",
+        "narration": "― Iroha ―@¡¿Eve está absorbiendo las impurezas de Touka?!",
         "voiceFull": "fullvoice/section_101969/vo_full_101969-2-2",
         "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-1"
       },
       {
         "nameNarration": "Yachiyo",
-        "narration": "― Yachiyo ―@Could it be...@Eve was causing the Doppels?",
+        "narration": "― Yachiyo ―@Puede ser que...@¿Eve era la causa de las Doppels?",
         "voiceFull": "fullvoice/section_101969/vo_full_101969-2-3",
         "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-2"
       },
       {
         "nameNarration": "Touka",
-        "narration": "― Touka ―@Time to be quiet, now.",
+        "narration": "― Touka ―@Hora de que hagan silencio, ahora.",
         "voiceFull": "fullvoice/section_101969/vo_full_101969-2-4",
         "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-3"
       },
@@ -68,7 +68,7 @@
         "bgEffect": "shakeLarge",
         "flashEffect": "flashWhite2",
         "nameNarration": "Iroha",
-        "narration": "Ungh... Aaaaaaugh!",
+        "narration": "Ungh... ¡Aaaaaaugh!",
         "surround": "1007A05",
         "voiceFull": "fullvoice/section_101969/vo_full_101969-2-5"
       },
@@ -118,7 +118,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-6"
           }
         ],
-        "textLeft": "Okay, everyone! Gather 'round!"
+        "textLeft": "¡Ok, todas! ¡Reúnanse!"
       },
       {
         "chara": [
@@ -129,7 +129,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-7"
           }
         ],
-        "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1007A01]Hah!"
+        "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1007A01]¡Hah!"
       },
       {
         "chara": [
@@ -142,7 +142,7 @@
           }
         ],
         "textBg": "shout",
-        "textRight": "[flashEffect:flashRed2][surround:2500A03][bgEffect:shakeLarge][chara:100100:effect_shake]Ugh!"
+        "textRight": "[flashEffect:flashRed2][surround:2500A03][bgEffect:shakeLarge][chara:100100:effect_shake]¡Ugh!"
       },
       {
         "chara": [
@@ -157,7 +157,7 @@
           }
         ],
         "nameLeft": "Yachiyo",
-        "textLeft": "Iroha, are you okay?!"
+        "textLeft": "Iroha, ¡¿Estás bien?!"
       },
       {
         "chara": [
@@ -169,7 +169,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-10"
           }
         ],
-        "textRight": "Y-yes..."
+        "textRight": "S-si..."
       },
       {
         "chara": [
@@ -192,7 +192,7 @@
         ],
         "nameLeft": "Touka",
         "nameRight": "Nemu",
-        "textLeft": "You couldn't even get close to Eve, could @you?"
+        "textLeft": "Ni siquiera pudiste acercarte a Eve,@¿Verdad?"
       },
       {
         "chara": [
@@ -205,7 +205,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-12"
           }
         ],
-        "textRight": "You're like a new Feather recruit, so naive."
+        "textRight": "Eres como una Pluma recién reclutada,@tan inocente."
       },
       {
         "chara": [
@@ -228,7 +228,7 @@
         ],
         "nameLeft": "Felicia",
         "nameRight": "Sana",
-        "textRight": "*Gasp* I'm out of breath just from moving@a little..."
+        "textRight": "*Susto* Me quedo sin aire solo por moverme@un poco..."
       },
       {
         "chara": [
@@ -241,7 +241,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-14"
           }
         ],
-        "textLeft": "We gotta fight back!"
+        "textLeft": "¡Tenemos que pelear!"
       },
       {
         "autoTurnLast": 1.0,
@@ -256,7 +256,7 @@
         "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-15"
       },
       {
-        "textLeft": "Ugh, why can't I even stand?",
+        "textLeft": "Ugh, ¿Por qué no me puedo parar?",
         "voiceFull": "fullvoice/section_101969/vo_full_101969-2-16"
       },
       {
@@ -280,7 +280,7 @@
         ],
         "nameLeft": "Tsuruno",
         "nameRight": "Kanagi",
-        "textLeft": "We can't let these impurities beat us."
+        "textLeft": "No podemos dejar que esas impurezas nos@detengan."
       },
       {
         "chara": [
@@ -290,7 +290,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-17"
           }
         ],
-        "textLeft": "We're so close to stopping the Magius."
+        "textLeft": "Estamos tan cerca de detener a las Magius."
       },
       {
         "chara": [
@@ -301,7 +301,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-18"
           }
         ],
-        "textRight": "An environment that's advantageous for the@enemy... This was to be expected..."
+        "textRight": "Un ambiente que es ventajoso para el@enemigo... Esto era de esperarse..."
       },
       {
         "chara": [
@@ -313,7 +313,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-19"
           }
         ],
-        "textRight": "[chara:101600:lipSynch_1][chara:101600:voiceFull_fullvoice/section_101969/vo_full_101969-2-20]Are you going to kill us?"
+        "textRight": "[chara:101600:lipSynch_1][chara:101600:voiceFull_fullvoice/section_101969/vo_full_101969-2-20]¿Van a matarnos?"
       },
       {
         "chara": [
@@ -332,7 +332,7 @@
           }
         ],
         "nameLeft": "Alina",
-        "textLeft": "Like I said, I have no intention of killing@you."
+        "textLeft": "Como dije, no tengo intenciones de matarlas."
       },
       {
         "chara": [
@@ -344,7 +344,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-21"
           }
         ],
-        "textLeft": "Well, I guess I wouldn't mind killing you..."
+        "textLeft": "Bueno, supongo que no me importaría matarlas..."
       },
       {
         "chara": [
@@ -355,7 +355,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-22"
           }
         ],
-        "textLeft": "But it's almost time for Eve to hatch.@Let's watch this special momento together."
+        "textLeft": "Pero ya casi es hora de que eclosione Eve.@Observemos este momento especial juntas."
       },
       {
         "chara": [
@@ -367,7 +367,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-23"
           }
         ],
-        "textLeft": "I'll do you a little favor and just watch@you gasping in pain."
+        "textLeft": "Les haré un pequeño favor y solo observaré@como se quejan de dolor."
       },
       {
         "chara": [
@@ -382,7 +382,7 @@
           }
         ],
         "nameRight": "Touka",
-        "textRight": "That's right, we've come this far!"
+        "textRight": "¡Es cierto, hemos llegado tan lejos!"
       },
       {
         "chara": [
@@ -394,7 +394,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-25"
           }
         ],
-        "textRight": "Eve has grown, and Walpurgisnacht will@soon arrive."
+        "textRight": "Eve ha crecido, y pronto llegará@Walpurgisnacht."
       },
       {
         "chara": [
@@ -407,7 +407,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-26"
           }
         ],
-        "textRight": "Let's enjoy some tea until Eve hatches,@shall we?"
+        "textRight": "¿Por qué no disfrutamos un poco de té@hasta que eclosione Eve?"
       },
       {
         "autoTurnLast": 0.02,
@@ -433,7 +433,7 @@
         ],
         "nameLeft": "Touka",
         "nameRight": "Yachiyo",
-        "textRight": "Don't be stupid. I have nothing to say to@you."
+        "textRight": "No seas estúpida. No tengo nada que decir."
       },
       {
         "chara": [
@@ -446,7 +446,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-28"
           }
         ],
-        "textLeft": "Aw, don't be like that."
+        "textLeft": "Aw, no seas así."
       },
       {
         "chara": [
@@ -456,7 +456,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-29"
           }
         ],
-        "textLeft": "It'll take some time before Mifuyu destroys@Fendt Hope, after all."
+        "textLeft": "Después de todo, tomará algo de tiempo para@que Mifuyu destruya Fendt Hope."
       },
       {
         "chara": [
@@ -471,7 +471,7 @@
           }
         ],
         "nameRight": "Iroha",
-        "textRight": "What?"
+        "textRight": "¿Qué?"
       },
       {
         "chara": [
@@ -484,7 +484,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-31"
           }
         ],
-        "textRight": "You mean, you don't care if your headquarters@is destroyed?"
+        "textRight": "Quieres decir, ¿No les importa si su base es@destruida?"
       },
       {
         "chara": [
@@ -499,7 +499,7 @@
           }
         ],
         "nameLeft": "Nemu",
-        "textLeft": "To execute our plans, we have to get Eve@out of the building."
+        "textLeft": "Para ejecutar nuestros planes, necesitamos@sacar a Eve del edificio."
       },
       {
         "chara": [
@@ -512,7 +512,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-33"
           }
         ],
-        "textRight": "You were making us fight on purpose?!"
+        "textRight": "¡¿Nos hicieron pelear a propósito?!"
       },
       {
         "chara": [
@@ -527,7 +527,7 @@
           }
         ],
         "nameRight": "Alina",
-        "textRight": "We don't want Mifuyu, the flute sisters,@and the Feathers to interrupt us later."
+        "textRight": "No queremos que Mifuyu, las hermanas flauta@o las Plumas nos interrumpan luego."
       },
       {
         "chara": [
@@ -540,7 +540,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-35"
           }
         ],
-        "textRight": "It would be molto bene if everyone tired@themselves out by fighting."
+        "textRight": "Sería molto bene si todas se cansaran@por estar peleando."
       },
       {
         "chara": [
@@ -550,7 +550,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-36"
           }
         ],
-        "textRight": "So we kept you busy with Soul Gems and@the Uwasa."
+        "textRight": "Así que las mantuvimos ocupadas con las@Soul Gems y el Uwasa."
       },
       {
         "chara": [
@@ -563,7 +563,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-37"
           }
         ],
-        "textRight": "It's unfortunate that Mifuyu's body will be@harmed, though."
+        "textRight": "Aunque es desafortunado que el cuerpo de@Mifuyu será lastimado."
       },
       {
         "chara": [
@@ -574,7 +574,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-38"
           }
         ],
-        "textLeft": "I must say, I was surprised when the@[textBlue:Eternal Sakura Rumor] was found."
+        "textLeft": "Debo decir, me sorprendió cuando el@[textBlue:Rumor del Sakura Eterno] fue encontrado."
       },
       {
         "chara": [
@@ -584,7 +584,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-39"
           }
         ],
-        "textLeft": "But once we summoned Walpurgisnacht, @we had you in checkmate."
+        "textLeft": "Pero cuando invocamos a Walpurgisnacht,@les hicimos jaque mate."
       },
       {
         "autoTurnLast": 0.02,
@@ -612,7 +612,7 @@
         ],
         "enableSkipAutoTurn": 1,
         "nameLeft": "Touka",
-        "textLeft": "That's right! We win!"
+        "textLeft": "¡Así es! ¡Ganamos!"
       },
       {
         "chara": [
@@ -635,7 +635,7 @@
           }
         ],
         "enableSkipAutoTurn": 0,
-        "textLeft": "So let's kill some time, shall we?"
+        "textLeft": "Entonces matemos el tiempo, ¿ok?"
       },
       {
         "chara": [
@@ -646,7 +646,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-42"
           }
         ],
-        "textLeft": "I'll tell you anything."
+        "textLeft": "Les contaré todo."
       },
       {
         "chara": [
@@ -657,7 +657,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-43"
           }
         ],
-        "textLeft": "As a reward for getting this far, I'll tell@you things even Mifuyu doesn't know."
+        "textLeft": "Como regalo por llegar tan lejos, les diré@cosas que incluso Mifuyu no conoce."
       },
       {
         "chara": [
@@ -669,7 +669,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-44"
           }
         ],
-        "textLeft": "*Giggle*"
+        "textLeft": "*Risita*"
       },
       {
         "chara": [
@@ -684,7 +684,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "Things that even Mifuyu doesn't know?"
+        "textRight": "¿Cosas que incluso Mifuyu no conoce?"
       },
       {
         "chara": [
@@ -695,7 +695,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-46"
           }
         ],
-        "textLeft": "Yeah, like Kyubey's real goal, and our real@intentions."
+        "textLeft": "Si, como la verdadera meta de Kyubey, y@nuestras verdaderas intenciones."
       },
       {
         "chara": [
@@ -707,7 +707,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-47"
           }
         ],
-        "textLeft": "You want to know, don't you?"
+        "textLeft": "Quieren saberlo, ¿no?"
       },
       {
         "autoTurnLast": 0.2,
@@ -749,7 +749,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-49"
           }
         ],
-        "textCenter": "(We've come this far, but are powerless.)",
+        "textCenter": "(Hemos llegado tan lejos, pero somos impotentes.)",
         "turnEffect": "thinking"
       },
       {
@@ -761,7 +761,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-50"
           }
         ],
-        "textCenter": "(I wanted to stop Touka and Nemu...)"
+        "textCenter": "(Quería detener a Touka y Nemu...)"
       },
       {
         "chara": [
@@ -772,7 +772,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-51"
           }
         ],
-        "textCenter": "(And restore their memories...)"
+        "textCenter": "(Y restaurar sus memorias...)"
       },
       {
         "chara": [
@@ -784,7 +784,7 @@
             "voiceFullStop": "fullvoice/section_101969/vo_full_101969-2-52"
           }
         ],
-        "textCenter": "(But we can't even stop them.)"
+        "textCenter": "(Pero ni siquiera podemos detenerlas.)"
       },
       {
         "autoTurnLast": 2.0,
