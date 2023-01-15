@@ -1,46 +1,74 @@
 [
     {
-        "id": 22034,
-        "default": true,
-        "name": "Homura Akemi ver. Haregi",
-        "desc": "Homura Akemi se transformó en una persona diferente al tener recuerdos de una linea temporal diferente. Pasea por santuario Hatsuyume ambientado en la cuidad de Kamihama y busca la salida del sueño de Madoka. Aunque está confundida por la situación tan diferente, se deseo de salvar a Madoka es inquebrantable.",
-        "cv": "Chiwa Saitou"
-    },
-    {
-        "id": 11254,
-        "default": true,
-        "name": "Shizuka Tokime ver. Primer Amanecer del Año",
-        "desc": "Una Chica Mágica que quiere liderar al Clan Tokime a un nuevo comienzo. Ella reza por la paz en la Tierra del Sol Naciente y por la paz para su familia en el auspicioso primer amanecer del año. Ella se ha enterado desde entonces que mucha combinaciones diferentes de ozouni para disfrutar, como mochi redondo o mochi cuadrado con pollo o medregal. Aunque na vez se mete bajo el kotatsu, ya no puede salir.",
-        "cv": "Shuu Uchida"
-    },
-    {
-        "id": 14014,
-        "default": true,
-        "name": "Iroha・Ui ver. Miko",
-        "desc": "Dos hermanas muy cercanas quienes están ayudando en el santuario durante el Año Nuevo con sus trajes de Miko. Ellas sirven al santuario como doncellas, apoyándose con todo desde guiar guiar a gente por los terrenos del santuario hasta realizando el Kagura. Tienen ansiedad de aprender la terminología del santuario o la posibilidad de toparse con sus compañeros de clase.",
-        "cv": "Momo Asakura & Manaka Iwami"
-    },
-    {
-        "id": 24004,
-        "default": true,
-        "name": "Sayaka Miki ver. Haregi",
-        "desc": "Una Chica Mágica que vive en Mitakihara. Su hermosa ropa brinda una protección suprema y lucha empuñando una pincel que se adapta a sus manos como una cuchilla. Detrás de sus golpes audaces y su victoria, parece tener gustarle alguien de su edad.",
-        "cv": "Eri Kitamura"
-    },
-    {
-        "id": 11174,
-        "default": true,
-        "name": "Mitama Yakumo ver. Haregi",
-        "desc": "Una Chica Mágica que trabaja duro y se la juega desde el primer dia del año. Le gusta mucho el kimono que recibió de Yachiyo, por lo que lo infundió con magia para usarlo en batalla. Con sus cartas como arma, ataca a cualquiera que no pueda jugar su juego correctamente.",
-        "cv": "Yui Horie"
-    },
-    {
-        "id": 21004,
-        "default": true,
-        "name": "Madoka Kaname ver. Haregi",
-        "desc": "Una Chica Mágica que va a la escuela en la Cuidad de Mitakihara. El poder de su deseo infundió su kimono, y ahora puede luchar mientras lo usa. Su arma ahora es un hagoita, bueno para batalla a corto y largo rango. Si te fijas en su hagoita veras a alguien que ya conoces...",
-        "cv": "悠木碧"
-    },
+		"id"      : 41224,
+		"default" : true,
+		"name"    : "イザボー",
+		"desc"    : "百年戦争のさなか、支配と権勢の拡大に@明け暮れるフランス王妃。強大な因果を持つ@魔法少女であり、自らの意志を失った@魔法少女を多数従えている。@のちにフランスの王権をイングランドに@売り渡し、タルト（ジャンヌ・ダルク）の@最大の敵となる。",
+		"cv"      : "たかはし智秋"
+	  },
+	  {
+		"id"      : 40294,
+		"default" : true,
+		"name"    : "Pernelle",
+		"desc"    : "Esposa del legendario alquimista Nicolas Flamel, una Chica Mágica de la Francia medieval quien se ha dado a conocer como colaboradora. Ella de dio a Tart (Jeanne d'Arc) y a sus amigas armas y consejos para frustrar las ambiciones de Isabeau. Ella es una vieja conocida de Elisa y la quería mucho cuando era niña.",
+		"cv"      : "Mamiko Noto"
+	  },
+	  {
+		"id"      : 41214,
+		"default" : true,
+		"name"    : "Isabeau ver.Bruja",
+		"desc"    : "Una antigua reina de Francia quien vendió el trono a Inglaterra en la Guerra de los 100 Años, y fue llamada \"la reina traidora\". No se transforma en una Chica Mágica, pero usa magia inusual perecida a la de una Bruja, y se erige como el último enemigo de Tart y las demás.",
+		"cv"      : "Chiaki Takahashi"
+	  },
+	  {
+		"id"      : 40244,
+		"default" : true,
+		"name"    : "Minou",
+		"desc"    : "Una Chica Mágica enmascarada quien lucha en las sobras por los ingleses en la Guerra de los 100 Años.Las menor de tres hermanas, su comportamiento en calmado y calculador. Dirige sus batallas desde la banca. Su madre es una noble, a quien ama más que a nadie.",
+		"cv"      : "Rie Tanaka"
+	  },
+	  {
+		"id"      : 40284,
+		"default" : true,
+		"name"    : "Tart ver.Final",
+		"desc"    : "Tart despertó como una heroína convirtiendo las esperanzas y karma de todos en poder. Junto con el poder de Luz, su guante negro lleva el poder las Sombras. Una \"Irregularidad Perfecta\" más allá de los límites de una Chica Mágica hecha por el milagro fugas de un deseo.",
+		"cv"      : "Yui Horie"
+	  },
+	  {
+		"id"      : 40264,
+		"default" : true,
+		"name"    : "エリザ",
+		"desc"    : "名門ドラゴン騎士団に所属する中世の@魔法少女。フランス王の戴冠に助力すべく@タルトたちと合流した。神聖ローマ皇帝の妃@の娘であり、気位が高いが、自身の認めた@相手には厚い友情で応える。@キューブ（キュゥべえ）を蛇蝎のごとく@嫌っている。",
+		"cv"      : "沢城みゆき"
+	  },
+	  {
+		"id"      : 40273,
+		"default" : true,
+		"name"    : "ラピヌ",
+		"desc"    : "百年戦争のさなか、イングランド陣営で暗躍@する仮面の魔法少女。三姉妹の長女だが言動@は幼い。その性質は妹のコルボーより嗜虐的@で人を「壊す」ことを遊びのように楽しむ。@母親はとある貴人で、母と妹を偏愛している。",
+		"cv"      : "井澤詩織"
+	  },
+	  {
+		"id"      : 40214,
+		"default" : true,
+		"name"    : "Tart",
+		"desc"    : "Una Chica Mágica de Francia medieval hoy conocida como Jeanne d'Arc. Después de la muerte de su hermana, Catherine, decidió salvar a Francia del borde de la ruina. Simple, inocente, y con confianza en otros, se refiere con cariño a Qube (Kyubey) como \"Monsieur Angel\"",
+		"cv"      : "Yui Horie"
+	  },
+	  {
+		"id"      : 40224,
+		"default" : true,
+		"name"    : "リズ",
+		"desc"    : "タルトとふたりでフランスを救うべく立ち@上がった、中世のイタリア出身のクールな@魔法少女。“影”を操る魔法でタルトを支え@つつ、百年戦争のさなか、フランス軍の前線@で戦っている。当人はあまり口にしたがら@ないがとある有名な軍人の子孫であるらしい。",
+		"cv"      : "小清水亜美"
+	  },
+	  {
+		"id"      : 40253,
+		"default" : true,
+		"name"    : "コルボー",
+		"desc"    : "百年戦争のさなか、イングランド陣営で@暗躍する仮面の魔法少女。三姉妹の次女で@粗暴な言動が目立つ反面、身内には優しい。@強敵との嬲り合いに異常な興奮を覚える戦闘@好き。母親はとある貴人で、姉と妹に@惜しみない愛を注ぐ。",
+		"cv"      : "大坪由佳"
+	  },
     {
 		"id": 10011,
 		"default": true,
