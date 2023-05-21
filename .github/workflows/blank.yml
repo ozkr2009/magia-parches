@@ -29,5 +29,5 @@ jobs:
       - name: Deploy Changes in server!
         uses: fjogeleit/http-request-action@v1.9.1
         with:
-          url: ${{ secrets.API_ENDPOINT }}/${{ secrets.API_KEY }}
-          method: 'POST'
+          url: ${{ secrets.API_ENDPOINT }}?apiKey=${{ secrets.API_KEY }}
+          method: 'GET'
