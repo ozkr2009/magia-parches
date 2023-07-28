@@ -1,65 +1,128 @@
 [
-  {
-    "id" : 10534,
-    "default" : true,
-    "name" : "Amarilis",
-    "desc" : "An ancient Roman magical girl who serves as a maid in a prestigious family in Pompeii. After experiencing a tragedy in which the town was destroyed by a natural disaster, she was reborn in the past three years ago. Changed history and brought people to tragedy. In order to save the world from the disaster, we will run in the midst of "Roman Peace". She secretly loves board games. ",
-    "cv" : "Suzushiro Sayumi"
-  },
-  {
-    "id" : 10011,
-    "default" : true,
-    "name" : "Iroha Tamaki",
-    "desc" : "A magical girl who has come to Kamihama City to find out the truth behind her mysterious dream. She has a good-natured personality and is often overly concerned. The handling is also awkward. He's usually reserved, but here he shows his core strength.",
-    "cv" : "Momo Asakura"
-  },
-  {
-    "id" : 10022,
-    "default" : true,
-    "name" : "Yachiyo Nanami",
-    "desc" : "A veteran @ magical girl who has been fighting witches in Kamihama City for seven years. She is well versed in information about Kamihama City and magical girls. I am filing "rumors" that are occurring in Hama City. ",
-    "cv" : "Sen Amamiya"
-  },
-  {
-    "id" : 10032,
-    "default" : true,
-    "name" : "Tsuruno Yui",
-    "desc" : "A lively and reckless magical girl. I have a deep respect for the historic family I was born in, and my grandfather and great-grandfather who led it to prosperity. On the other hand, the Yui family, which has now fallen into disrepair. She's struggling to somehow revive her, and for that reason she's aiming to become the strongest magical girl.",
-    "cv" : "Shiina Natsukawa"
-  },
-  {
-    "id" : 10094,
-    "default" : true,
-    "name" : "Rena Mizunami",
-    "desc" : "A clumsy magical girl who can't honestly express what she thinks. She usually hides her lack of self-confidence with a self-assured attitude, so it's easy to be misunderstood as someone who doesn't know her very well. Contrary to his attitude, his taste in food is childish and has a sweet tooth.@My hobby is chasing after female idols.",
-    "cv" : "Kaori Ishihara"
-  },
-  {
-    "id" : 10104,
-    "default" : true,
-    "name" : "Momoko Jutsu",
-    "desc" : "A sister-like magical girl who saves chick magical girls from a pinch. She is sandwiched between male siblings, and she has a frank and masculine personality. However, in reality, there are cute things such as stuffed animals. @I like it. I'm also a fan of @female idols because I admire cute things.",
-    "cv" : "Mikako Komatsu"
-  },
-  {
-    "id" : 10113,
-    "default" : true,
-    "name" : "Kaede Akino",
-    "desc" : "A magical girl who is very scared and anxious.@But she is kind and considerate of her friends, and will face difficulties for the sake of her team members.@She loves animals, plants, insects, and nature.@ At home. He works hard at his kitchen garden.Although he's not good at it, crane games are also one of his hobbies.",
-    "cv" : "Ayaka Ohashi"
-  },
-  {
-    "id" : 10052,
-    "default" : true,
-    "name" : "Mitsuki Felicia",
-    "desc" : "A energetic, determined, and free-spirited magical girl. She hates witches from the bottom of her heart as the enemy of her parents, so she makes a living as a "mercenary" and fights against witches throughout Kamihama. . Her @ her wild tone is influenced by battle shonen manga. @But her heart is kind and she loves animals. ",
-    "cv" : "Ayane Sakura"
-  },
-  {
-    "id" : 10042,
-    "default" : true,
-    "name" : "Sana Futaba",
-    "desc" : "A magical girl who always thinks negatively.@ She has been rejected by her family and those around her, and has lost confidence in herself at all. is obedient, and whenever he likes it, he quietly accompanies @ soba.",
-    "cv" : "Yui Ogura"
-  }
+    {
+		"id"      : 41224,
+		"default" : true,
+		"name"    : "イザボー",
+		"desc"    : "百年戦争のさなか、支配と権勢の拡大に@明け暮れるフランス王妃。強大な因果を持つ@魔法少女であり、自らの意志を失った@魔法少女を多数従えている。@のちにフランスの王権をイングランドに@売り渡し、タルト（ジャンヌ・ダルク）の@最大の敵となる。",
+		"cv"      : "たかはし智秋"
+	  },
+	  {
+		"id"      : 40294,
+		"default" : true,
+		"name"    : "Pernelle",
+		"desc"    : "Esposa del legendario alquimista Nicolas Flamel, una Chica Mágica de la Francia medieval quien se ha dado a conocer como colaboradora. Ella de dio a Tart (Jeanne d'Arc) y a sus amigas armas y consejos para frustrar las ambiciones de Isabeau. Ella es una vieja conocida de Elisa y la quería mucho cuando era niña.",
+		"cv"      : "Mamiko Noto"
+	  },
+	  {
+		"id"      : 41214,
+		"default" : true,
+		"name"    : "Isabeau ver.Bruja",
+		"desc"    : "Una antigua reina de Francia quien vendió el trono a Inglaterra en la Guerra de los 100 Años, y fue llamada \"la reina traidora\". No se transforma en una Chica Mágica, pero usa magia inusual perecida a la de una Bruja, y se erige como el último enemigo de Tart y las demás.",
+		"cv"      : "Chiaki Takahashi"
+	  },
+	  {
+		"id"      : 40244,
+		"default" : true,
+		"name"    : "Minou",
+		"desc"    : "Una Chica Mágica enmascarada quien lucha en las sobras por los ingleses en la Guerra de los 100 Años.Las menor de tres hermanas, su comportamiento en calmado y calculador. Dirige sus batallas desde la banca. Su madre es una noble, a quien ama más que a nadie.",
+		"cv"      : "Rie Tanaka"
+	  },
+	  {
+		"id"      : 40284,
+		"default" : true,
+		"name"    : "Tart ver.Final",
+		"desc"    : "Tart despertó como una heroína convirtiendo las esperanzas y karma de todos en poder. Junto con el poder de Luz, su guante negro lleva el poder las Sombras. Una \"Irregularidad Perfecta\" más allá de los límites de una Chica Mágica hecha por el milagro fugas de un deseo.",
+		"cv"      : "Yui Horie"
+	  },
+	  {
+		"id"      : 40264,
+		"default" : true,
+		"name"    : "エリザ",
+		"desc"    : "名門ドラゴン騎士団に所属する中世の@魔法少女。フランス王の戴冠に助力すべく@タルトたちと合流した。神聖ローマ皇帝の妃@の娘であり、気位が高いが、自身の認めた@相手には厚い友情で応える。@キューブ（キュゥべえ）を蛇蝎のごとく@嫌っている。",
+		"cv"      : "沢城みゆき"
+	  },
+	  {
+		"id"      : 40273,
+		"default" : true,
+		"name"    : "ラピヌ",
+		"desc"    : "百年戦争のさなか、イングランド陣営で暗躍@する仮面の魔法少女。三姉妹の長女だが言動@は幼い。その性質は妹のコルボーより嗜虐的@で人を「壊す」ことを遊びのように楽しむ。@母親はとある貴人で、母と妹を偏愛している。",
+		"cv"      : "井澤詩織"
+	  },
+	  {
+		"id"      : 40214,
+		"default" : true,
+		"name"    : "Tart",
+		"desc"    : "Una Chica Mágica de Francia medieval hoy conocida como Jeanne d'Arc. Después de la muerte de su hermana, Catherine, decidió salvar a Francia del borde de la ruina. Simple, inocente, y con confianza en otros, se refiere con cariño a Qube (Kyubey) como \"Monsieur Angel\".",
+		"cv"      : "Yui Horie"
+	  },
+	  {
+		"id"      : 40224,
+		"default" : true,
+		"name"    : "リズ",
+		"desc"    : "タルトとふたりでフランスを救うべく立ち@上がった、中世のイタリア出身のクールな@魔法少女。“影”を操る魔法でタルトを支え@つつ、百年戦争のさなか、フランス軍の前線@で戦っている。当人はあまり口にしたがら@ないがとある有名な軍人の子孫であるらしい。",
+		"cv"      : "小清水亜美"
+	  },
+	  {
+		"id"      : 40253,
+		"default" : true,
+		"name"    : "コルボー",
+		"desc"    : "百年戦争のさなか、イングランド陣営で@暗躍する仮面の魔法少女。三姉妹の次女で@粗暴な言動が目立つ反面、身内には優しい。@強敵との嬲り合いに異常な興奮を覚える戦闘@好き。母親はとある貴人で、姉と妹に@惜しみない愛を注ぐ。",
+		"cv"      : "大坪由佳"
+	  },
+    {
+		"id": 10011,
+		"default": true,
+		"name": "Iroha Tamaki",
+		"desc": "Iroha vino a Kamihama para investigar los extraños sueños que estaba teniendo. De buen corazón, tiende a preocuparse demasiado por otros. No está al tanto de las últimas tendencias y no es buena con su teléfono. Generalmente reservada, puede ser una luchadora cuando más importa.",
+		"cv": "Momo Asakura"
+	  },
+	  {
+		"id": 10022,
+		"default": true,
+		"name": "Yachiyo Nanami",
+		"desc": "Una Chica Mágica veterana que ha luchado contra Brujas durante 7 años en Kamihama. Yachiyo está bien informada sobre la ciudad y Chicas Mágicas en general. Ella mantiene su distancia de otras Chicas Mágicas mientras compila archivos sobre los Rumores de la ciudad de Kamihama.",
+		"cv": "Sora Amamiya"
+	  },
+	  {
+		"id": 10032,
+		"default": true,
+		"name": "Tsuruno Yui",
+		"desc": "Una Chica Mágica imprudente y llena de energía. Tsuruno ama a su familia, especialmente a su abuelo y su bisabuelo, quien llevó a los Yuis a su antigua prosperidad. Ella pelea por ser la Chica Mágica más poderosa para restaurar el nombre Yui.",
+		"cv": "Shiina Natsukawa"
+	  },
+	  {
+		"id": 10094,
+		"default": true,
+		"name": "Rena Minami",
+		"desc": "Una Chica Mágica que tiene problemas para abrirse a los demás. Rena actúa engreída para compensar su falta de confianza en sí misma, que causa que la gente que no la conoce la malinterprete. Ella es quisquillosa con la comida y le encantan los dulces. También es una gran fan de las idols.",
+		"cv": "Kaori Ishihara"
+	  },
+	  {
+		"id": 10104,
+		"default": true,
+		"name": "Momoko Togame",
+		"desc": "Una Chica Mágica que siempre está cuidando de novatas. La hija del medio, Momoko as sido influenciada por la masculinidad de sus hermanos, pero le encantan las cosas femeninas como los animales de peluche. Y como le gustan las cosas lindas, también es fan de las idols femeninas.",
+		"cv": "Mikako Komatsu"
+	  },
+	  {
+		"id": 10113,
+		"default": true,
+		"name": "Kaede Akino",
+		"desc": "Una preocupona, Kaede se asusta fácilmente. Ella también es amable, cariñosa y lista para correr riesgos por sus amigas. Le encantan los animales, las plantas, insectos, y la naturaleza en general. Le gusta la jardinería, y aunque no es buena en esp, le gustan los UFO Catchers.",
+		"cv": "Ayaka Oohashi"
+	  },
+	  {
+		"id": 10052,
+		"default": true,
+		"name": "Felicia Mitsuki",
+		"desc": "Felicia es una Chica Mágica enérgica, llena de energía y determinación, que odia a las Brujas por tomas las vidas de sus padres. Ahora trabaja como mercenaria, cazando brujas por toda Kamihama. Su dura forma de hablar esconde su corazón amable y su amor por los animales.",
+		"cv": "Ayane Sakura"
+	  },
+	  {
+		"id": 10042,
+		"default": true,
+		"name": "Sana Futaba",
+		"desc": "Una Chica Mágica pesimista, Sana fue rechazada por su familia y aquellos a su alrededor, así que no tiene mucha autoestima. Aun así, ella apoyará silenciosamente a la gente que la necesita, lista para ayudar cuando llegue la hora.",
+		"cv": "Yui Ogura"
+	  }
 ]
