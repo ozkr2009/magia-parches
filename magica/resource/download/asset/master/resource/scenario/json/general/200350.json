@@ -436,7 +436,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_50_24",
-                        "textHome": "H-happy New Year to you!"
+						"textHome": "¡F-Feliz Año Nuevo!"
                     }
                 ]
             },
@@ -448,7 +448,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "Do I look okay? "
+						"textHome": "¿Me veo bien? "
                     }
                 ]
             },
@@ -459,7 +459,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_030.exp.json",
                         "id": 200300,
-                        "textHome": "I-I've never really been out in@a kimono before, so..."
+						"textHome": "N-Nunca había salido con@un kimono antes, así que..."
                     }
                 ]
             },
@@ -484,7 +484,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2003_50_25",
-                        "textHome": "Good morning!"
+						"textHome": "¡Buenos días!"
                     }
                 ]
             },
@@ -494,7 +494,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "I'm going to play hanetsuki with Madoka@and the others today. I woke up early so@I wouldn't be late...maybe too early..."
+						"textHome": "Hoy voy a jugar al hanetsuki con Madoka@y las demás. Me levanté temprano para@no llegar tarde... tal vez muy temprano..."
                     }
                 ]
             },
@@ -530,7 +530,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2003_50_26",
-                        "textHome": "Baked rice cake, rice cake soup,@and other New Year's dishes..."
+						"textHome": "Pastel de arroz al horno,@sopa de pastel de arroz y@otros platos de Año Nuevo..."
                     }
                 ]
             },
@@ -540,7 +540,7 @@
                     {
                         "eyeClose": 1,
                         "id": 200300,
-                        "textHome": "I always spent New Year's in my@hospital bed, so it feels different..."
+						"textHome": "Siempre pasaba el Año Nuevo en la cama@del hospital, así que se siente diferente..."
                     }
                 ]
             },
@@ -584,7 +584,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2003_50_27",
-                        "textHome": "The sun sets so early in the winter..."
+						"textHome": "El sol se pone muy temprano en invierno..."
                     }
                 ]
             },
@@ -596,7 +596,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "Please bundle up before going outside,@so that you don't catch a cold."
+						"textHome": "Por favor, abrígate bien antes de salir@para no resfriarte."
                     }
                 ]
             },
@@ -679,7 +679,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_50_28",
-                        "textHome": "I keep saying this to myself before sleeping,@for years now..."
+						"textHome": "Sigo diciéndome esto a mí misma@antes de dormir, desde hace años..."
                     }
                 ]
             },
@@ -689,7 +689,7 @@
                     {
                         "eyeClose": 1,
                         "id": 200300,
-                        "textHome": "Never forget why you became a Magical Girl,@or that oath you made..."
+						"textHome": "Nunca olvides por qué te convertiste@en una Chica Mágica, o ese juramento@que hiciste..."
                     }
                 ]
             },
@@ -735,7 +735,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_2003_50_29",
-                        "textHome": "Madoka must be so beautiful in her kimono..."
+						"textHome": "Madoka ha de verse tan hermosa@en su kimono..."
                     }
                 ]
             },
@@ -747,7 +747,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "Oh, um, sorry!@I was just, ah...daydreaming a bit..."
+						"textHome": "¡Oh, um, lo siento! Solo estaba, ah...@soñando despierta un poco..."
                     }
                 ]
             },
@@ -783,7 +783,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2003_50_30",
-                        "textHome": "U-um, Happy New Year..."
+						"textHome": "U-Um, Feliz Año Nuevo..."
                     }
                 ]
             },
@@ -795,7 +795,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "I-I'm glad we got to meet like this..."
+						"textHome": "M-Me alegro de que nos hayamos@conocido así..."
                     }
                 ]
             },
@@ -805,7 +805,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "Let's w-work hard to take out those Witches!"
+						"textHome": "¡Trabajemos d-duro para acabar@con esas Brujas!"
                     }
                 ]
             },
@@ -830,7 +830,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_50_31",
-                        "textHome": "Now that it's the new year you can see@lots of Magical Girls wearing kimonos@even inside the Mirror Witch's Labyrinth..."
+						"textHome": "Como estamos en año nuevo, se pueden ver@muchas Chicas Mágicas vistiendo kimonos@incluso dentro del Laberinto de los Espejos..."
                     }
                 ]
             },
@@ -852,7 +852,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 200300,
                         "motion": 400,
-                        "textHome": "Though they're copies, of course..."
+						"textHome": "Aunque son copias, claro..."
                     }
                 ]
             },
@@ -930,7 +930,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_50_33",
-                        "textHome": "What! Y-you think I should take off my@glasses while I'm wearing my kimono...?!"
+						"textHome": "¿¡Qué!? ¿¡C-Crees que debería quitarme@los lentes mientras uso mi kimono...!?"
                     }
                 ]
             },
@@ -942,7 +942,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "N-no! I get so nervous when I take them off..."
+						"textHome": "¡N-No! Me pongo muy nerviosa@cuando me los quito..."
                     }
                 ]
             },
@@ -978,7 +978,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2003_50_34",
-                        "textHome": "Oh, now that you mention it... @That hanetsuki paddle Madoka has..."
+						"textHome": "Oh, ahora que lo mencionas... Esa paleta@de hanetsuki que tiene Madoka..."
                     }
                 ]
             },
@@ -988,7 +988,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "It has a Kyubey design on it, doesn't it?"
+						"textHome": "Tiene un diseño de Kyubey, ¿no?"
                     }
                 ]
             },
@@ -1013,7 +1013,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_50_35",
-                        "textHome": "When I was in the hospital, I could never@have imagined wearing kimono with@my friends to celebrate the New Year..."
+						"textHome": "Cuando estaba en el hospital, nunca habría@imaginado ponerme un kimono con@mis amigas para celebrar el Año Nuevo..."
                     }
                 ]
             },
@@ -1033,7 +1033,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "It's okay to just enjoy it, right?"
+						"textHome": "Está bien simplemente disfrutarlo, ¿no?"
                     }
                 ]
             },
@@ -1058,7 +1058,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_2003_50_36",
-                        "textHome": "Does this kimono...look all right?"
+						"textHome": "Este kimono... ¿se ve bien?"
                     }
                 ]
             },
@@ -1070,7 +1070,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "Madoka says it suits me, but...I don't know..."
+						"textHome": "Madoka dice que me queda bien,@pero... no sé..."
                     }
                 ]
             },
@@ -1106,7 +1106,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2003_50_37",
-                        "textHome": "Madoka lends me courage with her@strength and positivity that I never had."
+						"textHome": "Madoka me da valor con su fuerza y@positividad que yo nunca tuve."
                     }
                 ]
             },
@@ -1128,7 +1128,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "So different from me...@I'm just a dopey, selfish, little scaredy-cat..."
+						"textHome": "Tan diferente a mí...@Yo sólo soy tonta, egoísta y@asustadiza..."
                     }
                 ]
             },
@@ -1198,7 +1198,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_50_38",
-                        "textHome": "Kyoko is probably spending New Year's@like any other day..."
+						"textHome": "Kyoko seguramente está pasando el@Año Nuevo como cualquier otro día..."
                     }
                 ]
             },
@@ -1208,7 +1208,7 @@
                     {
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "But her being that way is why she can talk@so calm and collected in any tough situation."
+						"textHome": "Pero que ella sea así es la razón por la@que puede hablar con tanta calma y@serenidad en cualquier situación difícil."
                     }
                 ]
             },
@@ -1233,7 +1233,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2003_50_39",
-                        "textHome": "I spent a long time in the hospital,@so walking by all those stalls at@the shrine was really fun..."
+						"textHome": "Pasé mucho tiempo en el hospital,@así que pasear por todos esos puestos@del santuario fue muy divertido..."
                     }
                 ]
             },
@@ -1253,7 +1253,7 @@
                     {
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "Maybe because Madoka and the others@were there, too."
+						"textHome": "Quizás porque Madoka y las demás@también estaban allí."
                     }
                 ]
             },
@@ -1278,7 +1278,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_50_40",
-                        "textHome": "I want to hold these memories I made@with Madoka close in my heart..."
+						"textHome": "Quiero mantener estos recuerdos que@hice con Madoka cerca de mi corazón..."
                     }
                 ]
             },
@@ -1291,7 +1291,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "So I won't stray from my path, no matter@how many times I loop through time."
+						"textHome": "Así que no me desviaré de mi camino,@no importa cuántas veces@salte en el tiempo."
                     }
                 ]
             },
@@ -1326,7 +1326,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_2003_50_41",
-                        "textHome": "S-stop that!"
+						"textHome": "¡D-Deja de hacer eso!"
                     }
                 ]
             },
@@ -1337,7 +1337,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
-                        "textHome": "If you want to pinch someone's cheeks@like that, you should go find Kyubey!"
+						"textHome": "¡Si quieres pellizcar las mejillas de alguien,@deberías ir a buscar a Kyubey!"
                     }
                 ]
             },

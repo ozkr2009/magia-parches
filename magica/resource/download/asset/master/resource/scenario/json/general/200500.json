@@ -11,7 +11,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_01",
-                        "textHome": "I sensed something strange when@I first arrived in Kamihama."
+						"textHome": "Sentí algo extraño cuando llegué@por primera vez a Kamihama."
                     }
                 ]
             },
@@ -44,7 +44,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200500,
                         "motion": 0,
-                        "textHome": "It seemed no different than where I live,@Mitakihara, but the constant charge of@magic in the air was completely different.@"
+						"textHome": "No parecía tan diferente de donde yo vivo,@Mitakihara, pero la carga constante de@magia en el aire era totalmente distinta."
                     }
                 ]
             },
@@ -65,7 +65,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200500,
                         "motion": 300,
-                        "textHome": "That was the only time I ever felt@anything like that..."
+						"textHome": "Esa fue la única vez que sentí algo así..."
                     }
                 ]
             },
@@ -107,7 +107,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_18",
-                        "textHome": "My favorite kind of magic..."
+						"textHome": "Mi tipo favorito de magia..."
                     }
                 ]
             },
@@ -129,7 +129,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
-                        "textHome": "I think it has to be the magic of brewing tea."
+						"textHome": "Creo que tiene que ser la magia@de preparar té."
                     }
                 ]
             },
@@ -139,7 +139,7 @@
                     {
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "I'm always so delighted to take a sip@after finishing a battle."
+						"textHome": "Siempre me encanta tomar un sorbo@después de terminar una batalla."
                     }
                 ]
             },
@@ -181,7 +181,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_19",
-                        "textHome": "I feel like I just overcame a hurdle.@But I can go even further than this!"
+						"textHome": "Siento que acabo de superar un obstáculo.@¡Pero puedo llegar aún más lejos!"
                     }
                 ]
             },
@@ -234,7 +234,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_20",
-                        "textHome": "I see it now...@The scope of my heart has grown more vast..."
+						"textHome": "Ahora lo veo... El alcance de mi corazón@se ha hecho más vasto..."
                     }
                 ]
             },
@@ -277,7 +277,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_21",
-                        "textHome": "I didn't have the luxury of wishing for@anything other than my own life back@when I became a Magical Girl."
+						"textHome": "Cuando me convertí en Chica Mágica,@no tuve el lujo de desear otra cosa@que no fuera mi propia vida."
                     }
                 ]
             },
@@ -300,7 +300,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 0,
-                        "textHome": "If I had another chance,@I wonder what I would've wished for?"
+						"textHome": "Si hubiera tenido otra oportunidad,@me pregunto qué habría deseado."
                     }
                 ]
             },
@@ -341,7 +341,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_22",
-                        "textHome": "Back in the old days, I fought by myself."
+						"textHome": "En el pasado, luchaba sola."
                     }
                 ]
             },
@@ -363,7 +363,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": " I couldn't open up to anyone as a@Magical Girl about my worries, my fears..."
+						"textHome": "No podía abrirme a nadie como una@Chica Mágica sobre mis preocupaciones,@mis miedos..."
                     }
                 ]
             },
@@ -385,7 +385,7 @@
                         "cheek": -1,
                         "face": "mtn_ex_030.exp.json",
                         "id": 200500,
-                        "textHome": " I was completely alone."
+						"textHome": "Estaba completamente sola."
                     }
                 ]
             },
@@ -397,7 +397,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 0,
-                        "textHome": "But then I made friends..."
+						"textHome": "Pero entonces hice amigas..."
                     }
                 ]
             },
@@ -408,7 +408,7 @@
                         "cheek": -1,
                         "face": "mtn_ex_020.exp.json",
                         "id": 200500,
-                        "textHome": "They are the reason I can keep going."
+						"textHome": "Ellas son la razón por la que puedo@seguir adelante."
                     }
                 ]
             },
@@ -420,7 +420,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": " I am certain of it."
+						"textHome": "Estoy segura de ello."
                     }
                 ]
             },
@@ -536,7 +536,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2005_00_24",
-                        "textHome": "I knew we'd meet again. *Giggle*"
+						"textHome": "Sabía que volveríamos a vernos. *Risilla*"
                     }
                 ]
             },
@@ -557,7 +557,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
-                        "textHome": "I had a feeling I'd see you soon."
+						"textHome": "Tenía el presentimiento de@que te vería pronto."
                     }
                 ]
             },
@@ -590,7 +590,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "I'm glad I was right."
+						"textHome": "Me alegro de haber tenido razón."
                     }
                 ]
             },
@@ -622,7 +622,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_25",
-                        "textHome": "I think the best teas to have in the morning@are English Breakfast and Nilgiri."
+						"textHome": "Creo que los mejores tés para@tomar por la mañana son@el English Breakfast y el Nilgiri."
                     }
                 ]
             },
@@ -655,7 +655,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "I'm boiling some water now."
+						"textHome": "Estoy hirviendo un poco de agua."
                     }
                 ]
             },
@@ -666,7 +666,7 @@
                         "cheek": 2,
                         "face": "mtn_ex_011.exp.json",
                         "id": 200500,
-                        "textHome": "Would you like a cup?"
+						"textHome": "¿Te gustaría una taza?"
                     }
                 ]
             },
@@ -698,7 +698,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_26",
-                        "textHome": "It's nice to eat lunch outside@when the weather is pleasant."
+						"textHome": "Es agradable comer fuera cuando@hace buen tiempo."
                     }
                 ]
             },
@@ -708,7 +708,7 @@
                     {
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "Sitting on a bench@while enjoying the breeze..."
+						"textHome": "Sentarse en una banca mientras@se disfruta de la brisa..."
                     }
                 ]
             },
@@ -728,7 +728,7 @@
                     {
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "I wonder what kind of tea would@best fit the atmosphere…"
+						"textHome": "Me pregunto qué tipo de té@encajaría mejor con el ambiente..."
                     }
                 ]
             },
@@ -760,7 +760,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2005_00_27",
-                        "textHome": "Afternoon tea..."
+						"textHome": "Té por la tarde..."
                     }
                 ]
             },
@@ -771,7 +771,7 @@
                         "cheek": -1,
                         "face": "mtn_ex_040.exp.json",
                         "id": 200500,
-                        "textHome": "It's a bit late to say that..."
+						"textHome": "Ya es un poco tarde para decir eso..."
                     }
                 ]
             },
@@ -783,7 +783,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 0,
-                        "textHome": "But sipping some tea while watching@the sunset is surprisingly nice."
+						"textHome": "Pero tomar un poco de té@mientras ves el atardecer es@sorprendentemente agradable."
                     }
                 ]
             },
@@ -868,7 +868,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2005_00_28",
-                        "textHome": "Hm, it's this late already?"
+						"textHome": "Hm, ¿ya es tan tarde?"
                     }
                 ]
             },
@@ -878,7 +878,7 @@
                     {
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "Time really flies when you're@chatting with friends."
+						"textHome": "El tiempo vuela cuando@charlas con amigos."
                     }
                 ]
             },
@@ -890,7 +890,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "Staying up late is bad for your beauty @and health, so let's go to sleep soon."
+						"textHome": "Quedarse despierto hasta tarde@es malo para tu belleza y tu salud,@así que será mejor irse a dormir pronto."
                     }
                 ]
             },
@@ -932,7 +932,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_29",
-                        "textHome": "When you live alone, it's easy to waste@a whole day doing nothing at all...@You need to be careful."
+						"textHome": "Cuando vives solo, es fácil perder@un día entero sin hacer nada...@Hay que tener cuidado."
                     }
                 ]
             },
@@ -963,7 +963,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "It's important to make the@most of one's time, after all."
+						"textHome": "Al fin y al cabo,@hay que aprovechar el tiempo."
                     }
                 ]
             },
@@ -995,7 +995,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_30",
-                        "textHome": "There are so many things I don't know @about Magical Girls... About myself."
+						"textHome": "Hay tantas cosas que no sé sobre@las Chicas Mágicas... Sobre mí misma."
                     }
                 ]
             },
@@ -1038,7 +1038,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200500,
                         "motion": 300,
-                        "textHome": "What is the meaning of our existence?"
+						"textHome": "¿Cuál es el significado de nuestra existencia?"
                     }
                 ]
             },
@@ -1080,7 +1080,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_00_31",
-                        "textHome": "Yeah, that's not a bad idea.@ I'll be able to try out some new strategies."
+						"textHome": "Sí, no es mala idea.@Podré probar algunas estrategias nuevas."
                     }
                 ]
             },
@@ -1102,7 +1102,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "But I won't go easy on you, so be prepared."
+						"textHome": "Pero no voy a ser suave contigo,@así que prepárate."
                     }
                 ]
             },
@@ -1197,7 +1197,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_33",
-                        "textHome": "You can learn new magic@through training long hours."
+						"textHome": "Puedes aprender nueva magia@entrenando muchas horas."
                     }
                 ]
             },
@@ -1209,7 +1209,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "I've learned quite a bit of new magic@that way myself."
+						"textHome": "Yo misma he aprendido mucha@magia nueva de esa manera."
                     }
                 ]
             },
@@ -1221,7 +1221,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200500,
                         "motion": 300,
-                        "textHome": "It just takes time."
+						"textHome": "Sólo se necesita tiempo."
                     }
                 ]
             },
@@ -1253,7 +1253,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_34",
-                        "textHome": "I found a really nice cake shop the other day!"
+						"textHome": "¡El otro día encontré una@pastelería muy buena!"
                     }
                 ]
             },
@@ -1275,7 +1275,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "Everything was delicious and looked so cute!"
+						"textHome": "¡Todo estaba delicioso y@tenía muy buen aspecto!"
                     }
                 ]
             },
@@ -1287,7 +1287,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "Want to go sometime?"
+						"textHome": "¿Quieres ir algún día?"
                     }
                 ]
             },
@@ -1319,7 +1319,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_00_35",
-                        "textHome": "I like herbal tea."
+						"textHome": "Me gusta el té de hierbas."
                     }
                 ]
             },
@@ -1329,7 +1329,7 @@
                     {
                         "id": 200500,
                         "motion": 0,
-                        "textHome": "I find it very relaxing to drink chamomile..."
+						"textHome": "Me relaja mucho tomar manzanilla..."
                     }
                 ]
             },
@@ -1351,7 +1351,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 200500,
                         "motion": 400,
-                        "textHome": "Oh that reminds me, I need to buy @some more soon."
+						"textHome": "Ah, eso me recuerda que tengo@que comprar más pronto."
                     }
                 ]
             },
@@ -1383,7 +1383,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_36",
-                        "textHome": "Even if you're weak,@when many come together their@combined might can be truly great."
+						"textHome": "Incluso si eres débil, cuando muchos@se unen su poder combinado@puede ser realmente grande."
                     }
                 ]
             },
@@ -1404,7 +1404,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "The same can be said about my guns."
+						"textHome": "Lo mismo puede decirse de mis armas."
                     }
                 ]
             },
@@ -1446,7 +1446,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_37",
-                        "textHome": "Yes, I buy the sweets I have with@my tea at my favorite cake shop."
+						"textHome": "Sí, compro los dulces que como con mi té@en mi pastelería favorita."
                     }
                 ]
             },
@@ -1467,7 +1467,7 @@
                     {
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "But I cook all my other meals myself."
+						"textHome": "Pero el resto de mis comidas@las cocino yo misma."
                     }
                 ]
             },
@@ -1561,7 +1561,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_38",
-                        "textHome": "Obviously I like the taste of tea,@but I also enjoy the smell of it."
+						"textHome": "Obviamente me gusta el sabor del té,@pero también disfruto de su aroma."
                     }
                 ]
             },
@@ -1581,7 +1581,7 @@
                     {
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "Don't you think Earl Grey tea@has a relaxing aroma?"
+						"textHome": "¿No crees que el té Earl Grey@tiene un aroma relajante?"
                     }
                 ]
             },
@@ -1623,7 +1623,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_39",
-                        "textHome": "I like to relax in a nice, warm bath."
+						"textHome": "Me gusta relajarme en@un buen baño caliente."
                     }
                 ]
             },
@@ -1645,7 +1645,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "I clear my thoughts, close my eyes,@and lean back in the water."
+						"textHome": "Despejo mi mente, cierro los ojos y@me recuesto en el agua."
                     }
                 ]
             },
@@ -1667,7 +1667,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "It helps me forget about fighting Witches."
+						"textHome": "Me ayuda a olvidarme de@luchar contra las brujas."
                     }
                 ]
             },
@@ -1699,7 +1699,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_40",
-                        "textHome": "Each Magical Girl has her own outfit,@but I particularly like mine."
+						"textHome": "Cada Chica Mágica tiene su propio traje,@pero me gusta especialmente el mío."
                     }
                 ]
             },
@@ -1732,7 +1732,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "The colors are somewhat subdued,@so it feels perfect for me."
+						"textHome": "Los colores son algo apagados,@así que me sienta perfecto."
                     }
                 ]
             },
@@ -1774,7 +1774,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_41",
-                        "textHome": "I'm thinking of calling the five of us from@Mitakihara the \"Puella Magi Holy Quintet\"!"
+						"textHome": "¡Estoy pensando en llamarnos@a las cinco de Mitakihara@\"Puella Magi Holy Quintet\"!"
                     }
                 ]
             },
@@ -1795,7 +1795,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 200500,
                         "motion": 0,
-                        "textHome": "What do you think?"
+						"textHome": "¿Qué te parece?"
                     }
                 ]
             },
@@ -1838,7 +1838,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_42",
-                        "textHome": "Fear not. There's no way I'll lose."
+						"textHome": "No temas. No hay forma de que pierda."
                     }
                 ]
             },
@@ -1881,7 +1881,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_00_43",
-                        "textHome": "One job done."
+						"textHome": "Un trabajo terminado."
                     }
                 ]
             },
@@ -1913,7 +1913,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2005_00_44",
-                        "textHome": "Phew... That was close!"
+						"textHome": "Uff... ¡Eso estuvo cerca!"
                     }
                 ]
             },
@@ -1955,7 +1955,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_00_45",
-                        "textHome": "All right then. Time for some tea."
+						"textHome": "Muy bien. Hora del té."
                     }
                 ]
             },
@@ -1997,7 +1997,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_46",
-                        "textHome": "Want to come to my place after this?"
+						"textHome": "¿Quieres venir a mi casa después de esto?"
                     }
                 ]
             },
@@ -2254,7 +2254,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_02",
-                        "textHome": "My name is Mami Tomoe.@I go to school in Mitakihara."
+						"textHome": "Me llamo Mami Tomoe.@Voy a la escuela en Mitakihara."
                     }
                 ]
             },
@@ -2265,7 +2265,7 @@
                         "cheek": -1,
                         "id": 200500,
                         "motion": 1,
-                        "textHome": " I'm also a Magical Girl who@made a contract with Kyubey.@"
+						"textHome": "También soy una Chica Mágica@que hizo un contrato con Kyubey. "
                     }
                 ]
             },
@@ -2277,7 +2277,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 200500,
                         "motion": 100,
-                        "textHome": "It's a pleasure to make your acquaintance."
+						"textHome": "Es un placer conocerte."
                     }
                 ]
             },
@@ -2289,7 +2289,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": " Let's get going!"
+						"textHome": "¡En marcha!"
                     }
                 ]
             },
@@ -2321,7 +2321,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_13",
-                        "textHome": "That feels wonderful...@I can tell my magic is getting stronger."
+						"textHome": "Eso se siente maravilloso...@Puedo sentir que mi magia se está@volviendo más fuerte."
                     }
                 ]
             },
@@ -2364,7 +2364,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_14",
-                        "textHome": "My body feels so light...@Yes, there's no doubt at all!"
+						"textHome": "Mi cuerpo se siente tan ligero...@¡Sí, no hay ninguna duda!"
                     }
                 ]
             },
@@ -2387,7 +2387,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": "I'm in peak condition!"
+						"textHome": "¡Estoy en mi mejor forma!"
                     }
                 ]
             },
@@ -2419,7 +2419,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_15",
-                        "textHome": "Can my magic improve beyond even@this stage, I wonder?"
+						"textHome": "Me pregunto si mi magia puede mejorar@incluso más allá de esta etapa."
                     }
                 ]
             },
@@ -2431,7 +2431,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200500,
                         "motion": 100,
-                        "textHome": " I would like to test that."
+						"textHome": "Me gustaría probarlo."
                     }
                 ]
             },
@@ -2463,7 +2463,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_16",
-                        "textHome": "The wish I made to become a Magical Girl@allowed me to cheat death."
+						"textHome": "El deseo que pedí al convertirme@en una Chica Mágica me permitió@engañar a la muerte."
                     }
                 ]
             },
@@ -2474,7 +2474,7 @@
                         "cheek": -1,
                         "face": "mtn_ex_020.exp.json",
                         "id": 200500,
-                        "textHome": "It's that very wish that forms@the basis of the magic I use."
+						"textHome": "Ese mismo deseo forma las bases@de la magia que utilizo."
                     }
                 ]
             },
@@ -2517,7 +2517,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_00_17",
-                        "textHome": "I have become adept at handling many@different kinds of magic with various effects,@but naturally I still have much to learn."
+						"textHome": "Me he vuelto experta en manejar muchos@tipos de magia con diversos efectos, pero@naturalmente, aún me queda mucho por aprender."
                     }
                 ]
             },
@@ -2550,7 +2550,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200500,
                         "motion": 200,
-                        "textHome": " I must keep studying!"
+						"textHome": "¡Debo seguir estudiando!"
                     }
                 ]
             },

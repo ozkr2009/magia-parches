@@ -472,7 +472,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_50_24",
-                        "textHome": "Ah, there you are. That makes everybody."
+						"textHome": "Ah, ahí estás. Ya estamos todos."
                     }
                 ]
             },
@@ -484,7 +484,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 200550,
                         "motion": 200,
-                        "textHome": "Off we go then, to the summer sea!"
+						"textHome": "¡Allá vamos, al mar de verano!"
                     }
                 ]
             },
@@ -494,7 +494,7 @@
                     {
                         "id": 200550,
                         "motion": 0,
-                        "textHome": "*Chuckle*"
+						"textHome": "*Risilla*"
                     }
                 ]
             },
@@ -505,7 +505,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_010.exp.json",
                         "id": 200550,
-                        "textHome": "I couldn't contain my excitement any longer."
+						"textHome": "No pude contener mi emoción@por más tiempo."
                     }
                 ]
             },
@@ -530,7 +530,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_50_25",
-                        "textHome": "Good morning. Did you get enough rest?"
+						"textHome": "Buenos días.@¿Descansaste lo suficiente?"
                     }
                 ]
             },
@@ -542,7 +542,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200550,
                         "motion": 200,
-                        "textHome": "It's dangerous to go into the ocean@when fatigued."
+						"textHome": "Es peligroso meterse al mar@cuando se está fatigado."
                     }
                 ]
             },
@@ -554,7 +554,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200550,
                         "motion": 300,
-                        "textHome": "I understand if the excitement@made it hard to sleep though."
+						"textHome": "Aunque entiendo si la emoción@te dificultó dormir."
                     }
                 ]
             },
@@ -579,7 +579,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2005_50_26",
-                        "textHome": "I bought a watermelon.@After lunch we can rest a bit,@then we can play split the watermelon."
+						"textHome": "Compré una sandía.@Después de comer podemos descansar@un poco y luego jugar a partir la sandía."
                     }
                 ]
             },
@@ -589,7 +589,7 @@
                     {
                         "id": 200550,
                         "motion": 100,
-                        "textHome": "I went ahead and bought an extra-large one!"
+						"textHome": "¡Me adelanté y compré@una extra grande!"
                     }
                 ]
             },
@@ -614,7 +614,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_50_27",
-                        "textHome": "The sun is already setting..."
+						"textHome": "El sol ya se está poniendo..."
                     }
                 ]
             },
@@ -624,7 +624,7 @@
                     {
                         "id": 200550,
                         "motion": 0,
-                        "textHome": "It looks beautiful sinking into the horizon,@but somehow it makes me melancholy."
+						"textHome": "Se ve hermoso ocultándose en el@horizonte, pero de alguna manera@me pone melancólica."
                     }
                 ]
             },
@@ -634,7 +634,7 @@
                     {
                         "id": 200550,
                         "motion": 300,
-                        "textHome": "Especially after a fun day."
+						"textHome": "Especialmente después@de un día divertido."
                     }
                 ]
             },
@@ -694,7 +694,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2005_50_28",
-                        "textHome": "You can't have a summer night without@fireworks! Yes, fireworks!@Not a Test of Courage!"
+						"textHome": "¡No puede haber una noche de verano sin@fuegos artificiales! ¡Sí, fuegos artificiales!@¡No una prueba de valor!"
                     }
                 ]
             },
@@ -717,7 +717,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200550,
                         "motion": 1,
-                        "textHome": "I'm not afraid, just...@who knows what can happen in the dark?"
+						"textHome": "No es que tenga miedo, es solo que...@¿quién sabe lo que podría pasar@en la oscuridad?"
                     }
                 ]
             },
@@ -751,7 +751,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_50_29",
-                        "textHome": "Mm... The sea breeze is so lovely."
+						"textHome": "Mm...@La brisa del mar se siente tan bien."
                     }
                 ]
             },
@@ -770,7 +770,7 @@
                     {
                         "eyeClose": 0,
                         "id": 200550,
-                        "textHome": "Don't you think it's nice to sit in the shade@and listen to the wind after you've@tired yourself out playing?"
+						"textHome": "¿No crees que es agradable sentarse a@la sombra y escuchar el viento después@de haberse cansado de jugar?"
                     }
                 ]
             },
@@ -814,7 +814,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2005_50_30",
-                        "textHome": "My, it's time to go on patrol."
+						"textHome": "Vaya, es hora de salir a patrullar."
                     }
                 ]
             },
@@ -826,7 +826,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200550,
                         "motion": 200,
-                        "textHome": "We can't frolic about all the time@just because it's summer."
+						"textHome": "No podemos juguetear todo el tiempo@sólo porque sea verano."
                     }
                 ]
             },
@@ -846,7 +846,7 @@
                     {
                         "id": 200550,
                         "motion": 0,
-                        "textHome": "Off we go!"
+						"textHome": "¡Andando!"
                     }
                 ]
             },
@@ -871,7 +871,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_2005_50_31",
-                        "textHome": "The heat is no excuse to slack off in a fight."
+						"textHome": "El calor no es excusa para@flojear en una pelea."
                     }
                 ]
             },
@@ -883,7 +883,7 @@
                         "face": "mtn_ex_001.exp.json",
                         "id": 200550,
                         "motion": 0,
-                        "textHome": "Especially in a fight with our doubles..."
+						"textHome": "Especialmente en una pelea@con nuestras copias..."
                     }
                 ]
             },
@@ -893,7 +893,7 @@
                     {
                         "id": 200550,
                         "motion": 200,
-                        "textHome": "We can't make ourselves@look bad against them."
+						"textHome": "No podemos hacernos quedar mal@contra ellas."
                     }
                 ]
             },
@@ -971,7 +971,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2005_50_33",
-                        "textHome": "I've never made a big sandcastle@like this before."
+						"textHome": "Nunca había hecho un castillo@de arena tan grande."
                     }
                 ]
             },
@@ -983,7 +983,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200550,
                         "motion": 200,
-                        "textHome": "Of course, I owe it all to@Homura's patience and help."
+						"textHome": "Por supuesto, se lo debo todo a@la paciencia y ayuda de Homura."
                     }
                 ]
             },
@@ -994,7 +994,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_011.exp.json",
                         "id": 200550,
-                        "textHome": "*Giggle*"
+						"textHome": "*Risilla*"
                     }
                 ]
             },
@@ -1019,7 +1019,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_50_34",
-                        "textHome": "Oh yes, how is your@summer homework going?"
+						"textHome": "Ah, cierto,@¿cómo van tus tareas de verano?"
                     }
                 ]
             },
@@ -1031,7 +1031,7 @@
                         "face": "mtn_ex_001.exp.json",
                         "id": 200550,
                         "motion": 100,
-                        "textHome": "You can't skip schoolwork just because@there's so many fun activities waiting for you."
+						"textHome": "No puedes saltarte los deberes escolares@sólo porque hayan muchas actividades@divertidas esperándote."
                     }
                 ]
             },
@@ -1043,7 +1043,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200550,
                         "motion": 200,
-                        "textHome": "You must keep at it every day!"
+						"textHome": "¡Tienes que seguir haciéndolas@todos los días!"
                     }
                 ]
             },
@@ -1068,7 +1068,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2005_50_35",
-                        "textHome": "You want to play beach flags?"
+						"textHome": "¿Quieres jugar a las banderas de playa?"
                     }
                 ]
             },
@@ -1079,7 +1079,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_010.exp.json",
                         "id": 200550,
-                        "textHome": "All right, but I refuse to lose!"
+						"textHome": "¡Muy bien, pero no pienso perder!"
                     }
                 ]
             },
@@ -1098,7 +1098,7 @@
                     {
                         "id": 200550,
                         "motion": 1,
-                        "textHome": "Let's make sure we warm up properly first."
+						"textHome": "Asegurémonos de calentar bien primero."
                     }
                 ]
             },
@@ -1123,7 +1123,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2005_50_36",
-                        "textHome": "*Chuckle*"
+						"textHome": "*Risilla*"
                     }
                 ]
             },
@@ -1134,7 +1134,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_010.exp.json",
                         "id": 200550,
-                        "textHome": "I was tempted by the lemon but decided@to go with the tea flavor for my shaved ice."
+						"textHome": "Estaba tentada por el de limón,@pero me decidí por el jarabe de té@para mi hielo raspado."
                     }
                 ]
             },
@@ -1144,7 +1144,7 @@
                     {
                         "id": 200550,
                         "motion": 0,
-                        "textHome": "I don't see tea flavored shaved ice@very often..."
+						"textHome": "No veo hielo raspado con sabor a té@muy a menudo..."
                     }
                 ]
             },
@@ -1154,7 +1154,7 @@
                     {
                         "eyeClose": 1,
                         "id": 200550,
-                        "textHome": "Mmm, delicious."
+						"textHome": "Mmm, qué rico."
                     }
                 ]
             },
@@ -1199,7 +1199,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2005_50_37",
-                        "textHome": "Form or function?"
+						"textHome": "¿Diseño o funcionalidad?"
                     }
                 ]
             },
@@ -1211,7 +1211,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200550,
                         "motion": 0,
-                        "textHome": "There's many standards for picking a good@swimsuit, but I believe you should just pick@the one you like the most."
+						"textHome": "Hay muchos criterios para elegir un@buen traje de baño, pero creo que sólo@debes elegir el que más te guste."
                     }
                 ]
             },
@@ -1292,7 +1292,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_2005_50_38",
-                        "textHome": "Doesn't Homura look wonderful@in her swimsuit?"
+						"textHome": "¿No luce Homura maravillosa@en su traje de baño?"
                     }
                 ]
             },
@@ -1304,7 +1304,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200550,
                         "motion": 300,
-                        "textHome": "She worried the bikini she picked@was a bit too showy,@but I think she should be more confident."
+						"textHome": "Le preocupaba que el bikini que eligió@fuera demasiado llamativo, pero creo@que debería tener más confianza."
                     }
                 ]
             },
@@ -1340,7 +1340,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2005_50_39",
-                        "textHome": "Madoka's swimsuit is so nice.@It's mature, with a hint of cuteness."
+						"textHome": "El traje de baño de Madoka es muy lindo.@Es maduro, con un toque tierno."
                     }
                 ]
             },
@@ -1362,7 +1362,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200550,
                         "motion": 200,
-                        "textHome": "It suits her perfectly, so whoever chose@it must know her very well."
+						"textHome": "Le queda perfecto, seguro que quien@lo haya elegido la conoce muy bien."
                     }
                 ]
             },
@@ -1387,7 +1387,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_50_40",
-                        "textHome": "I never imagined since becoming a@Magical Girl  that I'd have such carefree@fun with my friends. Not even once."
+						"textHome": "Desde que me volví una Chica Mágica nunca@imaginé que me divertiría de forma tan@casual con mis amigas. Ni siquiera una vez."
                     }
                 ]
             },
@@ -1418,7 +1418,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200550,
                         "motion": 100,
-                        "textHome": "It makes me treasure this time all the more."
+						"textHome": "Me hace atesorar mucho más@estos momentos."
                     }
                 ]
             },
@@ -1443,7 +1443,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2005_50_41",
-                        "textHome": "...Oh! Sorry, I spaced out for a moment."
+						"textHome": "... ¡Ah! Lo siento,@me distraje por un momento."
                     }
                 ]
             },
@@ -1476,7 +1476,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200550,
                         "motion": 0,
-                        "textHome": "I was remembering a time before I became@a Magical Girl...when I went to the beach@with my parents."
+						"textHome": "Estaba recordando una época antes@de convertirme en una Chica Mágica...@cuando fui a la playa con mis padres."
                     }
                 ]
             },

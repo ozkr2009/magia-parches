@@ -11,7 +11,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_00_01",
-                        "textHome": "I'm able to use my magic to manipulate@time because of the wish I made."
+						"textHome": "Puedo usar mi magia para manipular@el tiempo gracias al deseo que pedí."
                     }
                 ]
             },
@@ -33,7 +33,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": " I stop time, and then toss bombs at@our enemies while time is frozen..."
+						"textHome": "Detengo el tiempo, y luego lanzo@bombas a nuestros enemigos@mientras el tiempo está congelado..."
                     }
                 ]
             },
@@ -55,7 +55,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "But sometimes people get mad@at me because of it."
+						"textHome": "Pero a veces la gente se enfada@conmigo por eso."
                     }
                 ]
             },
@@ -67,7 +67,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "Oh, I have an important goal though,@and my magic exists to help me@accomplish it."
+						"textHome": "Oh, pero tengo un objetivo importante,@y mi magia existe para ayudarme@a conseguirlo."
                     }
                 ]
             },
@@ -121,7 +121,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_18",
-                        "textHome": "I can learn a lot from the way Mami fights."
+						"textHome": "Puedo aprender mucho de@la forma de luchar de Mami."
                     }
                 ]
             },
@@ -140,7 +140,7 @@
                     {
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "She's calm in battle, and yet@manages to look theatrical..."
+						"textHome": "Es calmada en batalla, y aún así se las@arregla para lucir tan espléndida..."
                     }
                 ]
             },
@@ -161,7 +161,7 @@
                     {
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "She's the total opposite of me."
+						"textHome": "Es todo lo contrario a mí."
                     }
                 ]
             },
@@ -193,7 +193,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_19",
-                        "textHome": "Um...it feels like somehow@something changed inside me..."
+						"textHome": "Um... siento como si de alguna manera@algo ha cambiado dentro de mí..."
                     }
                 ]
             },
@@ -234,7 +234,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_00_20",
-                        "textHome": "My heart feels peaceful now..."
+						"textHome": "Mi corazón se siente en paz ahora..."
                     }
                 ]
             },
@@ -246,7 +246,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "Well, as peaceful as it can be..."
+						"textHome": "Bueno, tan en paz como puede estar..."
                     }
                 ]
             },
@@ -288,7 +288,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_21",
-                        "textHome": "I had to stay in the hospital for a long time@due to a heart condition."
+						"textHome": "Tuve que permanecer mucho tiempo@en el hospital debido a una@enfermedad cardíaca."
                     }
                 ]
             },
@@ -300,7 +300,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 100,
-                        "textHome": " I would just stare at the ceiling from my bed..."
+						"textHome": "Me quedaba mirando al techo@desde mi cama..."
                     }
                 ]
             },
@@ -312,7 +312,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "I only have painful memories of that time."
+						"textHome": "Solo tengo recuerdos dolorosos@de aquella época."
                     }
                 ]
             },
@@ -354,7 +354,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_22",
-                        "textHome": "I transferred to a school in Mitakihara,@but I was so nervous on my first day there..."
+						"textHome": "Me transfirieron a una escuela en@Mitakihara, pero me puse muy nerviosa@en mi primer día allí..."
                     }
                 ]
             },
@@ -376,7 +376,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 100,
-                        "textHome": " Thankfully, Madoka reached out to me."
+						"textHome": "Afortunadamente,@Madoka se acercó a mí."
                     }
                 ]
             },
@@ -386,7 +386,7 @@
                     {
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "I think she's the only reason@I still attend school."
+						"textHome": "Creo que ella es la única razón@por la que sigo asistiendo a la escuela."
                     }
                 ]
             },
@@ -500,7 +500,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2003_00_24",
-                        "textHome": "H-hello! I'm...Homura Akemi!"
+						"textHome": "¡H-Hola! ¡Soy... Homura Akemi!"
                     }
                 ]
             },
@@ -521,7 +521,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "U-um, you surprised me,@so I just said my name..."
+						"textHome": "U-Um, me sorprendiste,@así que se me salió mi nombre..."
                     }
                 ]
             },
@@ -533,7 +533,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "S-sorry!"
+						"textHome": "¡L-Lo siento!"
                     }
                 ]
             },
@@ -565,7 +565,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_25",
-                        "textHome": "G-good morning! Did you sleep well?"
+						"textHome": "¡B-Buenos días! ¿Dormiste bien?"
                     }
                 ]
             },
@@ -596,7 +596,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "I...um...stayed up a bit late@studying magic, and...*Yawn*"
+						"textHome": "Yo... um... me quedé despierta hasta un poco tarde@estudiando magia, y... *bostezo*"
                     }
                 ]
             },
@@ -629,7 +629,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "I'm pretty tired..."
+						"textHome": "Estoy algo cansada..."
                     }
                 ]
             },
@@ -661,7 +661,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2003_00_26",
-                        "textHome": "Huh?! You want to eat lunch together?"
+						"textHome": "¿¡Eh!? ¿Quieres almorzar conmigo?"
                     }
                 ]
             },
@@ -681,7 +681,7 @@
                         "cheek": -1,
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
-                        "textHome": "Um, no, it's just...I've always eaten@by myself, so I'm a bit nervous..."
+						"textHome": "Um, no, es sólo que... Siempre he comido@sola, así que estoy un poco nerviosa..."
                     }
                 ]
             },
@@ -724,7 +724,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_27",
-                        "textHome": "I usually go home from school@with Madoka and Sayaka."
+						"textHome": "Suelo ir a casa con Madoka y Sayaka@después de salir de la escuela."
                     }
                 ]
             },
@@ -744,7 +744,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "Sometimes we even go straight@out to look for Witches."
+						"textHome": "A veces incluso vamos directamente@a buscar Brujas."
                     }
                 ]
             },
@@ -832,7 +832,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2003_00_28",
-                        "textHome": "This? I wanted to study magic like Mami,@so I bought a notebook to write things down."
+						"textHome": "¿Esto? Quería estudiar magia como Mami,@así que compré una libreta para@anotar cosas."
                     }
                 ]
             },
@@ -862,7 +862,7 @@
                     {
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "I've only just started, though..."
+						"textHome": "Aunque acabo de empezar..."
                     }
                 ]
             },
@@ -894,7 +894,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_29",
-                        "textHome": "I'm sure the fact that I use time magic has@something to do with it, but..."
+						"textHome": "Estoy segura de que el hecho@de que use magia temporal@tiene algo que ver, pero..."
                     }
                 ]
             },
@@ -905,7 +905,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
-                        "textHome": "The way I experience time has completely@changed since I became a Magical Girl."
+						"textHome": "La forma en que experimento el tiempo@ha cambiado completamente desde que@me convertí en una Chica Mágica."
                     }
                 ]
             },
@@ -946,7 +946,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_30",
-                        "textHome": "Madoka..."
+						"textHome": "Madoka..."
                     }
                 ]
             },
@@ -956,7 +956,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "I always want to be by your side..."
+						"textHome": "Siempre quiero estar a tu lado..."
                     }
                 ]
             },
@@ -968,7 +968,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "Even if we get separated..."
+						"textHome": "Incluso si nos separamos..."
                     }
                 ]
             },
@@ -980,7 +980,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "I will always fight for you."
+						"textHome": "Yo siempre lucharé por ti."
                     }
                 ]
             },
@@ -1012,7 +1012,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_31",
-                        "textHome": "Can I... Can I really fight?"
+						"textHome": "Puedo... ¿Puedo luchar de verdad?"
                     }
                 ]
             },
@@ -1034,7 +1034,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "I'm not sure I can, but I have to do it..."
+						"textHome": "No estoy seguro de poder,@pero tengo que hacerlo..."
                     }
                 ]
             },
@@ -1057,7 +1057,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "I-I'll do my best!"
+						"textHome": "¡M-Me esforzaré!"
                     }
                 ]
             },
@@ -1151,7 +1151,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_33",
-                        "textHome": "My glasses?"
+						"textHome": "¿Mis lentes?"
                     }
                 ]
             },
@@ -1162,7 +1162,7 @@
                         "cheek": -1,
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
-                        "textHome": "Well, I did get physically stronger@after becoming a Magical Girl,"
+						"textHome": "Bueno, me volví físicamente más fuerte@después de convertirme en@una Chica Mágica,"
                     }
                 ]
             },
@@ -1172,7 +1172,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "but it didn't seem to affect my eyes..."
+						"textHome": "pero no pareció afectar a mis ojos..."
                     }
                 ]
             },
@@ -1184,7 +1184,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "That's why I'm still wearing these."
+						"textHome": "Es por eso que aún los uso."
                     }
                 ]
             },
@@ -1216,7 +1216,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_34",
-                        "textHome": "Sometimes I think about new weapons @that even I would be able to use..."
+						"textHome": "A veces pienso en nuevas armas@que incluso yo sería capaz de usar..."
                     }
                 ]
             },
@@ -1239,7 +1239,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 400,
-                        "textHome": "Oh! Maybe a blowgun?"
+						"textHome": "¡Oh! ¿Tal vez una cerbatana?"
                     }
                 ]
             },
@@ -1251,7 +1251,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "No, I don't think that would@work very well on Witches..."
+						"textHome": "No, no creo que eso funcione@muy bien con las Brujas..."
                     }
                 ]
             },
@@ -1283,7 +1283,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_35",
-                        "textHome": "Beware of Kyubey..."
+						"textHome": "Cuidado con Kyubey..."
                     }
                 ]
             },
@@ -1295,7 +1295,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "I don't know the whole story yet,"
+						"textHome": "Aún no conozco toda la historia,"
                     }
                 ]
             },
@@ -1307,7 +1307,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "but I don't think he's someone@who can be trusted…"
+						"textHome": "pero no creo que sea alguien@en quien se pueda confiar..."
                     }
                 ]
             },
@@ -1359,7 +1359,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_36",
-                        "textHome": "Mami said that the only issue with my@time-stopping magic is coming up@with the best way to utilize it."
+						"textHome": "Mami dijo que el único problema de@mi magia para detener el tiempo es@encontrar la mejor forma de utilizarla."
                     }
                 ]
             },
@@ -1393,7 +1393,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "That's why I'm always thinking of@better ways to use it."
+						"textHome": "Por eso siempre estoy pensando@en mejores formas de usarla."
                     }
                 ]
             },
@@ -1425,7 +1425,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_37",
-                        "textHome": "Madoka always worries about everyone @else, without regard for herself."
+						"textHome": "Madoka siempre se preocupa por@los demás, sin importarle ella misma."
                     }
                 ]
             },
@@ -1457,7 +1457,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
                         "motion": 400,
-                        "textHome": "That's why I want to do everything @I can to help her in any way possible."
+						"textHome": "Por eso quiero hacer todo lo posible@para ayudarla en todo lo que pueda."
                     }
                 ]
             },
@@ -1550,7 +1550,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2003_00_38",
-                        "textHome": "The way Madoka talks is so soothing that @whenever I talk to her,"
+						"textHome": "La forma de hablar de Madoka es tan@relajante que cada vez que hablo con ella,"
                     }
                 ]
             },
@@ -1560,7 +1560,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "I always feel reassured."
+						"textHome": "siempre me siento tranquila."
                     }
                 ]
             },
@@ -1570,7 +1570,7 @@
                     {
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "She's the first person that@made me feel that way."
+						"textHome": "Ella es la primera persona@que me ha hecho sentir así."
                     }
                 ]
             },
@@ -1602,7 +1602,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_39",
-                        "textHome": "There are so many ways to@interpret dreams..."
+						"textHome": "Hay muchas maneras de interpretar@los sueños..."
                     }
                 ]
             },
@@ -1622,7 +1622,7 @@
                     {
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "You can psychoanalyze them,@you can think of them as a@prophecy of sorts..."
+						"textHome": "Puedes psicoanalizarlos,@puedes pensar en ellos como@una especie de profecía..."
                     }
                 ]
             },
@@ -1634,7 +1634,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "I wonder if prophetic dreams@actually happen..."
+						"textHome": "Me pregunto si los sueños proféticos@realmente suceden..."
                     }
                 ]
             },
@@ -1677,7 +1677,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_40",
-                        "textHome": "I'm so glad I met Madoka."
+						"textHome": "Me alegro mucho de haber@conocido a Madoka."
                     }
                 ]
             },
@@ -1700,7 +1700,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "That alone is enough for me@not to have any regrets."
+						"textHome": "Sólo eso me es suficiente para@no tener ningún remordimiento."
                     }
                 ]
             },
@@ -1712,7 +1712,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "Next time..."
+						"textHome": "La próxima vez..."
                     }
                 ]
             },
@@ -1724,7 +1724,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200300,
                         "motion": 400,
-                        "textHome": "Next time, I will do everything in my power!"
+						"textHome": "¡La próxima vez,@haré todo lo que esté a mi alcance!"
                     }
                 ]
             },
@@ -1756,7 +1756,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_41",
-                        "textHome": "Um..."
+						"textHome": "Oye..."
                     }
                 ]
             },
@@ -1768,7 +1768,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 400,
-                        "textHome": "If a really powerful Witch appeared,@what do you think the best way to@defeat it would be?"
+						"textHome": "Si apareciera una Bruja realmente@poderosa, ¿cuál crees que sería la@mejor manera de derrotarla?"
                     }
                 ]
             },
@@ -1780,7 +1780,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 200300,
                         "motion": 200,
-                        "textHome": "Oh, um..."
+						"textHome": "Oh, um..."
                     }
                 ]
             },
@@ -1792,7 +1792,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "That's a hypothetical question."
+						"textHome": "Es una pregunta hipotética."
                     }
                 ]
             },
@@ -1824,7 +1824,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_42",
-                        "textHome": "All right then, let's do this!"
+						"textHome": "¡Muy bien, hagamos esto!"
                     }
                 ]
             },
@@ -1865,7 +1865,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_43",
-                        "textHome": "I did it? I did it!"
+						"textHome": "¿Lo hice? ¡Lo hice!"
                     }
                 ]
             },
@@ -1908,7 +1908,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_00_44",
-                        "textHome": "Phew...it's over now..."
+						"textHome": "Uff... ya se acabó..."
                     }
                 ]
             },
@@ -1950,7 +1950,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_45",
-                        "textHome": "I got through it...somehow..."
+						"textHome": "Lo conseguí... de alguna manera..."
                     }
                 ]
             },
@@ -1993,7 +1993,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_00_46",
-                        "textHome": "Did I fight well…?"
+						"textHome": "¿Luché bien...?"
                     }
                 ]
             },
@@ -2229,7 +2229,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_2003_00_02",
-                        "textHome": "U-umm, h-hello...I'm, um, Homura A-Akemi..."
+						"textHome": "U-Umm, h-hola...@Soy, um, Homura A-Akemi..."
                     }
                 ]
             },
@@ -2241,7 +2241,7 @@
                         "id": 200300,
                         "motion": 200,
                         "pos": 1,
-                        "textHome": "And...um... Nice to, er, meet you."
+						"textHome": "Y... um... Encantada de, eh, conocerte."
                     }
                 ]
             },
@@ -2284,7 +2284,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_13",
-                        "textHome": "I won't be able to protect the people@I care about if I don't get stronger..."
+						"textHome": "No podré proteger a las personas que@me importan si no me hago más fuerte..."
                     }
                 ]
             },
@@ -2327,7 +2327,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2003_00_14",
-                        "textHome": "Phew..."
+						"textHome": "Uff..."
                     }
                 ]
             },
@@ -2338,7 +2338,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_010.exp.json",
                         "id": 200300,
-                        "textHome": "I managed to make it this far."
+						"textHome": "Logré llegar hasta aquí."
                     }
                 ]
             },
@@ -2348,7 +2348,7 @@
                     {
                         "id": 200300,
                         "motion": 0,
-                        "textHome": "I'm relieved..."
+						"textHome": "Es un alivio..."
                     }
                 ]
             },
@@ -2380,7 +2380,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_15",
-                        "textHome": "Um..."
+						"textHome": "Um..."
                     }
                 ]
             },
@@ -2392,7 +2392,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 100,
-                        "textHome": "I wonder if I can use my magic better now."
+						"textHome": "Me pregunto si ahora@podré usar mejor mi magia."
                     }
                 ]
             },
@@ -2434,7 +2434,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_16",
-                        "textHome": "Attacking with bombs does a lot of damage,@but sometimes your allies can get hurt,"
+						"textHome": "Atacar con bombas hace mucho daño,@pero a veces tus aliados pueden@resultar heridos,"
                     }
                 ]
             },
@@ -2457,7 +2457,7 @@
                         "face": "mtn_ex_031.exp.json",
                         "id": 200300,
                         "motion": 300,
-                        "textHome": "so you have to consider timing@and lots of other factors.@Bombs are complicated..."
+						"textHome": "así que tienes que tener en cuenta@el momento oportuno y muchos otros@factores. Las bombas son complicadas..."
                     }
                 ]
             },
@@ -2489,7 +2489,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2003_00_17",
-                        "textHome": "Naturally, when I have to use guns@I opt for ones that I can use easily."
+						"textHome": "Naturalmente, cuando tengo que@usar armas opto por las que puedo@utilizar fácilmente."
                     }
                 ]
             },
@@ -2510,7 +2510,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200300,
                         "motion": 0,
-                        "textHome": " Even if I carry a whole bunch,@they're pointless if I can't use them."
+						"textHome": "Aunque lleve un montón,@no tienen sentido si no puedo usarlas."
                     }
                 ]
             },

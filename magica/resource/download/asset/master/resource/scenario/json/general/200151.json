@@ -367,7 +367,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2001_51_24",
-                        "textHome": "There you are! I've been waiting!"
+						"textHome": "¡Ahí estás! ¡Te estaba esperando!"
                     }
                 ]
             },
@@ -379,7 +379,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 0,
-                        "textHome": "Let's have tons of fun today, 'kay?"
+						"textHome": "Vamos a divertirnos mucho hoy,@¿de acuerdo?"
                     }
                 ]
             },
@@ -389,7 +389,7 @@
                     {
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "There's so much I want to do at the beach!"
+						"textHome": "¡Hay muchas cosas que quiero@hacer en la playa!"
                     }
                 ]
             },
@@ -424,7 +424,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2001_51_25",
-                        "textHome": "Good morning! Did you sleep well?"
+						"textHome": "¡Buenos días! ¿Dormiste bien?"
                     }
                 ]
             },
@@ -436,7 +436,7 @@
                         "face": "mtn_ex_041.exp.json",
                         "id": 200151,
                         "motion": 300,
-                        "textHome": "I couldn't sleep, I was too excited..."
+						"textHome": "Yo no pude dormir,@estaba muy emocionada..."
                     }
                 ]
             },
@@ -448,7 +448,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "Too busy thinking about what fun things@to do, or what flavor shaved ice to get..."
+						"textHome": "Muy ocupada pensando que cosas@divertidas hacer, o que sabor de@hielo raspado comprar..."
                     }
                 ]
             },
@@ -484,7 +484,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2001_51_26",
-                        "textHome": "You've got to get yakisoba if you're@having lunch at a beach house!"
+						"textHome": "¡Si vas a comer a una casa de playa,@tienes que pedir yakisoba!"
                     }
                 ]
             },
@@ -507,7 +507,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 0,
-                        "textHome": "I wonder why?"
+						"textHome": "Me pregunto por qué."
                     }
                 ]
             },
@@ -519,7 +519,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 200151,
                         "motion": 201,
-                        "textHome": "I guess it tastes better since@it's a special occasion."
+						"textHome": "Supongo que sabe mejor porque@es una ocasión especial."
                     }
                 ]
             },
@@ -544,7 +544,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2001_51_27",
-                        "textHome": "I love getting home from school@and eating ice cream in the AC."
+						"textHome": "Me encanta llegar a casa de la escuela y@comer helado con el aire acondicionado."
                     }
                 ]
             },
@@ -564,7 +564,7 @@
                     {
                         "id": 200151,
                         "motion": 300,
-                        "textHome": "It just makes me the happiest!"
+						"textHome": "¡Me hace muy feliz!"
                     }
                 ]
             },
@@ -613,7 +613,7 @@
                         "motion": 201,
                         "pos": 1,
                         "voice": "vo_char_2001_51_28",
-                        "textHome": "We're going to set off fireworks tonight!@Sayaka got lots ready, all different kinds."
+						"textHome": "¡Vamos a lanzar fuegos artificiales@esta noche! Sayaka tiene muchos@preparados, de todos los tipos."
                     }
                 ]
             },
@@ -644,7 +644,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_011.exp.json",
                         "id": 200151,
-                        "textHome": "Which one should I light up first?"
+						"textHome": "¿Cuál debería encender primero?"
                     }
                 ]
             },
@@ -669,7 +669,7 @@
                         "motion": 201,
                         "pos": 1,
                         "voice": "vo_char_2001_51_29",
-                        "textHome": "Here, have a sports drink."
+						"textHome": "Ten, toma una bebida deportiva."
                     }
                 ]
             },
@@ -681,7 +681,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "You have to keep an eye on your water@and salt intake to beat the heat."
+						"textHome": "Tienes que cuidar tu consumo de@agua y sal para combatir el calor."
                     }
                 ]
             },
@@ -703,7 +703,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200151,
                         "motion": 100,
-                        "textHome": "You can't have fun if you get yourself sick!"
+						"textHome": "¡No puedes divertirte si te enfermas!"
                     }
                 ]
             },
@@ -728,7 +728,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2001_51_30",
-                        "textHome": "Ah! I sense a Witch!"
+						"textHome": "¡Ah! ¡Siento una Bruja!"
                     }
                 ]
             },
@@ -740,7 +740,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200151,
                         "motion": 0,
-                        "textHome": "I'm gonna take it out right now so@it won't bother all these people@enjoying their summer!"
+						"textHome": "¡Voy a deshacerme de ella ahora mismo@para que no moleste a toda esta gente@que está disfrutando del verano!"
                     }
                 ]
             },
@@ -774,7 +774,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2001_51_31",
-                        "textHome": "This summer heat has me seeing mirages..."
+						"textHome": "Este calor de verano me hace@ver espejismos..."
                     }
                 ]
             },
@@ -784,7 +784,7 @@
                     {
                         "id": 200151,
                         "motion": 100,
-                        "textHome": "No, wait, they're just our reflections, right?"
+						"textHome": "No, espera, son sólo nuestros reflejos,@¿verdad?"
                     }
                 ]
             },
@@ -796,7 +796,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 200151,
                         "motion": 201,
-                        "textHome": "Still, we need to keep focused!"
+						"textHome": "Aun así, ¡no podemos desconcentrarnos!"
                     }
                 ]
             },
@@ -886,7 +886,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_2001_51_33",
-                        "textHome": "I brought a swim float along 'cause@I'm not too confident about swimming."
+						"textHome": "Traje un flotador porque no tengo mucha@confianza en habilidades de natación."
                     }
                 ]
             },
@@ -898,7 +898,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "It feels nice floating in it though."
+						"textHome": "Pero se siente bien flotar en él."
                     }
                 ]
             },
@@ -910,7 +910,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 200151,
                         "motion": 100,
-                        "textHome": "Everyone should try it!"
+						"textHome": "¡Todos deberían intentarlo!"
                     }
                 ]
             },
@@ -935,7 +935,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_2001_51_34",
-                        "textHome": "Agh, I'm losing my balance!@Is the watermelon this way?"
+						"textHome": "¡Agh, estoy perdiendo el equilibrio!@¿La sandía está por aquí?"
                     }
                 ]
             },
@@ -954,7 +954,7 @@
                     {
                         "id": 200151,
                         "motion": 0,
-                        "textHome": "I'm gonna trip...eek! So cooold!"
+						"textHome": "Me voy a tropezar...@¡eek! ¡Qué frío!"
                     }
                 ]
             },
@@ -986,7 +986,7 @@
                         "face": "mtn_ex_041.exp.json",
                         "id": 200151,
                         "motion": 300,
-                        "textHome": "Hee hee, I found the ocean instead."
+						"textHome": "Je je, encontré el océano en su lugar."
                     }
                 ]
             },
@@ -1011,7 +1011,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2001_51_35",
-                        "textHome": "Look, look at this teeny little crab I found!"
+						"textHome": "¡Mira, mira! ¡Aquí hay un cangrejo@muy pequeñito!"
                     }
                 ]
             },
@@ -1023,7 +1023,7 @@
                         "face": "mtn_ex_051.exp.json",
                         "id": 200151,
                         "motion": 400,
-                        "textHome": "...Ah! It hid! Hmm?"
+						"textHome": "... ¡Ah! ¡Se escondió! ¿Mmm?"
                     }
                 ]
             },
@@ -1035,7 +1035,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 100,
-                        "textHome": "Oh, this little shrimp is so cute too!"
+						"textHome": "¡Oh, este pequeño camarón@es muy lindo también!"
                     }
                 ]
             },
@@ -1047,7 +1047,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "I love playing in the sand!"
+						"textHome": "¡Me encanta jugar en la arena!"
                     }
                 ]
             },
@@ -1072,7 +1072,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_2001_51_36",
-                        "textHome": "I put peach syrup on my shaved ice!"
+						"textHome": "¡Puse jarabe de durazno en@mi hielo raspado!"
                     }
                 ]
             },
@@ -1082,7 +1082,7 @@
                     {
                         "id": 200151,
                         "motion": 100,
-                        "textHome": "Trading bites with everyone is half the fun,@right?"
+						"textHome": "Intercambiar bocados con todos@es divertido, ¿verdad?"
                     }
                 ]
             },
@@ -1094,7 +1094,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 200151,
                         "motion": 201,
-                        "textHome": "Here, open wide and say aaah..."
+						"textHome": "Toma, abre bien y di aaah..."
                     }
                 ]
             },
@@ -1105,7 +1105,7 @@
                         "cheek": 1,
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "Hee hee, that was a little embarrassing, huh?"
+						"textHome": "Je je, eso fue un poco vergonzoso, ¿eh?"
                     }
                 ]
             },
@@ -1130,7 +1130,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_2001_51_37",
-                        "textHome": "What do you think of my swimsuit?@I thought it might stand out a bit too much..."
+						"textHome": "¿Qué te parece mi traje de baño?@Pensé que podría llamar mucho la atención..."
                     }
                 ]
             },
@@ -1142,7 +1142,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "But my mom said it's better that way."
+						"textHome": "Pero mi mamá dijo que es mejor así."
                     }
                 ]
             },
@@ -1153,7 +1153,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_011.exp.json",
                         "id": 200151,
-                        "textHome": "Hee hee..."
+						"textHome": "Jee jee..."
                     }
                 ]
             },
@@ -1212,7 +1212,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2001_51_38",
-                        "textHome": "Homura looks so cute in her swimsuit,@doesn't she?!"
+						"textHome": "Homura se ve muy linda en@su traje de baño, ¿¡verdad!?"
                     }
                 ]
             },
@@ -1222,7 +1222,7 @@
                     {
                         "id": 200151,
                         "motion": 0,
-                        "textHome": "The flowers she pinned in her hair are cute,@but the ribbons trailing from her back@are the cutest!"
+						"textHome": "Las flores que se puso en el cabello@son bonitas, ¡pero las cintas que lleva@en su espalda son las más bonitas!"
                     }
                 ]
             },
@@ -1258,7 +1258,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2001_51_39",
-                        "textHome": "Kyoko's swimsuit looks great too."
+						"textHome": "El traje de baño de Kyoko también@se ve muy bien."
                     }
                 ]
             },
@@ -1270,7 +1270,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 200151,
                         "motion": 300,
-                        "textHome": "I hope I can wear one like hers next year..."
+						"textHome": "Espero poder llevar uno como el suyo@el año que viene..."
                     }
                 ]
             },
@@ -1282,7 +1282,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "But would it suit me?"
+						"textHome": "¿Pero me quedaría bien?"
                     }
                 ]
             },
@@ -1307,7 +1307,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_2001_51_40",
-                        "textHome": "It'd be nice if we could all go looking for@swimsuits together next year."
+						"textHome": "Sería genial si el año que viene@pudiéramos ir todas juntas@a ver trajes de baño."
                     }
                 ]
             },
@@ -1317,7 +1317,7 @@
                     {
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "It'd definitely be fun to pick one out@while discussing which ones fit and@how cute they are!"
+						"textHome": "¡Seguro que sería divertido elegir uno@mientras charlamos sobre cuáles nos@quedan bien y lo bonitos que son!"
                     }
                 ]
             },
@@ -1353,7 +1353,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_2001_51_41",
-                        "textHome": "H-hot! It's sooo hot!"
+						"textHome": "¡C-Caliente! ¡Está muy calienteee!"
                     }
                 ]
             },
@@ -1363,7 +1363,7 @@
                     {
                         "id": 200151,
                         "motion": 300,
-                        "textHome": "The beach is scorching!"
+						"textHome": "¡La arena de la playa está que quema!"
                     }
                 ]
             },
@@ -1375,7 +1375,7 @@
                         "face": "mtn_ex_040.exp.json",
                         "id": 200151,
                         "motion": 1,
-                        "textHome": "I left my sandals back at the beach house..."
+						"textHome": "Dejé mis sandalias en la casa de playa..."
                     }
                 ]
             },
@@ -1385,7 +1385,7 @@
                     {
                         "id": 200151,
                         "motion": 200,
-                        "textHome": "Ugh, I guess I'll brave the sand@and go back to get them."
+						"textHome": "Ugh, supongo que tendré que@aguantar la arena e ir a recogerlas."
                     }
                 ]
             },
