@@ -11,7 +11,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_01",
-                        "textHome": "Me llamo Iroha Tamaki."
+						"textHome": "Me llamo Iroha Tamaki."
                     }
                 ]
             },
@@ -23,7 +23,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I'm new to Kamihama...@So I still don't know much about the area."
+						"textHome": "Soy nueva en Kamihama...@Así que todavía no sé mucho sobre el área."
                     }
                 ]
             },
@@ -44,7 +44,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 1,
-                        "textHome": "Maybe we can help fill each other@in on things we don't know."
+						"textHome": "Tal vez nos podamos ayudar entre nos@con cosas que no sepamos."
                     }
                 ]
             },
@@ -65,7 +65,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "Oh! And...um, my hobby is cooking."
+						"textHome": "¡Oh! Y...um, mi pasatiempo es cocinar."
                     }
                 ]
             },
@@ -85,7 +85,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
-                        "textHome": "Maybe if you don't mind,@I could invite you over for dinner sometime?"
+						"textHome": "Tal vez, si te parece bien,@¿Te podría invitar a cenar alguna vez?"
                     }
                 ]
             },
@@ -126,7 +126,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_18",
-                        "textHome": "I'm not the same girl who was once so shy@and timid... But even now, I still want to tell@Ui everything one day."
+						"textHome": "No soy la misma chica que alguna vez fue tan tímida@e insegura... Pero incluso ahora, todavía quiero contarle@todo a Ui algún día."
                     }
                 ]
             },
@@ -147,7 +147,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I think she'd understand no matter@what kind of person I become."
+						"textHome": "Creo que ella lo entendería sin importar@en qué tipo de persona me convierta."
                     }
                 ]
             },
@@ -188,7 +188,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_1001_00_19",
-                        "textHome": "I'll become as powerful as I need to...@so that I can find what matters most.@"
+						"textHome": "Me volveré tan poderosa como necesite...@para poder encontrar lo que importa de verdad.@"
                     }
                 ]
             },
@@ -229,7 +229,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_1001_00_20",
-                        "textHome": "It's okay to accept my weakness, right?"
+						"textHome": "Está bien aceptar mi debilidad, ¿verdad?"
                     }
                 ]
             },
@@ -240,7 +240,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
-                        "textHome": " Start small, and move@a little bit forward at a time."
+						"textHome": "Empieza poco a poco y sigue@adelante un poco a la vez."
                     }
                 ]
             },
@@ -283,7 +283,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_21",
-                        "textHome": "Maybe I have changed,@even if it's just a tiny bit?"
+						"textHome": "Tal vez he cambiado,@aunque sea sólo un poquito."
                     }
                 ]
             },
@@ -302,7 +302,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "I couldn't stand the girl I once was,@but I couldn't have gotten here without her..."
+						"textHome": "No podía soportar a la chica que una vez fui,@pero no pude haber llegado aquí sin ella..."
                     }
                 ]
             },
@@ -322,7 +322,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
-                        "textHome": "I need to accept her and@break past my limits."
+						"textHome": "Necesito aceptarla y@superar mis límites de antes."
                     }
                 ]
             },
@@ -363,7 +363,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_22",
-                        "textHome": "Now that I've met everyone here,@I think I finally get it."
+						"textHome": "Ahora que conozco a todos aquí,@creo que por fin lo entiendo."
                     }
                 ]
             },
@@ -373,7 +373,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "I don't want to hide how@I feel from my dear friends..."
+						"textHome": "No quiero esconder como@me siento de mis amigos más cercanos..."
                     }
                 ]
             },
@@ -385,7 +385,7 @@
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I have to let them know my true feelings,@because they're precious to me."
+						"textHome": "Tengo que hacerles saber mis verdaderos sentimientos,@porque son muy preciados para mi."
                     }
                 ]
             },
@@ -395,7 +395,7 @@
                     {
                         "id": 100100,
                         "motion": 300,
-                        "textHome": "I don't want to lie to the people I love..."
+						"textHome": "No quiero mentirle a la gente que amo..."
                     }
                 ]
             },
@@ -516,7 +516,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_24",
-                        "textHome": "Let's do this together."
+						"textHome": "Hagamos esto juntos."
                     }
                 ]
             },
@@ -535,7 +535,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "If we support each other..."
+						"textHome": "Si nos apoyamos unos a otros..."
                     }
                 ]
             },
@@ -546,7 +546,7 @@
                         "cheek": 1,
                         "id": 100100,
                         "motion": 300,
-                        "textHome": "We can reach places that@we could never reach alone."
+						"textHome": "Podemos llegar a lugares a los@que nunca podríamos llegar solos."
                     }
                 ]
             },
@@ -587,7 +587,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_25",
-                        "textHome": "Good morning!@Don't you just love saying that?"
+						"textHome": "¡Buenos días!@¿No te encanta decir eso?"
                     }
                 ]
             },
@@ -628,7 +628,7 @@
                     {
                         "id": 100100,
                         "motion": 100,
-                        "textHome": "Something about it just gets me@ready to tackle the day."
+						"textHome": "Hay algo en ello que me prepara@para afrontar el día."
                     }
                 ]
             },
@@ -680,7 +680,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_26",
-                        "textHome": "If you haven't eaten already,@would you like to have lunch together?"
+						"textHome": "Si todavía no has comido,@¿te gustaría almorzar juntos?"
                     }
                 ]
             },
@@ -703,7 +703,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 1,
-                        "textHome": "Don't worry, I'm not a picky eater."
+						"textHome": "No te preocupes, no soy quisquillosa con la comida."
                     }
                 ]
             },
@@ -715,7 +715,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 100,
-                        "textHome": "Is there anything in particular you want?"
+						"textHome": "¿Te gustaría algo en particular?"
                     }
                 ]
             },
@@ -747,7 +747,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_27",
-                        "textHome": "I made dinner. Would you like some?"
+						"textHome": "Hice de cenar, ¿Quieres un poco?"
                     }
                 ]
             },
@@ -769,7 +769,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "Let me know if it needs salt."
+						"textHome": "Dime si le falta sal."
                     }
                 ]
             },
@@ -780,7 +780,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
-                        "textHome": "I'm used to eating it like this,"
+						"textHome": "Estoy acostumbrada a comerlo así,"
                     }
                 ]
             },
@@ -791,7 +791,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
-                        "textHome": "but I don't know if you'll like it."
+						"textHome": "pero no sé si te gustará a ti."
                     }
                 ]
             },
@@ -884,7 +884,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_28",
-                        "textHome": "Not going to bed yet?"
+						"textHome": "¿Todavía no te vas a dormir?"
                     }
                 ]
             },
@@ -894,7 +894,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "If you don't mind I could stay up with you...@Staying up late..."
+						"textHome": "Si no te importa, me podría quedar despierta contigo...@Quedarse despierto tarde..."
                     }
                 ]
             },
@@ -915,7 +915,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "It isn't good to do all@the time, but sometimes..."
+						"textHome": "No es bueno hacerlo todo@el tiempo, pero a veces..."
                     }
                 ]
             },
@@ -925,7 +925,7 @@
                     {
                         "id": 100100,
                         "motion": 100,
-                        "textHome": "Sometimes I think it's all right."
+						"textHome": "A veces, creo que está bien."
                     }
                 ]
             },
@@ -957,7 +957,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_29",
-                        "textHome": "Siento que mi gusto en comida es diferente@al de los demás..."
+						"textHome": "Siento como que mi gasto en comida es diferente@del de los demás..."
                     }
                 ]
             },
@@ -980,7 +980,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 1,
-                        "textHome": "Miso soup, steamed vegetables...@Simple, yet perfect dishes."
+						"textHome": "Sopa de miso, vegetales al vapor...@Platillos simples pero perfectos."
                     }
                 ]
             },
@@ -1021,7 +1021,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_30",
-                        "textHome": "It's almost time for us to leave, huh?"
+						"textHome": "Casi es hora de irnos, ¿cierto?"
                     }
                 ]
             },
@@ -1052,7 +1052,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I'm ready whenever you are."
+						"textHome": "Estoy lista cuando tú lo estés."
                     }
                 ]
             },
@@ -1062,7 +1062,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "Don't rush, I'll be waiting for you right here!"
+						"textHome": "¡No te apresures, estaré esperando aquí mismo!"
                     }
                 ]
             },
@@ -1115,7 +1115,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_31",
-                        "textHome": "No matter how long the journey may be,"
+						"textHome": "No importa que tan largo pueda ser el camino,"
                     }
                 ]
             },
@@ -1127,7 +1127,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I just can't ignore a Witch if I run into one."
+						"textHome": "simplemente no puedo ignorar a una Bruja si me encuentro una."
                     }
                 ]
             },
@@ -1139,7 +1139,7 @@
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
                         "motion": 300,
-                        "textHome": "Don't worry though!"
+						"textHome": "¡Pero no te preocupes!"
                     }
                 ]
             },
@@ -1149,7 +1149,7 @@
                     {
                         "id": 100100,
                         "motion": 1,
-                        "textHome": "I'm pretty sure I won't get lost!"
+						"textHome": "¡Estoy casi segura de que no me perderé!"
                     }
                 ]
             },
@@ -1240,7 +1240,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_33",
-                        "textHome": "So, what's popular nowadays, anyway?"
+						"textHome": "Así que, ¿qué está de moda estos días@de cualquier forma?"
                     }
                 ]
             },
@@ -1259,7 +1259,7 @@
                     {
                         "cheek": 1,
                         "id": 100100,
-                        "textHome": "I know, it's a weird question, isn't it, coming@from someone my age."
+						"textHome": "Lo sé, es una pregunta rara, ¿verdad?, viniendo@de alguien de mi edad."
                     }
                 ]
             },
@@ -1311,7 +1311,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_34",
-                        "textHome": "Everyone types so fast on their@smartphones, I can't believe it."
+						"textHome": "Todos escriben tan rápido en sus@smartphones, no lo puedo creer."
                     }
                 ]
             },
@@ -1333,7 +1333,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
-                        "textHome": " Here I am, I can't even change@my phone's wallpaper..."
+						"textHome": "Y yo, que no puedo ni cambiar@el fondo de pantalla de mi celular..."
                     }
                 ]
             },
@@ -1376,7 +1376,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_35",
-                        "textHome": "A mother's food is special."
+						"textHome": "La comida de una madre es especial."
                     }
                 ]
             },
@@ -1395,7 +1395,7 @@
                     {
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "There's something about it that just makes@you feel like everything's going to be all right."
+						"textHome": "Tiene algo que te hace sentir@que todo va a estar bien."
                     }
                 ]
             },
@@ -1416,7 +1416,7 @@
                         "cheek": 0,
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "Or is it just me?"
+						"textHome": "¿O sólo soy yo?"
                     }
                 ]
             },
@@ -1448,7 +1448,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_36",
-                        "textHome": "I can't keep up with kids my age@when they start talking about@popular songs and TV shows."
+						"textHome": "No les puedo seguir el ritmo a las chicas de mi edad@cuando empiezan a hablar de@canciones o series populares."
                     }
                 ]
             },
@@ -1477,7 +1477,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
-                        "textHome": "Maybe I should start reading@about them online..."
+						"textHome": "Tal vez debería empezar a leer@sobre ellos en línea..."
                     }
                 ]
             },
@@ -1519,7 +1519,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_37",
-                        "textHome": "Momoko is like a dependable big sister."
+						"textHome": "Momoko es como una hermana mayor confiable."
                     }
                 ]
             },
@@ -1542,7 +1542,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "Now that I think about it, I guess she@kinda is a big sister to Kaede and Rena."
+						"textHome": "Ahora que lo pienso, ella es como@una hermana mayor para Kaede y Rena."
                     }
                 ]
             },
@@ -1633,7 +1633,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_38",
-                        "textHome": "Yachiyo is accepting of all our feelings..."
+						"textHome": "Yachiyo acepta todos nuestros sentimientos..."
                     }
                 ]
             },
@@ -1645,7 +1645,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "When I'm with everyone,@my sadness melts away."
+						"textHome": "Cuando estoy con todos,@mi tristeza desaparece."
                     }
                 ]
             },
@@ -1657,7 +1657,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 1,
-                        "textHome": "Happiness, sadness, we share@all of our feelings..."
+						"textHome": "Felicidad, tristeza, compartimos@todos nuestros sentimientos..."
                     }
                 ]
             },
@@ -1669,7 +1669,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 300,
-                        "textHome": "Happiness, sadness, we share@all of our feelings..."
+						"textHome": "Felicidad, tristeza, compartimos@todos nuestros sentimientos..."
                     }
                 ]
             },
@@ -1701,7 +1701,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_39",
-                        "textHome": "You should see the manga Felicia's reading!"
+						"textHome": "¡Deberías ver el manga que está leyendo Felicia!"
                     }
                 ]
             },
@@ -1713,7 +1713,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
                         "motion": 400,
-                        "textHome": "Full of \"SLAMS\" and \"BAMS\",@it's just so exciting!"
+						"textHome": "Está lleno de \"SLAMS\" and \"BAMS\",@¡Es muy emocionante!"
                     }
                 ]
             },
@@ -1723,7 +1723,7 @@
                     {
                         "id": 100100,
                         "motion": 300,
-                        "textHome": "So exciting I don't think@my heart can handle it..."
+						"textHome": "Tan emocionante que no creo que@mi corazón puedo con ello..."
                     }
                 ]
             },
@@ -1755,7 +1755,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_40",
-                        "textHome": "Sana, and I... I think we're pretty alike."
+						"textHome": "Sana, y yo... pienso que nos parecemos un poco."
                     }
                 ]
             },
@@ -1774,7 +1774,7 @@
                     {
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "Maybe that's why I feel so at ease@when we're together."
+						"textHome": "Quizás sea por eso que me siento tan a gusto@cuando estamos juntas."
                     }
                 ]
             },
@@ -1816,7 +1816,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_41",
-                        "textHome": "I've written down all the@recipes my mom taught me..."
+						"textHome": "He escrito todas las recetas@que mi mamá me ha enseñado..."
                     }
                 ]
             },
@@ -1837,7 +1837,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I guess most kids just type@them on a computer, huh?"
+						"textHome": "Supongo que la mayoría de los jóvenes simplemente@las escriben en la computadora, ¿no?"
                     }
                 ]
             },
@@ -1887,7 +1887,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_42",
-                        "textHome": "It's going to be okay!"
+						"textHome": "¡Voy a estar bien!"
                     }
                 ]
             },
@@ -1928,7 +1928,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_43",
-                        "textHome": "Good thing I didn't give up!"
+						"textHome": "¡Qué bueno que no me rendí!"
                     }
                 ]
             },
@@ -1960,7 +1960,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_44",
-                        "textHome": "I had faith that we'd be okay."
+						"textHome": "Tenía fe en que estaríamos bien."
                     }
                 ]
             },
@@ -1992,7 +1992,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_45",
-                        "textHome": "Your big sis did it!"
+						"textHome": "¡Tu hermana mayor lo logró!"
                     }
                 ]
             },
@@ -2035,7 +2035,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_46",
-                        "textHome": "Have I become a strong big sis?"
+						"textHome": "¿Me he convertido en una hermana mayor fuerte?"
                     }
                 ]
             },
@@ -2294,7 +2294,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_02",
-                        "textHome": "I'm Iroha Tamaki.@Please feel free to ask me@any time you need help..."
+						"textHome": "Me llamo Iroha Tamaki.@Por favor no dudes en preguntarme@cuando necesites ayuda..."
                     }
                 ]
             },
@@ -2306,7 +2306,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 301,
-                        "textHome": "I know it sounds like I'm just saying that,@but I really mean it..."
+						"textHome": "Sé que suena como que lo digo porque si,@pero lo digo en serio..."
                     }
                 ]
             },
@@ -2338,7 +2338,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_13",
-                        "textHome": "Each time I grow stronger,@the future feels that much brighter..."
+						"textHome": "Cada vez que me hago más fuerte,@el futuro se siente mucho más brillante..."
                     }
                 ]
             },
@@ -2360,7 +2360,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 300,
-                        "textHome": "It's exciting."
+						"textHome": "Es emocionante."
                     }
                 ]
             },
@@ -2392,7 +2392,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_1001_00_14",
-                        "textHome": "I managed to come this far...@I think it's okay to feel confident@in myself now, right?"
+						"textHome": "Logré llegar hasta aquí...@Creo que está bien sentirme segura@de mi mismo, ¿verdad?"
                     }
                 ]
             },
@@ -2435,7 +2435,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_15",
-                        "textHome": "Mmh!"
+						"textHome": "¡Mmm!"
                     }
                 ]
             },
@@ -2446,7 +2446,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
-                        "textHome": " *Sigh*"
+						"textHome": " *Suspiro*"
                     }
                 ]
             },
@@ -2456,7 +2456,7 @@
                     {
                         "id": 100100,
                         "motion": 300,
-                        "textHome": "I feel rejuvenated."
+						"textHome": "Me siento rejuvenecida."
                     }
                 ]
             },
@@ -2466,7 +2466,7 @@
                     {
                         "id": 100100,
                         "motion": 1,
-                        "textHome": "Now I can keep going."
+						"textHome": "Ahora puedo seguir adelante."
                     }
                 ]
             },
@@ -2498,7 +2498,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_16",
-                        "textHome": "Ui is the best little sister in the whole world..."
+						"textHome": "Ui es la mejor hermana menor de todo el mundo..."
                     }
                 ]
             },
@@ -2519,7 +2519,7 @@
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I want to grow a little more, so that she@can proudly tell everyone that she has@the best big sister in the whole world."
+						"textHome": "Quiero crecer un poco más, para que ella@pueda decirles a todos que tiene a@la mejor hermana mayor de todo el mundo."
                     }
                 ]
             },
@@ -2579,7 +2579,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_17",
-                        "textHome": "I'll show Ui a true smile...@Then she'll show me a true smile."
+						"textHome": "Le mostraré a Ui una sonrisa de verdad...@Y entonces ella me mostrará una sonrisa verdadera."
                     }
                 ]
             },
@@ -2589,7 +2589,7 @@
                     {
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "That's when I'll know we've reunited for real."
+						"textHome": "Ahí es cuando sabré que nos hemos reunido de verdad."
                     }
                 ]
             },
