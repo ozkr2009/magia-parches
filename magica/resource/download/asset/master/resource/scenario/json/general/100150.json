@@ -443,7 +443,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_50_24",
-                        "textHome": "Brrr, the wind is so cold today...@I suppose that could mean we're@going to have a white Christmas."
+						"textHome": "Brrr, el viento está tan frío hoy...@Supongo que eso podría significar que vamos@ a tener una blanca Navidad."
                     }
                 ]
             },
@@ -489,7 +489,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_50_25",
-                        "textHome": "Good morning. It's been so cold lately,@it's a real challenge to leave my warm@bunny pillow in the morning..."
+						"textHome": "Buenos días. Últimamente hace tanto frío,@que es un verdadero reto dejar mi cálida@almohada de conejo por la mañana..."
                     }
                 ]
             },
@@ -512,7 +512,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 100,
-                        "textHome": "But today's Christmas Eve,@that's why I'm up bright and early!"
+						"textHome": "Pero hoy es Nochebuena,@por eso me levanté temprano."
                     }
                 ]
             },
@@ -546,7 +546,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_50_26",
-                        "textHome": "It's a little crazy right now because we're@having a party with everyone later today!"
+						"textHome": "Hay mucho alborote hoy porque haremos@una fiesta más tarde con todo el mundo."
                     }
                 ]
             },
@@ -569,7 +569,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "I wonder how much Yachiyo plans@to make for the party..."
+						"textHome": "Me pregunto qué planea@Yachiyo para la fiesta..."
                     }
                 ]
             },
@@ -593,7 +593,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_50_27",
-                        "textHome": "When you're done shopping,@would you like to walk home together?"
+						"textHome": "Cuando termines de comprar,@¿te gustaría que camináramos juntos a casa?"
                     }
                 ]
             },
@@ -603,7 +603,7 @@
                     {
                         "id": 100100,
                         "motion": 100,
-                        "textHome": "I heard the Christmas lights hung up@all over town are really pretty..."
+						"textHome": "He oído que las luces navideñas colgadas@en toda la ciudad son muy bonitas..."
                     }
                 ]
             },
@@ -681,7 +681,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_28",
-                        "textHome": "Today was really fun, but we still have to@try and get enough rest."
+						"textHome": "Hoy ha sido un día muy divertido,@pero todavía tenemos que intentar@descansar lo suficiente. "
                     }
                 ]
             },
@@ -691,7 +691,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "You know what happens if you don't sleep...@Santa won't visit."
+						"textHome": "Ya sabes lo que pasa si no duermes...@Santa no te visita."
                     }
                 ]
             },
@@ -725,7 +725,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_29",
-                        "textHome": "It's winter vacation right now,@so everyone's gathered in this house..."
+						"textHome": "Ahora mismo son vacaciones de invierno,@así que todo el mundo está reunido en@esta casa..."
                     }
                 ]
             },
@@ -737,7 +737,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "When everyone's together like this,@it makes our home feel warmer."
+						"textHome": "Cuando todos están juntos así,@hace que nuestra casa se sienta más cálida."
                     }
                 ]
             },
@@ -771,7 +771,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_50_30",
-                        "textHome": "Adults and children alike look forward@to this day all year!@I won't let some Witch ruin it for them!"
+						"textHome": "¡Tanto los adultos como los niños@esperan este día todo el año!@¡No dejaré que una bruja se los arruine!"
                     }
                 ]
             },
@@ -781,7 +781,7 @@
                     {
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "Let's do this!"
+						"textHome": "¡Hagamos esto!"
                     }
                 ]
             },
@@ -814,7 +814,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_31",
-                        "textHome": "Yachiyo said that if you get too carried away,@a Witch might lead you astray..."
+						"textHome": "Yachiyo dijo que si te dejas llevar demasiado,@una bruja podría llevarte por el mal camino..."
                     }
                 ]
             },
@@ -824,7 +824,7 @@
                     {
                         "id": 100100,
                         "motion": 301,
-                        "textHome": "I hope Tsuruno is careful..."
+						"textHome": "Espero que Tsuruno tenga cuidado..."
                     }
                 ]
             },
@@ -892,7 +892,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_33",
-                        "textHome": "For some reason, I feel like Christmas@this year is going to be the best one yet."
+						"textHome": "Por alguna razón, siento que la Navidad@de este año va a ser la mejor."
                     }
                 ]
             },
@@ -903,7 +903,7 @@
                         "cheek": 1,
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "Maybe because Yachiyo and the others@are here with me..."
+						"textHome": "Tal vez porque Yachiyo y las demás@están aquí conmigo..."
                     }
                 ]
             },
@@ -937,7 +937,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_34",
-                        "textHome": "I remember when I was little, and my breath@came out white in the cold... I got so shocked@because I thought I was breathing smoke!"
+						"textHome": "Recuerdo cuando era pequeña y mi aliento se@veía por el frío... ¡Me quedé tan sorprendida@porque pensé que estaba respirando humo!"
                     }
                 ]
             },
@@ -947,7 +947,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "My parents laughed at me..."
+						"textHome": "Mis padres se rieron de mí..."
                     }
                 ]
             },
@@ -971,7 +971,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_50_35",
-                        "textHome": "I've only ever celebrated Christmas with@Ui at the hospital."
+						"textHome": "Sólo he celebrado la Navidad con@Ui en el hospital."
                     }
                 ]
             },
@@ -983,7 +983,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 301,
-                        "textHome": "I hope we can celebrate it together@again soon..."
+						"textHome": "Espero que podamos celebrarlo juntos@de nuevo pronto..."
                     }
                 ]
             },
@@ -1007,7 +1007,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_50_36",
-                        "textHome": "Now that we're the ones playing Santa,@does that mean we aren't kids anymore?"
+						"textHome": "Ahora que somos nosotros los que hacemos de@Santa,¿significa eso que ya no somos niños?"
                     }
                 ]
             },
@@ -1030,7 +1030,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "Maybe I'm just getting ahead of myself?@*Giggle*"
+						"textHome": "Tal vez me estoy adelantando...@*Risitas*"
                     }
                 ]
             },
@@ -1064,7 +1064,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_37",
-                        "textHome": "The colder it gets, the more of a pain@it is to leave the house..."
+						"textHome": "Cuanto más frío hace, menos dan ganas de@salir de casa..."
                     }
                 ]
             },
@@ -1085,7 +1085,7 @@
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "No wonder Felicia spends so much time—@Wait, Felicia?@You haven't touched your homework?!"
+						"textHome": "No es de extrañar que Felicia pase@tanto tiempo— Espera, ¿Felicia?.@¿No has tocado tu tarea?"
                     }
                 ]
             },
@@ -1160,7 +1160,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_38",
-                        "textHome": "Back when Yachiyo's place was a boarding@house, they used to always have parties. "
+						"textHome": "Cuando la casa de Yachiyo era un internado,@hacían fiestas muy seguido."
                     }
                 ]
             },
@@ -1181,7 +1181,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "They even used this tree back then, too."
+						"textHome": "Incluso, utilizaban este árbol en@aquella época también."
                     }
                 ]
             },
@@ -1205,7 +1205,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_50_39",
-                        "textHome": "Come to think of it, Sana's put more effort@into hanging decorations than anyone else..."
+						"textHome": "Ahora que lo pienso, Sana ha puesto más@esfuerzo en colgar adornos que todos..."
                     }
                 ]
             },
@@ -1217,7 +1217,7 @@
                         "face": "mtn_ex_011.exp.json",
                         "id": 100100,
                         "motion": 100,
-                        "textHome": "She even hung up the ones@Felicia was supposed to do."
+						"textHome": "Incluso colgó los que@Felicia debía colgar."
                     }
                 ]
             },
@@ -1241,7 +1241,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_50_40",
-                        "textHome": "Couples treat Christmas Day as a@really romantic day in Japan..."
+						"textHome": "Las parejas tratan el día de Navidad como@un día realmente romántico en Japón..."
                     }
                 ]
             },
@@ -1253,7 +1253,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 0,
-                        "textHome": "I see it in movies and on TV.@I still don't quite understand it..."
+						"textHome": "Lo veo en las películas y en la televisión.@Sigo sin entenderlo del todo..."
                     }
                 ]
             },
@@ -1288,7 +1288,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_1001_50_41",
-                        "textHome": "H-hey, please don't stare..."
+						"textHome": "O-oye, por favor no te me quedes mirando..."
                     }
                 ]
             },
@@ -1298,7 +1298,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-                        "textHome": "I'm not used to wearing things like this,@it's kind of embarrassing..."
+						"textHome": "No estoy acostumbrado a llevar cosas así,@es un poco embarazoso..."
                     }
                 ]
             },

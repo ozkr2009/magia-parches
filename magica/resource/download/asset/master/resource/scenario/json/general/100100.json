@@ -23,7 +23,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Soy nueva en Kamihama...@Así que todavía no sé mucho sobre el área."
+						"textHome": "Soy nueva en Kamihama...@Así que aun no conozco mucho por aquí."
                     }
                 ]
             },
@@ -44,7 +44,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 1,
-						"textHome": "Tal vez nos podamos ayudar entre nos@con cosas que no sepamos."
+						"textHome": "Tal vez podamos ayudarnos@en las cosas que desconocemos."
                     }
                 ]
             },
@@ -126,7 +126,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_18",
-						"textHome": "No soy la misma chica que alguna vez fue tan tímida@e insegura... Pero incluso ahora, todavía quiero contarle@todo a Ui algún día."
+						"textHome": "No soy la misma chica que alguna vez fue tan@tímida e insegura... Pero incluso ahora,@todavía quiero contarle todo a Ui algún día."
                     }
                 ]
             },
@@ -147,7 +147,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Creo que ella lo entendería sin importar@en qué tipo de persona me convierta."
+						"textHome": "Creo que ella lo entendería sin importar en@qué tipo de persona me convierta."
                     }
                 ]
             },
@@ -188,7 +188,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_1001_00_19",
-						"textHome": "Me volveré tan poderosa como necesite...@para poder encontrar lo que importa de verdad.@"
+						"textHome": "Me volveré tan fuerte como sea necesario...@para poder encontrar lo que más importa."
                     }
                 ]
             },
@@ -240,7 +240,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
-						"textHome": "Empieza poco a poco y sigue@adelante un poco a la vez."
+						"textHome": "Empieza poco a poco y sigue@adelante un paso a la vez."
                     }
                 ]
             },
@@ -302,7 +302,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-						"textHome": "No podía soportar a la chica que una vez fui,@pero no pude haber llegado aquí sin ella..."
+						"textHome": "No podía soportar a la chica que una vez fui,@pero no pudría haber llegado hasta aquí si no@fuera por ella..."
                     }
                 ]
             },
@@ -363,7 +363,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_22",
-						"textHome": "Ahora que conozco a todos aquí,@creo que por fin lo entiendo."
+						"textHome": "Ahora que conozco a todos por aquí,@creo que por fin lo entiendo."
                     }
                 ]
             },
@@ -373,7 +373,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-						"textHome": "No quiero esconder como@me siento de mis amigos más cercanos..."
+						"textHome": "No quiero esconder como@me siento de mis queridos amigos..."
                     }
                 ]
             },
@@ -385,7 +385,7 @@
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Tengo que hacerles saber mis verdaderos sentimientos,@porque son muy preciados para mi."
+						"textHome": "Tengo que dejarles saber mis verdaderos@sentimientos,porque son muy preciados para mi."
                     }
                 ]
             },
@@ -535,7 +535,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-						"textHome": "Si nos apoyamos unos a otros..."
+						"textHome": "Si nos apoyamos entre todos..."
                     }
                 ]
             },
@@ -546,7 +546,7 @@
                         "cheek": 1,
                         "id": 100100,
                         "motion": 300,
-						"textHome": "Podemos llegar a lugares a los@que nunca podríamos llegar solos."
+						"textHome": "Podremos llegar a lugares que seríamos@ incapaces de alcanzar solos."
                     }
                 ]
             },
@@ -628,7 +628,7 @@
                     {
                         "id": 100100,
                         "motion": 100,
-						"textHome": "Hay algo en ello que me prepara@para afrontar el día."
+						"textHome": "Algo en esa frase me@ayuda a enfrentar el día."
                     }
                 ]
             },
@@ -680,7 +680,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_26",
-						"textHome": "Si todavía no has comido,@¿te gustaría almorzar juntos?"
+						"textHome": "Si todavía no has comido,@¿te gustaría que almorcemos juntos?"
                     }
                 ]
             },
@@ -769,7 +769,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Dime si le falta sal."
+						"textHome": "Dime si le falta un poco de sal."
                     }
                 ]
             },
@@ -894,7 +894,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-						"textHome": "Si no te importa, me podría quedar despierta contigo...@Quedarse despierto tarde..."
+						"textHome": "Si no te importa, me podría quedar despierta@contigo... Quedarse despierto tarde..."
                     }
                 ]
             },
@@ -915,7 +915,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "No es bueno hacerlo todo@el tiempo, pero a veces..."
+						"textHome": "No es bueno hacerlo todo el tiempo,@pero de vez en cuando..."
                     }
                 ]
             },
@@ -925,7 +925,7 @@
                     {
                         "id": 100100,
                         "motion": 100,
-						"textHome": "A veces, creo que está bien."
+						"textHome": "De vez en cuando, creo que está bien."
                     }
                 ]
             },
@@ -957,7 +957,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_29",
-						"textHome": "Siento como que mi gasto en comida es diferente@del de los demás..."
+						"textHome": "Siento que mi gusto en comida es diferente@del de los demás..."
                     }
                 ]
             },
@@ -1021,7 +1021,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_30",
-						"textHome": "Casi es hora de irnos, ¿cierto?"
+						"textHome": "Ya casi es hora de irnos, ¿cierto?"
                     }
                 ]
             },
@@ -1115,7 +1115,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_31",
-						"textHome": "No importa que tan largo pueda ser el camino,"
+						"textHome": "No importa que tan largo pueda ser el viaje,"
                     }
                 ]
             },
@@ -1127,7 +1127,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "simplemente no puedo ignorar a una Bruja si me encuentro una."
+						"textHome": "si aparece una Bruja simplemente@no puedo ignorarla."
                     }
                 ]
             },
@@ -1139,7 +1139,7 @@
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
                         "motion": 300,
-						"textHome": "¡Pero no te preocupes!"
+						"textHome": "Pero ¡no te preocupes!"
                     }
                 ]
             },
@@ -1240,7 +1240,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_33",
-						"textHome": "Así que, ¿qué está de moda estos días@de cualquier forma?"
+						"textHome": "Me pregunto, ¿Qué será popular hoy en día?"
                     }
                 ]
             },
@@ -1259,7 +1259,7 @@
                     {
                         "cheek": 1,
                         "id": 100100,
-						"textHome": "Lo sé, es una pregunta rara, ¿verdad?, viniendo@de alguien de mi edad."
+						"textHome": "Si, sé que es una pregunta rara@viniendo de alguien de mi edad."
                     }
                 ]
             },
@@ -1333,7 +1333,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
-						"textHome": "Y yo, que no puedo ni cambiar@el fondo de pantalla de mi celular..."
+						"textHome": "Y mírame a mi, ni siquiera puedo cambiar@el fondo de pantalla de mi celular..."
                     }
                 ]
             },
@@ -1448,7 +1448,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_36",
-						"textHome": "No les puedo seguir el ritmo a las chicas de mi edad@cuando empiezan a hablar de@canciones o series populares."
+						"textHome": "No les puedo seguir el ritmo a los chicos de@mi edad cuando empiezan a hablar de canciones@o series populares."
                     }
                 ]
             },
@@ -1477,7 +1477,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
-						"textHome": "Tal vez debería empezar a leer@sobre ellos en línea..."
+						"textHome": "Tal vez debería empezar a leer@sobre ellas en línea..."
                     }
                 ]
             },
@@ -1519,7 +1519,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_37",
-						"textHome": "Momoko es como una hermana mayor confiable."
+						"textHome": "Momoko es como esa hermana mayor confiable."
                     }
                 ]
             },
@@ -1645,7 +1645,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-						"textHome": "Cuando estoy con todos,@mi tristeza desaparece."
+						"textHome": "Cuando estoy con todas,@mi tristeza desaparece."
                     }
                 ]
             },
@@ -1657,7 +1657,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 1,
-						"textHome": "Felicidad, tristeza, compartimos@todos nuestros sentimientos..."
+						"textHome": "Felicidad, tristeza, todas compartimos@nuestros sentimientos..."
                     }
                 ]
             },
@@ -1669,7 +1669,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 300,
-						"textHome": "Felicidad, tristeza, compartimos@todos nuestros sentimientos..."
+						"textHome": "Felicidad, tristeza, todas compartimos@nuestros sentimientos..."
                     }
                 ]
             },
@@ -1701,7 +1701,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_39",
-						"textHome": "¡Deberías ver el manga que está leyendo Felicia!"
+						"textHome": "¡Deberías ver el manga que Felicia@está leyendo!"
                     }
                 ]
             },
@@ -1723,7 +1723,7 @@
                     {
                         "id": 100100,
                         "motion": 300,
-						"textHome": "Tan emocionante que no creo que@mi corazón puedo con ello..."
+						"textHome": "Tan emocionante que no creo que@mi corazón pueda manejarlo..."
                     }
                 ]
             },
@@ -1755,7 +1755,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_40",
-						"textHome": "Sana, y yo... pienso que nos parecemos un poco."
+						"textHome": "Sana, y yo... pienso que nos@parecemos un poco."
                     }
                 ]
             },
@@ -1816,7 +1816,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_41",
-						"textHome": "He escrito todas las recetas@que mi mamá me ha enseñado..."
+						"textHome": "He escrito todas las recetas@que me ha enseñado mi mamá..."
                     }
                 ]
             },
@@ -1837,7 +1837,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Supongo que la mayoría de los jóvenes simplemente@las escriben en la computadora, ¿no?"
+						"textHome": "Supongo que la mayoría de los jóvenes@simplemente las escriben en la@computadora, ¿no?"
                     }
                 ]
             },
@@ -1887,7 +1887,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_42",
-						"textHome": "¡Voy a estar bien!"
+						"textHome": "¡Todo va a estar bien!"
                     }
                 ]
             },
@@ -1928,7 +1928,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_43",
-						"textHome": "¡Qué bueno que no me rendí!"
+						"textHome": "¡Menos mal que no me rendí!"
                     }
                 ]
             },
@@ -1960,7 +1960,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_44",
-						"textHome": "Tenía fe en que estaríamos bien."
+						"textHome": "Tuve fé en que todo estaría bien."
                     }
                 ]
             },
@@ -2035,7 +2035,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_46",
-						"textHome": "¿Me he convertido en una hermana mayor fuerte?"
+						"textHome": "¿Me convertí en una hermana mayor fuerte?"
                     }
                 ]
             },
@@ -2338,7 +2338,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_13",
-						"textHome": "Cada vez que me hago más fuerte,@el futuro se siente mucho más brillante..."
+						"textHome": "Cada vez que me vuelvo más fuerte,@el futuro se ve más prometedor..."
                     }
                 ]
             },
@@ -2392,7 +2392,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_1001_00_14",
-						"textHome": "Logré llegar hasta aquí...@Creo que está bien sentirme segura@de mi mismo, ¿verdad?"
+						"textHome": "Logré llegar hasta aquí...@Creo que está bien sentirme segura@de mi misma ahora, ¿verdad?"
                     }
                 ]
             },
@@ -2519,7 +2519,7 @@
                         "face": "mtn_ex_021.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Quiero crecer un poco más, para que ella@pueda decirles a todos que tiene a@la mejor hermana mayor de todo el mundo."
+						"textHome": "Quiero crecer un poco más, para que ella@pueda decirles a todos que tiene a la@mejor hermana mayor de todo el mundo."
                     }
                 ]
             },
@@ -2579,7 +2579,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_00_17",
-						"textHome": "Le mostraré a Ui una sonrisa de verdad...@Y entonces ella me mostrará una sonrisa verdadera."
+						"textHome": "Le mostraré a Ui una sonrisa de corazón...@Y entonces ella responderá de la misma manera."
                     }
                 ]
             },

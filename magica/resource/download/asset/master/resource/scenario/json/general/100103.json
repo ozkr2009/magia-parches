@@ -509,7 +509,7 @@
                     {
                         "id": 100100,
                         "motion": 100,
-						"textHome": "¿El calor de verano te hace sentir mal?"
+						"textHome": "¿El calor de verano te baja los ánimos?"
                     }
                 ]
             },
@@ -529,7 +529,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-						"textHome": "No dejes el aire acondicionado@prendido todo el tiempo, ¿okey?"
+						"textHome": "No dejes el aire acondicionado@prendido todo el día, ¿okey?"
                     }
                 ]
             },
@@ -541,7 +541,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 401,
-						"textHome": "Oh cielos...@Estoy empezando a sonar como mi madre."
+						"textHome": "Ah, rayos...@Estoy empezando a sonar como mi madre."
                     }
                 ]
             },
@@ -594,7 +594,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_011.exp.json",
                         "id": 100100,
-						"textHome": "El aire es tan fresco."
+						"textHome": "El aire es muy fresquito."
                     }
                 ]
             },
@@ -606,7 +606,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-						"textHome": "Cuando estaba en la primaria,@solía caminar al parque a@hacer mis ejercicios matutinos."
+						"textHome": "Cuando estaba en la primaria,@solía caminar al parque a hacer@mis ejercicios matutinos."
                     }
                 ]
             },
@@ -714,7 +714,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_03_27",
-						"textHome": "Se pone un poco fresco después del atardecer,@pero sigue estando algo caliente."
+						"textHome": "Se pone un poco fresco después del atardecer,@pero sigue haciendo algo de calor."
                     }
                 ]
             },
@@ -736,7 +736,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 401,
-						"textHome": "¡Oh! ¿Podemos parar en el super mercado?@Necesito comprar algo de helado."
+						"textHome": "¡Ah! ¿Podemos ir al supermercado?@Quiero comprar un poco de helado."
                     }
                 ]
             },
@@ -831,7 +831,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_03_28",
-						"textHome": "Todavía hace mucho calor... Pero no es bueno dormir con@el aire acondicionado prendido..."
+						"textHome": "Todavía hace mucho calor... Pero no es bueno@dormir con el aire acondicionado prendido..."
                     }
                 ]
             },
@@ -843,7 +843,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Oh... ¿No dijo Yachiyo que había algunas@almohadas de hielo?"
+						"textHome": "Ah... ¿No dijo Yachiyo que había algunas@almohadillas de hielo?"
                     }
                 ]
             },
@@ -897,7 +897,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_1001_03_29",
-						"textHome": "¿Sabes mucho sobre constelaciones?"
+						"textHome": "¿Sabes mucho sobre las constelaciones?"
                     }
                 ]
             },
@@ -907,7 +907,7 @@
                     {
                         "id": 100100,
                         "motion": 1,
-						"textHome": "Hay una que se llama Triángulo de Verano."
+						"textHome": "Hay una llamada Triángulo de Verano."
                     }
                 ]
             },
@@ -918,7 +918,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
-						"textHome": "Siempre intento encontrarla, pero nunca puedo..."
+						"textHome": "Siempre trato de encontrarla pero nunca la veo..."
                     }
                 ]
             },
@@ -984,7 +984,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
                         "motion": 100,
-						"textHome": "Me pongo super roja cuando me da demasiado el sol,"
+						"textHome": "Me pongo super roja cuando me@da demasiado el sol,"
                     }
                 ]
             },
@@ -994,7 +994,7 @@
                     {
                         "id": 100100,
                         "motion": 300,
-						"textHome": "así que realmente me tengo que acordar de@ponerme un poco."
+						"textHome": "Así que tengo que asegurarme@de ponerme un poco."
                     }
                 ]
             },
@@ -1026,7 +1026,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_03_31",
-						"textHome": "Tsuruno ha estado yendo a la Mansión de la Bruja@de los Espejos casi todos los días este verano."
+						"textHome": "Tsuruno ha estado yendo a la Mansión de@la Bruja de los Espejos casi todos los@días este verano."
                     }
                 ]
             },
@@ -1059,7 +1059,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 100,
-						"textHome": "Yachiyo la felicitó por encontrar un@pasatiempo económico."
+						"textHome": "Yachiyo la felicitó por haber encontrado@un pasatiempo económico."
                     }
                 ]
             },
@@ -1175,7 +1175,7 @@
                         "motion": 401,
                         "pos": 1,
                         "voice": "vo_char_1001_03_33",
-						"textHome": "¡Achú!"
+						"textHome": "¡Achúu!"
                     }
                 ]
             },
@@ -1187,7 +1187,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 100100,
                         "motion": 300,
-						"textHome": "Tal vez deje el aire acondicionado prendido demasiado tiempo."
+						"textHome": "Tal vez dejé el aire acondicionado@encendido demasiado tiempo."
                     }
                 ]
             },
@@ -1198,7 +1198,7 @@
                         "cheek": 1,
                         "id": 100100,
                         "motion": 0,
-						"textHome": "Siento escalofríos ahora..."
+						"textHome": "Ahora siento escalofríos..."
                     }
                 ]
             },
@@ -1221,7 +1221,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-						"textHome": "Parece que nos tenemos que cuidar@de los resfriados en el verano también."
+						"textHome": "Parece que nos tenemos que cuidar de los@resfriados durante el verano también."
                     }
                 ]
             },
@@ -1253,7 +1253,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_03_34",
-						"textHome": "Sólo tenía mi traje de baño de la escuela hasta ahora."
+						"textHome": "Sólo tenía el traje de baño@de la escuela hasta ahora."
                     }
                 ]
             },
@@ -1309,7 +1309,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_03_35",
-						"textHome": "Usar un lindo traje de baño te hace@querer ir a la playa."
+						"textHome": "Llevar un bonito traje de baño hace que@quieras ir a la playa."
                     }
                 ]
             },
@@ -1332,7 +1332,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 400,
-						"textHome": "¡Oh! Una piscina sería divertida también."
+						"textHome": "¡Ah! Una piscina también sería divertida."
                     }
                 ]
             },
@@ -1343,7 +1343,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_011.exp.json",
                         "id": 100100,
-						"textHome": "Un lugar con muchas albercas..."
+						"textHome": "Un lugar con muchas piscinas diferentes..."
                     }
                 ]
             },
@@ -1397,7 +1397,7 @@
                     {
                         "id": 100100,
                         "motion": 1,
-						"textHome": "Estaba pensado en buscar cuanta@sal y azúcar hay en distintas comidas..."
+						"textHome": "Estaba pensando en buscar cuánta sal y@azúcar hay en varios alimentos..."
                     }
                 ]
             },
@@ -1439,7 +1439,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_1001_03_37",
-						"textHome": "¿Ya terminaste tu tarea de verano?"
+						"textHome": "¿Ya terminaste tus tareas de verano?"
                     }
                 ]
             },
@@ -1449,7 +1449,7 @@
                     {
                         "id": 100100,
                         "motion": 301,
-						"textHome": "Erm...@No puedo resolver uno de los problemas de matemáticas..."
+						"textHome": "Erm...@No puedo resolver uno de los problemas@de matemáticas..."
                     }
                 ]
             },
@@ -1542,7 +1542,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_03_38",
-						"textHome": "Estamos planeando en ir a la playa@uno de estos días."
+						"textHome": "Estamos planeando en ir a la playa@un día de estos."
                     }
                 ]
             },
@@ -1564,7 +1564,7 @@
                     {
                         "id": 100100,
                         "motion": 200,
-						"textHome": "N-no hay ningún tiburón en el agua, ¿verdad?"
+						"textHome": "N-no hay tiburones en el agua, ¿verdad?"
                     }
                 ]
             },
@@ -1596,7 +1596,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_03_39",
-						"textHome": "Hubo fotos de Yachiyo en su traje de baño@en la edición más reciente de esa revista."
+						"textHome": "Hubo fotos de Yachiyo en su traje de baño@en la última edición de esa revista."
                     }
                 ]
             },
@@ -1615,7 +1615,7 @@
                     {
                         "id": 100100,
                         "motion": 1,
-						"textHome": "Está usando un traje de baño de una pieza con una envoltura."
+						"textHome": "Lleva un traje de baño de una sola pieza@con una envoltura."
                     }
                 ]
             },
@@ -1658,7 +1658,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_1001_03_40",
-						"textHome": "¿Tienes el flotador? Oh...@Tampoco olvides tus sandalias de playa."
+						"textHome": "¿Tienes el flotador? Oh...@No olvides tus sandalias de playa tampoco."
                     }
                 ]
             },
@@ -1670,7 +1670,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 400,
-						"textHome": "¿Qué más? @Pues, también vamos a necesitar una manta de plástico para sentarnos."
+						"textHome": "¿Qué más? @Bueno, también necesitaremos una manta@para sentarnos."
                     }
                 ]
             },
@@ -1694,7 +1694,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 100,
-						"textHome": "Estoy ansiosa de ir a la@playa contigo."
+						"textHome": "Estoy ansiando ir a la@playa contigo."
                     }
                 ]
             },
@@ -1736,7 +1736,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_1001_03_41",
-						"textHome": "¡Eek! ¡Me distraje! ¡Me sorprendiste!"
+						"textHome": "¡Eek! ¡Estaba distraída! ¡Me sorprendiste!"
                     }
                 ]
             },
@@ -1760,7 +1760,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 100100,
                         "motion": 200,
-						"textHome": "La próxima vez, ¡tal vez tome una lata fría de jugo@y te sorprenda a ti!"
+						"textHome": "¡La próxima vez, tal vez tome una lata fría de jugo@y te sorprenda a ti!"
                     }
                 ]
             },
@@ -1843,7 +1843,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_1001_00_43",
-						"textHome": "¡Qué bueno que no me rendí!"
+						"textHome": "¡Menos mal que no me rendí!"
                     }
                 ]
             },
@@ -1875,7 +1875,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_1001_00_44",
-						"textHome": "Tenía fe en que estaríamos bien."
+						"textHome": "Tuve fé en que todo estaría bien."
                     }
                 ]
             },
