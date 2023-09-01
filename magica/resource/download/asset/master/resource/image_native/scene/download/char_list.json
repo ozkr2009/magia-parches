@@ -3,49 +3,49 @@
 		"id": 22024,
 		"default": true,
 		"name": "Akuma Homura",
-		"desc": "Una entidad que perturba la providencia y devasta este mundo. Ha robado un fragmento de la Ley de los Ciclos y por ello de hace llamar un Demonio. Mientras obliga a los Incubators a cooperar con ella, está mas que dispuesta a volverse contra las Chicas Mágicas con las que alguna vez estuvo involucrada.",
+		"desc": "Una entidad que perturba y devasta este@mundo. Robó un fragmento de la Ley de@los Ciclos y por eso se hace llamar un@Demonio. Obliga a los Incubadores a@ayudarla, y está más que dispuesta a@volverse contra las Chicas Mágicas con@las que estuvo alguna vez involucrada.",
 		"cv": "Chiwa Saitou"
 	},
 	{
 		"id": 21014,
 		"default": true,
 		"name": "Ultimate Madoka",
-		"desc": "Una Diosas que vela por las Chicas Mágicas desde los confines más lejanos del presente, pasado y futuro del universo. Ella lo sabe todo sobre Chicas Mágicas y les brinda bendiciones a todas ellas, pero por primera vez desde que apareció, encontró una Chica Mágica que no reconoce...",
+		"desc": "Una Diosa que vela por las Chicas Mágicas@desde los confines del presente, el pasado@y el futuro del universo. Sabe todo sobre@las Chicas Mágicas y brinda bendiciones@a todas ellas, pero por primera vez desde@que apareció, ha encontrado a una@Chica Mágica que no reconoce...",
 		"cv": "Aoi Yuki"
 	},
 	{
 		"id": 13014,
 		"default": true,
 		"name": "Iroha & Yachiyo ver. Final Battle",
-		"desc": "Este par de Chicas Mágicas obtuvo un poder que las apoyó durante la batalla con una Bruja abrumadoramente fuerte. Aunque comenzaron como enemigas, terminaron convirtiéndose en mejores amigas, unidas por un fuerte vínculo. Sus alas solo se pueden ver en el momento en el que el poder está listo.",
+		"desc": "Este par de Chicas Mágicas obtuvo un@poder que las apoyó durante la batalla@contra una Bruja realmente fuerte.@Aunque empezaron siendo enemigas,@acabaron siendo las mejores amigas,@unidas por un fuerte vínculo. Sus alas solo@pueden verse cuando su poder está listo.",
 		"cv": "Momo Asakura、Sora Amamiya"
 	},
 	{
 		"id": 10424,
 		"default": true,
 		"name": "Pequeño Kyubey",
-		"desc": "Un espécimen de Kyubey que solo existe dentro de Kamihama. Es diferente a los otros Kyubey y parece muy joven. La gente solía verlo deambulando por la cuidad. Ahora, se le ve con seguido entre las residentes de Villa Mikazuki. No está claro cual es su objetivo y es en gran medida un misterio.",
+		"desc": "Un espécimen de Kyubey que solo existe@dentro de Kamihama. Es diferente de los@demás Kyubeys y parece muy joven. La@gente solía verlo vagando por la ciudad.@Ahora, se le ve seguido con los residentes@de la Villa Mikazuki. No está claro qué@objetivo tiene y es todo un misterio.",
 		"cv": "Ume Aoki"
 	},
 	{
 		"id": 21044,
 		"default": true,
 		"name": "Madoka & Iroha",
-		"desc": "Chicas Mágicas que se derrumbarán por la felicidad de alguien más y llorarán con él por su desgracia. Después de luchar juntas, empezaron a mantenerse en contacto, probablemente debido a que son similares en su pasada falta de confianza en sí mismas y a que suelen ser algo reservadas. Ninguna sabe que este encuentro es un milagro.",
+		"desc": "Chicas mágicas que se hundirían por la@felicidad de alguien y llorarían con él por@su desgracia. Tras luchar juntas, se@pusieron en contacto, quizás porque se@parecían en su pasada falta de confianza@y que son algo reservadas. Ninguna sabe@que este encuentro es un milagro.",
 		"cv": "Aoi Yuki、Momo Asakura"
 	},
 	{
 		"id": 16014,
 		"default": true,
 		"name": "∞ Iroha",
-		"desc": "Una chica que ha adquirido el poder de dar un Mañana a las Chicas Mágicas que buscan la salvación. En esta figura establecida como una trinidad, dos de las figuras están ocultas de la vista. Normalmente lleva una vida agitada y vive en comunidad con otras chicas. aunque nadie sabe el motivo.",
+		"desc": "Una chica que adquirió el poder de dar un@Mañana a las Chicas Mágicas que buscan@la salvación. En esta figura, establecida@como una trinidad, dos de las figuras@están ocultas a la vista. Suele llevar una@vida agitada, conviviendo con otras chicas,@aunque nadie sabe la razón de ello.",
 		"cv": "Momo Asakura"
 	},
 	{
 		"id": 15024,
 		"default": true,
 		"name": "Yachiyo Nanami ver. Historia",
-		"desc": "Una Chica Mágica cuya forma ha cambiado tras reunir multitud de esperanzas. La lanza que lleva en la mano refleja el color de las Chicas Mágicas poseedoras de esperanzas y emite colores vibrantes. Según los rumores, la lanza es la responsable de romper las barreras del futuro y entregar esperanza.",
+		"desc": "Una Chica Mágica que cambió su forma@tras reunir una multitud de esperanzas.@La lanza que lleva refleja el color de las@Chicas Mágicas dueñas de las esperanzas@y emite intensos colores. Según rumores,@la lanza es la responsable de romper las@barreras del futuro y entregar esperanza.",
 		"cv": "Sora Amamiya"
 	},
 	{
