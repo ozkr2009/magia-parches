@@ -7,46 +7,81 @@
 		"cv": "Chiwa Saitou"
 	},
 	{
-		"id": 21014,
+		"id": 13034,
 		"default": true,
-		"name": "Ultimate Madoka",
-		"desc": "Una Diosa que vela por las Chicas Mágicas@desde los confines del presente, el pasado@y el futuro del universo. Sabe todo sobre@las Chicas Mágicas y brinda bendiciones@a todas ellas, pero por primera vez desde@que apareció, ha encontrado a una@Chica Mágica que no reconoce...",
-		"cv": "Aoi Yuki"
-	},
-	{
-		"id": 13014,
-		"default": true,
-		"name": "Iroha & Yachiyo ver. Final Battle",
-		"desc": "Este par de Chicas Mágicas obtuvo un@poder que las apoyó durante la batalla@contra una Bruja realmente fuerte.@Aunque empezaron siendo enemigas,@acabaron siendo las mejores amigas,@unidas por un fuerte vínculo. Sus alas solo@pueden verse cuando su poder está listo.",
-		"cv": "Momo Asakura、Sora Amamiya"
-	},
-	{
-		"id": 10424,
-		"default": true,
-		"name": "Pequeño Kyubey",
-		"desc": "Un espécimen de Kyubey que solo existe@dentro de Kamihama. Es diferente de los@demás Kyubeys y parece muy joven. La@gente solía verlo vagando por la ciudad.@Ahora, se le ve seguido con los residentes@de la Villa Mikazuki. No está claro qué@objetivo tiene y es todo un misterio.",
+		"name": "Uwasa Tsuruno ver. Anime",
+		"desc": "Una Chica Mágica que ha sido fusionada con la Uwasa de la Tierra de la Quelación. Para poder hacer el parque de diversiones un lugar relajante para todos, ella invita a Chicas Mágicas que visitan para relajarse. Si el oponente sigue sin relajarse, ella los hace obedecer usando choques eléctricos y técnicas anómalas utilizando equipo de juegos.",
 		"cv": "Ume Aoki"
 	},
 	{
-		"id": 21044,
+		"id": 21064,
 		"default": true,
-		"name": "Madoka & Iroha",
-		"desc": "Chicas mágicas que se hundirían por la@felicidad de alguien y llorarían con él por@su desgracia. Tras luchar juntas, se@pusieron en contacto, quizás porque se@parecían en su pasada falta de confianza@y que son algo reservadas. Ninguna sabe@que este encuentro es un milagro.",
-		"cv": "Aoi Yuki、Momo Asakura"
+		"name": "Madoka Kaname ver. Mizugi",
+		"desc": "Una Chica Mágica que brilla con el sol de verano. Ha cambiado su típico arco por una pistola de agua en forma de arco, pero si la retas pensando que solo es un juguete, veras un mundo de dolor. Ella intenta disfrutar este verano, preocupada y buscando algo que solo puede hacer ahora. La inusual cola de caballo es secretamente su favorita.",
+		"cv": "Ume Aoki"
 	},
 	{
-		"id": 16014,
+		"id": 10444,
 		"default": true,
-		"name": "∞ Iroha",
-		"desc": "Una chica que adquirió el poder de dar un@Mañana a las Chicas Mágicas que buscan@la salvación. En esta figura, establecida@como una trinidad, dos de las figuras@están ocultas a la vista. Suele llevar una@vida agitada, conviviendo con otras chicas,@aunque nadie sabe la razón de ello.",
-		"cv": "Momo Asakura"
+		"name": "Mikoto Sena",
+		"desc": "自らに暗示をかけ、現実から目を背けて@きた魔法少女。表向きはにこやかで@人懐っこいが、誰かを不幸にする判断を躊躇@なく下すような冷酷さも持ち合わせている。@外出時に幸福を味わい、帰宅すると不幸を@味わう日々を送り続ける",
+		"cv": "Kaede Hondo"
 	},
 	{
-		"id": 15024,
+		"id": 12174,
 		"default": true,
-		"name": "Yachiyo Nanami ver. Historia",
-		"desc": "Una Chica Mágica que cambió su forma@tras reunir una multitud de esperanzas.@La lanza que lleva refleja el color de las@Chicas Mágicas dueñas de las esperanzas@y emite intensos colores. Según rumores,@la lanza es la responsable de romper las@barreras del futuro y entregar esperanza.",
+		"name": "Mitama Yakumo ver. Ethernal Darkness",
+		"desc": "Una Chica Mágica que ha dejado de resistirse y ha elegido destruir hasta aquellos a los que ama. Habiendo asumido dolor a través de la coordinación, le atormenta constantemente. Ahora que la esperanza que una vez vio se ha marchitado, el único camino que le queda es dar forma a sus antiguos deseos con el mínimo daño.",
+		"cv": "Yui Horie"
+	},
+	{
+		"id": 11334,
+		"default": true,
+		"name": "Rabi Himuro ver. Kimochi",
+		"desc": "Una Chica Mágica que dejó todo para fusionarse con el Kimochi. La consume un enorme sentimiento se resignación y cree que sería mejor dar a todas las Chicas Mágicas una muerte pacífica antes de que sus seres queridos sigas sufriendo.",
+		"cv": "Ume Aoki"
+	},
+	{
+		"id": 14024,
+		"default": true,
+		"name": "Yachiyo Nanami ver. Cuento de Hadas",
+		"desc": "Una Chica Mágica cuya mente volvió  a la escuela primaria tras encontrar una cápsula del tiempo. Ya entonces era madura, por lo que no se nota la diferencia con su estado normal a menos que le pongas mucha atención. Tras su transformación, se vio influenciado por la 「Reina del Hielo」que interpretó en el pasado. Pero incluso entonces no era una buena actriz.",
 		"cv": "Sora Amamiya"
+	},
+	{
+		"id": 22034,
+		"default": true,
+		"name": "Homura Akemi ver. Haregi",
+		"desc": "Homura Akemi, que se transformó en una personalidad diferente al tener recuerdos de un eje temporal distinto. Deambulando por un misterioso primer sueño situado en la ciudad de Kamihama, ella y Madoka buscan una forma de salir de sueño. Aunque desconcertada por el drástico cambio de la situación, nunca renunciará a su deseo de salvar a Madoka.",
+		"cv": "Ume Aoki"
+	},
+	{
+		"id": 10454,
+		"default": true,
+		"name": "Tsuyu Mizuna",
+		"desc": "Una Chica Mágica que fue hija de Masatsuna Mizuna, que gobernó Hokuyo en la provincia Soma, y fue llamada Ikusamiko(Sacerdotisa de Guerra) del Oeste. Aunque se le temía por ser una 「maga de un solo golpe」, la gente del feudo la trataba con tanta despreocupación que apenas podían creer que fuera una princesa. Normalmente seria y tranquila, se relaja cuando se trata de sus historias favoritas y del Kowaka Mai.",
+		"cv": "Hina Youmiya"
+	},
+	{
+		"id": 11394,
+		"default": true,
+		"name": "Sudachi Sawa ver. San Valentín",
+		"desc": "Una Chica Mágica coordinadora ambulante que llegó a la cuidad de Takarazaki para el día de San Valentín. Para mejorar la imagen de las coordinadoras, se anuncia vistiéndose como un caramelo inspirado en el Día de San Valentín. Está secretamente contenta porque con este disfraz su arma será un bastón igual al de Yozuru.",
+		"cv": "Asuka Shiori"
+	},
+	{
+		"id": 10484,
+		"default": true,
+		"name": "Ebony",
+		"desc": "Una Chica Mágica nacida en una familia leal a los faraones. Desde muy pequeña, juró obediencia a la dinastía y fue obligada por los adultos a firmar un contrato de Chica Mágica. En secreto se pregunta si realmente nació para servir a los faraones.",
+		"cv": "Tomori Kusunoki"
+	},
+	{
+		"id": 17014,
+		"default": true,
+		"name": "Infinity Iroha-chan",
+		"desc": "Una Chica Mágica con infinitas posibilidades, unida por Irohas de universos paralelos a través de una conexión en serie. Resolverán los problemas que surjan en cada mundo creando diversas distorsiones que trascienden las barreras dimensionales debido a la inestabilidad de su existencia. Parece que número de Irohas siempre difiere un poco antes y después de la fusión, así que han decidido pasar lista la próxima vez.",
+		"cv": "Momo Asakura"
 	},
 	{
 		"id": 10011,
