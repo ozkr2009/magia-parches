@@ -1,87 +1,10 @@
 [
 	{
-		"id": 22024,
+		"id": 30224,
 		"default": true,
-		"name": "Akuma Homura",
-		"desc": "Una entidad que perturba y devasta este@mundo. Robó un fragmento de la Ley de@los Ciclos y por eso se hace llamar un@Demonio. Obliga a los Incubadores a@ayudarla, y está más que dispuesta a@volverse contra las Chicas Mágicas con@las que estuvo alguna vez involucrada.",
-		"cv": "Chiwa Saitou"
-	},
-	{
-		"id": 13034,
-		"default": true,
-		"name": "Uwasa Tsuruno ver. Anime",
-		"desc": "Una Chica Mágica que ha sido fusionada con la Uwasa de la Tierra de la Quelación. Para poder hacer el parque de diversiones un lugar relajante para todos, ella invita a Chicas Mágicas que visitan para relajarse. Si el oponente sigue sin relajarse, ella los hace obedecer usando choques eléctricos y técnicas anómalas utilizando equipo de juegos.",
-		"cv": "Ume Aoki"
-	},
-	{
-		"id": 21064,
-		"default": true,
-		"name": "Madoka Kaname ver. Mizugi",
-		"desc": "Una Chica Mágica que brilla con el sol de verano. Ha cambiado su típico arco por una pistola de agua en forma de arco, pero si la retas pensando que solo es un juguete, veras un mundo de dolor. Ella intenta disfrutar este verano, preocupada y buscando algo que solo puede hacer ahora. La inusual cola de caballo es secretamente su favorita.",
-		"cv": "Ume Aoki"
-	},
-	{
-		"id": 10444,
-		"default": true,
-		"name": "Mikoto Sena",
-		"desc": "自らに暗示をかけ、現実から目を背けて@きた魔法少女。表向きはにこやかで@人懐っこいが、誰かを不幸にする判断を躊躇@なく下すような冷酷さも持ち合わせている。@外出時に幸福を味わい、帰宅すると不幸を@味わう日々を送り続ける",
-		"cv": "Kaede Hondo"
-	},
-	{
-		"id": 12174,
-		"default": true,
-		"name": "Mitama Yakumo ver. Ethernal Darkness",
-		"desc": "Una Chica Mágica que ha dejado de resistirse y ha elegido destruir hasta aquellos a los que ama. Habiendo asumido dolor a través de la coordinación, le atormenta constantemente. Ahora que la esperanza que una vez vio se ha marchitado, el único camino que le queda es dar forma a sus antiguos deseos con el mínimo daño.",
-		"cv": "Yui Horie"
-	},
-	{
-		"id": 11334,
-		"default": true,
-		"name": "Rabi Himuro ver. Kimochi",
-		"desc": "Una Chica Mágica que dejó todo para fusionarse con el Kimochi. La consume un enorme sentimiento se resignación y cree que sería mejor dar a todas las Chicas Mágicas una muerte pacífica antes de que sus seres queridos sigas sufriendo.",
-		"cv": "Ume Aoki"
-	},
-	{
-		"id": 14024,
-		"default": true,
-		"name": "Yachiyo Nanami ver. Cuento de Hadas",
-		"desc": "Una Chica Mágica cuya mente volvió  a la escuela primaria tras encontrar una cápsula del tiempo. Ya entonces era madura, por lo que no se nota la diferencia con su estado normal a menos que le pongas mucha atención. Tras su transformación, se vio influenciado por la 「Reina del Hielo」que interpretó en el pasado. Pero incluso entonces no era una buena actriz.",
-		"cv": "Sora Amamiya"
-	},
-	{
-		"id": 22034,
-		"default": true,
-		"name": "Homura Akemi ver. Haregi",
-		"desc": "Homura Akemi, que se transformó en una personalidad diferente al tener recuerdos de un eje temporal distinto. Deambulando por un misterioso primer sueño situado en la ciudad de Kamihama, ella y Madoka buscan una forma de salir de sueño. Aunque desconcertada por el drástico cambio de la situación, nunca renunciará a su deseo de salvar a Madoka.",
-		"cv": "Ume Aoki"
-	},
-	{
-		"id": 10454,
-		"default": true,
-		"name": "Tsuyu Mizuna",
-		"desc": "Una Chica Mágica que fue hija de Masatsuna Mizuna, que gobernó Hokuyo en la provincia Soma, y fue llamada Ikusamiko(Sacerdotisa de Guerra) del Oeste. Aunque se le temía por ser una 「maga de un solo golpe」, la gente del feudo la trataba con tanta despreocupación que apenas podían creer que fuera una princesa. Normalmente seria y tranquila, se relaja cuando se trata de sus historias favoritas y del Kowaka Mai.",
-		"cv": "Hina Youmiya"
-	},
-	{
-		"id": 11394,
-		"default": true,
-		"name": "Sudachi Sawa ver. San Valentín",
-		"desc": "Una Chica Mágica coordinadora ambulante que llegó a la cuidad de Takarazaki para el día de San Valentín. Para mejorar la imagen de las coordinadoras, se anuncia vistiéndose como un caramelo inspirado en el Día de San Valentín. Está secretamente contenta porque con este disfraz su arma será un bastón igual al de Yozuru.",
-		"cv": "Asuka Shiori"
-	},
-	{
-		"id": 10484,
-		"default": true,
-		"name": "Ebony",
-		"desc": "Una Chica Mágica nacida en una familia leal a los faraones. Desde muy pequeña, juró obediencia a la dinastía y fue obligada por los adultos a firmar un contrato de Chica Mágica. En secreto se pregunta si realmente nació para servir a los faraones.",
-		"cv": "Tomori Kusunoki"
-	},
-	{
-		"id": 17014,
-		"default": true,
-		"name": "Infinity Iroha-chan",
-		"desc": "Una Chica Mágica con infinitas posibilidades, unida por Irohas de universos paralelos a través de una conexión en serie. Resolverán los problemas que surjan en cada mundo creando diversas distorsiones que trascienden las barreras dimensionales debido a la inestabilidad de su existencia. Parece que número de Irohas siempre difiere un poco antes y después de la fusión, así que han decidido pasar lista la próxima vez.",
-		"cv": "Momo Asakura"
+		"name": "Mitsuru Inami",
+		"desc": "Una chica mágica muy experimentada con baja autoestima. Su mayor tema en la vida es ser normal basándose en su propio sentido de los valores, y siempre ha vivido de forma tranquila y discreta. Nació en Ciudad Niki, pero se ha trasladado de un lugar a otro debido al trabajo de sus padres.",
+		"cv": "Toyota Moe"
 	},
 	{
 		"id": 10011,
@@ -115,7 +38,7 @@
 		"id": 10104,
 		"default": true,
 		"name": "Momoko Togame",
-		"desc": "Una Chica Mágica que siempre está al pendiente de las novatas. Al ser la hija del medio, se vio influenciada por la masculinidad de sus dos hermanos, pero le encantan las cosas lindas y femeninas, como los peluches. Es por esto que también es fan de las idols.",
+		"desc": "Siempre pendiente de las novatas. Al ser la hija del medio, se vio influenciada por la masculinidad de sus dos hermanos, pero le encantan las cosas lindas y femeninas, como los peluches. Es por esto que también es fan de las idols.",
 		"cv": "Mikako Komatsu"
 	},
 	{
