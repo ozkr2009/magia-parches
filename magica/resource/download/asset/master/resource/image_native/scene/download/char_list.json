@@ -1,13 +1,13 @@
 [
 	{
-		"id": 40624,
+		"id": 40614,
 		"default": true,
 		"name": "Chisato Nishikigi",
 		"desc": "La autoproclamada chica del Café LycoReco pero también es una Chica Mágica que es agente de una organización secreta llamada Lycoris. Sus prioridades es hacer lo que quiera y disfruta resolviendo problemas en los sectores que no se ocupa la organización. Cree que las chicas mágicas son heroínas geniales.",
 		"cv": "Anzai Chika"
 	},
 	{
-		"id": 40614,
+		"id": 40624,
 		"default": true,
 		"name": "Takina Inoue",
 		"desc": "Empleada del Café LycoReco pero también es agente de una organización secreta llamada Lycoris. Aparenta ser fría, pero tiene un sentido del estilo único y a menudo se deja mangonear por Chisato. Debido a su naturaleza racional y calculadora, piensa que las chicas mágicas llevan trajes llamativos.",
