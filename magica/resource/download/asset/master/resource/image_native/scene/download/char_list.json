@@ -1,10 +1,17 @@
 [
 	{
-		"id": 30224,
+		"id": 40624,
 		"default": true,
-		"name": "Mitsuru Inami",
-		"desc": "Una chica mágica muy experimentada con baja autoestima. Su lema es ser una persona normal basandose en los valores de vivir tranquila y discretamente. Nació en Ciudad Niki, pero se ha mudado de un lugar a otro debido al trabajo con sus padres.",
-		"cv": "Toyota Moe"
+		"name": "Chisato Nishikigi",
+		"desc": "La autoproclamada chica del Café LycoReco pero también es una Chica Mágica que es agente de una organización secreta llamada Lycoris. Sus prioridades es hacer lo que quiera y disfruta resolviendo problemas en los sectores que no se ocupa la organización. Cree que las chicas mágicas son heroínas geniales.",
+		"cv": "Anzai Chika"
+	},
+	{
+		"id": 40614,
+		"default": true,
+		"name": "Takina Inoue",
+		"desc": "Empleada del Café LycoReco pero también es agente de una organización secreta llamada Lycoris. Aparenta ser fría, pero tiene un sentido del estilo único y a menudo se deja mangonear por Chisato. Debido a su naturaleza racional y calculadora, piensa que las chicas mágicas llevan trajes llamativos.",
+		"cv": "Wakayama Shion"
 	},
 	{
 		"id": 10011,
