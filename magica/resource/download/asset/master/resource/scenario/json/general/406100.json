@@ -12,7 +12,7 @@
 						"motion": 100,
 						"pos": 1,
 						"voice": "vo_char_4061_00_01",
-						"textHome": "¡Bienvenido a la cafetería LycoReco!."
+						"textHome": "¡Bienvenidos a la cafetería LycoReco!"
 					}
 				]
 			},
@@ -23,7 +23,8 @@
 						"cheek": 0,
 						"face": "mtn_ex_010.exp3.json",
 						"id": 406100,
-						"motion": 0
+						"motion": 0,
+						"textHome": "O es lo que siempre digo,"
 					}
 				]
 			},
@@ -34,7 +35,8 @@
 						"cheek": 0,
 						"face": "mtn_ex_041.exp3.json",
 						"id": 406100,
-						"motion": 300
+						"motion": 300,
+						"textHome": "pero por alguna razón he acabado en Kamihama.@Bueno, no gano nada estando preocupada,"
 					}
 				]
 			},
@@ -44,7 +46,8 @@
 					{
 						"cheek": 0,
 						"face": "mtn_ex_010.exp3.json",
-						"id": 406100
+						"id": 406100,
+						"textHome": "así que lo he aceptando y pensaba en@divertirme antes de volver,"
 					}
 				]
 			},
@@ -55,7 +58,8 @@
 						"cheek": 0,
 						"face": "mtn_ex_011.exp3.json",
 						"id": 406100,
-						"motion": 400
+						"motion": 400,
+						"textHome": "así por lo menos podría ocurrir algo bueno."
 					}
 				]
 			},
@@ -66,7 +70,8 @@
 						"cheek": 0,
 						"face": "mtn_ex_010.exp3.json",
 						"id": 406100,
-						"motion": 1
+						"motion": 1,
+						"textHome": "Asi que, aunque sea por un corto tiempo,@¡estaré contando contigo!"
 					}
 				]
 			},
@@ -88,7 +93,23 @@
 						"id": 406100
 					}
 				]
-			}
+			},
+			{
+                "chara": [
+                    {
+                        "id": 100100,
+                        "textHomeStatus": "Clear"
+                    }
+                ]
+            },
+            {
+                "chara": [
+                    {
+                        "id": 100100,
+                        "textHomeStatus": "Clear"
+                    }
+                ]
+            }
 		],
 		"group_10": [
 			{
