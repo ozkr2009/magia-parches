@@ -36,7 +36,7 @@
 						"face": "mtn_ex_041.exp3.json",
 						"id": 406100,
 						"motion": 300,
-						"textHome": "pero por alguna razón he acabado en Kamihama.@Bueno, no gano nada estando preocupada,"
+						"textHome": "pero por alguna razón he acabado en Kamihama."
 					}
 				]
 			},
@@ -47,7 +47,7 @@
 						"cheek": 0,
 						"face": "mtn_ex_010.exp3.json",
 						"id": 406100,
-						"textHome": "así que lo he aceptando y pensaba en@divertirme antes de volver,"
+						"textHome": "Bueno, no gano nada estando preocupada,@así que lo he aceptando y pensaba en@divertirme antes de volver,"
 					}
 				]
 			},
@@ -71,7 +71,7 @@
 						"face": "mtn_ex_010.exp3.json",
 						"id": 406100,
 						"motion": 1,
-						"textHome": "Asi que, aunque sea por un corto tiempo,@¡estaré contando contigo!"
+						"textHome": "Así que, aunque sea por un corto tiempo,@¡estaré contando contigo!"
 					}
 				]
 			},
