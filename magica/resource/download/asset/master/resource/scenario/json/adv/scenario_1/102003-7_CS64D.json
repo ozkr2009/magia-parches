@@ -26,7 +26,7 @@
                     }
                 ],
                 "nameCenter": "Nemu",
-                "textCenter": "My internal clock spins backwards..."
+                "textCenter": "Mi reloj interno gira al revés..."
             },
             {
                 "chara": [
@@ -37,7 +37,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-3"
                     }
                 ],
-                "textCenter": "As time is written anew..."
+                "textCenter": "Mientras el tiempo se escribe de nuevo..."
             },
             {
                 "chara": [
@@ -47,7 +47,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-4"
                     }
                 ],
-                "textCenter": "My true past burns into my retinas."
+                "textCenter": "Mi verdadero pasado se graba en mis retinas."
             },
             {
                 "autoTurnLast": 3,
@@ -73,7 +73,7 @@
                 ],
                 "nameCenter": "Kyubey",
                 "surround": "7003_wind",
-                "textCenter": "Hello there, Touka Satomi. Nemu Hiiragi.@Ui Tamaki.",
+                "textCenter": "Hola, Touka Satomi. Nemu Hiiragi.@Ui Tamaki.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -84,7 +84,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-6"
                     }
                 ],
-                "textCenter": "You three will be doing me a huge favor by@becoming Magical Girls."
+                "textCenter": "Ustedes tres me harán un gran favor al@convertirse en Chicas Mágicas."
             },
             {
                 "chara": [
@@ -94,7 +94,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-7"
                     }
                 ],
-                "textCenter": "It seems it was worth giving Touka all of@that information."
+                "textCenter": "Parece que valió la pena darle a Touka toda@esa información."
             },
             {
                 "autoTurnLast": 0.2,
@@ -138,7 +138,7 @@
                 "nameCenter": "Ui",
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textCenter": "Are you...Kyubey? Are you going to grant our@wishes?"
+                "textCenter": "¿Tú eres... Kyubey? ¿Vas a cumplir nuestros@deseos?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -169,7 +169,7 @@
                     }
                 ],
                 "nameCenter": "Kyubey",
-                "textCenter": "In exchange you must fight Witches for me,@as Magical Girls.",
+                "textCenter": "A cambio deben luchar contra las Brujas por mí,@como Chicas Mágicas.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-10"
             },
             {
@@ -214,7 +214,7 @@
                 "nameCenter": "Ui",
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textCenter": "Yes, we already heard about that part from@Touka."
+                "textCenter": "Sí, ya escuchamos esa parte de@Touka."
             },
             {
                 "chara": [
@@ -225,7 +225,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-11"
                     }
                 ],
-                "textRight": "I, too, have heard everything from Touka."
+                "textRight": "Yo también he escuchado todo de Touka."
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-12"
                     }
                 ],
-                "textRight": "The role we must fulfill to pay for our wish,@and the fate that shall bring us..."
+                "textRight": "El papel que debemos llevar a cabo para pagar@por nuestros deseos, y el destino que eso nos@traerá..."
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-13"
                     }
                 ],
-                "textRight": "You don't have to explain. We already know."
+                "textRight": "No hay necesidad de que expliques. Ya lo sabemos."
             },
             {
                 "autoTurnLast": 0.2,
@@ -276,7 +276,7 @@
                     }
                 ],
                 "nameCenter": "Kyubey",
-                "textCenter": "Understood.",
+                "textCenter": "Entendido.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-15"
             },
             {
@@ -285,7 +285,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "Then what wishes would you like me to grant@for you?",
+                "textCenter": "Entonces, ¿qué deseos les gustaría que les@concediera?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-16",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-15"
             },
@@ -331,10 +331,10 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-7-17"
                     }
                 ],
-                "nameCenter": "Ui",
+                "nameCenter": "Kyubey",
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textRight": "Our wishes are simultaneously one wish@and separate ones."
+                "textRight": "Nuestros deseos son uno solo y varios@simultáneamente."
             },
             {
                 "chara": [
@@ -344,7 +344,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-17"
                     }
                 ],
-                "textRight": "We desire power for the sake of the future."
+                "textRight": "Deseamos poder por el bien del futuro."
             },
             {
                 "autoTurnLast": 0.2,
@@ -375,7 +375,7 @@
                     }
                 ],
                 "nameCenter": "Kyubey",
-                "textCenter": "And what do you mean by that?",
+                "textCenter": "¿Y qué quieres decir con eso?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-19"
             },
             {
@@ -420,7 +420,7 @@
                 "nameCenter": "Ui",
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textCenter": "W-well, Kyubey, what we mean, is..."
+                "textCenter": "B-bueno, Kyubey, lo que queremos decir, es..."
             },
             {
                 "chara": [
@@ -431,7 +431,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-20"
                     }
                 ],
-                "textLeft": "What we want are..."
+                "textLeft": "Lo que queremos son..."
             },
             {
                 "chara": [
@@ -450,8 +450,8 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-7-22_nemu"
                     }
                 ],
-                "nameCenter": "Touka, Ui, and Nemu",
-                "textCenter": "The powers that you possess.",
+                "nameCenter": "Touka, Ui, y Nemu",
+                "textCenter": "Los poderes que posees.",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-21"
             },
             {
@@ -490,7 +490,7 @@
                     }
                 ],
                 "nameCenter": "Kyubey",
-                "textCenter": "Powers...",
+                "textCenter": "Poderes...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-23"
             },
             {
@@ -499,7 +499,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "You mean... You girls are wishing for...",
+                "textCenter": "Quieren decir... Ustedes están deseando...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-24",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-23"
             },
@@ -547,7 +547,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-7-25_nemu"
                     }
                 ],
-                "nameCenter": "Touka, Ui, and Nemu",
+                "nameCenter": "Touka, Ui, y Nemu",
                 "textCenter": "..."
             },
             {
@@ -581,7 +581,7 @@
                     }
                 ],
                 "nameCenter": "Kyubey",
-                "textCenter": "I never thought that any girls would stand@before me and wish for something like that.",
+                "textCenter": "Nunca pensé que alguna chica llegara frente a@mí y me pidiera algo como eso.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-26"
             },
             {
@@ -590,7 +590,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "Are you sure those are the wishes you want@me to grant?",
+                "textCenter": "¿Están seguras de que esos son los deseos que@quieren que cumpla?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-27",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-26"
             },
@@ -600,7 +600,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "It may not be possible to take my powers @away from me...",
+                "textCenter": "Puede que no sea posible quitarme mis poderes...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-28",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-27"
             },
@@ -610,7 +610,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "Unless you possess a karmic destiny of@equivalent weight.",
+                "textCenter": "A menos que posean un destino kármico de peso@equivalente.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-29",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-28"
             },
@@ -620,7 +620,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "I'm sure you already understand this, since@you are so well-versed in the topic...",
+                "textCenter": "Estoy seguro de que ustedes ya comprenden eso,@ya que están tan al tanto del tema...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-30",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-29"
             },
@@ -630,7 +630,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "But if I try to force your wish to come true,@you may end up paying a heavy price.",
+                "textCenter": "Pero si intento hacer que su deseo se haga@realidad, puede que terminen pagando un@precio alto.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-31",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-30"
             },
@@ -673,10 +673,10 @@
                         "soulGem": 0
                     }
                 ],
-                "nameCenter": "Ui",
+                "nameCenter": "Kyubey",
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textLeft": "...?!"
+                "textLeft": "¡¿...?!"
             },
             {
                 "chara": [
@@ -686,7 +686,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-32"
                     }
                 ],
-                "textLeft": "How big a cost are we talking...?"
+                "textLeft": "¿Qué tan alto...?"
             },
             {
                 "chara": [
@@ -697,7 +697,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-33"
                     }
                 ],
-                "textRight": "What could that influence?"
+                "textRight": "¿En qué podría influir?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -728,7 +728,7 @@
                     }
                 ],
                 "nameCenter": "Kyubey",
-                "textCenter": "I don't know what will happen.",
+                "textCenter": "No sé qué pasará.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-35"
             },
             {
@@ -737,7 +737,7 @@
                         "id": 810000
                     }
                 ],
-                "textCenter": "After all, I do not have the ability to@see the future.",
+                "textCenter": "Después de todo, no tengo la habilidad de@ver el futuro.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-7-36",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-35"
             },
@@ -783,7 +783,7 @@
                 "nameCenter": "Ui",
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textCenter": "Even so..."
+                "textCenter": "Aun así..."
             },
             {
                 "chara": [
@@ -793,7 +793,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-37"
                     }
                 ],
-                "textCenter": "I'll still wish for it."
+                "textCenter": "Igual pediré mi deseo."
             },
             {
                 "chara": [
@@ -811,7 +811,7 @@
                         "id": 101402
                     }
                 ],
-                "textLeft": "Ui?!"
+                "textLeft": "¡¿Ui?!"
             },
             {
                 "chara": [
@@ -822,7 +822,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-39"
                     }
                 ],
-                "textCenter": "If it's what it takes to save my sister, then@I'll accept the consequences."
+                "textCenter": "Si es lo que se necesita para salvar a mi hermana,@entonces aceptaré las consecuencias."
             },
             {
                 "chara": [
@@ -832,7 +832,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-40"
                     }
                 ],
-                "textCenter": "I don't care what price I have to pay."
+                "textCenter": "No me importa qué precio tenga que pagar."
             },
             {
                 "chara": [
@@ -843,7 +843,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-41"
                     }
                 ],
-                "textCenter": "I've seen how badly Iroha has been@suffering..."
+                "textCenter": "He visto lo mucho que ha estado sufriendo@Iroha..."
             },
             {
                 "chara": [
@@ -856,7 +856,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "I'll take on as much debt as I need to, as@long as I can help her!"
+                "textCenter": "¡Asumiré tanta deuda como sea necesario, mitras@la pueda ayudar!"
             },
             {
                 "chara": [
@@ -891,7 +891,7 @@
                         "id": 101402
                     }
                 ],
-                "textLeft": "You're right. This is no time to start@getting cold feet!"
+                "textLeft": "Tienes razón. ¡No es el momento para empezar@a acobardarse!"
             },
             {
                 "chara": [
@@ -902,7 +902,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-45"
                     }
                 ],
-                "textLeft": "After all...I don't have much time left@to live anyway!"
+                "textLeft": "Después de todo... ¡no me queda mucho tiempo@de vida de cualquier manera!"
             },
             {
                 "chara": [
@@ -914,7 +914,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-46"
                     }
                 ],
-                "textLeft": "A future where I get to negotiate with you @and learn the secrets of the universe..."
+                "textLeft": "Un futuro en el que puedo negociar contigo@y aprender los secretos del universo..."
             },
             {
                 "chara": [
@@ -927,7 +927,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-47"
                     }
                 ],
-                "textLeft": "Well, that seems like much more fun than@dying."
+                "textLeft": "Bueno, eso me parece mucho más divertido que@morir."
             },
             {
                 "chara": [
@@ -938,7 +938,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-48"
                     }
                 ],
-                "textRight": "Indeed. Like Touka, the life left for me is@worth little more than dirt."
+                "textRight": "En efecto. Igual que Touka, lo que me queda de@vida vale poco más que un poco de tierra."
             },
             {
                 "chara": [
@@ -948,7 +948,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-49"
                     }
                 ],
-                "textRight": "When I think that I could use that life not@only to help Ui..."
+                "textRight": "Cuando pienso en que puedo usar esa visa no solo@para ayudar a Ui..."
             },
             {
                 "chara": [
@@ -958,7 +958,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-50"
                     }
                 ],
-                "textRight": "But also weave stories, share them with the@world, and leave them for posterity..."
+                "textRight": "Sino para tejer historias, compartirlas con el@mundo, y dejarlas a la prosperidad..."
             },
             {
                 "chara": [
@@ -969,7 +969,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-51"
                     }
                 ],
-                "textRight": "I can swallow down the slight hesitation I@feel without much effort."
+                "textRight": "Puedo tragarme cualquier duda que sienta@con poco esfuerzo."
             },
             {
                 "chara": [
@@ -982,7 +982,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-52"
                     }
                 ],
-                "textLeft": "Sorry, Ui...but we won't let you do this@alone."
+                "textLeft": "Lo siento, Ui... pero no te dejaremos hacer esto@sola."
             },
             {
                 "chara": [
@@ -993,7 +993,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-53"
                     }
                 ],
-                "textRight": "I won't back away, either. I'll do this for@Ui's dreams...and ours."
+                "textRight": "Yo tampoco me echaré atrás. Haré esto por los@sueños de Ui... y los nuestros."
             },
             {
                 "chara": [
@@ -1006,7 +1006,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-54"
                     }
                 ],
-                "textCenter": "Yes!"
+                "textCenter": "¡Sí!"
             },
             {
                 "chara": [
@@ -1017,7 +1017,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-55"
                     }
                 ],
-                "textCenter": "Someday all four of us will stroll around@Kamihama, healthy as can be!"
+                "textCenter": "¡Algún día las cuatro nos pasearemos por@Kamihama, más saludables que nunca!"
             },
             {
                 "chara": [
@@ -1033,7 +1033,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "So..."
+                "textCenter": "Entonces..."
             },
             {
                 "chara": [
@@ -1044,7 +1044,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-57"
                     }
                 ],
-                "textCenter": "I wish for the power to [textRed:harvest]!"
+                "textCenter": "¡Deseo el poder de [textRed:recolectar]!"
             },
             {
                 "chara": [
@@ -1055,7 +1055,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-58"
                     }
                 ],
-                "textLeft": "I wish for the power to [textRed:convert]!"
+                "textLeft": "¡Yo deseo el poder de [textRed:convertir]!"
             },
             {
                 "chara": [
@@ -1065,7 +1065,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-59"
                     }
                 ],
-                "textRight": "And I wish for the power to [textRed:manifest]!"
+                "textRight": "¡Y yo deseo el poder de [textRed:manifestar]!"
             },
             {
                 "chara": [
@@ -1085,9 +1085,9 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-7-61_nemu"
                     }
                 ],
-                "nameCenter": "Touka, Ui, and Nemu",
+                "nameCenter": "Touka, Ui, y Nemu",
                 "textBg": "shout",
-                "textCenter": "Allow us to take them from you, Kyubey!",
+                "textCenter": "¡Permítenos arrebatártelos, Kyubey!",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-7-60"
             },
             {

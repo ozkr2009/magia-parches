@@ -23,7 +23,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I can't break the gem by shooting it.@I have to go to her myself.",
+                "narration": "No puedo romper la gema disparándole.@Tengo que acercarme a ella.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-1"
             },
             {
@@ -42,7 +42,7 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "So I won't fire a magic infused arrow.",
+                "narration": "Entonces no dispararé una flecha mágica.",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -53,7 +53,7 @@
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-2"
             },
             {
-                "narration": "Instead, I'll become an arrow@myself and save her!",
+                "narration": "¡En lugar de eso, yo misma me convertiré en una@flecha y la salvaré!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-3",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-2"
             },
@@ -73,7 +73,7 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "I'm coming for you...!",
+                "narration": "¡Voy por ti...!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -136,7 +136,7 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Ui!",
+                "narration": "— Iroha —@¡Ui!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -147,7 +147,7 @@
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-5"
             },
             {
-                "narration": "— Iroha —@I've come to take you home!",
+                "narration": "— Iroha —@¡Vine a llevarte a casa!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-6",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-5"
             },
@@ -162,7 +162,7 @@
                     }
                 ],
                 "nameNarration": "Touka",
-                "narration": "— Touka —@Iroha Tamaki!",
+                "narration": "— Touka —@¡Iroha Tamaki!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-7",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-6"
             },
@@ -174,56 +174,56 @@
                     }
                 ],
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Touka!",
+                "narration": "— Iroha —@¡Touka!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-8",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-7"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "— Touka —@Why are you going this far for her?!",
+                "narration": "— Touka —@¡¿Por qué llegas tan lejos por ella?!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-9",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-8"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@You should know by now!@She's my only little sister in the world!",
+                "narration": "— Iroha —@¡Ya deberías saberlo!@¡Ella es mi única hermanita pequeña en el mundo!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-10",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-9"
             },
             {
-                "narration": "— Iroha —@And that's not all, she's a@precious friend to you and Nemu!",
+                "narration": "— Iroha —@¡Y eso no es todo, ella también es muy preciada@para ustedes, Touka, Nemu!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-11",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-10"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "— Touka —@That...might be true...!",
+                "narration": "— Touka —@¡Puede... que eso sea cierto...!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-12",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-11"
             },
             {
-                "narration": "— Touka —@But I don't...understand...@I don't understand it at all!",
+                "narration": "— Touka —@Pero no... entiendo...@¡No lo entiendo para nada!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-13",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-12"
             },
             {
-                "narration": "— Touka —@I can't make one bit of sense out of@anything you say, Iroha Tamaki!",
+                "narration": "— Touka —@¡No puedo encontrarle ningún sentido a@nada de lo que dices, Iroha Tamaki!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-14",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-13"
             },
             {
-                "narration": "— Touka —@Why?! Why is what you say true?!",
+                "narration": "— Touka —@¡¿Por qué?! ¡¿Por qué crees que lo@que dices es cierto?!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-15",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-14"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Because it is!",
+                "narration": "— Iroha —@¡Porque lo es!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-16",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-15"
             },
             {
-                "narration": "— Iroha —@There's nothing else to it!",
+                "narration": "— Iroha —@... ¡Y ya!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-17",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-16"
             },
@@ -254,12 +254,12 @@
                         "visible": "hide"
                     }
                 ],
-                "narration": "— Iroha —@Ui!",
+                "narration": "— Iroha —@¡Ui!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-18"
             },
             {
                 "nameNarration": "Eve",
-                "narration": "― Eve ―@――＿＿￣￣―━━━?!?!?!",
+                "narration": "― Eve ―@¡¿¡¿¡¿――＿＿￣￣―━━━?!?!?!",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-3-18"
             },
             {
@@ -358,7 +358,7 @@
                 "turnChangeOut": "rollOutFast"
             },
             {
-                "narration": "Aaaahhh!!!",
+                "narration": "¡¡¡Aaaahhh!!!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-3-20"
             },
             {
@@ -382,7 +382,7 @@
             },
             {
                 "nameNarration": "userName",
-                "narration": "― userName ―@Mokkyui!",
+                "narration": "― userName ―@¡Mokkyui!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -463,7 +463,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-3-22"
                     }
                 ],
-                "narration": "Wh-what?!"
+                "narration": "¡¿Qu-qué?! "
             },
             {
                 "autoTurnLast": 0.01,

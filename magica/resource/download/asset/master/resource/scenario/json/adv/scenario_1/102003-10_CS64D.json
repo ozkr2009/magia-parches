@@ -44,7 +44,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-10-2"
                     }
                 ],
-                "textRight": "I'll gather up all the energy I have..."
+                "textRight": "Reuniré toda la energía que tengo..."
             },
             {
                 "chara": [
@@ -54,7 +54,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-10-2"
                     }
                 ],
-                "textRight": "And drag you from the Big Crunch..."
+                "textRight": "Y te llevaré desde el Big Crunch..."
             },
             {
                 "chara": [
@@ -67,7 +67,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1007A01]To the Big Bang!!!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1007A01]¡¡¡Hacía el Big Bang!!!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -80,7 +80,7 @@
                 "bgEffect": "shakeLarge",
                 "flashEffect": "flashRed2",
                 "nameNarration": "Eve",
-                "narration": "━―＿＿―￣―━━?!?!?!!!!",
+                "narration": "━―＿＿―￣―━━¡¡¡¡¿¡¿¡¿¡?!?!?!!!!",
                 "surround": "1007A05"
             },
             {
@@ -104,7 +104,7 @@
                 "nameLeft": "Iroha",
                 "nameRight": "Touka",
                 "narrationEffect": "out",
-                "textLeft": "The gem's loose now..."
+                "textLeft": "La gema está suelta ahora..."
             },
             {
                 "chara": [
@@ -115,7 +115,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-10-6"
                     }
                 ],
-                "textRight": "Iroha, hurry!"
+                "textRight": "¡Iroha, de prisa!"
             },
             {
                 "chara": [
@@ -125,7 +125,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-10-7"
                     }
                 ],
-                "textRight": "Eve will regenerate if you don't!"
+                "textRight": "¡Eve se regenerará si no te apresuras!"
             },
             {
                 "chara": [
@@ -140,7 +140,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "I will restrain it."
+                "textRight": "Yo la contendré."
             },
             {
                 "chara": [
@@ -165,7 +165,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-10-10"
                     }
                 ],
-                "textRight": "Ui, Touka, me...and Iroha."
+                "textRight": "Ui, Touka, yo...e Iroha."
             },
             {
                 "chara": [
@@ -175,7 +175,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-10-11"
                     }
                 ],
-                "textRight": "All the stories we wrote together are here in@my book."
+                "textRight": "Todas las historias que escribimos juntas están@aquí, en mi libro."
             },
             {
                 "chara": [
@@ -186,7 +186,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-10-12"
                     }
                 ],
-                "textRight": "It will take a toll on my body..."
+                "textRight": "Esto afectará a mi cuerpo..."
             },
             {
                 "chara": [
@@ -197,7 +197,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-10-13"
                     }
                 ],
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1014A02]But I'll use our stories to hold Eve back!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1014A02]¡Usaré nuestras historias para contener a Eve!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -210,7 +210,7 @@
                 "bgEffect": "shakeLarge",
                 "flashEffect": "flashRed2",
                 "nameNarration": "Eve",
-                "narration": "―￣￣――￣＿!!!",
+                "narration": "¡¡¡―￣￣――￣＿!!!",
                 "surround": "1014A05"
             },
             {
@@ -230,7 +230,7 @@
                 ],
                 "nameRight": "Nemu",
                 "narrationEffect": "out",
-                "textRight": "Iroha! Now!"
+                "textRight": "¡Iroha! ¡Ahora!"
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Get Ui!"
+                "textRight": "¡Toma a Ui!"
             },
             {
                 "chara": [
@@ -259,7 +259,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Got it!"
+                "textLeft": "¡Entendido!"
             },
             {
                 "autoTurnLast": 2,

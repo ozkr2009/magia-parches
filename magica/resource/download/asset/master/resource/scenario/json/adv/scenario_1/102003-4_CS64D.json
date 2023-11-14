@@ -31,7 +31,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "No... What's this I'm seeing?"
+                "textCenter": "No... ¿Qué es esto que estoy viendo?"
             },
             {
                 "chara": [
@@ -42,7 +42,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-3"
                     }
                 ],
-                "textCenter": "I'm falling..."
+                "textCenter": "Estoy cayendo..."
             },
             {
                 "chara": [
@@ -52,7 +52,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-4"
                     }
                 ],
-                "textCenter": "It's like I'm falling, deeper and deeper,@inside of my own brain..."
+                "textCenter": "Es como si estuviera cayendo, más y más profundo,@dentro de mi propio cerebro..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -79,7 +79,7 @@
             },
             {
                 "nameNarration": "",
-                "narration": "My dearest reader, I beg you lay rest all@that you think you know about the universe.",
+                "narration": "Querido lector, le ruego que deje descansar todo lo@que cree saber sobre el universo.",
                 "narrationEffect": "in",
                 "narrationHAlignment": "left",
                 "narrationPosX": 150,
@@ -87,31 +87,31 @@
                 "turnChangeOutTime": 4
             },
             {
-                "narration": "Do you pursue knowledge as I do? Then please@look again at the world through a child's eyes."
+                "narration": "¿Usted persigue el conocimiento como yo? Entonces por favor@mire de nuevo al mundo a traves del ojo de un infante."
             },
             {
-                "narration": "There are countless factors behind the@progress of humanity, and learning, which is but@one such factor, is the result of many others."
+                "narration": "Hay innumerables factores detrás del@progreso de la humanidad, y el aprendizaje, que no es más que@uno de ellos, es el resultado de muchos otros."
             },
             {
-                "narration": "Common sense is not applicable to progress.@As such, what is required of us to move forward@are countless perspectives and open minds."
+                "narration": "El sentido común no es aplicable al progreso.@Como tal, lo que se requiere de nosotros para avanzar@son innumerables perspectivas y mentes abiertas."
             },
             {
-                "narration": "If you are to read this text, which I have titled@\"Magical Girls: Their Hope and Despair\",@you must possess the above qualities."
+                "narration": "Su Esperanza y Desesperación\",@usted debe poseer las cualidades ya mencionadas."
             },
             {
-                "narration": "This book is a record of the following@realities: Girls protect this world.@Our civilization exists thanks to them.@The culture that surrounds them persists to this day."
+                "narration": "@Las Chicas protegen este mundo.@Nuestra civilización existe gracias a ellas.@La cultura que las rodea persiste hasta el día de hoy."
             },
             {
-                "narration": "I assure you, I have not been driven mad by@my research. Nor is this a work of fiction.@This book is the result of research,@observation, and repeated fieldwork."
+                "narration": "Le aseguro que mi investigación no me ha llegado a desquiciar.@Y tampoco es esta una obra de ficción.@Este libro es el resultado de investigación,@observación, y repetidos trabajos de campo."
             },
             {
-                "narration": "And so, dear reader... Judge this work only@once you have peered across the contents of@every page and observed their battles, their@wishes, and the role they play fully for yourself."
+                "narration": "Y así, querido lector... Juzgue esta obra@una vez haya consumido los contenidos de@cada página y haya observado sus batallas, sus deseos,@y el papel que desempeñan plenamente por usted mismo."
             },
             {
-                "narration": "Reclaim the innocent perspective@of a child, just this once."
+                "narration": "Recupere la perspectiva inocente@de un niño, solo esta vez."
             },
             {
-                "narration": "I, myself, understand your cynicism@as well as anyone, as one thrust@into the world of folklore."
+                "narration": "Yo mismo comprendo su cinismo@tan bien como cualquiera, como uno empujado@al mundo del folclore."
             },
             {
                 "autoTurnLast": 0.01,
@@ -134,7 +134,7 @@
                     }
                 ],
                 "nameNarration": "Touka",
-                "narration": "My first meeting with a Magical Girl@was not in the corporeal world, but bound@in the pages of my uncle's memoirs.",
+                "narration": "Mi primer encuentro con una Chica Mágica@no fue en el mundo corpóreo, sino dentro de las@páginas de las memorias de mi tío.",
                 "narrationHAlignment": "center",
                 "narrationPosX": 0
             },
@@ -174,7 +174,7 @@
                 ],
                 "nameCenter": "Touka",
                 "narrationEffect": "out",
-                "textCenter": "Phew! My medical exam with Dad is all done!"
+                "textCenter": "¡Fiuww! ¡Mi examen médico con papá está terminado!"
             },
             {
                 "chara": [
@@ -200,7 +200,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-18"
                     }
                 ],
-                "textCenter": "*Giggle*"
+                "textCenter": "*Risilla*"
             },
             {
                 "chara": [
@@ -211,7 +211,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-19"
                     }
                 ],
-                "textCenter": "(Now I can finally do what I've been waiting@so long to do!)",
+                "textCenter": "(¡Ahora puedo hacer lo que he estado esperando@hacer tanto tiempo!)",
                 "turnEffect": "thinking"
             },
             {
@@ -225,7 +225,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-20"
                     }
                 ],
-                "textCenter": "(If Papa caught me with my uncle's book,@he'd probably get really mad.)"
+                "textCenter": "(Si mi papá me sorprendiera con el libro de mi tío,@probablemente se enfadaría mucho.)"
             },
             {
                 "chara": [
@@ -250,8 +250,8 @@
                         "id": 100702
                     }
                 ],
-                "nameNarration": "",
-                "narration": "Magical Girls: Their Hope and Despair (I)",
+                "nameNarration": "Chicas Mágicas",
+                "narration": "Su Esperanza y Desesperación (I)",
                 "narrationEffect": "in",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-22"
             },
@@ -267,7 +267,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textCenter": "(Magical Girls...)",
+                "textCenter": "(Chicas Mágicas...)",
                 "turnEffect": "thinking"
             },
             {
@@ -279,7 +279,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-24"
                     }
                 ],
-                "textCenter": "(Perhaps they have something to do with my@uncle's disappearance...)"
+                "textCenter": "(Tal vez tengan algo que ver con la@desaparición de mi tío...)"
             },
             {
                 "chara": [
@@ -291,7 +291,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-25"
                     }
                 ],
-                "textCenter": "Hmm...",
+                "textCenter": "Mmm...",
                 "turnEffect": "stop"
             },
             {
@@ -305,7 +305,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-26"
                     }
                 ],
-                "textCenter": "It's only normal to get curious about stuff@people tell you you're not allowed to read."
+                "textCenter": "Es normal sentir curiosidad por las cosas@que la gente te dice que no puedes leer."
             },
             {
                 "chara": [
@@ -315,7 +315,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-27"
                     }
                 ],
-                "textCenter": "I want to learn more about this weird@Kyubey creature he wrote about..."
+                "textCenter": "Quiero aprender más sobre esta extraña criatura@llamada Kyubey de la que escribió..."
             },
             {
                 "chara": [
@@ -329,7 +329,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-28"
                     }
                 ],
-                "textCenter": "(In the book it was described as being like@a dog, or maybe a weasel...)",
+                "textCenter": "(En el libro se describía como un@perro, o tal vez una comadreja...)",
                 "turnEffect": "thinking"
             },
             {
@@ -341,7 +341,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-29"
                     }
                 ],
-                "textCenter": "(But it has such a fancy name. It almost@sounds like a samurai...)"
+                "textCenter": "(Pero tiene un nombre tan elegante. Casi@suena como un samurái...)"
             },
             {
                 "chara": [
@@ -355,7 +355,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-30"
                     }
                 ],
-                "textCenter": "(Maybe its name is code for something?)"
+                "textCenter": "(¿Tal vez su nombre tiene algún significado?)"
             },
             {
                 "chara": [
@@ -369,7 +369,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-31"
                     }
                 ],
-                "textCenter": "(Kyubey... Cube-A?)"
+                "textCenter": "(Kyubey... Cubo-A?)"
             },
             {
                 "chara": [
@@ -383,7 +383,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-32"
                     }
                 ],
-                "textCenter": "(A is the first letter of the alphabet...)"
+                "textCenter": "(A es la primera letra del alfabeto...)"
             },
             {
                 "autoTurnFirst": 3,
@@ -396,7 +396,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textCenter": "(Alpha... That can mean \"commander\". A cube@of commanders?)"
+                "textCenter": "(Alfa... Eso puede significar \"comandante\". ¿Un cubo@de comandantes?)"
             },
             {
                 "chara": [
@@ -421,7 +421,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 0,
-                "textCenter": "Nope... I don't understand it one bit.",
+                "textCenter": "Nop... No lo entiendo para nada.",
                 "turnEffect": "stop"
             },
             {
@@ -435,7 +435,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-35"
                     }
                 ],
-                "textCenter": "I guess it's time to make use of my super@special Touka-deluxe machines!"
+                "textCenter": "¡Supongo que es hora de usar mis máquinas super@especiales Touka-deluxe!"
             },
             {
                 "chara": [
@@ -447,7 +447,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-36"
                     }
                 ],
-                "textCenter": "I'm sure the Internet has some info about@this. Let's have a look..."
+                "textCenter": "Estoy segura de que le Internet tendrá algo de@información sobre esto. Demos un vistazo..."
             },
             {
                 "autoTurnLast": 2,
@@ -494,7 +494,7 @@
                 "nameCenter": "Nemu",
                 "nameLeft": "Touka",
                 "nameRight": "Ui",
-                "textLeft": "Huh?! You're getting discharged, Ui?!",
+                "textLeft": "¡¿Ehh?! ¡¿Te van a dar de alta, Ui?!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -507,7 +507,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-38"
                     }
                 ],
-                "textRight": "They're running some final tests, so it'll be@another two weeks or so, but yeah."
+                "textRight": "Están haciendo algunas pruebas finales, así que@me quedaré otras dos semanas más o menos,@pero sí."
             },
             {
                 "chara": [
@@ -524,7 +524,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-39"
                     }
                 ],
-                "textCenter": "This is outrageously unprecedented...@It may end up causing a huge media frenzy."
+                "textCenter": "Esto es un evento sin precedentes...@Puede terminar causando furor en los medios."
             },
             {
                 "chara": [
@@ -535,7 +535,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-40"
                     }
                 ],
-                "textCenter": "Not long ago your condition was so severe!"
+                "textCenter": "¡No hace mucho tu condición eran tan grave!"
             },
             {
                 "chara": [
@@ -546,7 +546,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-41"
                     }
                 ],
-                "textRight": "Yeah."
+                "textRight": "Sí."
             },
             {
                 "chara": [
@@ -556,7 +556,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-42"
                     }
                 ],
-                "textRight": "But they did all kinds of thorough@examinations..."
+                "textRight": "Pero hicieron todo tipo de exámenes@minuciosos..."
             },
             {
                 "chara": [
@@ -566,7 +566,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-43"
                     }
                 ],
-                "textRight": "And they didn't find anything wrong with me@at all."
+                "textRight": "Y no me encontraron nada malo en lo@absoluto."
             },
             {
                 "chara": [
@@ -578,7 +578,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-44"
                     }
                 ],
-                "textCenter": "They say fate moves in mysterious ways, @and it seems true miracles do happen."
+                "textCenter": "Dicen que el destino se mueve de forma misteriosa,@y parece que los milagros si suceden."
             },
             {
                 "chara": [
@@ -597,7 +597,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "That said...I'm really happy for you."
+                "textCenter": "Dicho eso... estoy muy feliz por ti."
             },
             {
                 "chara": [
@@ -615,7 +615,7 @@
                         "id": 101502
                     }
                 ],
-                "textLeft": "I'm not happy at all."
+                "textLeft": "Yo no estoy nada contenta."
             },
             {
                 "chara": [
@@ -639,7 +639,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-48"
                     }
                 ],
-                "textLeft": "I love being a trio!"
+                "textLeft": "¡Me gusta ser un trío!"
             },
             {
                 "chara": [
@@ -650,7 +650,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-49"
                     }
                 ],
-                "textRight": "I'm really sorry, Touka."
+                "textRight": "De verdad lo siento, Touka."
             },
             {
                 "chara": [
@@ -665,7 +665,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-50"
                     }
                 ],
-                "textLeft": "Ughhh... Nnngh!"
+                "textLeft": "¡Ughhh... Nnngh!"
             },
             {
                 "chara": [
@@ -695,7 +695,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-52"
                     }
                 ],
-                "textLeft": "No, I'm the one who's sorry."
+                "textLeft": "No, yo soy quien lo siente."
             },
             {
                 "chara": [
@@ -705,7 +705,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-53"
                     }
                 ],
-                "textLeft": "I'm happy for you, I really I am, just... I'm@gonna miss you so much."
+                "textLeft": "Estoy feliz por ti, de verdad lo estoy, es solo que...@Te voy a extrañar demasiado."
             },
             {
                 "chara": [
@@ -715,7 +715,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-54"
                     }
                 ],
-                "textLeft": "But compared to when you lost consciousness,@and all your brain activity almost ceased..."
+                "textLeft": "Pero comparado con cuando perdiste el conocimiento,@y toda tu actividad cerebral casi cesó..."
             },
             {
                 "chara": [
@@ -725,7 +725,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-55"
                     }
                 ],
-                "textLeft": "It's much, much better to have you still@alive."
+                "textLeft": "Es mucho, mucho mejor que sigas viva."
             },
             {
                 "chara": [
@@ -736,7 +736,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-56"
                     }
                 ],
-                "textLeft": "I remember thinking I wouldn't mind becoming@a Magical Girl to help you, back then..."
+                "textLeft": "Recuerdo haber pensado que no me importaría@convertirme en una Chica Mágica para ayudarte,@en ese entonces..."
             },
             {
                 "chara": [
@@ -753,7 +753,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-57"
                     }
                 ],
-                "textRight": "Huh...?"
+                "textRight": "¿Eh...?"
             },
             {
                 "chara": [
@@ -765,7 +765,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-58"
                     }
                 ],
-                "textCenter": "Did Touka just say something extremely@fanciful and fictional? That's not like her."
+                "textCenter": "¿Acaba de decir Touka algo extremadamente@fantasioso y ficticio? Eso no es propio de ella."
             },
             {
                 "chara": [
@@ -778,7 +778,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-59"
                     }
                 ],
-                "textCenter": "I thought I might die of shock for a moment."
+                "textCenter": "Pensé que moriría del impacto por un momento."
             },
             {
                 "chara": [
@@ -791,7 +791,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-60"
                     }
                 ],
-                "textLeft": "Shut up! Forget I said anything! Whatever!"
+                "textLeft": "¡Cállate! ¡Olvida que dije algo! ¡Como sea!"
             },
             {
                 "chara": [
@@ -801,7 +801,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-61"
                     }
                 ],
-                "textLeft": "It's not like I learned anything when I @looked into it, so who cares!"
+                "textLeft": "No es como si hubiera aprendido algo cuando@lo investigué, ¡así que a quién le importa!"
             },
             {
                 "chara": [
@@ -825,7 +825,7 @@
                         "id": 101502
                     }
                 ],
-                "textLeft": "More importantly — congratulations, Ui!"
+                "textLeft": "Pero lo que es más importante — ¡felicidades, Ui!"
             },
             {
                 "chara": [
@@ -837,7 +837,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-63"
                     }
                 ],
-                "textLeft": "Make sure to come visit us with your sister@when you get a chance."
+                "textLeft": "Asegúrate de venir a visitarnos con tu hermana@cuando puedas."
             },
             {
                 "chara": [
@@ -850,7 +850,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-64"
                     }
                 ],
-                "textRight": "Yes! I'll be coming in for tests and things,@so I should have lots of chances to visit."
+                "textRight": "¡Sí! Vendré a hacerme pruebas y esas cosas,@así que tendré muchas oportunidades de visitarlas."
             },
             {
                 "chara": [
@@ -860,7 +860,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-65"
                     }
                 ],
-                "textRight": "Oh! And I won't go to any of the places on@the map we made together."
+                "textRight": "¡Oh! Y no iré a ninguno de los lugares en@el mapa que hicimos juntas."
             },
             {
                 "chara": [
@@ -873,7 +873,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-66"
                     }
                 ],
-                "textRight": "I'm waiting until we can go as a group!"
+                "textRight": "¡Esto esperando hasta cuando podamos ir en@grupo!"
             },
             {
                 "chara": [
@@ -886,7 +886,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-67"
                     }
                 ],
-                "textCenter": "Okay."
+                "textCenter": "Sí."
             },
             {
                 "chara": [
@@ -899,7 +899,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-68"
                     }
                 ],
-                "textLeft": "Thanks, Ui!"
+                "textLeft": "¡Gracias, Ui!"
             },
             {
                 "autoTurnLast": 1,
@@ -939,7 +939,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "What... What is this place?",
+                "textCenter": "¿Qué... qué es este lugar?",
                 "turnChangeOut": "fadeOut",
                 "turnChangeOutTime": 3
             },
@@ -955,7 +955,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "Uiii! Nemuuu!"
+                "textCenter": "¡Uiii! ¡Nemuuu!"
             },
             {
                 "autoTurnLast": 0.02,
@@ -991,7 +991,7 @@
                 "nameCenter": "Nemu",
                 "nameLeft": "Touka",
                 "nameRight": "Ui",
-                "textRight": "Over here, Touka!"
+                "textRight": "¡Por aquí, Touka!"
             },
             {
                 "chara": [
@@ -1001,7 +1001,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-72"
                     }
                 ],
-                "textCenter": "We're all safe for now, it seems..."
+                "textCenter": "Ya estamos a salvo, parece..."
             },
             {
                 "chara": [
@@ -1014,7 +1014,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-73"
                     }
                 ],
-                "textLeft": "*Pant* *Wheeze*"
+                "textLeft": "*Jadea* *Jadea*"
             },
             {
                 "chara": [
@@ -1027,7 +1027,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-74"
                     }
                 ],
-                "textRight": "Shh, Touka, just relax... You're@hyperventilating."
+                "textRight": "Shh, Touka, solo relájate... Te estás@hiperventilando."
             },
             {
                 "chara": [
@@ -1039,7 +1039,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-75"
                     }
                 ],
-                "textLeft": "Y-yeah... Thanks."
+                "textLeft": "S-sí... Gracias."
             },
             {
                 "chara": [
@@ -1051,7 +1051,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-76"
                     }
                 ],
-                "textLeft": "We all went to sleep in the same hospital@room, didn't we?"
+                "textLeft": "Todas nos quedamos dormidas en el mismo cuarto@hospital, ¿no?"
             },
             {
                 "chara": [
@@ -1062,7 +1062,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-77"
                     }
                 ],
-                "textCenter": "Yes. That should be the case."
+                "textCenter": "Sí. Ese debería ser el caso."
             },
             {
                 "chara": [
@@ -1075,7 +1075,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-78"
                     }
                 ],
-                "textLeft": "Then where are we now? I'm...scared..."
+                "textLeft": "¿Entonces en dónde estamos ahora?@Tengo...miedo..."
             },
             {
                 "chara": [
@@ -1088,7 +1088,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-79"
                     }
                 ],
-                "textCenter": "I haven't the faintest idea either."
+                "textCenter": "Yo tampoco tengo la menor idea."
             },
             {
                 "chara": [
@@ -1098,7 +1098,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-80"
                     }
                 ],
-                "textCenter": "Honestly, what comes to mind is that we're@in the midst of an evil spirits' march."
+                "textCenter": "Sinceramente, lo que se me ocurre es que estamos@en medio de la marcha de un espíritu maligno."
             },
             {
                 "chara": [
@@ -1109,7 +1109,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-81"
                     }
                 ],
-                "textLeft": "This is gross..."
+                "textLeft": "Esto es asqueroso..."
             },
             {
                 "chara": [
@@ -1120,7 +1120,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-82"
                     }
                 ],
-                "textRight": "Do you guys see something over there, too?"
+                "textRight": "¿Ustedes también ven algo por allá?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -1176,7 +1176,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-4-85"
                     }
                 ],
-                "textRight": "Wh-what IS that? Is it...alive?",
+                "textRight": "¿Qu-qué ES eso? ¿está... vivo?",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -1191,7 +1191,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-85"
                     }
                 ],
-                "textLeft": "*Pant* *Gasp*"
+                "textLeft": "*Jadea* *Susto*"
             },
             {
                 "chara": [
@@ -1204,7 +1204,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-86"
                     }
                 ],
-                "textRight": "Touka!"
+                "textRight": "¡Touka!"
             },
             {
                 "chara": [
@@ -1218,7 +1218,7 @@
                     }
                 ],
                 "nameCenter": "Nemu",
-                "textCenter": "Touka!"
+                "textCenter": "¡Touka!"
             },
             {
                 "chara": [
@@ -1228,7 +1228,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-88"
                     }
                 ],
-                "textLeft": "*Pant* *Pant*"
+                "textLeft": "*Jadea* *Jadea*"
             },
             {
                 "autoTurnLast": 0.01,
@@ -1299,7 +1299,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-4-91"
                     }
                 ],
-                "textRight": "Someone got rid of it...?",
+                "textRight": "¿Alguien se deshizo de él...?",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -1311,7 +1311,7 @@
                     }
                 ],
                 "nameCenter": "Nemu",
-                "textCenter": "It was her."
+                "textCenter": "Fue ella."
             },
             {
                 "chara": [
@@ -1324,7 +1324,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-92"
                     }
                 ],
-                "textRight": "What?"
+                "textRight": "¿Qué?"
             },
             {
                 "chara": [
@@ -1346,7 +1346,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-94"
                     }
                 ],
-                "textLeft": "Iroha...?"
+                "textLeft": "¿Iroha...?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -1371,7 +1371,7 @@
             {
                 "nameLeft": "Iroha",
                 "nameRight": "Kyubey",
-                "textRight": "The Witch is this way, Iroha!",
+                "textRight": "¡La Bruja está de este lado, Iroha!",
                 "turnChangeOut": "rollOutFast",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-4-96"
             },
@@ -1384,7 +1384,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-96"
                     }
                 ],
-                "textLeft": "Kyubey! Wait up! My sister and her friends@are over here!"
+                "textLeft": "¡Kyubey! ¡Espera! ¡Mi hermana y sus amigas@están por acá!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -1421,9 +1421,9 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "nameLeft": "Nemu",
+                "nameLeft": "Touka",
                 "nameRight": "Iroha",
-                "textRight": "Ui! Touka! Nemu!",
+                "textRight": "¡Ui! ¡Touka! ¡Nemu!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -1435,7 +1435,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-98"
                     }
                 ],
-                "textCenter": "Iroha?! Is it really you?"
+                "textCenter": "¡¿Iroha?! ¿De verdad eres tú?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1487,7 +1487,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-4-100"
                     }
                 ],
-                "textLeft": "You're..."
+                "textLeft": "Eres..."
             },
             {
                 "autoTurnLast": 0.01,

@@ -32,11 +32,11 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Kyubey",
-                "textLeft": "You're Kyubey, aren't you?",
+                "textLeft": "Tú eres Kyubey, ¿no es así?",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "textRight": "It's been some time, Touka Satomi.",
+                "textRight": "Ha pasado algún tiempo, Touka Satomi.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-2",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-1"
             },
@@ -51,15 +51,15 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-2"
                     }
                 ],
-                "textLeft": "*Giggle* I haven't seen you since Big Sis@showed up in that Labyrinth!"
+                "textLeft": "*Risilla* ¡No te he visto de desde que mi Hermana@Mayor apareció en ese Laberinto!"
             },
             {
-                "textRight": "Big Sis?",
+                "textRight": "¿Hermana Mayor?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-4",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-3"
             },
             {
-                "textRight": "You are referring to a girl born before you,@from the same mother...?",
+                "textRight": "¿Te refieres a una chica nacida antes que tú,@de la misma madre...?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-5",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-4"
             },
@@ -72,15 +72,15 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-5"
                     }
                 ],
-                "textLeft": "No, no, don't be so literal. I mean Iroha@Tamaki!"
+                "textLeft": "No, no, no seas tan literal.@¡Me refiero a Iroha Tamaki!"
             },
             {
-                "textRight": "I see. Iroha Tamaki is one of your@acquaintances.",
+                "textRight": "Ya veo. Iroha Tamaki es una de tus@conocidas.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-7",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-6"
             },
             {
-                "textRight": "Now I understand.",
+                "textRight": "Ahora entiendo.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-8",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-7"
             },
@@ -93,7 +93,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-8"
                     }
                 ],
-                "textLeft": "Enough about that, there's only one reason@that you'd show yourself to me!"
+                "textLeft": "Suficiente de eso, ¡solo hay una razón por la@que te mostrarías ante mí!"
             },
             {
                 "chara": [
@@ -103,15 +103,15 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-9"
                     }
                 ],
-                "textLeft": "You're here to tell me I'm qualified to be@a Magical Girl, aren't you?"
+                "textLeft": "Viniste para decirme que estoy calificada para@ser una Chica Mágica, ¿verdad?"
             },
             {
-                "textRight": "Yes. I'm glad you catch on fast.",
+                "textRight": "Sí. Me alegro que entiendas rápido.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-11",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-10"
             },
             {
-                "textRight": "I am able to grant any single wish that you@desire.",
+                "textRight": "Puedo concederte cualquier deseo que@tengas.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-12",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-11"
             },
@@ -126,10 +126,10 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-12"
                     }
                 ],
-                "textLeft": "I want you to tell me something first. Lots@of somethings, actually!"
+                "textLeft": "Quiero que me digas algo primero. ¡Muchas cosas,@de hecho!"
             },
             {
-                "textRight": "What would you like to know?",
+                "textRight": "¿Qué te gustaría saber?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-14",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-13"
             },
@@ -144,10 +144,10 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-14"
                     }
                 ],
-                "textLeft": "Oh, you don't have to talk. I'm just going to@ask your network."
+                "textLeft": "No tienes que hablar. Simplemente le@preguntaré a tu red."
             },
             {
-                "textRight": "My network?",
+                "textRight": "¿Mi red?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-16",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-15"
             },
@@ -159,10 +159,10 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-16"
                     }
                 ],
-                "textLeft": "Yes. Your network."
+                "textLeft": "Sí. Tu red."
             },
             {
-                "textRight": "Touka Satomi... What are you―",
+                "textRight": "Touka Satomi... ¡¿Qué estás―",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-18",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-17"
             },
@@ -182,7 +182,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-19"
                     }
                 ],
-                "textLeft": "*Giggle*"
+                "textLeft": "*Risilla*"
             },
             {
                 "autoTurnLast": 2,
@@ -192,11 +192,11 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-20"
             },
             {
-                "textRight": "This room of yours...",
+                "textRight": "Esta habitación tuya...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-21"
             },
             {
-                "textRight": "Are you really trying to hack into my head?",
+                "textRight": "¿Realmente estás intentando entrar en mi@cabeza?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-22",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-21"
             },
@@ -211,7 +211,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-22"
                     }
                 ],
-                "textLeft": "Your consciousness is being mirrored,@isn't it?"
+                "textLeft": "Tu conciencia está siendo replicada,@¿verdad?"
             },
             {
                 "chara": [
@@ -222,7 +222,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-23"
                     }
                 ],
-                "textLeft": "So it's way faster for me to search through@the integrated network you're part of."
+                "textLeft": "Así se me hace mucho más rápido buscar en la@red integrada de la que eres parte."
             },
             {
                 "chara": [
@@ -232,7 +232,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge]Kyu!",
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge]¡Kyu!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-25",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-24"
             },
@@ -247,7 +247,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-25"
                     }
                 ],
-                "textLeft": "Oops! He ran away..."
+                "textLeft": "¡Uups! Se escapó..."
             },
             {
                 "autoTurnLast": 1,
@@ -263,22 +263,22 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-26"
             },
             {
-                "textRight": "I wasn't running away.",
+                "textRight": "No estaba huyendo.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-27",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-26"
             },
             {
-                "textRight": "Considering the huge disparity between our@respective civilizations...",
+                "textRight": "Considerando la enorme diferencia entre@nuestras civilizaciones...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-28",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-27"
             },
             {
-                "textRight": "There's no way that your machines would have@made it out of that unscathed.",
+                "textRight": "No hay forma de que tus máquinas hubieran@salido ilesas de eso.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-29",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-28"
             },
             {
-                "textRight": "To be frank, you should be thanking me for@severing that connection.",
+                "textRight": "Para ser franco, deberías agradecerme por@haber cortado esa conexión.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-30",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-29"
             },
@@ -293,10 +293,10 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-30"
                     }
                 ],
-                "textLeft": "I see..."
+                "textLeft": "Ya veo..."
             },
             {
-                "textRight": "Now, Touka Satomi.",
+                "textRight": "Ahora, Touka Satomi.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-32",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-31"
             },
@@ -311,10 +311,10 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-32"
                     }
                 ],
-                "textLeft": "Yes?"
+                "textLeft": "¿Sí?"
             },
             {
-                "textRight": "Would you make a contract with me, and@become a Magical Girl?",
+                "textRight": "¿Harás un contrato conmigo, para convertirte@en una Chica Mágica?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-34",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-33"
             },
@@ -329,7 +329,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-34"
                     }
                 ],
-                "textLeft": "I'll think about it...after you tell me all@the things I want to know."
+                "textLeft": "Lo consideraré... después de que me digas@las cosas que quiero saber."
             },
             {
                 "chara": [
@@ -341,20 +341,20 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-35"
                     }
                 ],
-                "textLeft": "It's a shame we'll have to talk, but oh @well..."
+                "textLeft": "Es una pena que tengamos que hablar, pero@bueno..."
             },
             {
-                "textRight": "I don't mind.",
+                "textRight": "No me molesta.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-37",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-36"
             },
             {
-                "textRight": "I don't have a single thing to hide from@you.",
+                "textRight": "No tengo nada que ocultarte.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-38",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-37"
             },
             {
-                "textRight": "Ask, and I will answer.",
+                "textRight": "Pregunta, y yo te responderé.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-5-39",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-5-38"
             },

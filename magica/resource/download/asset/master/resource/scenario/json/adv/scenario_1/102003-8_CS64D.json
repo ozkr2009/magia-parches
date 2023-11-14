@@ -40,7 +40,7 @@
                 "nameCenter": "Ui",
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textLeft": "Kyubey...shrank?",
+                "textLeft": "Kyubey... ¿se encogió?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -53,7 +53,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-1"
                     }
                 ],
-                "textRight": "His rings fell off, as well...and it appears@that he can no longer talk."
+                "textRight": "Sus anillos se cayeron también... y parece que@ya no puede hablar."
             },
             {
                 "chara": [
@@ -64,7 +64,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-2"
                     }
                 ],
-                "textRight": "How curious..."
+                "textRight": "Qué curioso..."
             },
             {
                 "chara": [
@@ -77,7 +77,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-3"
                     }
                 ],
-                "textLeft": "It must be because he lost all the functions@that made him \"Kyubey\"."
+                "textLeft": "Debe de ser porque perdió todas las funciones@que lo hacían \"Kyubey\"."
             },
             {
                 "chara": [
@@ -87,7 +87,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-4"
                     }
                 ],
-                "textLeft": "Maybe this caused him to get cut off from the@rest of his network...?"
+                "textLeft": "¿Tal vez esto causó que lo sacaran del resto@de la red...?"
             },
             {
                 "chara": [
@@ -100,7 +100,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-5"
                     }
                 ],
-                "textRight": "Does this mean our wishes worked?"
+                "textRight": "¿Esto significa que nuestros deseos funcionaron?"
             },
             {
                 "chara": [
@@ -116,7 +116,7 @@
                         "id": 101500
                     }
                 ],
-                "textLeft": "Looks like it!"
+                "textLeft": "¡Eso parece!"
             },
             {
                 "chara": [
@@ -136,7 +136,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "The next step is forming the purification@system, just like we planned!"
+                "textLeft": "¡El siguiente paso es formar el sistema de@purificación, justo como lo planeamos!"
             },
             {
                 "chara": [
@@ -149,7 +149,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-8"
                     }
                 ],
-                "textLeft": "Isn't that right, Ui?"
+                "textLeft": "¿No es así, Ui?"
             },
             {
                 "chara": [
@@ -179,7 +179,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Ui...?"
+                "textLeft": "¿Ui...?"
             },
             {
                 "chara": [
@@ -190,7 +190,7 @@
                     }
                 ],
                 "surround": "stop",
-                "textCenter": "To...ka..."
+                "textCenter": "Tou...ka..."
             },
             {
                 "chara": [
@@ -211,7 +211,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-13"
                     }
                 ],
-                "textRight": "She's grasping her chest. Don't tell me...@The price she paid was...her health...?"
+                "textRight": "Se está agarrando el pecho. No me digas...@¿El precio que pagó fue... su salud...?"
             },
             {
                 "chara": [
@@ -222,7 +222,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-14"
                     }
                 ],
-                "textLeft": "Th-there's no way that's right!"
+                "textLeft": "¡E-eso es imposible!"
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-15"
                     }
                 ],
-                "textLeft": "Our bodies should be strong enough to @fight Witches now!"
+                "textLeft": "¡Nuestros cuerpos deberían ser lo suficientemente@fuertes como para luchar contra Brujas!"
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "Ahhh...auuuuuuuuughhhhhh!!!"
+                "textCenter": "¡¡¡Ahhh...auuuuuuuuughhhhhh!!!"
             },
             {
                 "chara": [
@@ -264,7 +264,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "...?!"
+                "textLeft": "¡¿...?!"
             },
             {
                 "chara": [
@@ -275,7 +275,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-18"
                     }
                 ],
-                "textRight": "Ui?!"
+                "textRight": "¡¿Ui?!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -297,7 +297,7 @@
             },
             {
                 "nameNarration": "Ui",
-                "narration": "― Ui ―@AAAAAAAAAAAAAUGHHH!!!",
+                "narration": "― Ui ―@¡¡¡AAAAAAAAAAAAAUGHHH!!!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -309,31 +309,31 @@
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@Her harvesting ability's going haywire?!",
+                "narration": "― Touka ―@¡¿Su habilidad para recolectar se está volviendo loca?!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-21",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-20"
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@Touka, if we don't do something fast...!",
+                "narration": "― Nemu ―@Touka, ¡si no hacemos algo rápido...!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-22",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-21"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@She's gonna...turn into a Witch...",
+                "narration": "― Touka ―@Se convertirá... en una Bruja...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-23",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-22"
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@We can't accomplish anything if that happens!@We'll just be forced to bear our fate!",
+                "narration": "― Nemu ―@¡No podemos lograr nada si eso sucede!@¡No veremos obligadas a enfrentar nuestro destino!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-24",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-23"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@I know!@If I can just convert her impurities...",
+                "narration": "― Touka ―@¡Ya sé!@Si puedo convertir sus impurezas...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-25",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-24"
             },
@@ -344,7 +344,7 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-25"
             },
             {
-                "narration": "― Touka ―@...!",
+                "narration": "― Touka ―@¡...!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-26"
             },
             {
@@ -354,7 +354,7 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-26"
             },
             {
-                "narration": "― Touka ―@Ngh!!!",
+                "narration": "― Touka ―@¡¡¡Ngh!!!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-27"
             },
             {
@@ -364,24 +364,24 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-27"
             },
             {
-                "narration": "― Touka ―@It's too much... I can't keep up with her!",
+                "narration": "― Touka ―@Es demasiado... ¡No le puedo seguir el ritmo!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-28"
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@You'll just burn through your magic.",
+                "narration": "― Nemu ―@Simplemente quedarás sin magia.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-29",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-28"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@But I have to do something!",
+                "narration": "― Touka ―@¡Pero tengo que hacer algo!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-30",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-29"
             },
             {
                 "nameNarration": "Ui",
-                "narration": "― Ui ―@*Sob* *Whimper*",
+                "narration": "― Ui ―@*Solloza* *Gemido*",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-31",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-30"
             },
@@ -393,7 +393,7 @@
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@I'll try manifesting it into something else!",
+                "narration": "― Nemu ―@¡Intentaré manifestarlo a otra cosa!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-33",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-32"
             },
@@ -404,7 +404,7 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-33"
             },
             {
-                "narration": "― Nemu ―@One more try...",
+                "narration": "― Nemu ―@Otra vez...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-34"
             },
             {
@@ -414,7 +414,7 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-34"
             },
             {
-                "narration": "― Nemu ―@Ow...",
+                "narration": "― Nemu ―@Agh...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-35"
             },
             {
@@ -424,12 +424,12 @@
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-35"
             },
             {
-                "narration": "― Nemu ―@There's just too much...",
+                "narration": "― Nemu ―@Hay demasiado...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-36"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@UI!!!",
+                "narration": "― Touka ―@¡¡¡UI!!!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-37",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-36"
             },
@@ -472,7 +472,7 @@
                 "nameCenter": "Nemu",
                 "nameLeft": "Touka",
                 "nameRight": "Alina",
-                "textRight": "We need to do something about all this@impurity gathering here, sì?",
+                "textRight": "Necesitamos hacer algo con todas estas@impurezas que se están acumulando, ¿yes?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -485,7 +485,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-38"
                     }
                 ],
-                "textLeft": "You're..."
+                "textLeft": "Tú eres..."
             },
             {
                 "chara": [
@@ -523,7 +523,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-8-41"
                     }
                 ],
-                "textRight": "I, Alina, shall create a force field and @quarantine the hospital."
+                "textRight": "Yo, Alina, he de crear un campo de fuerza y@pondré en cuarentena al hospital."
             },
             {
                 "autoTurnLast": 0.5,
@@ -546,7 +546,7 @@
             },
             {
                 "nameNarration": "Alina",
-                "narration": "― Alina ―@*Sigh*",
+                "narration": "― Alina ―@*Suspiro*",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -557,12 +557,12 @@
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-42"
             },
             {
-                "narration": "― Alina ―@This was my first time making a@force field instead of a Labyrinth...",
+                "narration": "― Alina ―@Esta fue mi primera vez creando un campo de fuerza@en vez de un Laberinto...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-43",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-42"
             },
             {
-                "narration": "― Alina ―@But I guess it worked.",
+                "narration": "― Alina ―@Pero supongo que funcionó.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-44",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-43"
             },
@@ -600,7 +600,7 @@
                 "nameLeft": "Ui",
                 "nameRight": "Alina",
                 "textBg": "shout",
-                "textLeft": "Ah...aaaaaaaaarghhh!!!",
+                "textLeft": "¡¡¡Ah...aaaaaaaaarghhh!!!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -614,7 +614,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-45"
                     }
                 ],
-                "textRight": "Merda!"
+                "textRight": "¡Shit!"
             },
             {
                 "chara": [
@@ -637,7 +637,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textLeft": "...It's too late."
+                "textLeft": "... Es demasiado tarde."
             },
             {
                 "chara": [
@@ -650,7 +650,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-47"
                     }
                 ],
-                "textRight": "You can't say that for sure yet."
+                "textRight": "Todavía no se pude decir con seguridad."
             },
             {
                 "chara": [
@@ -663,7 +663,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-48"
                     }
                 ],
-                "textLeft": "But there's nothing else can we do for her!"
+                "textLeft": "¡Pero no hay nada más que podamos hacer ella!"
             },
             {
                 "chara": [
@@ -677,7 +677,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Yes there is!"
+                "textRight": "¡Sí lo hay!"
             },
             {
                 "chara": [
@@ -688,7 +688,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "This'll be the biggest risk of my life. I'll@make one of my stories manifest!"
+                "textRight": "Este será el mayor riesgo de mi vida. ¡Haré@que una de mis historias se manifieste!"
             },
             {
                 "chara": [
@@ -703,7 +703,7 @@
                     }
                 ],
                 "nameLeft": "Alina",
-                "textLeft": "You're going to bring a story to life?"
+                "textLeft": "¿Traerás una historia a la vida?"
             },
             {
                 "chara": [
@@ -714,7 +714,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-52"
                     }
                 ],
-                "textRight": "Yes. One cannot become a Witch without their@human personality and emotions."
+                "textRight": "Sí. Una no se puede convertir en Brujas sin su@personalidad humana y sus emociones."
             },
             {
                 "chara": [
@@ -724,7 +724,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-53"
                     }
                 ],
-                "textRight": "So I will pull out Ui by the soul!"
+                "textRight": "¡Así que voy a sacar a Ui por el alma!"
             },
             {
                 "chara": [
@@ -734,7 +734,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-54"
                     }
                 ],
-                "textRight": "If I take that story, and make it real..."
+                "textRight": "Si tomo esa historia, y la hago real..."
             },
             {
                 "chara": [
@@ -749,7 +749,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Nemu, you can't!"
+                "textLeft": "Nemu, ¡no puedes!"
             },
             {
                 "chara": [
@@ -759,7 +759,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-56"
                     }
                 ],
-                "textLeft": "Ui's spirit will disappear if you don't have@a vessel to store it inside!"
+                "textLeft": "¡El espíritu de Ui desaparecerá si no tienes@un recipiente para almacenarla!"
             },
             {
                 "chara": [
@@ -771,7 +771,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-57"
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¡¿...?!"
             },
             {
                 "chara": [
@@ -782,7 +782,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-58"
                     }
                 ],
-                "textRight": "A vessel...something empty, without a@personality or any emotions..."
+                "textRight": "Un recipiente... algo vacío, sin un personalidad@o emociones..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -841,7 +841,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textRight": "This Kyubey! We took its abilities away,@so it just might work!"
+                "textRight": "¡Este Kyubey! ¡Le quitamos sus habilidades,@entonces puede que funcione!"
             },
             {
                 "chara": [
@@ -853,7 +853,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-60"
                     }
                 ],
-                "textLeft": "Are you sure?"
+                "textLeft": "¿Estás segura?"
             },
             {
                 "chara": [
@@ -866,7 +866,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-61"
                     }
                 ],
-                "textLeft": "We have no idea what might happen once we@cut Ui away from this world!"
+                "textLeft": "¡No tenemos ni idea de que podría pasar una vez@que saquemos a Ui de este mundo!"
             },
             {
                 "chara": [
@@ -877,7 +877,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-62"
                     }
                 ],
-                "textRight": "It's the only choice we have!"
+                "textRight": "¡Es la única opción que tenemos!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -904,7 +904,7 @@
                 ],
                 "nameCenter": "Ui",
                 "textBg": "shout",
-                "textCenter": "[bgEffect:shakeLarge]AAAAAAAAAAAAGHHHHHH!!!",
+                "textCenter": "[bgEffect:shakeLarge]¡¡¡AAAAAAAAAAAAGHHHHHH!!!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -921,7 +921,7 @@
                 ],
                 "nameCenter": "Nemu",
                 "textBg": "shout",
-                "textCenter": "I hope I'm not too late!"
+                "textCenter": "¡Espero que no sea demasiado tarde!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -937,7 +937,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "Until someone brings her soul@back to her physical body...",
+                "narration": "Hasta que alguien regrese su alama@a su cuerpo físico...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-66"
             },
             {
@@ -949,7 +949,7 @@
                         "posY": 20
                     }
                 ],
-                "narration": "Ui's spirit will lay dormant inside@this hollowed-out Kyubey!",
+                "narration": "¡El espíritu de Ui se mantendrá dormido dentro de@este Kyubey vacío!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-67",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-66"
             },
@@ -1007,7 +1007,7 @@
                     }
                 ],
                 "nameNarration": "Uwasa",
-                "narration": "Have you heard? Has anyone told you?",
+                "narration": "¿Ya lo escuchaste? ¿Quién te lo dijo?",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -1037,7 +1037,7 @@
                 ],
                 "nameCenter": "Alina",
                 "surround": "7003_wind",
-                "textCenter": "(Why did I, Alina, even come here?)",
+                "textCenter": "(¿Por qué yo, Alina, siquiera vine aquí?)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -1050,7 +1050,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-69"
                     }
                 ],
-                "textCenter": "(I came to check on Nemu and Touka...)"
+                "textCenter": "(Vine a ver a Nemu y Touka...)"
             },
             {
                 "chara": [
@@ -1062,7 +1062,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-70"
                     }
                 ],
-                "textCenter": "(But why?)"
+                "textCenter": "(¿Pero por qué?)"
             },
             {
                 "chara": [
@@ -1091,7 +1091,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I jumped from the roof of the hospital.@Touka and Nemu found me...@I was checked in to the same hospital, where@I told them about many places in Kamihama.@When a Witch attacked, I saved them...",
+                "narration": "Salté desde el techo del hospital.@Touka y Nemu me encontraron...@Me admitieron en el mismo hospital, donde@le conté sobre muchos lugares en Kamihama.@Cuando una Bruja atacó, yo las salvé...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-73"
             },
             {
@@ -1108,7 +1108,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "It's all coming back to me now.@The plan we all made...",
+                "narration": "Todo está regresando a mí.@El plan que hicimos...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-74"
             },
             {
@@ -1120,12 +1120,12 @@
                         "visible": "appear"
                     }
                 ],
-                "narration": "I, Alina, discovered a Half-Witch in the@hospital lobby. It was absorbing energy.@I saved Nemu and Touka from it...",
+                "narration": "Yo, Alina, descubrí una Media-Bruja en la@recepción del hospital. Estaba absorbiendo energía.@Yo salvé a Nemu y a Touka de ella...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-75",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-74"
             },
             {
-                "narration": "We started talking about Magical Girls and@came up with a plan to use the Half-Witch. We@realized it could help us achieve our goals.",
+                "narration": "Empezamos a hablar sobre Chicas Mágicas y@se nos ocurrió un plan para usar la Media-Bruja.@Nos dimos cuenta de que nos podría ayudar a@lograr nuestros objetivos.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-76",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-75"
             },
@@ -1164,36 +1164,36 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I wanted to use this fascinating material,@Witches, to make my best artwork yet.",
+                "narration": "Quería utilizar este fascinante material,@Brujas, para realizar mi mejor obra de arte hasta ahora.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-77"
             },
             {
-                "narration": "Touka wanted to become healthy and make a@deal with Kyubey to learn about the universe.",
+                "narration": "Touka quería estar sana y hacer un@trato con Kyubey para aprender sobre el universo.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-78",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-77"
             },
             {
-                "narration": "Nemu, too, wished to become healthy and@isolate this world to use as her parchment.",
+                "narration": "Nemu también quería tener salud y@aislar este mundo para usarlo como su pergamino.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-79",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-78"
             },
             {
-                "narration": "All our wishes fit together perfectly.",
+                "narration": "Todos nuestros deseos encajaban a la perfección.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-80",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-79"
             },
             {
-                "narration": "By supporting the Half-Witch as it kept@amassing impurities, I would be able to make@my magnum opus once it became a full Witch.",
+                "narration": "Al apoyar a la Media-Bruja mientras seguía@acumulando impurezas, podría hacer mi@best art una vez que se convierta en una Bruja completa.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-81",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-80"
             },
             {
-                "narration": "Using all that phase transition energy, we@could sustain the universe while isolating it@from Kyubey. We'd take the system to the rest@of the world, making their dream a reality.",
+                "narration": "Usando toda esa energía de transición de fase, podríamos@sostener al universo y aislarlo de Kyubey.@Llevaríamos el sistema al resto del mundo,@haciendo su sueño realidad.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-82",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-81"
             },
             {
-                "narration": "So...",
+                "narration": "Entonces...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-8-83",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-82"
             },
@@ -1222,7 +1222,7 @@
                     }
                 ],
                 "nameCenter": "Alina",
-                "textCenter": "Then...the plan worked?",
+                "textCenter": "Entonces... ¿el plan funcionó?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -1286,7 +1286,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-86"
                     }
                 ],
-                "textRight": "Yes, we were successful in seizing the@Half-Witch."
+                "textRight": "Sí, tuvimos éxito en la captura de la@Media-Bruja."
             },
             {
                 "chara": [
@@ -1297,7 +1297,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-87"
                     }
                 ],
-                "textLeft": "Your Labyrinth was a big help, Alina!"
+                "textLeft": "¡Tu Laberinto fue de gran ayuda, Alina!"
             },
             {
                 "chara": [
@@ -1307,7 +1307,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-88"
                     }
                 ],
-                "textLeft": "We became Magical Girls at the perfect@time."
+                "textLeft": "Nos convertimos en Chicas Mágicas en el@momento perfecto."
             },
             {
                 "chara": [
@@ -1318,7 +1318,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-89"
                     }
                 ],
-                "textLeft": "Thank goodness you were here!"
+                "textLeft": "¡Menos mal que estuviste aquí!"
             },
             {
                 "chara": [
@@ -1332,7 +1332,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-90"
                     }
                 ],
-                "textRight": "We'll be counting on you to put the finishing@touches on this part of the plan."
+                "textRight": "Contaremos contigo para ponerle los últimos@toques a esta parte del plan."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1360,7 +1360,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-8-92"
                     }
                 ],
-                "textCenter": "So long as the two of you supply me with@magic...va bene."
+                "textCenter": "Mientras ustedes dos me den magia...@Okay."
             },
             {
                 "chara": [
@@ -1370,7 +1370,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-92"
                     }
                 ],
-                "textCenter": "I will extend the hospital's force field to@cover Kamihama, keeping Kyubey out."
+                "textCenter": "Expandiré el campo de fuerza del hospital para@cubrir Kamihama, manteniendo a Kyubey fuera."
             },
             {
                 "chara": [
@@ -1383,7 +1383,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-93"
                     }
                 ],
-                "textCenter": "All of this in order to raise this Half-Witch@creation into a masterpiece."
+                "textCenter": "Todo esto para poder criar a esta Media-Bruja@a una obra maestra."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1414,7 +1414,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-8-95"
                     }
                 ],
-                "textRight": "Yes. It will ensure that no one will meddle@in our affairs."
+                "textRight": "Sí. Garantizará que nadie se meta en@nuestros asuntos."
             },
             {
                 "chara": [
@@ -1425,7 +1425,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-95"
                     }
                 ],
-                "textLeft": "I'll save up some energy, so we'll be able@to slowly strengthen the force field too."
+                "textLeft": "Ahorraré algo de energía, así seremos capaces@de fortalecer lentamente el campo de fuerza también."
             },
             {
                 "chara": [
@@ -1435,7 +1435,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-96"
                     }
                 ],
-                "textLeft": "Okay then. For now..."
+                "textLeft": "De acuerdo. Por ahora..."
             },
             {
                 "chara": [
@@ -1446,7 +1446,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-97"
                     }
                 ],
-                "textLeft": "I'll convert some of my energy and pass it@over to Alina."
+                "textLeft": "Convertiré algo de mi energía y se la pasaré@a Alina."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1474,7 +1474,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-8-99"
                     }
                 ],
-                "textCenter": "Molte grazie."
+                "textCenter": "Muchas gracias."
             },
             {
                 "chara": [
@@ -1487,7 +1487,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-8-99"
                     }
                 ],
-                "textCenter": "With this we have now taken the first step@in enacting our plans."
+                "textCenter": "Con esto hemos dado el primer paso para poner@en práctica nuestros planes."
             },
             {
                 "autoTurnLast": 2,

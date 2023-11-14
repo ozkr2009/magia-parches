@@ -14,26 +14,26 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I saw all of it, Ui.",
+                "narration": "Lo vi todo, Ui.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-1"
             },
             {
-                "narration": "I'm so sorry.",
+                "narration": "Lo siento mucho.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-2",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-1"
             },
             {
-                "narration": "I healed you from your sickness.@Then I came to Kamihama to find you.@This whole time, I thought that@I was the one protecting you.",
+                "narration": "Te curé de tu enfermedad.@Después vine a Kamihama a buscarte.@Todo este tiempo, pensé que yo era@quién te protegía.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-3",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-2"
             },
             {
-                "narration": "But I had it all wrong.@I'm not even talking about the Doppels...",
+                "narration": "Pero estaba equivocada.@Ni siquiera estoy hablando de los Doppels...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-4",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-3"
             },
             {
-                "narration": "Ever since I first became a Magical Girl,@you've been watching over me and trying@to keep ME safe, haven't you?",
+                "narration": "Desde que me convertí en una Chica Mágica,@me has estado cuidando y tratado@de MANTENERME segura, ¿no es así?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-5",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-4"
             },
@@ -53,7 +53,7 @@
             },
             {
                 "nameNarration": "Eve",
-                "narration": "― Eve ―@――――!!!",
+                "narration": "― Eve ―@¡¡¡――――!!!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -101,7 +101,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textLeft": "Are we doing the right thing?",
+                "textLeft": "¿Estamos haciendo lo correcto?",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -116,7 +116,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-8"
                     }
                 ],
-                "textLeft": "We have no idea what might happen once we@cut Ui away from this world!"
+                "textLeft": "¡No tenemos ni idea de que podría pasar una vez@que saquemos a Ui de este mundo!"
             },
             {
                 "chara": [
@@ -127,7 +127,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-9"
                     }
                 ],
-                "textRight": "It's the only choice we have!"
+                "textRight": "¡Es la única opción que tenemos!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -154,7 +154,7 @@
                 ],
                 "nameCenter": "Ui",
                 "textBg": "shout",
-                "textCenter": "[bgEffect:shakeLarge]AAAAAAAAAAAAGHHHHHH!!!",
+                "textCenter": "[bgEffect:shakeLarge]¡¡¡AAAAAAAAAAAAGHHHHHH!!!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -171,7 +171,7 @@
                 ],
                 "nameCenter": "Nemu",
                 "textBg": "shout",
-                "textCenter": "I hope I'm not too late!"
+                "textCenter": "¡Espero que no sea demasiado tarde!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -187,7 +187,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "Until someone brings her soul@back to her physical body...",
+                "narration": "Hasta que alguien regrese su alma a su@cuerpo físico...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-13"
             },
             {
@@ -199,7 +199,7 @@
                         "posY": 20
                     }
                 ],
-                "narration": "Ui's spirit will lay dormant inside@this hollowed-out Kyubey!",
+                "narration": "¡El espíritu de Ui se mantendrá dormido dentro de@este Kyubey vacío!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-14",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-13"
             },
@@ -219,7 +219,7 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Ngh... *Pant*",
+                "narration": "— Iroha —@Ngh... *Jadea*",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -230,22 +230,22 @@
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-15"
             },
             {
-                "narration": "— Iroha —@If they hadn't thought to do@that at that very moment...",
+                "narration": "— Iroha —@Si no se les hubiera ocurrido hacer eso@en aquel momento...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-16",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-15"
             },
             {
-                "narration": "— Iroha —@Ui would have turned into a Witch.",
+                "narration": "— Iroha —@Ui se hubiera convertido en una Bruja.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-17",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-16"
             },
             {
-                "narration": "— Iroha —@And now that userName touched you,@it all came flooding back.",
+                "narration": "— Iroha —@Y ahora que userName te tocó,@todo regreso de golpe.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-18",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-17"
             },
             {
-                "narration": "— Iroha —@All the memories...and your spirit, too.",
+                "narration": "— Iroha —@Todas las memorias... y tu espíritu también.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-19",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-18"
             },
@@ -257,12 +257,12 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "― Iroha ―@Ui, you don't need to struggle and suffer@inside all those impurities anymore.",
+                "narration": "― Iroha ―@Ui, ya no tienes que batallar y sufrir@dentro de todas esas impurezas.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-21",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-20"
             },
             {
-                "narration": "— Iroha —@Your big sister's here to save you.",
+                "narration": "— Iroha —@Tu hermana mayor está aquí para salvarte.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-22",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-21"
             },
@@ -289,7 +289,7 @@
             {
                 "bgm": "bgm01_battle12",
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@Iroha, leave this to me!",
+                "narration": "― Touka ―@¡Iroha, déjame esto a mí!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -301,70 +301,70 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Touka!",
+                "narration": "— Iroha —@¡Touka!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-24",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-23"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "— Touka —@I'll cut around all the gems@holding Ui in place!",
+                "narration": "— Touka —@¡Cortaré alrededor de las gemas que@sujetan a Ui!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-25",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-24"
             },
             {
-                "narration": "— Touka —@Then you can set her free!",
+                "narration": "— Touka —@¡Entonces podrás liberarla!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-26",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-25"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Thank goodness. You remembered!",
+                "narration": "— Iroha —@Que alivio. ¡Lo recordaste!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-27",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-26"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "— Touka —@I did.",
+                "narration": "— Touka —@Así es.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-28",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-27"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Still, it isn't going to be easy@to do any real damage to Eve.",
+                "narration": "— Iroha —@Aun así, no va a ser fácil hacerle@algún tipo de daño a Eve.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-29",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-28"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "— Touka —@I have all the energy we@gathered in Kamihama.",
+                "narration": "— Touka —@Tengo toda la energía que reunimos@en Kamihama.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-30",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-29"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Right...you do.",
+                "narration": "— Iroha —@Cierto... la tienes.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-31",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-30"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Okay Touka, let's save Ui together!",
+                "narration": "— Iroha —@Muy bien Touka, ¡salvemos a Ui juntas!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-32",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-31"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@I know I'm the one who caused this mess,@but trust me. I'll take care of it.",
+                "narration": "― Touka ―@Sé que fui yo quien causo todo este desastre,@pero confía en mí. Me encargaré de ello.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-33",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-32"
             },
             {
-                "narration": "― Touka ―@I'll use every last drop of energy@I stocked away in Kamihama...",
+                "narration": "― Touka ―@Usaré hasta la última gota de energía@que almacené en Kamihama...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-34",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-33"
             },
             {
-                "narration": "― Touka ―@And smash the area around the gems!",
+                "narration": "― Touka ―@¡Y destruiré el área alrededor de las gemas!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-9-35",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-9-34"
             },

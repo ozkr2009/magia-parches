@@ -32,7 +32,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textRight": "I...can still fight...too...",
+                "textRight": "Yo... todavía puedo pelear... también...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -68,7 +68,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Felicia",
-                "textLeft": "This is our...very last chance..."
+                "textLeft": "Esta es nuestra... última oportunidad..."
             },
             {
                 "chara": [
@@ -81,7 +81,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-2-3"
                     }
                 ],
-                "textLeft": "Th-the...Mightiest Magical Girl w-won't let@you...stop us!"
+                "textLeft": "¡L-la... Chica Mágica más poderosa no dejará que@nos... detengas!"
             },
             {
                 "chara": [
@@ -92,7 +92,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-2-4"
                     }
                 ],
-                "textRight": "Urgh...d-don't count me out, either!"
+                "textRight": "Urgh... ¡No me dejen fuera tampoco!"
             },
             {
                 "chara": [
@@ -115,7 +115,7 @@
                 ],
                 "nameLeft": "Alina",
                 "nameRight": "Iroha",
-                "textRight": "Guys..."
+                "textRight": "Chicas..."
             },
             {
                 "chara": [
@@ -126,7 +126,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-2-6"
                     }
                 ],
-                "textLeft": "Eh, you look like we could poke you and @you'd fall over, but..."
+                "textLeft": "Eh, se ven como que si las empujo@simplemente de caerían, pero..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -194,7 +194,7 @@
                 ],
                 "nameLeft": "Nemu",
                 "nameRight": "Yachiyo",
-                "textRight": "Ngh!"
+                "textRight": "¡Ngh!"
             },
             {
                 "chara": [
@@ -205,7 +205,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-2-9"
                     }
                 ],
-                "textLeft": "You're not going anywhere."
+                "textLeft": "Tu no vas a ningún lado."
             },
             {
                 "chara": [
@@ -215,7 +215,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-2-10"
                     }
                 ],
-                "textLeft": "Eve shall proceed to its feast."
+                "textLeft": "Eve ha de proceder a su festín."
             },
             {
                 "chara": [
@@ -230,7 +230,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "*Gasp*"
+                "textRight": "*Jadeo*"
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Iroha Tamaki!"
+                "textLeft": "¡Iroha Tamaki!"
             },
             {
                 "chara": [
@@ -264,7 +264,7 @@
                     }
                 ],
                 "nameCenter": "Sana",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1004A04]Agh!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1004A04]¡Agh!"
             },
             {
                 "autoTurnFirst": 0.6,
@@ -279,7 +279,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge]Ugh! The Invisible Girl?!"
+                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge]¡Ugh! ¡¿La Chica Invisible?!"
             },
             {
                 "chara": [
@@ -300,7 +300,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 0,
-                "textCenter": "Get going right now!"
+                "textCenter": "¡Ponte en marcha ahora mismo!"
             },
             {
                 "autoTurnLast": 1,
@@ -346,7 +346,7 @@
                 ],
                 "nameLeft": "Yachiyo",
                 "nameRight": "Iroha",
-                "textLeft": "Iroha!!!"
+                "textLeft": "¡¡¡Iroha!!!"
             },
             {
                 "chara": [
@@ -357,7 +357,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-2-17"
                     }
                 ],
-                "textRight": "Sorry, Yachiyo!"
+                "textRight": "¡Lo siento, Yachiyo!"
             },
             {
                 "chara": [
@@ -368,7 +368,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-2-18"
                     }
                 ],
-                "textRight": "I'll go save her myself!"
+                "textRight": "¡Iré yo misma a salvarla! "
             },
             {
                 "autoTurnLast": 1.5,

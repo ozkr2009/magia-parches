@@ -28,8 +28,8 @@
                 "bgm": "bgm03_story08",
                 "nameCenter": "Ui",
                 "nameLeft": "Nemu",
-                "nameRight": "Touka's Voice",
-                "textRight": "I'm baaaaaack!",
+                "nameRight": "Voz de Touka",
+                "textRight": "¡Ya regreseeeeé!",
                 "turnChangeOut": "fadeOut",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-1"
             },
@@ -42,7 +42,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-1"
                     }
                 ],
-                "textLeft": "We should be able to find an answer at an@an expedited rate, now Touka's here."
+                "textLeft": "Deberíamos ser capaces de encontrar una respuesta@a un ritmo acelerado, ahora que Touka está aquí."
             },
             {
                 "chara": [
@@ -53,7 +53,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-2"
                     }
                 ],
-                "textCenter": "Yeah."
+                "textCenter": "Sí."
             },
             {
                 "chara": [
@@ -69,7 +69,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "What are you talking about?"
+                "textRight": "¿De qué están hablando?"
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-4"
                     }
                 ],
-                "textRight": "Wait, no... Ui, don't tell me!"
+                "textRight": "Espera, no... ¡Ui, no me digas!"
             },
             {
                 "chara": [
@@ -100,7 +100,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-5"
                     }
                 ],
-                "textRight": "Your tests found something bad, right as@you were about to leave the hospital?"
+                "textRight": "¿Tus pruebas encontraron algo malo, justo cuando@estabas a punto de dejar el hospital?"
             },
             {
                 "chara": [
@@ -111,7 +111,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-6"
                     }
                 ],
-                "textRight": "Your BNP levels, maybe?"
+                "textRight": "¿Tus niveles de PNB, tal vez?"
             },
             {
                 "chara": [
@@ -121,7 +121,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-7"
                     }
                 ],
-                "textLeft": "I already asked her the same thing."
+                "textLeft": "Yo le pregunté lo mismo."
             },
             {
                 "chara": [
@@ -131,7 +131,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-8"
                     }
                 ],
-                "textCenter": "The test results are just as good as they@ever were..."
+                "textCenter": "Los resultados de las pruebas fueron tan buenos@como siempre..."
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-9"
                     }
                 ],
-                "textCenter": "The thing is, I'm not actually worried about@myself. I'm worried about Iroha."
+                "textCenter": "La cosa es, no estoy preocupada por mí misma.@Estoy preocupada por Iroha."
             },
             {
                 "chara": [
@@ -154,7 +154,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-10"
                     }
                 ],
-                "textRight": "Iroha...?"
+                "textRight": "¿Iroha...?"
             },
             {
                 "chara": [
@@ -165,7 +165,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-11"
                     }
                 ],
-                "textCenter": "Remember the other day, when we saw her@fighting?"
+                "textCenter": "¿Recuerdas el otro día, cuando la vimos@pelear?"
             },
             {
                 "chara": [
@@ -175,7 +175,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-12"
                     }
                 ],
-                "textCenter": "I don't think she's stopped fighting those@things since."
+                "textCenter": "Creo que desde entonces no ha dejado de luchar@contra esas cosas."
             },
             {
                 "chara": [
@@ -187,7 +187,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-13"
                     }
                 ],
-                "textCenter": "Sometimes it really looks like it's taking a @toll on her. I can't bear to watch it."
+                "textCenter": "A veces parece que le está afectando demasiado.@No puedo soportar verla así."
             },
             {
                 "chara": [
@@ -198,7 +198,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-14"
                     }
                 ],
-                "textCenter": "I really want her to stop fighting."
+                "textCenter": "De verdad quiero que deje de pelear."
             },
             {
                 "chara": [
@@ -209,7 +209,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-15"
                     }
                 ],
-                "textRight": "I see..."
+                "textRight": "Ya veo..."
             },
             {
                 "chara": [
@@ -221,7 +221,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-16"
                     }
                 ],
-                "textLeft": "Yes, that is quite the dilemma."
+                "textLeft": "Sí, es todo un dilema."
             },
             {
                 "chara": [
@@ -237,7 +237,7 @@
                         "id": 100702
                     }
                 ],
-                "textLeft": "But how do we stop her without knowing what@it is that we want her to stop?"
+                "textLeft": "Pero, ¿cómo la detenemos sin saber qué es lo que@queremos que detenga?"
             },
             {
                 "chara": [
@@ -250,7 +250,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-18"
                     }
                 ],
-                "textRight": "She's a Magical Girl."
+                "textRight": "Es una Chica Mágica."
             },
             {
                 "chara": [
@@ -268,7 +268,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-19"
                     }
                 ],
-                "textLeft": "Touka, this is serious. I'm worried about@Ui and her sister."
+                "textLeft": "Touka, esto es serio. Estoy preocupada por@Ui y su hermana."
             },
             {
                 "chara": [
@@ -279,7 +279,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-20"
                     }
                 ],
-                "textLeft": "Now isn't the time for silly jokes."
+                "textLeft": "Ahora no es el momento para bromas tontas."
             },
             {
                 "chara": [
@@ -290,7 +290,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-21"
                     }
                 ],
-                "textRight": "I'm serious, too."
+                "textRight": "Yo también hablo en serio."
             },
             {
                 "chara": [
@@ -308,7 +308,7 @@
                         "id": 101502
                     }
                 ],
-                "textLeft": "...[wait:1.0][chara:101402:lipSynch_1][chara:101402:voiceFull_fullvoice/section_102003/vo_full_102003-6-23]You are?"
+                "textLeft": "...[wait:1.0][chara:101402:lipSynch_1][chara:101402:voiceFull_fullvoice/section_102003/vo_full_102003-6-23] ¿En serio?"
             },
             {
                 "chara": [
@@ -319,7 +319,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-23"
                     }
                 ],
-                "textRight": "I think it's stranger to NOT believe in it,@after we saw that bizarre place."
+                "textRight": "Pienso que es más extraño NO creer en ello,@después de haber visto ese extraño lugar."
             },
             {
                 "chara": [
@@ -332,7 +332,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-24"
                     }
                 ],
-                "textCenter": "Touka, please tell me! What is a Magical@Girl?"
+                "textCenter": "Touka, ¡Por favor dime! ¿Qué es una Chica@Mágica?"
             },
             {
                 "chara": [
@@ -343,7 +343,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-25"
                     }
                 ],
-                "textRight": "You don't need to panic, I'll tell you.@I think it's for Iroha's own good that I do."
+                "textRight": "No hay necesidad de entrar en pánico,@te lo diré. Creo que es por el bien de Iroha que@te lo diga."
             },
             {
                 "chara": [
@@ -355,7 +355,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-26"
                     }
                 ],
-                "textRight": "Because once you hear what I have to say,@you'll realize what you need to do."
+                "textRight": "Porque cuando oigan lo que tengo que decir,@se darán cuenta de lo que hay que hacer."
             },
             {
                 "chara": [
@@ -366,7 +366,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-27"
                     }
                 ],
-                "textRight": "There's a way to save her..."
+                "textRight": "Hay una forma de salvarla..."
             },
             {
                 "autoTurnLast": 3,
@@ -409,7 +409,7 @@
                         "voiceFull": "fullvoice/section_102003/vo_full_102003-6-29"
                     }
                 ],
-                "textLeft": "I think I'm at about 100% comprehension now.",
+                "textLeft": "Creo que lo comprendo al 100% ahora.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -420,7 +420,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-29"
                     }
                 ],
-                "textCenter": "I'm at something like 70%..."
+                "textCenter": "Yo estoy como a 70%..."
             },
             {
                 "chara": [
@@ -431,7 +431,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-30"
                     }
                 ],
-                "textCenter": "Don't forget, I'm not as smart as either of@you two!"
+                "textCenter": "¡No olviden que no soy tan inteligente como@ustedes dos!"
             },
             {
                 "chara": [
@@ -446,7 +446,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-31"
                     }
                 ],
-                "textRight": "Still, the basics of what a Magical Girl is@and the things your sister's been doing..."
+                "textRight": "Aun así, lo básico de lo que es una Chica Mágica@y las cosas que tu hermana ha estado haciendo..."
             },
             {
                 "chara": [
@@ -456,7 +456,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-32"
                     }
                 ],
-                "textRight": "You get those parts at least, right?"
+                "textRight": "Entiendes esas partes al menos, ¿cierto?"
             },
             {
                 "chara": [
@@ -469,7 +469,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-33"
                     }
                 ],
-                "textCenter": "Yes, I understood that part."
+                "textCenter": "Sí, entiendo esa parte."
             },
             {
                 "chara": [
@@ -479,7 +479,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-34"
                     }
                 ],
-                "textCenter": "And the bit about the Witch and the@Labyrinth... And..."
+                "textCenter": "Y la parte de la Bruja y el Laberinto...@Y..."
             },
             {
                 "chara": [
@@ -496,7 +496,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "I understood that if we use the method you@talked about, and it works..."
+                "textCenter": "Entendí que si usamos el método del que@nos hablaste, y funciona..."
             },
             {
                 "chara": [
@@ -506,7 +506,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-36"
                     }
                 ],
-                "textCenter": "It'll help everyone, right?"
+                "textCenter": "Ayudará a todas, ¿verdad?"
             },
             {
                 "chara": [
@@ -519,7 +519,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-37"
                     }
                 ],
-                "textRight": "That's it exactly!"
+                "textRight": "¡Eso es exactamente!"
             },
             {
                 "chara": [
@@ -532,7 +532,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-38"
                     }
                 ],
-                "textLeft": "All three of us will get better, and we can@help Iroha...and lots of other people, too."
+                "textLeft": "Las tres mejoraremos, y podemos ayudar@a Iroha... y muchas otras personas también."
             },
             {
                 "chara": [
@@ -545,7 +545,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-39"
                     }
                 ],
-                "textCenter": "But will it really work?"
+                "textCenter": "Pero, ¿de verdad funcionará?"
             },
             {
                 "chara": [
@@ -562,7 +562,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Touka does tend to say things that annoy@people..."
+                "textLeft": "Touka tiende a decir cosas que molestan a@la gente..."
             },
             {
                 "chara": [
@@ -572,7 +572,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-41"
                     }
                 ],
-                "textLeft": "However... I know that she would never@discuss something untethered from reality."
+                "textLeft": "Sin embargo... yo sé que nunca discutiría algo@tan desconectado de la realidad."
             },
             {
                 "chara": [
@@ -584,7 +584,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-42"
                     }
                 ],
-                "textLeft": "Since she's the one proposing this plan, I@feel confident placing my faith in it."
+                "textLeft": "Deposito toda mi confianza en el plan,@ya que es ella quien lo propuso."
             },
             {
                 "chara": [
@@ -597,7 +597,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-43"
                     }
                 ],
-                "textRight": "I'm so glad to hear you say that!"
+                "textRight": "¡Me alegra mucho escucharte decir eso!"
             },
             {
                 "chara": [
@@ -609,7 +609,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-44"
                     }
                 ],
-                "textRight": "But I am a little annoyed you said I annoy@people."
+                "textRight": "Pero me molesta un poco que dijeras que@molesto a la gente."
             },
             {
                 "chara": [
@@ -620,7 +620,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-45"
                     }
                 ],
-                "textLeft": "Sorry, I let some of my derision slip."
+                "textLeft": "Lo siento, se me escapó un poco de burla."
             },
             {
                 "chara": [
@@ -639,7 +639,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Nyaaaaaargh!!!"
+                "textRight": "¡¡¡Nyaaaaaargh!!!"
             },
             {
                 "chara": [
@@ -652,7 +652,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-47"
                     }
                 ],
-                "textCenter": "Guys! Don't fight!"
+                "textCenter": "¡Chicas! ¡No se peleen!"
             },
             {
                 "chara": [
@@ -669,7 +669,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-48"
                     }
                 ],
-                "textRight": "Hmph!"
+                "textRight": "¡Hmph!"
             },
             {
                 "chara": [
@@ -681,7 +681,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-49"
                     }
                 ],
-                "textRight": "It's a tricky topic, anyway, so I won't be@hasty about putting it into practice."
+                "textRight": "De todos modos, es un tema delicado, así que no@me apresuraré a ponerlo en práctica."
             },
             {
                 "chara": [
@@ -692,7 +692,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-50"
                     }
                 ],
-                "textRight": "We won't take any action until you@understand it completely, Ui."
+                "textRight": "No tomaremos ninguna medida hasta que lo@entiendas por completo, Ui."
             },
             {
                 "chara": [
@@ -703,7 +703,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-51"
                     }
                 ],
-                "textCenter": "Then I want you to explain it to me again, @right away!"
+                "textCenter": "Entonces quiero que me lo expliques de nuevo,@¡ahora mismo!"
             },
             {
                 "chara": [
@@ -713,7 +713,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-52"
                     }
                 ],
-                "textCenter": "I don't have any time to waste!"
+                "textCenter": "¡No tengo tiempo que desperdiciar!"
             },
             {
                 "chara": [
@@ -724,7 +724,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-53"
                     }
                 ],
-                "textCenter": "I want to save Iroha as soon as possible!"
+                "textCenter": "¡Quiero salvar a Iroha lo antes posible!"
             },
             {
                 "chara": [
@@ -735,7 +735,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-54"
                     }
                 ],
-                "textRight": "I know how you feel."
+                "textRight": "Sé cómo te sientes."
             },
             {
                 "chara": [
@@ -746,7 +746,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-55"
                     }
                 ],
-                "textRight": "I'll explain it as many times as it takes!"
+                "textRight": "¡Te lo explicaré tantas veces como sea necesario!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -771,7 +771,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "The first thing to understand is that there@are pros and cons to being a Magical Girl.",
+                "narration": "Lo primero que hay que entender es que hay@ventajas y desventajas de ser una Chica Mágica.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-57"
             },
             {
@@ -788,7 +788,7 @@
                         "pos": 2
                     }
                 ],
-                "narration": "Advantages include a healthy body with @increased strength and stamina.",
+                "narration": "Las ventajas incluyen un cuerpo saludable con@mayor fuerza y resistencia.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-58",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-57"
             },
@@ -800,7 +800,7 @@
                         "pos": 0
                     }
                 ],
-                "narration": "The drawback is that you are@required to battle Witches.",
+                "narration": "La desventaja es que estás@obligada a pelear contra las Brujas.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-59",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-58"
             },
@@ -816,12 +816,12 @@
                         "pos": 1
                     }
                 ],
-                "narration": "You also must bear the burden of@eventually becoming a Witch yourself.",
+                "narration": "También debes llevar la carga de tambien@convertirte en una Bruja, eventualmente.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-60",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-59"
             },
             {
-                "narration": "Just based on that, it sounds like@there's an awful lot of bad to be had.",
+                "narration": "Solo basándose en eso, parece que hay un@montón de desventajas.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-61",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-60"
             },
@@ -840,7 +840,7 @@
                         "pos": 0
                     }
                 ],
-                "narration": "But we actually only need to get rid of the@becoming a Witch part to make things much@better, not only for us, but all mankind.",
+                "narration": "Pero solamente tenemos que deshacernos de la parte@de convertirse en Brujas para hacerlo mucho mejor,@no solo para nosotras, sino para la humanidad.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-62",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-61"
             },
@@ -857,12 +857,12 @@
                     }
                 ],
                 "flashEffect": "flashWhite2",
-                "narration": "Magical Girls fight Witches so they can@gain Grief Seeds, which are necessary to@delay the process of becoming a Witch.",
+                "narration": "Las Chicas Mágicas luchan contras las Brujas para poder@ganar Grief Seeds, las cuales son necesarias para@retrasar el proceso de conversión en Bruja.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-63",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-62"
             },
             {
-                "narration": "But if we eliminate that end result entirely,@there'd be no more need to fight Witches!",
+                "narration": "¡Pero si eliminamos ese resultado final,@no habría más necesidad de luchar contra Brujas!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-64",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-63"
             },
@@ -880,7 +880,7 @@
                         "motion": 0
                     }
                 ],
-                "narration": "By doing so we'd intrinsically@be saving Iroha!",
+                "narration": "¡Al hacer eso intrínsecamente estaríamos@salvando a Iroha!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-65",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-64"
             },
@@ -927,7 +927,7 @@
                 "nameCenter": "Ui",
                 "nameLeft": "Nemu",
                 "nameRight": "Touka",
-                "textCenter": "And to do that...",
+                "textCenter": "Y para hacer eso...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -939,7 +939,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-66"
                     }
                 ],
-                "textCenter": "All three of us need to become Magical Girls?"
+                "textCenter": "¿Las tres nos tenemos que convertir en Chicas@Mágicas?"
             },
             {
                 "chara": [
@@ -950,7 +950,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-67"
                     }
                 ],
-                "textRight": "That's right."
+                "textRight": "Correcto."
             },
             {
                 "chara": [
@@ -960,7 +960,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-68"
                     }
                 ],
-                "textRight": "The three of us can use our wishes to@eliminate the fates of every Magical Girl."
+                "textRight": "Nosotras tres podemos usar nuestros deseos@para eliminar los destinos de cada Chica Mágica."
             },
             {
                 "chara": [
@@ -972,7 +972,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-69"
                     }
                 ],
-                "textCenter": "And Iroha will be saved..."
+                "textCenter": "E Iroha se salvará..."
             },
             {
                 "chara": [
@@ -983,7 +983,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-70"
                     }
                 ],
-                "textLeft": "Also, when our wishes are granted, we won't@have to be tormented by that fate either."
+                "textLeft": "También, cuando nuestros deseos se cumplan,@no tendremos que ser atormentadas por ese@destino tampoco."
             },
             {
                 "chara": [
@@ -994,7 +994,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-71"
                     }
                 ],
-                "textRight": "Quite the opposite, in fact! We'd become@Magical Girls and be granted strong bodies."
+                "textRight": "¡Todo lo contrario! Nos convertiríamos en@Chicas Mágicas y obtendríamos cuerpos fuertes."
             },
             {
                 "chara": [
@@ -1006,7 +1006,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-72"
                     }
                 ],
-                "textRight": "So all three of us and Iroha can all live@happily ever after!"
+                "textRight": "¡Y entonces las tres juntas con Iroha podremos@vivir felices por siempre!"
             },
             {
                 "chara": [
@@ -1019,7 +1019,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-73"
                     }
                 ],
-                "textRight": "Happy, healthy, and able to pursue our dreams@as we see fit!"
+                "textRight": "¡Felices, saludables, y capaces de perseguir@nuestros sueños como mejor nos parezca!"
             },
             {
                 "chara": [
@@ -1030,7 +1030,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-74"
                     }
                 ],
-                "textLeft": "Then...the most important step is the wish@we make, isn't it?"
+                "textLeft": "Entonces... el paso más importante es el deseo@que pidamos, ¿cierto?"
             },
             {
                 "chara": [
@@ -1043,7 +1043,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-75"
                     }
                 ],
-                "textRight": "Yes, that's the most important part."
+                "textRight": "Sí, esa es la parte más importante."
             },
             {
                 "chara": [
@@ -1057,7 +1057,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-76"
                     }
                 ],
-                "textCenter": "Okay."
+                "textCenter": "Muy bien."
             },
             {
                 "autoTurnLast": 0.01,
@@ -1072,7 +1072,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I'm sure we won't be allowed to wish as a@trio for something like \"erase the fates of@Magical Girls\". It'd violate natural law.",
+                "narration": "Estoy segura de que no se nos permitirá desear@como un trio algo como \"borra los destinos de@las Chicas Mágicas\". Violaría una ley natural.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-78"
             },
             {
@@ -1084,22 +1084,22 @@
                         "posY": 80
                     }
                 ],
-                "narration": "So instead, the three of us will wish, one@by one, to snatch away one of the powers@that Kyubey possesses.",
+                "narration": "Así que, las pediremos un deseo, una@por una, para arrebatarle uno de los poderes@que posee Kyubey.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-79",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-78"
             },
             {
-                "narration": "First, Ui will take the power to \"harvest\",@used to send energies like impurities as well@as phase transition energy into space.",
+                "narration": "Primero, Ui tomará el poder de \"recolectar\",@usado para mandar energía como impurezas o@energía de transición de fase al espacio.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-80",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-79"
             },
             {
-                "narration": "I'll take the power to \"convert\", used@to transform harvested energy as well@as human souls into magic.",
+                "narration": "Yo tomaré el poder de \"convertir\", usado@para transformar la energía recolectada,@así como las almas humanas en magia.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-81",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-80"
             },
             {
-                "narration": "And Nemu will take the power to \"manifest\",@or grant energy a physical form, much like@when Kyubey creates a Soul Gem.",
+                "narration": "Y Nemu tomará el poder de \"manifestar\",@o dar a la energía una forma física, como@cuando Kyubey crea una Soul Gem.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-82",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-81"
             },
@@ -1110,7 +1110,7 @@
                         "id": 810000
                     }
                 ],
-                "narration": "With all three of those powers, we can put@our plan into motion to free all Magical@Girls from the fates that doom them!",
+                "narration": "¡Con los tres poderes, podemos poner@nuestro plan en acción para liberar a las Chicas@Mágicas de los destinos que las condenan!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-83",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-82"
             },
@@ -1125,17 +1125,17 @@
                         "soulGem": 0
                     }
                 ],
-                "narration": "First up is Ui!",
+                "narration": "¡Primero le toca a Ui!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-84",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-83"
             },
             {
-                "narration": "Once Nemu and I have enough impurities,@you can use your power to harvest them.",
+                "narration": "Una vez que Nemu y yo tengamos suficientes impurezas,@tú puedes usar tu poder para recolectarlas.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-85",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-84"
             },
             {
-                "narration": "Then you can pass it on to me,@along with a bit of your own magic.",
+                "narration": "Entonces me las puedes pasar a mí,@junto con un poco de tu magia.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-86",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-85"
             },
@@ -1150,17 +1150,17 @@
                         "soulGem": 0
                     }
                 ],
-                "narration": "Then it's my turn!",
+                "narration": "¡Entonces es mi turno!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-87",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-86"
             },
             {
-                "narration": "I'll take the impurities and convert them@into magic for Magical Girls to use freely.",
+                "narration": "Tomaré las impurezas y las convertiré en magia@para que las Chicas Mágicas puedan usar libremente.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-88",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-87"
             },
             {
-                "narration": "Then I'll pass that magic on to Nemu,@with a bit of my magic.",
+                "narration": "Entonces le pasaré esa magia a Nemu,@con un poco de mi magia.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-89",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-88"
             },
@@ -1175,12 +1175,12 @@
                         "soulGem": 0
                     }
                 ],
-                "narration": "Nemu will finish up!",
+                "narration": "¡Nemu terminará el proceso!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-90",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-89"
             },
             {
-                "narration": "She'll use her magic, along with the magic@I gave to her, to give that energy a physical@form, just like how Soul Gems are created.",
+                "narration": "Ella usará su magia, junto con la magia@que yo le di, para darle una forma física a esa@energía, igual que como se crean las Soul Gems.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-91",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-90"
             },
@@ -1199,7 +1199,7 @@
                         "id": 101502
                     }
                 ],
-                "narration": "She'll make an automatic purification system.",
+                "narration": "Ella hará un sistema automático de purificación.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-92",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-91"
             },
@@ -1212,17 +1212,17 @@
                         "visible": "appear"
                     }
                 ],
-                "narration": "The three of us would use our magic to make@a system with all the same functions Kyubey@has. It would automatically both gather@energy and deliver it to outer space.",
+                "narration": "Las tres usaríamos nuestra magia para crear@un sistema con todas las mismas funciones que tiene@Kyubey. Recolectaría energía automáticamente@y la enviaría al espacio exterior.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-93",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-92"
             },
             {
-                "narration": "That would also address the issue Kyubey@talked about: the entropy of the universe.@It's a gold-star situation all around!",
+                "narration": "Eso también resolvería el problema del que@Kyubey hablaba: la entropía del universo.@¡Es una situación favorable por donde se le vea!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-94",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-93"
             },
             {
-                "narration": "This way, all three of us and Iroha@get to have our happy ending!",
+                "narration": "¡De esta manera, las tres e Iroha@podremos tener un final feliz!",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-6-95",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-94"
             },
@@ -1274,7 +1274,7 @@
                 "nameCenter": "Ui",
                 "nameLeft": "Nemu",
                 "nameRight": "Touka",
-                "textRight": "What do you think?",
+                "textRight": "¿Qué piensas?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -1287,7 +1287,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-97"
                     }
                 ],
-                "textCenter": "I think I got it all that time!"
+                "textCenter": "¡Creo que lo entendí todo esta vez!"
             },
             {
                 "chara": [
@@ -1310,7 +1310,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-99"
                     }
                 ],
-                "textCenter": "I'll become a Magical Girl with you guys."
+                "textCenter": "Me convertiré en una Chica Mágica con ustedes."
             },
             {
                 "chara": [
@@ -1323,7 +1323,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-100"
                     }
                 ],
-                "textRight": "I'm glad it all made sense to you!"
+                "textRight": "¡Me da gusto que todo tengas sentido para ti!"
             },
             {
                 "chara": [
@@ -1334,7 +1334,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-101"
                     }
                 ],
-                "textLeft": "We might be able to widen the scope of the@purification by expanding the system, too."
+                "textLeft": "También podríamos ampliar el alcance de la@purificación ampliando el sistema."
             },
             {
                 "chara": [
@@ -1347,7 +1347,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-102"
                     }
                 ],
-                "textRight": "Yes, that's another goal."
+                "textRight": "Sí, ese es otro objetivo."
             },
             {
                 "chara": [
@@ -1357,7 +1357,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-6-103"
                     }
                 ],
-                "textRight": "If we can get Kyubey to negotiate with us..."
+                "textRight": "Si podemos hacer que Kyubey negocie con nosotras..."
             },
             {
                 "autoTurnFirst": 3,
@@ -1370,7 +1370,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textRight": "We can ask about all kinds of things.@Including outer space! *Giggle*"
+                "textRight": "Podemos preguntar sobre todo tipo de cosas.@¡Incluyendo el espacio exterior! *Risilla*"
             },
             {
                 "chara": [
@@ -1399,7 +1399,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 0,
-                "textCenter": "Outer space?"
+                "textCenter": "¿Espacio exterior?"
             },
             {
                 "autoTurnLast": 2,

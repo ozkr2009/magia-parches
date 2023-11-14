@@ -37,7 +37,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Sis... I can't...breathe... Ugh...",
+                "textLeft": "Hermana... No puedo... respirar... Ugh...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -71,7 +71,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Please! Please cure Ui!",
+                "textLeft": "¡Por favor! ¡Cura a Ui!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -82,7 +82,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-2"
                     }
                 ],
-                "textLeft": "Make my precious little sister healthy!"
+                "textLeft": "¡Haz que mi preciada hermanita esté saludable!"
             },
             {
                 "autoTurnFirst": 3,
@@ -95,7 +95,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textLeft": "If you can do that, I'll do anything for you!"
+                "textLeft": "¡Si puedes hacer eso, haré cualquier cosa por ti!"
             },
             {
                 "chara": [
@@ -142,7 +142,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Iroha, am I really being released from the@hospital?",
+                "textLeft": "Iroha, ¿realmente me darán de alta del@hospital?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -157,7 +157,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Yup, you are!"
+                "textRight": "Sip, ¡así es!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -178,12 +178,12 @@
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-7"
             },
             {
-                "narration": "You've been sick ever since you were born,@and you were finally supposed to be better.@So why did you end up like this?",
+                "narration": "Has estado enferma desde que naciste,@y se suponía que por fin estarías bien.@¿Entonces por qué terminaste así?",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-8",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-7"
             },
             {
-                "narration": "I'm your big sister, and@I haven't the faintest idea...",
+                "narration": "Soy tu hermana mayor, y no tengo@la menor idea...",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-9",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-8"
             },
@@ -210,7 +210,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "But now that you've let me see you like this,@there's one thing that's crystal clear to me.",
+                "narration": "Pero ahora que me has permitido verte de esta@manera, hay una cosa que me queda clara.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-10"
             },
             {
@@ -253,21 +253,21 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "When I should have become a Witch, @you saved me.",
+                "narration": "Cuando me debí convertir en una Bruja,@tú me salvaste.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-12"
             },
             {
-                "narration": "And I wasn't the only one.@You took on the impurities of so many other@Magical Girls, and you saved them all.",
+                "narration": "Y no fui la única.@Tomaste las impurezas de muchas otras Chicas@Mágicas, y las salvaste a todas ellas también.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-13",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-12"
             },
             {
-                "narration": "But the price you paid was becoming a @Half-Witch that spreads powerful curses.",
+                "narration": "Pero el precio que pagaste fue el convertirte en@Media-Bruja que propaga poderosas maldiciones.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-14",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-13"
             },
             {
-                "narration": "And I... I decided I would save you.",
+                "narration": "Y yo... yo decidí que te salvaría.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-15",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-14"
             },
@@ -310,7 +310,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "(If the worst comes to pass, I'll kill you @before you make your sins any worse.)",
+                "textCenter": "(En el peor de los casos, te mataré@antes de que tus pecados sean aún peores.)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -323,7 +323,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-20"
                     }
                 ],
-                "textCenter": "(That is what we have sworn to do to those of@us who become Witches.)"
+                "textCenter": "(Es lo que hemos jurado hacer a aquellas de@nosotras que se conviertan en Brujas.)"
             },
             {
                 "chara": [
@@ -334,7 +334,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-21"
                     }
                 ],
-                "textCenter": "(Now, maybe it's my time to uphold that@oath myself...)"
+                "textCenter": "(Ahora, puede que sea el momento de cumplir ese@juramento yo misma...)"
             },
             {
                 "chara": [
@@ -348,7 +348,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-22"
                     }
                 ],
-                "textCenter": "(But...even so...!)"
+                "textCenter": "(Pero... ¡Aun así...!)"
             },
             {
                 "autoTurnLast": 0.01,
@@ -434,7 +434,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-26"
                     }
                 ],
-                "textRight": "What are you going to do?"
+                "textRight": "¿Qué vas a hacer?"
             },
             {
                 "chara": [
@@ -445,7 +445,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-27"
                     }
                 ],
-                "textLeft": "I'm going to take that gem. Ui's inside it."
+                "textLeft": "Voy a tomar esa gema. Ui está ahí dentro."
             },
             {
                 "chara": [
@@ -458,7 +458,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-28"
                     }
                 ],
-                "textRight": "Then I'll go."
+                "textRight": "Entonces vamos."
             },
             {
                 "chara": [
@@ -471,7 +471,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-29"
                     }
                 ],
-                "textLeft": "Huh?"
+                "textLeft": "¿Ehh?"
             },
             {
                 "chara": [
@@ -482,7 +482,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-30"
                     }
                 ],
-                "textRight": "Both your stamina and magic are near their@limits right now."
+                "textRight": "Tanto tu resistencia como tu magia ya están@cerca de sus límites."
             },
             {
                 "chara": [
@@ -493,7 +493,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-31"
                     }
                 ],
-                "textLeft": "So are yours!"
+                "textLeft": "¡También los tuyos!"
             },
             {
                 "chara": [
@@ -504,7 +504,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-32"
                     }
                 ],
-                "textRight": "Well..."
+                "textRight": "Bueno..."
             },
             {
                 "chara": [
@@ -514,7 +514,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-33"
                     }
                 ],
-                "textRight": "I can harness a power much stronger than my@own, but only once."
+                "textRight": "Puedo utilizar un poder mucho más fuerte@que el mío, pero solo una vez."
             },
             {
                 "chara": [
@@ -525,13 +525,13 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-34"
                     }
                 ],
-                "textLeft": "Just once?"
+                "textLeft": "¿Solo una vez?"
             },
             {
                 "bgm": "bgm02_boss03",
                 "nameCenter": "Touka",
                 "surround": "stop",
-                "textCenter": "Sorry, but you won't get the chance.",
+                "textCenter": "Lo siento, pero no tendrás oportunidad.",
                 "voiceFull": "fullvoice/section_102003/vo_full_102003-1-36",
                 "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-35"
             },
@@ -545,7 +545,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-36"
                     }
                 ],
-                "textLeft": "That voice..."
+                "textLeft": "Esa voz..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -571,7 +571,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Iroha",
-                "textLeft": "You really surprised me! I never thought@you'd be able to corner Eve like that."
+                "textLeft": "¡De verdad me sorprendiste! Nunca pensé que@podrían acorralar a Eve de esa manera."
             },
             {
                 "chara": [
@@ -582,7 +582,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-38"
                     }
                 ],
-                "textRight": "Touka... Get out of the way."
+                "textRight": "Touka... Fuera del camino."
             },
             {
                 "chara": [
@@ -594,7 +594,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-39"
                     }
                 ],
-                "textRight": "Don't you feel anything at all? Even after@seeing Ui like this?"
+                "textRight": "¿No sientes nada? ¿Aun después de ver@a Ui así?"
             },
             {
                 "chara": [
@@ -606,7 +606,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-40"
                     }
                 ],
-                "textLeft": "Hmmm?"
+                "textLeft": "¿Hmmm?"
             },
             {
                 "chara": [
@@ -619,7 +619,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-41"
                     }
                 ],
-                "textRight": "If Eve does devour Walpurgisnacht and turn@into a full Witch..."
+                "textRight": "Si Eve se come a Walpurgisnacht y se transforma@en una Bruja completa..."
             },
             {
                 "chara": [
@@ -630,7 +630,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-42"
                     }
                 ],
-                "textRight": "There's no way to bring Ui back!"
+                "textRight": "¡No habrá manera de traer Ui de regreso!"
             },
             {
                 "chara": [
@@ -643,7 +643,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-43"
                     }
                 ],
-                "textLeft": "Yes, you're right."
+                "textLeft": "Sí, tienes razón."
             },
             {
                 "chara": [
@@ -653,7 +653,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-44"
                     }
                 ],
-                "textLeft": "Annoying as all this is, the pieces of the@puzzle are finally falling into place."
+                "textLeft": "Por molesto que sea todo esto, las piezas del@rompecabezas por fin están encajando."
             },
             {
                 "chara": [
@@ -663,7 +663,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-45"
                     }
                 ],
-                "textLeft": "I'm starting to think that what you say@really could be true, Iroha Tamaki."
+                "textLeft": "Estoy empezando a creer que lo que dices de@verdad es cierto, Iroha Tamaki."
             },
             {
                 "chara": [
@@ -674,7 +674,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-46"
                     }
                 ],
-                "textLeft": "I mean that, truly."
+                "textLeft": "Lo digo en serio."
             },
             {
                 "chara": [
@@ -685,7 +685,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-47"
                     }
                 ],
-                "textRight": "Then why...?"
+                "textRight": "Entonces, ¿por qué...?"
             },
             {
                 "chara": [
@@ -696,7 +696,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-48"
                     }
                 ],
-                "textLeft": "Well, we still don't know a single thing@about Ui Tamaki."
+                "textLeft": "Bueno, todavía no sabemos nada sobre@Ui Tamaki."
             },
             {
                 "chara": [
@@ -711,7 +711,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "Quite. Even if her story stirs our emotions,@it still feels like one from another world."
+                "textLeft": "Exactamente. Aun si su historia nos toca el corazón,@sigue pareciendo como de otro mundo."
             },
             {
                 "chara": [
@@ -722,7 +722,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-50"
                     }
                 ],
-                "textLeft": "To us, it seems like someone else's problem.@Mere fragments of emotion won't cut it."
+                "textLeft": "Para nosotras parece como el problema de@alguien más. Meros fragmentos de emoción no@serán suficiente."
             },
             {
                 "chara": [
@@ -749,7 +749,7 @@
                     }
                 ],
                 "nameLeft": "Alina",
-                "textLeft": "At any rate, there is no way to stop Eve@from feasting on its breakfast now."
+                "textLeft": "En cualquier caso, no hay forma de evitar que Eve@se dé un festín con su desayuno."
             },
             {
                 "chara": [
@@ -761,7 +761,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-53"
                     }
                 ],
-                "textLeft": "If you're so determined to stop it, you'll@have to defeat us first."
+                "textLeft": "Si estás tan decidida a detenerla, tendrás que@vencernos primero."
             },
             {
                 "chara": [
@@ -772,7 +772,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-54"
                     }
                 ],
-                "textLeft": "But you all look pretty beat up to me."
+                "textLeft": "Pero a mí me parece que están bastante@golpeadas ya."
             },
             {
                 "chara": [
@@ -784,7 +784,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-55"
                     }
                 ],
-                "textLeft": "You may as well watch Eve enjoy its deliziosa@meal..."
+                "textLeft": "Ya mejor observemos a Eve disfrutar su delicious@comida..."
             },
             {
                 "chara": [
@@ -794,7 +794,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-56"
                     }
                 ],
-                "textLeft": "Here, with us."
+                "textLeft": "Aquí, con nosotras."
             },
             {
                 "chara": [
@@ -805,7 +805,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-57"
                     }
                 ],
-                "textLeft": "Ahaha!"
+                "textLeft": "¡Ajaja!"
             },
             {
                 "chara": [
@@ -818,7 +818,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-58"
                     }
                 ],
-                "textRight": "I'm still going. No matter what you say."
+                "textRight": "Todavía voy. No importa lo que digas."
             },
             {
                 "chara": [
@@ -828,7 +828,7 @@
                         "voiceFullStop": "fullvoice/section_102003/vo_full_102003-1-59"
                     }
                 ],
-                "textRight": "I'm bringing Ui back with me... She's the@whole reason I came to Kamihama."
+                "textRight": "Traeré a Ui de regreso conmigo... Ella es la@razón por la que vine a Kamihama. "
             },
             {
                 "autoTurnLast": 2,
