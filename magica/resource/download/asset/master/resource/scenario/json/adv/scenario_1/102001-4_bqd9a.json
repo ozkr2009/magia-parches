@@ -27,7 +27,7 @@
                 ],
                 "nameLeft": "Hinano",
                 "nameRight": "Nanaka",
-                "textLeft": "Familiars?! Outside of a Labyrinth?!",
+                "textLeft": "¡¿Familiares?! ¡¿Fuera de un laberinto?!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -40,7 +40,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-1"
                     }
                 ],
-                "textLeft": "Something this bizarre can only mean..."
+                "textLeft": "Algo tan extraño solo puede significar..."
             },
             {
                 "chara": [
@@ -50,7 +50,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-2"
                     }
                 ],
-                "textLeft": "These must be Walpurgisnacht's Familiars."
+                "textLeft": "Estos deben ser los Familiares de@Walpurgisnacht."
             },
             {
                 "chara": [
@@ -61,7 +61,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-3"
                     }
                 ],
-                "textRight": "I heard a cackling voice not too long ago."
+                "textRight": "Escuché una voz cacareada no hace mucho."
             },
             {
                 "chara": [
@@ -71,7 +71,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-4"
                     }
                 ],
-                "textRight": "I am certain that the Witch herself isn't far@behind."
+                "textRight": "Estoy segura de que la bruja@no está muy lejos."
             },
             {
                 "chara": [
@@ -82,7 +82,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-5"
                     }
                 ],
-                "textLeft": "All we can do now is see whether we can take@it out or not."
+                "textLeft": "Lo único que podemos hacer ahora@es ver si podemos matarla o no."
             },
             {
                 "chara": [
@@ -93,7 +93,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-6"
                     }
                 ],
-                "textRight": "We have the advantage in numbers."
+                "textRight": "Tenemos la ventaja en número."
             },
             {
                 "chara": [
@@ -103,7 +103,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-7"
                     }
                 ],
-                "textRight": "Provided we coordinate effectively, we have a@fair chance of winning."
+                "textRight": "Siempre que nos coordinemos eficazmente,@tenemos una buena oportunidad de ganar."
             },
             {
                 "chara": [
@@ -114,7 +114,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-8"
                     }
                 ],
-                "textLeft": "That's not going to be easy. Most of us here@have only just met."
+                "textLeft": "Eso no va a ser fácil. La mayoría de las que@estamos aquí acabamos de conocernos."
             },
             {
                 "chara": [
@@ -125,7 +125,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-9"
                     }
                 ],
-                "textRight": "Even so, we can't afford to hesitate."
+                "textRight": "Aun así, no podemos permitirnos dudar."
             },
             {
                 "chara": [
@@ -136,7 +136,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-10"
                     }
                 ],
-                "textLeft": "You can say that again. If we waver even the@tiniest bit, it's all over for us."
+                "textLeft": "Puedes repetirlo. Si vacilamos lo más mínimo,@se acabó todo para nosotras."
             },
             {
                 "chara": [
@@ -148,7 +148,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "All right, everyone! Get ready!"
+                "textLeft": "¡Muy bien, todas! Prepárense."
             },
             {
                 "autoTurnLast": 0.2,
@@ -177,7 +177,7 @@
                     }
                 ],
                 "nameCenter": "Natsuki",
-                "textCenter": "Heeere we go! I'll be cheering everyone on!"
+                "textCenter": "¡Allá vamos! ¡Estaré animando a todas!"
             },
             {
                 "chara": [
@@ -189,7 +189,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-4-13"
                     }
                 ],
-                "textCenter": "Ready, go!"
+                "textCenter": "¡Listas, ya!"
             },
             {
                 "chara": [
@@ -203,7 +203,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "Go, fight, WIN!"
+                "textCenter": "¡Adelante, a luchar! ¡A GANAR!"
             },
             {
                 "autoTurnLast": 2,

@@ -42,7 +42,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textLeft": "I have to...beat Eve.",
+                "textLeft": "Tengo que... vencer a Eve.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -65,7 +65,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-3"
                     }
                 ],
-                "textLeft": "But...I..."
+                "textLeft": "Pero... yo..."
             },
             {
                 "autoTurnLast": 2,
@@ -100,7 +100,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "That's why, when Mifuyu gets rid of Fendt@Hope...",
+                "textRight": "Por eso, cuando Mifuyu se deshaga de@Fendt Hope...",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -112,7 +112,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-5"
                     }
                 ],
-                "textRight": "I'll immediately go and destroy Eve."
+                "textRight": "Iré inmediatamente a destruir a Eve."
             },
             {
                 "autoTurnLast": 1,
@@ -142,7 +142,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-2-7"
                     }
                 ],
-                "textRight": "You may claim you're saving the Magical@Girls of the future...",
+                "textRight": "Puedes decir que estás salvando a las@Chicas Mágicas del futuro...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -154,7 +154,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-7"
                     }
                 ],
-                "textRight": "But I'm going to save everyone's future!"
+                "textRight": "¡Pero voy a salvar el futuro de todas!"
             },
             {
                 "armatureList": [
@@ -199,7 +199,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textLeft": "Can I really do this?",
+                "textLeft": "¿Realmente puedo hacer esto?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -213,7 +213,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-9"
                     }
                 ],
-                "textRight": "Iroha, listen, it's okay..."
+                "textRight": "Iroha, escucha, está bien..."
             },
             {
                 "chara": [
@@ -225,7 +225,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-10"
                     }
                 ],
-                "textLeft": "Sana?"
+                "textLeft": "¿Sana?"
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-11"
                     }
                 ],
-                "textRight": "The Magius said she was an \"incomplete@specimen\", so she isn't a Witch."
+                "textRight": "Las Magius dijeron que era un \"espécimen@incompleto\", así que no es una bruja."
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-12"
                     }
                 ],
-                "textRight": "If that's really Ui, then there could be a@way to bring her back!"
+                "textRight": "¡Si realmente es Ui, entonces podría haber una@manera de traerla de vuelta!"
             },
             {
                 "chara": [
@@ -257,7 +257,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-13"
                     }
                 ],
-                "textLeft": "You're right."
+                "textLeft": "Tienes razón."
             },
             {
                 "chara": [
@@ -269,7 +269,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-14"
                     }
                 ],
-                "textLeft": "Just because Eve is Ui, it doesn't mean that@all hope is lost..."
+                "textLeft": "El hecho de que Eve sea Ui, no significa que@toda esperanza esté perdida..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -289,7 +289,7 @@
             {
                 "nameCenter": "Eve",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]――――!!!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]¡¡――――!!!"
             },
             {
                 "chara": [
@@ -309,7 +309,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "...?!"
+                "textLeft": "¡¿...?!"
             },
             {
                 "chara": [
@@ -321,7 +321,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-17"
                     }
                 ],
-                "textLeft": "Eve is starting to struggle against its@restraints..."
+                "textLeft": "Eve está empezando a intentar liberarse de sus@cadenas..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -399,7 +399,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textRight": "I sense a Witch... But I still can't see it!",
+                "textRight": "Percibo una Bruja... ¡Pero aún no puedo verla!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -413,7 +413,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-20"
                     }
                 ],
-                "textLeft": "Walpurgisnacht is getting closer and closer."
+                "textLeft": "Walpurgisnacht está cada vez más cerca."
             },
             {
                 "chara": [
@@ -423,7 +423,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-21"
                     }
                 ],
-                "textLeft": "Eve must be reacting to it..."
+                "textLeft": "Eve debe estar reaccionando a ello..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -443,7 +443,7 @@
             {
                 "nameCenter": "Eve",
                 "textBg": "shout",
-                "textCenter": "[bgEffect:shakeLarge]――――!!!"
+                "textCenter": "[bgEffect:shakeLarge]¡¡¡――――!!!"
             },
             {
                 "chara": [
@@ -470,7 +470,7 @@
             },
             {
                 "nameNarration": "",
-                "narration": "Damage from the unseasonal typhoon is massive...@F5-class tornadoes buffet the continent...@Many people stranded after earthquakes...@They announced military force may be...@The virus continues to spread after the WHO...",
+                "narration": "Los daños del tifón no estacional son masivos...@Los tornados de clase F5 golpean el continente...@Muchas personas varadas después de los terremotos...@Anuncian que la fuerza militar puede ser...@El virus sigue propagándose después de que la OMS...",
                 "narrationBg": "black",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut",
@@ -478,7 +478,7 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "If we don't stop them, Ui is going to become@a Witch, gathering impurities forever while@spreading curses around the world...",
+                "narration": "Si no las detenemos, Ui se va a convertir en@una Bruja, acumulando impurezas para siempre mientras@difunde maldiciones por todo el mundo...",
                 "voiceFull": "fullvoice/section_102001/vo_full_102001-2-26",
                 "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-25"
             },
@@ -523,7 +523,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textLeft": "And Kamihama will be her first target.",
+                "textLeft": "Y Kamihama será su primer objetivo.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -535,7 +535,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-27"
                     }
                 ],
-                "textRight": "We can't let them free Eve! We need to@stop them somehow!"
+                "textRight": "¡No podemos dejar que liberen a Eve! ¡Tenemos que@detenerlas de alguna manera!"
             },
             {
                 "chara": [
@@ -548,7 +548,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-28"
                     }
                 ],
-                "textLeft": "But if we attack it directly...!"
+                "textLeft": "¡Pero si la atacamos directamente...!"
             },
             {
                 "chara": [
@@ -561,7 +561,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-2-29"
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¡¿...?!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -581,7 +581,7 @@
             {
                 "nameCenter": "Eve",
                 "textBg": "shout",
-                "textCenter": "―━━――━!!!"
+                "textCenter": "¡¡————!!"
             },
             {
                 "bgm": "stop",
@@ -597,7 +597,7 @@
                 ],
                 "nameCenter": "Iroha",
                 "surround": "7012_tempest",
-                "textCenter": "Wait... Eve's taking flight..."
+                "textCenter": "Espera... Eve está levantando el vuelo..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -666,7 +666,7 @@
             },
             {
                 "nameNarration": "",
-                "narration": "Ahhhhhhhhh!",
+                "narration": "¡Ahhhhhhh!",
                 "voiceFull": "fullvoice/section_102001/vo_full_102001-2-33"
             },
             {

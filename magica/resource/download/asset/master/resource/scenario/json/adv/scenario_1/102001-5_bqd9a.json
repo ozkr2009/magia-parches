@@ -47,9 +47,9 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-5-1"
                     }
                 ],
-                "nameLeft": "",
+                "nameLeft": "Hinano",
                 "nameRight": "Emiri",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4056_landing_jump2]Hyaaagh!",
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4056_landing_jump2]¡Hyaaagh!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -92,7 +92,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-5-2"
                     }
                 ],
-                "textRight": "Yuck. These Familiars are, like, in a whole@different dimension compared to regular ones!"
+                "textRight": "Qué asco. Estos familiares están en una@dimensión totalmente diferente a los normales."
             },
             {
                 "chara": [
@@ -107,7 +107,7 @@
                     }
                 ],
                 "nameLeft": "Hinano",
-                "textLeft": "Hey, but you're keeping up with them just@fine. You're doing great."
+                "textLeft": "Oye, pero tú te mantienes a la altura de@ellos muy bien. Lo estás haciendo muy bien."
             },
             {
                 "chara": [
@@ -120,7 +120,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-3"
                     }
                 ],
-                "textRight": "That means a bunch coming from you,@Myako-senpai!"
+                "textRight": "¡Eso significa mucho viniendo de ti,@Myako-senpai!"
             },
             {
                 "chara": [
@@ -133,7 +133,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-4"
                     }
                 ],
-                "textRight": "I don't really get it, but these Familiars @keep moving forward in a straight line."
+                "textRight": "Realmente no lo entiendo, pero estos Familiares@siguen avanzando en línea recta."
             },
             {
                 "chara": [
@@ -143,7 +143,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-5"
                     }
                 ],
-                "textRight": "It's super easy to just shoot them down, @you know?"
+                "textRight": "Es súper fácil derribarlos,@¿Verdad?"
             },
             {
                 "chara": [
@@ -156,7 +156,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-6"
                     }
                 ],
-                "textLeft": "They may be advancing without regard for@their safety, like a bullet from a gun."
+                "textLeft": "Puede que avancen sin tener en cuenta@su seguridad, como una bala de una pistola."
             },
             {
                 "chara": [
@@ -167,7 +167,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-7"
                     }
                 ],
-                "textLeft": "How're things going with you guys?"
+                "textLeft": "¿Cómo van las cosas por allá?"
             },
             {
                 "chara": [
@@ -190,7 +190,7 @@
                 ],
                 "nameLeft": "Meiyui",
                 "nameRight": "Nanaka",
-                "textRight": "We outlasted the first wave of attacks."
+                "textRight": "Hemos sobrevivido a la primera oleada de ataques."
             },
             {
                 "chara": [
@@ -200,7 +200,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-9"
                     }
                 ],
-                "textLeft": "As you and Emily said, our enemies appear@quite reckless."
+                "textLeft": "Como dijeron Emily y tú, nuestros enemigos@parecen bastante temerarios."
             },
             {
                 "chara": [
@@ -211,7 +211,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-10"
                     }
                 ],
-                "textLeft": "If we keep our calm and don't let them get@the best of us, we stand a good chance."
+                "textLeft": "Si mantenemos la calma y no dejamos que nos@superen, tendremos una buena oportunidad."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                     }
                 ],
                 "nameRight": "Asuka",
-                "textRight": "In other words..."
+                "textRight": "En otras palabras..."
             },
             {
                 "chara": [
@@ -236,7 +236,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-12"
                     }
                 ],
-                "textRight": "If we protect this bay area, it'll be like @an iron gate for Fort Kamihama!"
+                "textRight": "¡Si protegemos esta zona de la bahía, será como@una puerta de hierro para el Fuerte Kamihama!"
             },
             {
                 "chara": [
@@ -247,7 +247,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-13"
                     }
                 ],
-                "textRight": "We might actually be able to fight @Walpurgisnacht on an even footing that way!"
+                "textRight": "¡Así podremos luchar contra Walpurgisnacht@en igualdad de condiciones!"
             },
             {
                 "chara": [
@@ -258,7 +258,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-14"
                     }
                 ],
-                "textLeft": "Optimistic as ever, I see."
+                "textLeft": "Optimista como siempre, ya veo."
             },
             {
                 "chara": [
@@ -268,7 +268,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-15"
                     }
                 ],
-                "textLeft": "The only reason we're able to fight them off@here is because we're in a group."
+                "textLeft": "La única razón por la que somos capaces de luchar@contra ellos aquí es porque estamos en grupo."
             },
             {
                 "chara": [
@@ -289,7 +289,7 @@
                     }
                 ],
                 "nameLeft": "Nanaka",
-                "textLeft": "Indeed. The bay area is rather vast..."
+                "textLeft": "Efectivamente. La zona de la bahía es bastante@extensa..."
             },
             {
                 "chara": [
@@ -300,7 +300,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-17"
                     }
                 ],
-                "textLeft": "We will have no choice but to divide our@forces if enemies appear elsewhere."
+                "textLeft": "No tendremos más remedio que dividir nuestras@fuerzas si aparecen enemigos en otros lugares."
             },
             {
                 "chara": [
@@ -313,7 +313,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-18"
                     }
                 ],
-                "textRight": "Ngh, that's...a good point..."
+                "textRight": "Ngh, eso es... un buen punto..."
             },
             {
                 "chara": [
@@ -336,7 +336,7 @@
                 ],
                 "nameLeft": "Hinano",
                 "nameRight": "Emiri",
-                "textRight": "...?!"
+                "textRight": "¡¿...?!"
             },
             {
                 "chara": [
@@ -349,7 +349,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-20"
                     }
                 ],
-                "textRight": "Oh my god, guys, look at THAT!"
+                "textRight": "¡Ah, cielos, chicas, miren eso!"
             },
             {
                 "chara": [
@@ -362,7 +362,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-21"
                     }
                 ],
-                "textLeft": "Familiars! Looks like they're coming from @where Eve is."
+                "textLeft": "¡Familiares! Parece que vienen de@donde está Eve."
             },
             {
                 "autoTurnLast": 0.01,
@@ -405,7 +405,7 @@
                 ],
                 "nameLeft": "Hinano",
                 "nameRight": "Nanaka",
-                "textLeft": "They're scattering throughout Kamihama...",
+                "textLeft": "Se están dispersando por todo Kamihama...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -428,7 +428,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-5-24"
                     }
                 ],
-                "textRight": "On your guard, everyone! Another wave is@incoming!"
+                "textRight": "¡Todas, en guardia!@¡Otra oleada se acerca!"
             },
             {
                 "armatureList": [
@@ -462,7 +462,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-5-25"
                     }
                 ],
-                "textRight": "What?"
+                "textRight": "¿Qué?"
             },
             {
                 "chara": [
@@ -472,7 +472,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-25"
                     }
                 ],
-                "textRight": "They're appearing in other places...not just@here?"
+                "textRight": "¿Están apareciendo en otros lugares...@no solo aquí?"
             },
             {
                 "chara": [
@@ -495,7 +495,7 @@
                 ],
                 "nameLeft": "Meiyui",
                 "nameRight": "Kako",
-                "textLeft": "This is rapidly turning into a nightmare."
+                "textLeft": "Esto se está convirtiendo rápidamente en@una pesadilla."
             },
             {
                 "chara": [
@@ -506,7 +506,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-27"
                     }
                 ],
-                "textRight": "Nanaka!"
+                "textRight": "¡Nanaka!"
             },
             {
                 "chara": [
@@ -516,7 +516,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-28"
                     }
                 ],
-                "textRight": "Walpurgisnacht's Familiars are showing up@all over the city!"
+                "textRight": "¡Los familiares de Walpurgisnacht están@apareciendo por toda la ciudad!"
             },
             {
                 "chara": [
@@ -531,7 +531,7 @@
                     }
                 ],
                 "nameLeft": "Nanaka",
-                "textLeft": "Yes, I'm aware."
+                "textLeft": "Sí, estoy al tanto."
             },
             {
                 "chara": [
@@ -546,7 +546,7 @@
                     }
                 ],
                 "nameRight": "Asuka",
-                "textRight": "It's almost like they're responding to the @Familiars Eve scattered everywhere."
+                "textRight": "Es casi como si estuvieran respondiendo a los@Familiares de Eve esparcidos por todas partes."
             },
             {
                 "chara": [
@@ -558,7 +558,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-31"
                     }
                 ],
-                "textRight": "I really was being way too optimistic..."
+                "textRight": "Realmente estaba siendo demasiado optimista..."
             },
             {
                 "chara": [
@@ -569,7 +569,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-32"
                     }
                 ],
-                "textRight": "It's only a matter of time before the city@is completely overrun with Familiars!"
+                "textRight": "¡Es solo cuestión de tiempo que la ciudad esté@completamente invadida de Familiares!"
             },
             {
                 "chara": [
@@ -592,7 +592,7 @@
                 ],
                 "nameLeft": "Hinano",
                 "nameRight": "Emiri",
-                "textRight": "Whadda we DO, Myako-senpai?!"
+                "textRight": "¡¿Qué HACEMOS, Miyako-senpai?!"
             },
             {
                 "chara": [
@@ -619,7 +619,7 @@
                     }
                 ],
                 "nameRight": "Nanaka",
-                "textRight": "You are the most experienced Magical Girl@among us, Hinano."
+                "textRight": "Eres la Chica Mágica con más experiencia@entre nosotras, Hinano."
             },
             {
                 "chara": [
@@ -630,7 +630,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-36"
                     }
                 ],
-                "textRight": "We have no time for debate. Tell us what to@do, and we will do it."
+                "textRight": "No tenemos tiempo para debatir.@Dinos qué hacer, y lo haremos."
             },
             {
                 "chara": [
@@ -645,7 +645,7 @@
                     }
                 ],
                 "nameRight": "Meiyui",
-                "textRight": "I have no objections to that."
+                "textRight": "No tengo ninguna objeción a eso."
             },
             {
                 "chara": [
@@ -656,7 +656,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-38"
                     }
                 ],
-                "textLeft": "One option is to stay here and wait for@Walpurgisnacht to come to us."
+                "textLeft": "Una opción es quedarnos aquí y esperar a@que Walpurgisnacht venga a nosotras."
             },
             {
                 "chara": [
@@ -666,7 +666,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-39"
                     }
                 ],
-                "textLeft": "But honestly, if the Familiars keep on@coming, they'll be just as much of a threat."
+                "textLeft": "Pero sinceramente, si los Familiares siguen@viniendo, serán una amenaza igualmente."
             },
             {
                 "chara": [
@@ -677,7 +677,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-40"
                     }
                 ],
-                "textLeft": "And worst-case scenario, they might even@turn into Witches themselves..."
+                "textLeft": "Y en el peor de los casos, podrían incluso@convertirse en brujas..."
             },
             {
                 "chara": [
@@ -692,7 +692,7 @@
                     }
                 ],
                 "nameRight": "Nanaka",
-                "textRight": "So then..."
+                "textRight": "Entonces..."
             },
             {
                 "chara": [
@@ -703,7 +703,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-42"
                     }
                 ],
-                "textLeft": "Desperate times, desperate measures."
+                "textLeft": "A tiempos desesperados, medidas desesperadas."
             },
             {
                 "chara": [
@@ -715,7 +715,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Everyone, split into teams and spread out!"
+                "textLeft": "¡Todas, divídanse en equipos y sepárense!"
             },
             {
                 "chara": [
@@ -726,7 +726,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "We're tackling the Familiars!"
+                "textLeft": "¡Nos enfrentamos a los Familiares!"
             },
             {
                 "chara": [
@@ -736,7 +736,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-45"
                     }
                 ],
-                "textLeft": "If the Magical Girls by Eve can take it out,@that'll get rid of half of the Familiars."
+                "textLeft": "Si las Chicas Mágicas cerca de Eve pueden eliminarla,@eso nos librará de la mitad de los Familiares."
             },
             {
                 "chara": [
@@ -748,7 +748,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Do your best to hold out 'til then!"
+                "textLeft": "¡Hagan lo posible por aguantar hasta entonces!"
             },
             {
                 "autoTurnLast": 3,
@@ -778,7 +778,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "What in the world happened here...?",
+                "textCenter": "¿Qué demonios ha pasado aquí...?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -792,7 +792,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-48"
                     }
                 ],
-                "textCenter": "I'm certain Fendt Hope used to be just over @there."
+                "textCenter": "Estoy segura de que Fendt Hope solía estar@justo ahí."
             },
             {
                 "chara": [
@@ -804,7 +804,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-49"
                     }
                 ],
-                "textCenter": "Does that mean that massive thing lying@down in the distance is Eve...?"
+                "textCenter": "¿Significa eso que esa cosa masiva que se@encuentra en la distancia es Eve...?"
             },
             {
                 "autoTurnLast": 1,
@@ -855,7 +855,7 @@
                 "nameLeft": "Mitama",
                 "nameRight": "Tsukasa",
                 "surround": "7202_telepathy",
-                "textRight": "Mitama! Can you hear me?",
+                "textRight": "¡Mitama! ¿Puedes oírme?",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "ef_adv_02"
             },
@@ -867,7 +867,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-51"
                     }
                 ],
-                "textLeft": "Tsukasa?"
+                "textLeft": "¿Tsukasa?"
             },
             {
                 "chara": [
@@ -878,7 +878,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-52"
                     }
                 ],
-                "textLeft": "Are you close by? Are Momoko and the others@with you?"
+                "textLeft": "¿Estás cerca? ¿Están Momoko y las demás@contigo?"
             },
             {
                 "chara": [
@@ -889,7 +889,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-53"
                     }
                 ],
-                "textRight": "No, we split up."
+                "textRight": "No, nos separamos."
             },
             {
                 "chara": [
@@ -899,7 +899,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-54"
                     }
                 ],
-                "textRight": "We're using our special power to force our@telepathic message through to you."
+                "textRight": "Estamos usando nuestro poder especial para@comunicarnos telepáticamente contigo."
             },
             {
                 "chara": [
@@ -912,7 +912,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-55"
                     }
                 ],
-                "textLeft": "I see."
+                "textLeft": "Ya veo."
             },
             {
                 "chara": [
@@ -922,7 +922,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-56"
                     }
                 ],
-                "textLeft": "Do you know what's happening right now?"
+                "textLeft": "¿Sabes lo que está ocurriendo en este momento?"
             },
             {
                 "chara": [
@@ -932,7 +932,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-57"
                     }
                 ],
-                "textLeft": "It looks like Eve's restraints were cut."
+                "textLeft": "Parece que las ataduras de Eve fueron cortadas."
             },
             {
                 "chara": [
@@ -945,7 +945,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-58"
                     }
                 ],
-                "textRight": "What?!"
+                "textRight": "¡¿Qué?!"
             },
             {
                 "chara": [
@@ -958,7 +958,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-59"
                     }
                 ],
-                "textRight": "They were still holding strong when we left!"
+                "textRight": "¡Todavía se mantenían fuertes cuando nos fuimos!"
             },
             {
                 "chara": [
@@ -970,7 +970,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-60"
                     }
                 ],
-                "textRight": "There was a huge earthquake, though..."
+                "textRight": "Aunque hubo un gran terremoto..."
             },
             {
                 "chara": [
@@ -981,7 +981,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-61"
                     }
                 ],
-                "textRight": "Maybe Eve broke free then."
+                "textRight": "Tal vez Eve se liberó entonces."
             },
             {
                 "chara": [
@@ -994,7 +994,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-62"
                     }
                 ],
-                "textLeft": "I see..."
+                "textLeft": "Ya veo..."
             },
             {
                 "chara": [
@@ -1009,7 +1009,7 @@
                     }
                 ],
                 "nameRight": "Tsukuyo",
-                "textRight": "Also, we have more important matters to @attend to."
+                "textRight": "Además, tenemos asuntos más importantes que@atender."
             },
             {
                 "chara": [
@@ -1022,7 +1022,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-64"
                     }
                 ],
-                "textLeft": "The situation is bad enough as it is..."
+                "textLeft": "La situación ya es bastante mala..."
             },
             {
                 "chara": [
@@ -1035,7 +1035,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-65"
                     }
                 ],
-                "textRight": "Yes, but this is another issue altogether."
+                "textRight": "Sí, pero esto es otro asunto totalmente distinto."
             },
             {
                 "chara": [
@@ -1045,7 +1045,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-66"
                     }
                 ],
-                "textRight": "Mifuyu cast an illusion on herself..."
+                "textRight": "Mifuyu se hizo una ilusión a sí misma..."
             },
             {
                 "chara": [
@@ -1056,7 +1056,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-67"
                     }
                 ],
-                "textRight": "...so that she could destroy Fendt Hope."
+                "textRight": "...para poder destruir a Fendt Hope."
             },
             {
                 "chara": [
@@ -1069,7 +1069,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-68"
                     }
                 ],
-                "textLeft": "...?!"
+                "textLeft": "¡¿...?!"
             },
             {
                 "chara": [
@@ -1081,7 +1081,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-69"
                     }
                 ],
-                "textLeft": "She did what? She used her forbidden magic?!"
+                "textLeft": "¿Ella hizo qué? ¡¿Utilizó su magia prohibida?!"
             },
             {
                 "chara": [
@@ -1092,7 +1092,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-70"
                     }
                 ],
-                "textRight": "Yes... But she's still breathing."
+                "textRight": "Sí... Pero aún respira."
             },
             {
                 "chara": [
@@ -1105,7 +1105,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-71"
                     }
                 ],
-                "textLeft": "Where are you now?"
+                "textLeft": "¿Dónde está ahora?"
             },
             {
                 "chara": [
@@ -1118,7 +1118,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-72"
                     }
                 ],
-                "textRight": "We are about to arrive at your shop."
+                "textRight": "Estamos a punto de llegar a su tienda."
             },
             {
                 "chara": [
@@ -1129,7 +1129,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-73"
                     }
                 ],
-                "textLeft": "Very well."
+                "textLeft": "Muy bien."
             },
             {
                 "chara": [
@@ -1139,7 +1139,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-74"
                     }
                 ],
-                "textLeft": "I'll be right with you. There's just one@thing I need to take care of first."
+                "textLeft": "Enseguida estoy contigo. Solo hay una@cosa de la que tengo que ocuparme primero."
             },
             {
                 "chara": [
@@ -1150,7 +1150,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-75"
                     }
                 ],
-                "textLeft": "Wait inside the shop for me."
+                "textLeft": "Espérame dentro de la tienda."
             },
             {
                 "armatureList": [
@@ -1210,7 +1210,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-78"
                     }
                 ],
-                "textCenter": "*Sigh*"
+                "textCenter": "*Suspira*"
             },
             {
                 "chara": [
@@ -1224,7 +1224,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-79"
                     }
                 ],
-                "textCenter": "First, I need to let Iroha and her friends@know what happened."
+                "textCenter": "Primero, tengo que hacer saber a Iroha@y a las demás lo que pasó."
             },
             {
                 "autoTurnLast": 1,
@@ -1284,7 +1284,7 @@
                 ],
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textRight": "*Pant* *Pant*"
+                "textRight": "*Jadear* *Jadear*"
             },
             {
                 "chara": [
@@ -1294,7 +1294,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-82"
                     }
                 ],
-                "textRight": "Please hang in there, Mifuyu..."
+                "textRight": "Por favor, aguanta, Mifuyu..."
             },
             {
                 "chara": [
@@ -1320,7 +1320,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Is there nothing we can do to help her?"
+                "textLeft": "¿No hay nada que podamos hacer para ayudarla?"
             },
             {
                 "chara": [
@@ -1330,7 +1330,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-85"
                     }
                 ],
-                "textLeft": "We were Feathers, after all. There must be@something we can do."
+                "textLeft": "Después de todo, somos Plumas.@Debe haber algo que podamos hacer."
             },
             {
                 "chara": [
@@ -1340,7 +1340,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-86"
                     }
                 ],
-                "textLeft": "I know they were hiding the truth, but I@can't believe this was what awaited us."
+                "textLeft": "Sé que estaban ocultando la verdad, pero no@puedo creer que esto fuera lo que nos esperaba."
             },
             {
                 "chara": [
@@ -1353,7 +1353,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-5-87"
                     }
                 ],
-                "textLeft": "I feel so helpless..."
+                "textLeft": "Me siento tan impotente..."
             },
             {
                 "autoTurnLast": 2,

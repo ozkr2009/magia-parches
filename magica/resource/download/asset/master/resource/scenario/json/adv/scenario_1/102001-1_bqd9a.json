@@ -51,7 +51,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-2"
                     }
                 ],
-                "textCenter": "Big Sis...",
+                "textCenter": "Hermana...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -77,7 +77,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-3"
                     }
                 ],
-                "textCenter": "Sis!",
+                "textCenter": "¡Hermana!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -103,7 +103,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-4"
                     }
                 ],
-                "textCenter": "Sis♪",
+                "textCenter": "♪Hermana♪...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -168,7 +168,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "I can't bring myself to believe it...@I... I searched so hard, and you're...",
+                "textCenter": "No puedo creerlo...@Yo... He buscado tanto, y tú eres...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -198,7 +198,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textRight": "Iroha!"
+                "textRight": "¡Iroha!"
             },
             {
                 "chara": [
@@ -212,7 +212,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-7"
                     }
                 ],
-                "textLeft": "*Sob* Sana... I think Eve is... I think@Eve is Ui."
+                "textLeft": "*Llorar* Sana... Creo que Eve... Creo que@Eve es Ui."
             },
             {
                 "chara": [
@@ -242,7 +242,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-9"
                     }
                 ],
-                "textLeft": "She has to be... The Eternal Sakura bloomed."
+                "textLeft": "Ella tiene que ser... La Sakura Eterna floreció."
             },
             {
                 "autoTurnLast": 0.01,
@@ -270,11 +270,11 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I'd always thought that if I reunite with Ui,@she'd be just like she was in my memories.",
+                "narration": "Siempre había pensado que si me reunía con Ui,@sería igual que en mis recuerdos.",
                 "voiceFull": "fullvoice/section_102001/vo_full_102001-1-11"
             },
             {
-                "narration": "But instead, she was...",
+                "narration": "Pero en lugar de eso, ella...",
                 "voiceFull": "fullvoice/section_102001/vo_full_102001-1-12",
                 "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-11"
             },
@@ -313,7 +313,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Why...why did it have to be like this?",
+                "textCenter": "¿Por qué... por qué tenía que ser así?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -364,7 +364,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Felicia",
-                "textRight": "*Wheeze* *Gasp*",
+                "textRight": "*Jadear* *Tocer*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -394,7 +394,7 @@
                     }
                 ],
                 "nameCenter": "Alina",
-                "textCenter": "Oh, to see you like this...breathless and@exhausted, as le calamità draws near..."
+                "textCenter": "Oh, verte así... sin aliento y agotada,@ mientras the disaster se acerca..."
             },
             {
                 "chara": [
@@ -405,7 +405,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-15"
                     }
                 ],
-                "textCenter": "*Giggle* Blondie!"
+                "textCenter": "*Risitas* ¡Rubia!"
             },
             {
                 "chara": [
@@ -415,7 +415,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-16"
                     }
                 ],
-                "textCenter": "Your life, right now..."
+                "textCenter": "Tu vida, ahora mismo..."
             },
             {
                 "chara": [
@@ -427,7 +427,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-17"
                     }
                 ],
-                "textCenter": "Is the most brilliant and bella it's ever@been!"
+                "textCenter": "¡Es más brillante y bella como nunca antes!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -458,7 +458,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-19"
                     }
                 ],
-                "textRight": "Huh?!"
+                "textRight": "¡¿Eh?!"
             },
             {
                 "chara": [
@@ -471,7 +471,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-19"
                     }
                 ],
-                "textRight": "Can you speak in the right language for once?@I never know what the hell you're saying."
+                "textRight": "¿Puedes hablar bien por una vez?@Nunca sé qué mierda estás diciendo."
             },
             {
                 "chara": [
@@ -484,7 +484,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-20"
                     }
                 ],
-                "textLeft": "And I can't stand you giggling away while@my friends are suffering!"
+                "textLeft": "¡Y no puedo soportar que te rías mientras@mis amigas sufren!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -512,7 +512,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-22"
                     }
                 ],
-                "textCenter": "Hmph. I, Alina, am also irritated with what@you're doing."
+                "textCenter": "Hmph. Yo, Alina, también estoy irritada con lo que@están haciendo."
             },
             {
                 "chara": [
@@ -522,7 +522,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-22"
                     }
                 ],
-                "textCenter": "I wish to visit Eve, yet you two are standing@in my path."
+                "textCenter": "Deseo visitar a Eve, pero ustedes dos se interponen@en mi camino."
             },
             {
                 "autoTurnLast": 0.2,
@@ -553,7 +553,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "Of course we are!"
+                "textLeft": "¡Claro que sí!"
             },
             {
                 "chara": [
@@ -564,7 +564,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-24"
                     }
                 ],
-                "textLeft": "It's bad news for everyone if someone breaks@Eve out!"
+                "textLeft": "¡Es una mala noticia para todas si alguien@libera a Eve!"
             },
             {
                 "chara": [
@@ -575,7 +575,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-25"
                     }
                 ],
-                "textRight": "Yeah!"
+                "textRight": "¡Sí!"
             },
             {
                 "chara": [
@@ -586,7 +586,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "And there's no way we're lettin' you anywhere@NEAR Walpurgisnacht!"
+                "textRight": "¡Y no creas que dejaremos que te ACERQUES a@Walpurgisnacht!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -643,7 +643,7 @@
                     }
                 ],
                 "nameCenter": "Nemu",
-                "textCenter": "[flashEffect:explosion]*Chuckle*"
+                "textCenter": "[flashEffect:explosion]*Risitas*"
             },
             {
                 "autoTurnLast": 0.2,
@@ -676,7 +676,7 @@
                 ],
                 "nameLeft": "Rena",
                 "nameRight": "Kaede",
-                "textRight": "Ohhh gosh... R-R-R-Renaaa..."
+                "textRight": "Ahhh cielos... R-R-R-Renaaa..."
             },
             {
                 "chara": [
@@ -686,7 +686,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-29"
                     }
                 ],
-                "textRight": "That was...an Uwasa, wasn't it? It faded away@in seconds, but..."
+                "textRight": "Eso era... un Uwasa, ¿no? Se desvaneció@en segundos, pero..."
             },
             {
                 "chara": [
@@ -697,7 +697,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-30"
                     }
                 ],
-                "textRight": "It just jumped out of her book..."
+                "textRight": "Saltó de su libro..."
             },
             {
                 "chara": [
@@ -710,7 +710,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-31"
                     }
                 ],
-                "textLeft": "Of course that's what it was! Come on, you're@not blind or anything!"
+                "textLeft": "¡Claro que era eso! Vamos, ¡no eres@ciega ni nada por el estilo!"
             },
             {
                 "chara": [
@@ -721,7 +721,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-32"
                     }
                 ],
-                "textRight": "W-well, yeah, but still!"
+                "textRight": "¡B-bueno, sí, pero aun así!"
             },
             {
                 "chara": [
@@ -732,7 +732,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-33"
                     }
                 ],
-                "textLeft": "I knew she could make [textBlue:Rumors], but I didn't@know she could summon them, too."
+                "textLeft": "Sabía que podía hacer [textBlue:Rumores], pero no@sabía que también podía invocarlos."
             },
             {
                 "autoTurnLast": 0.2,
@@ -760,7 +760,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-35"
                     }
                 ],
-                "textCenter": "I need only craft a [textBlue:Rumor] once for it to be@recorded in the pages of my tome."
+                "textCenter": "Solo necesito crear un [textBlue:Rumor] una vez para que quede@registrado en las páginas de mi tomo."
             },
             {
                 "chara": [
@@ -770,7 +770,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-35"
                     }
                 ],
-                "textCenter": "With the foundations of it written down, I@barely need to use any magic to reform it."
+                "textCenter": "Con las bases escritas, apenas necesito usar magia para reformarlo."
             },
             {
                 "chara": [
@@ -781,7 +781,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-36"
                     }
                 ],
-                "textCenter": "I do not especially need the [textBlue:Rumors] to be@permanent when using them to attack."
+                "textCenter": "No necesito especialmente que los [textBlue:Rumores] sean@permanentes cuando los uso para atacar."
             },
             {
                 "chara": [
@@ -791,7 +791,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-37"
                     }
                 ],
-                "textCenter": "This allows me to avoid carving off more of@my life, and fight while conserving magic."
+                "textCenter": "Esto me permite evitar acortar más mi vida,@y luchar conservando magia."
             },
             {
                 "autoTurnLast": 0.2,
@@ -822,7 +822,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "That's so unfair!"
+                "textLeft": "¡Eso es muy injusto!"
             },
             {
                 "chara": [
@@ -834,7 +834,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-39"
                     }
                 ],
-                "textLeft": "We can't get anywhere near her with those@horrible little pets of hers."
+                "textLeft": "No podemos acercarnos a ella con esas@horribles mascotas suyas."
             },
             {
                 "chara": [
@@ -845,7 +845,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-40"
                     }
                 ],
-                "textRight": "But we've got to stop her somehow!"
+                "textRight": "¡Pero tenemos que detenerla de alguna manera!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -873,7 +873,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-42"
                     }
                 ],
-                "textCenter": "I welcome your best efforts, provided we can@end this quickly."
+                "textCenter": "Agradezco tus esfuerzos, siempre que podamos@acabar con esto rápidamente."
             },
             {
                 "chara": [
@@ -883,7 +883,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-42"
                     }
                 ],
-                "textCenter": "I have no time to waste, much less play@trivial games with you."
+                "textCenter": "No tengo tiempo para perder, y mucho menos para@jugar a juegos triviales contigo."
             },
             {
                 "autoTurnLast": 0.01,
@@ -916,7 +916,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Momoko",
-                "textLeft": "Wait, you guys are already tired?",
+                "textLeft": "Espera, ¿ya están cansadas?",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -928,7 +928,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-44"
                     }
                 ],
-                "textRight": "*Pant* *Pant*"
+                "textRight": "*Jadear* *Jadear*"
             },
             {
                 "chara": [
@@ -941,7 +941,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-45"
                     }
                 ],
-                "textLeft": "You need to get those endorphins pumping@to keep fighting!"
+                "textLeft": "¡Necesitan poner en marcha esas endorfinas@para seguir luchando!"
             },
             {
                 "chara": [
@@ -954,7 +954,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-46"
                     }
                 ],
-                "textRight": "She's got so much magic we can't even get@close to her..."
+                "textRight": "Tiene tanta magia que ni siquiera podemos@acercarnos a ella..."
             },
             {
                 "chara": [
@@ -977,7 +977,7 @@
                 ],
                 "nameLeft": "Yachiyo",
                 "nameRight": "Kanagi",
-                "textRight": "Yes, I hate to admit it, but this will take@more than just the three of us..."
+                "textRight": "Sí, odio admitirlo, pero esto requerirá@más que nosotras tres..."
             },
             {
                 "chara": [
@@ -1053,7 +1053,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Yachiyo",
-                "textRight": "You're not going to save Magical Girls with@a mass of impurities like that.",
+                "textRight": "No vas a salvar a las Chicas Mágicas con@una masa de impurezas como esa.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -1065,7 +1065,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-50"
                     }
                 ],
-                "textRight": "When Eve comes down from the mountain@it will trample Kamihama into dust."
+                "textRight": "Cuando Eve baje de la montaña pisoteará@a Kamihama hasta convertirla en polvo."
             },
             {
                 "chara": [
@@ -1075,7 +1075,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-51"
                     }
                 ],
-                "textRight": "And when it clashes with Walpurgisnacht,@we'll be that much closer to annihilation."
+                "textRight": "Y cuando choque con Walpurgisnacht,@estaremos mucho más cerca de la aniquilación."
             },
             {
                 "chara": [
@@ -1090,7 +1090,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That annihilation will serve a purpose.@It will stimulate people's emotions."
+                "textLeft": "Esa aniquilación servirá para algo.@Estimulará las emociones de la gente."
             },
             {
                 "chara": [
@@ -1100,7 +1100,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-53"
                     }
                 ],
-                "textLeft": "And from those emotions energy will be @born. Energy that will help Eve hatch."
+                "textLeft": "Y de esas emociones nacerá energía.@Energía que ayudará a Eve a salir del cascarón."
             },
             {
                 "chara": [
@@ -1110,7 +1110,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-54"
                     }
                 ],
-                "textLeft": "What does that leave, when it's all over?@Not destruction!"
+                "textLeft": "¿Qué deja eso, cuando todo termine?@¡No será la destrucción!"
             },
             {
                 "chara": [
@@ -1121,7 +1121,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-55"
                     }
                 ],
-                "textLeft": "Hope!"
+                "textLeft": "¡Esperanza!"
             },
             {
                 "chara": [
@@ -1133,7 +1133,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Frail hope, that can crumble to dust in@seconds!"
+                "textRight": "¡Una esperanza frágil, que puede desmoronarse@en segundos!"
             },
             {
                 "chara": [
@@ -1143,7 +1143,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-57"
                     }
                 ],
-                "textRight": "Even if you do indeed change our fates, and@all of our burdens disappear..."
+                "textRight": "Incluso si cambias nuestros destinos, y@todas nuestras cargas desaparecen..."
             },
             {
                 "chara": [
@@ -1153,7 +1153,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-58"
                     }
                 ],
-                "textRight": "Sooner or later people will realize the@price that was paid to achieve that."
+                "textRight": "Tarde o temprano la gente se dará cuenta del@precio que se pagó para lograrlo."
             },
             {
                 "chara": [
@@ -1168,7 +1168,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-59"
                     }
                 ],
-                "textRight": "Then the hope those girls clung to will @become a hideous guilt-ridden power."
+                "textRight": "Entonces la esperanza a la que se aferraron esas@chicas se convertirá en una horrible culpabilidad."
             },
             {
                 "chara": [
@@ -1178,7 +1178,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-60"
                     }
                 ],
-                "textRight": "One that will eat away at their souls."
+                "textRight": "Uno que corroerá sus almas."
             },
             {
                 "chara": [
@@ -1191,7 +1191,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-61"
                     }
                 ],
-                "textRight": "Do you think the Magical Girls who are@working as Feathers can withstand that?"
+                "textRight": "¿Crees que las Chicas Mágicas que están@trabajando como Plumas podrán soportar eso?"
             },
             {
                 "chara": [
@@ -1204,7 +1204,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-62"
                     }
                 ],
-                "textLeft": "We'll be living in a world where no one can@turn into a Witch, so why worry about it?"
+                "textLeft": "Viviremos en un mundo en el que nadie puede@convertirse en Bruja, así que ¿por qué preocuparse?"
             },
             {
                 "chara": [
@@ -1217,7 +1217,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-63"
                     }
                 ],
-                "textRight": "So you're going to have them suffer@with those consequences for all time?!"
+                "textRight": "¡¿Así que vas a hacer que sufran@con esas consecuencias para siempre?!"
             },
             {
                 "chara": [
@@ -1230,7 +1230,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-64"
                     }
                 ],
-                "textLeft": "Only the Feathers will have to suffer."
+                "textLeft": "Sólo las Plumas tendrán que sufrir."
             },
             {
                 "chara": [
@@ -1240,7 +1240,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-65"
                     }
                 ],
-                "textLeft": "It's got nothing to do with all the Magical@Girls who know nothing about it."
+                "textLeft": "No tiene nada que ver con todas las@Chicas Mágicas que no saben nada de esto."
             },
             {
                 "chara": [
@@ -1252,7 +1252,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-66"
                     }
                 ],
-                "textLeft": "And it doesn't change the fact that future@Magical Girls will be saved."
+                "textLeft": "Y no cambia el hecho de que las futuras@Chicas Mágicas se salvarán."
             },
             {
                 "chara": [
@@ -1265,7 +1265,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-67"
                     }
                 ],
-                "textRight": "You...!"
+                "textRight": "¡Tú...!"
             },
             {
                 "chara": [
@@ -1278,7 +1278,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-68"
                     }
                 ],
-                "textLeft": "There, are we good now?"
+                "textLeft": "Ya está, ¿ya estamos bien?"
             },
             {
                 "chara": [
@@ -1290,7 +1290,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-69"
                     }
                 ],
-                "textLeft": "Whine whine whine all you want, it's not@gonna change anything!"
+                "textLeft": "¡Quéjate, quéjate, quéjate todo lo que quieras!@¡No va a cambiar nada!"
             },
             {
                 "chara": [
@@ -1303,7 +1303,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-70"
                     }
                 ],
-                "textLeft": "This plan is going to succeed. We've already@made sure of that!"
+                "textLeft": "Este plan va a tener éxito.@¡Ya nos hemos asegurado de ello!"
             },
             {
                 "autoTurnLast": 2,
@@ -1357,7 +1357,7 @@
                     }
                 ],
                 "nameCenter": "Kanagi",
-                "textCenter": "Yachiyo! She's going to attack again!"
+                "textCenter": "¡Yachiyo! ¡Va a atacar de nuevo!"
             },
             {
                 "chara": [
@@ -1367,7 +1367,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-72"
                     }
                 ],
-                "textCenter": "Stop trying to change her mind!"
+                "textCenter": "¡Deja de intentar hacerla cambiar de opinión!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1409,7 +1409,7 @@
                         "voiceFull": "fullvoice/section_102001/vo_full_102001-1-74"
                     }
                 ],
-                "textLeft": "Anyway, I'm off to go break the chains@holding back Eve."
+                "textLeft": "De todos modos, me voy a romper las cadenas@que retienen a Eve."
             },
             {
                 "chara": [
@@ -1422,7 +1422,7 @@
                 ],
                 "nameRight": "Yachiyo",
                 "textBg": "shout",
-                "textRight": "Wait!"
+                "textRight": "¡Espera!"
             },
             {
                 "chara": [
@@ -1436,7 +1436,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1007A01]Big Baaaaaang!!!"
+                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1007A01]¡¡¡Big Baaaaaang!!!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -1482,7 +1482,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Homura",
-                "textLeft": "Yachiyo!"
+                "textLeft": "¡Yachiyo!"
             },
             {
                 "chara": [
@@ -1495,7 +1495,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-77"
                     }
                 ],
-                "textRight": "It's not looking good over there either..."
+                "textRight": "Tampoco tiene buena pinta aquello..."
             },
             {
                 "chara": [
@@ -1508,7 +1508,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-78"
                     }
                 ],
-                "textLeft": "We haven't had even a minute to rest, but@the Magius have hardly used any magic..."
+                "textLeft": "No hemos tenido ni un minuto para descansar,@pero las Magius apenas han usado magia...."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1564,7 +1564,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Great, here comes another one!"
+                "textRight": "¡Genial, aquí viene otro!"
             },
             {
                 "chara": [
@@ -1575,7 +1575,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-81"
                     }
                 ],
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:2004A09]Can you quit bombarding us for one second?!@I swear!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:2004A09]¡¿Puedes dejar de bombardearnos un segundo?!@¡Cielos!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -1583,7 +1583,7 @@
                 "flashEffect": "flashRed2",
                 "nameLeft": "",
                 "surround": "2004A13",
-                "textLeft": "Mhe?!",
+                "textLeft": "¡¿Mhe?!",
                 "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-82"
             },
             {
@@ -1618,7 +1618,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Kyoko",
-                "textLeft": "Can we find a way to open a path to everyone@else so we can help them?"
+                "textLeft": "¿Podemos encontrar una manera de abrir un camino@a las demás para ayudarlas?"
             },
             {
                 "chara": [
@@ -1629,7 +1629,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-84"
                     }
                 ],
-                "textRight": "That ain't a bad idea."
+                "textRight": "No es una mala idea."
             },
             {
                 "chara": [
@@ -1641,7 +1641,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-85"
                     }
                 ],
-                "textRight": "Iroha and Sana are already off on their way@to Eve."
+                "textRight": "Iroha y Sana ya están en camino@hacia Eve."
             },
             {
                 "chara": [
@@ -1654,7 +1654,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-86"
                     }
                 ],
-                "textRight": "We don't have time to be clownin' around@with these damn Familiars!"
+                "textRight": "¡No tenemos tiempo para hacer payasadas@con estos malditos Familiares!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1679,7 +1679,7 @@
                         "pos": 1
                     }
                 ],
-                "textCenter": "Hobwheh hwih!"
+                "textCenter": "¡Hobwheh hwih!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1712,7 +1712,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Sayaka",
-                "textRight": "All right, let's wipe them out and go help@the others!"
+                "textRight": "¡Muy bien, acabemos con ellos y vayamos a ayudar@a las demás!"
             },
             {
                 "chara": [
@@ -1723,7 +1723,7 @@
                         "voiceFullStop": "fullvoice/section_102001/vo_full_102001-1-90"
                     }
                 ],
-                "textLeft": "Indeed, let's! I'll blow a hole in the wall @of Familiars!"
+                "textLeft": "¡Claro, vamos! ¡Voy a hacer un agujero en el muro @de Familiares!"
             },
             {
                 "autoTurnLast": 2,
