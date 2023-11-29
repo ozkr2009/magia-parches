@@ -64,7 +64,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textLeft": "Her voice sounds closer than before.",
+                "textLeft": "Su voz se escucha más cerca que antes.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -75,7 +75,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-2"
                     }
                 ],
-                "textLeft": "We can't celebrate yet..."
+                "textLeft": "Todavía no podemos celebrar..."
             },
             {
                 "chara": [
@@ -86,7 +86,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-3"
                     }
                 ],
-                "textRight": "Indeed. We need to go back up Mami and@the others."
+                "textRight": "Cierto. Tenemos que ir a ayudar a Mami@y las demás."
             },
             {
                 "chara": [
@@ -96,7 +96,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-4"
                     }
                 ],
-                "textRight": "I know we're exhausted, but it's better for@us to be there than not."
+                "textRight": "Sé que estamos exhaustas, pero es mejor que@estemos ahí."
             },
             {
                 "chara": [
@@ -111,7 +111,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "Pshaw! I'm still raring to go!"
+                "textLeft": "¡Bahh! ¡Todavía tengo ganas de seguir!"
             },
             {
                 "chara": [
@@ -121,7 +121,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-6"
                     }
                 ],
-                "textLeft": "Now that we trounced Eve, I feel a second@wind coming on!"
+                "textLeft": "Ya que derrotamos a Eve, ¡siento como si@tuviera más energía!"
             },
             {
                 "chara": [
@@ -136,7 +136,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "Heck yeah! I think we could SMASH anythin'@we wanted to, right now!"
+                "textRight": "¡Si carajo! ¡Siento que podemos triturar cualquier@cosa que queramos, ahora mismo!"
             },
             {
                 "chara": [
@@ -151,7 +151,7 @@
                     }
                 ],
                 "nameLeft": "Sana",
-                "textLeft": "I agree. We saved Ui, didn't we...?"
+                "textLeft": "Concuerdo. Salvamos a Ui, ¿no es así...?"
             },
             {
                 "chara": [
@@ -162,7 +162,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-9"
                     }
                 ],
-                "textLeft": "Now all we need to do is save our city!"
+                "textLeft": "¡Ahora todo lo que tenemos que hacer es salvar a@nuestra ciudad!"
             },
             {
                 "autoTurnFirst": 1.3,
@@ -179,7 +179,7 @@
                 ],
                 "enableSkipAutoTurn": 1,
                 "nameRight": "Mitama",
-                "textRight": "Yes, I... Nnngh..."
+                "textRight": "Sí, yo... Nnngh..."
             },
             {
                 "chara": [
@@ -204,7 +204,7 @@
                 ],
                 "enableSkipAutoTurn": 0,
                 "nameLeft": "Kanagi",
-                "textLeft": "Don't push yourself, Mitama. You aren't built@for combat in the first place..."
+                "textLeft": "No te esfuerces, Mitama. Tú no estás hecha@para el combate en primer lugar..."
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-12"
                     }
                 ],
-                "textRight": "No need to worry about me."
+                "textRight": "No hay necesidad de preocuparse por mí."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-13"
                     }
                 ],
-                "textRight": "I know that Momoko fully plans to go fight,@even though she's so beaten up."
+                "textRight": "Sé que Momoko planea ir a pelear,@a pesar de estar en tan mal estado."
             },
             {
                 "chara": [
@@ -237,7 +237,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-14"
                     }
                 ],
-                "textRight": "I'm not wrong, am I?"
+                "textRight": "¿O me equivoco?"
             },
             {
                 "chara": [
@@ -252,7 +252,7 @@
                     }
                 ],
                 "nameLeft": "Momoko",
-                "textLeft": "No, you're not..."
+                "textLeft": "No, no te equivocas..."
             },
             {
                 "chara": [
@@ -265,7 +265,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-16"
                     }
                 ],
-                "textLeft": "But Kaede and Rena are in no shape to fight."
+                "textLeft": "Pero Kaede y Rena no están en condiciones de pelear."
             },
             {
                 "chara": [
@@ -275,7 +275,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-17"
                     }
                 ],
-                "textLeft": "Even if they wanted to help, I got no@intention of lettin' em..."
+                "textLeft": "Aún si quisieran ayudar, no tengo ninguna@intención de dejarlas..."
             },
             {
                 "chara": [
@@ -288,7 +288,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-18"
                     }
                 ],
-                "textRight": "I see..."
+                "textRight": "Ya veo..."
             },
             {
                 "chara": [
@@ -311,7 +311,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Ui",
-                "textRight": "Sis..."
+                "textRight": "Hermana..."
             },
             {
                 "chara": [
@@ -324,7 +324,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-20"
                     }
                 ],
-                "textLeft": "You can't fight yet either, Ui."
+                "textLeft": "Tú tampoco puedes pelear todavía, Ui."
             },
             {
                 "chara": [
@@ -335,7 +335,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-21"
                     }
                 ],
-                "textRight": "But...!"
+                "textRight": "¡Pero...!"
             },
             {
                 "chara": [
@@ -358,7 +358,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textLeft": "Nemu and I will fight lots and lots to make@up for it!"
+                "textLeft": "¡Nemu y yo vamos a pelear y pelear para@compensar!"
             },
             {
                 "chara": [
@@ -369,7 +369,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-23"
                     }
                 ],
-                "textRight": "This is the last thing we have to take care@of."
+                "textRight": "Esto es lo último de lo que nos tenemos que@encargar."
             },
             {
                 "chara": [
@@ -392,7 +392,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Ui",
-                "textLeft": "Yeah. Let's go defeat Walpurgisnacht..."
+                "textLeft": "Sí. Vamos a derrotar a Walpurgisnacht..."
             },
             {
                 "chara": [
@@ -402,7 +402,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-25"
                     }
                 ],
-                "textLeft": "And go home together."
+                "textLeft": "Y regresar a casa juntas."
             },
             {
                 "chara": [
@@ -416,7 +416,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-26"
                     }
                 ],
-                "textLeft": "I'm sure Mom and Dad remember you now."
+                "textLeft": "Estoy segura de que Mamá y Papá te recuerdan."
             },
             {
                 "chara": [
@@ -429,7 +429,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-27"
                     }
                 ],
-                "textRight": "Let's do this."
+                "textRight": "Hagámoslo."
             },
             {
                 "armatureList": [
@@ -478,7 +478,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Kyoko",
-                "textLeft": "*Pant*",
+                "textLeft": "*Jadeo*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -489,7 +489,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-29"
                     }
                 ],
-                "textLeft": "I can't believe Tiro Finale failed to do any@damage to her at all!"
+                "textLeft": "¡No puedo creer que Tiro Finale no le haya@hecho nada de daño!"
             },
             {
                 "chara": [
@@ -501,7 +501,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-30"
                     }
                 ],
-                "textRight": "All that damn Witch has done since she got@here is laugh like a lunatic."
+                "textRight": "Todo lo que esa maldita Bruja ha hecho desde que@llegó es reírse como una lunática."
             },
             {
                 "chara": [
@@ -512,7 +512,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-31"
                     }
                 ],
-                "textRight": "No wonder they call her the worst Witch."
+                "textRight": "Así que por eso la llaman la peor Bruja."
             },
             {
                 "chara": [
@@ -527,7 +527,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "But... Even though she's like this now, she@used to be one of us..."
+                "textLeft": "Pero... aunque ella está así ahora, ella@solía ser una de nosotras..."
             },
             {
                 "chara": [
@@ -539,7 +539,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-33"
                     }
                 ],
-                "textLeft": "Thinking she used to be like us is actually@really upsetting."
+                "textLeft": "Pensar que ella era una de nosotras es@muy molesto."
             },
             {
                 "chara": [
@@ -554,7 +554,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "*Pant* *Gasp*"
+                "textRight": "*Jadeo* *Susto*"
             },
             {
                 "chara": [
@@ -566,7 +566,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-35"
                     }
                 ],
-                "textLeft": "You okay, Madoka...?"
+                "textLeft": "¿Estás bien, Madoka...?"
             },
             {
                 "chara": [
@@ -579,7 +579,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-36"
                     }
                 ],
-                "textRight": "Thanks, Sayaka, but I'm fine..."
+                "textRight": "Gracias, Sayaka, pero estoy bien..."
             },
             {
                 "chara": [
@@ -591,7 +591,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-37"
                     }
                 ],
-                "textRight": "Now that all of us are together, I feel way@better than I did at the start, actually."
+                "textRight": "De hecho, ahora que las tres estamos juntas,@me siento mucho mejor de como me sentía al@principio."
             },
             {
                 "autoTurnLast": 0.2,
@@ -632,7 +632,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-39"
                     }
                 ],
-                "textCenter": "(Everyone's having a hard time...)",
+                "textCenter": "(Todas están teniendo problemas...)",
                 "turnEffect": "thinking"
             },
             {
@@ -689,7 +689,7 @@
                         "voiceFull": "fullvoice/section_102004/vo_full_102004-1-41"
                     }
                 ],
-                "textCenter": "(But compared to how it went before, we're@faring much better.)",
+                "textCenter": "(Pero comparado a como estábamos antes, nos está@yendo mucho mejor.)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -702,7 +702,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-41"
                     }
                 ],
-                "textCenter": "(We're actually holding back Walpurgisnacht's@rampage.)"
+                "textCenter": "(Estamos deteniendo el desastre de@Walpurgisnacht.)"
             },
             {
                 "chara": [
@@ -714,7 +714,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-1-42"
                     }
                 ],
-                "textCenter": "(We have so many Magical Girls here, that@we might even actually defeat her...)"
+                "textCenter": "(Tenemos a tantas Chicas Mágicas aquí,@que tal vez podríamos vencerla...)"
             },
             {
                 "autoTurnLast": 0.01,

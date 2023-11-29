@@ -34,7 +34,7 @@
                 ],
                 "nameLeft": "",
                 "nameRight": "",
-                "textLeft": "Look... It's a Daito uniform...",
+                "textLeft": "Mira... Es un uniforme de Daito...",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -48,7 +48,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-1"
                     }
                 ],
-                "textRight": "What's she doing here...?"
+                "textRight": "¿Qué está haciendo aquí...?"
             },
             {
                 "chara": [
@@ -116,7 +116,7 @@
                     }
                 ],
                 "nameLeft": "Tsukasa",
-                "textLeft": "The Magical Girls of the East likely all feel@the same way I do...",
+                "textLeft": "Las Chicas Mágicas del Este probablemente se@sienten de la misma manera que yo...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -127,7 +127,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-5"
                     }
                 ],
-                "textLeft": "If we can't be freed from the East, we want@to be free from turning into Witches."
+                "textLeft": "Si no podemos ser liberadas del Este, queremos@ser liberadas de convertirnos en Brujas."
             },
             {
                 "autoTurnLast": 1,
@@ -159,9 +159,9 @@
                         "voiceFull": "fullvoice/section_102004/vo_full_102004-4-7"
                     }
                 ],
-                "nameLeft": "White Feather",
+                "nameLeft": "Pluma Blanca",
                 "nameRight": "Kanagi",
-                "textRight": "You must be from the East.",
+                "textRight": "Tú debes de ser del Este.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -185,7 +185,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-8"
                     }
                 ],
-                "textLeft": "You, of all people, should know why we're@so desperate for liberation. So, why?"
+                "textLeft": "Tú, de todas las personas, deberías saber por qué@estamos tan desesperadas por la liberación.@Entonces, ¿por qué?"
             },
             {
                 "autoTurnLast": 1,
@@ -220,7 +220,7 @@
                 ],
                 "nameLeft": "Mitama",
                 "nameRight": "Kanagi",
-                "textLeft": "It feels like resentment is always bubbling@beneath the surface, about to erupt.",
+                "textLeft": "Se siente como si el resentimiento siempre@estuviera hirviendo debajo de la superficie,@a punto de estallar.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -232,7 +232,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-10"
                     }
                 ],
-                "textRight": "Rather than bear grudges against its people,@you should resent the city's history..."
+                "textRight": "En lugar de guardar rencor a su gente@deberías resentir la historia de la ciudad..."
             },
             {
                 "autoTurnLast": 1,
@@ -264,9 +264,9 @@
                         "voiceFull": "fullvoice/section_102004/vo_full_102004-4-15"
                     }
                 ],
-                "nameLeft": "Mitama",
+                "nameLeft": "Kanagi",
                 "nameRight": "Kanagi",
-                "textRight": "The people will lose everything, but it @will restore peace and equality...",
+                "textRight": "La gente lo perderá todo, pero se@restaurará la paz y la igualdad...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -277,7 +277,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-15"
                     }
                 ],
-                "textRight": "Regardless of wealth or place of birth."
+                "textRight": "Independientemente de riqueza o lugar de@nacimiento."
             },
             {
                 "autoTurnLast": 1,
@@ -311,7 +311,7 @@
                     }
                 ],
                 "nameLeft": "Kanagi",
-                "textLeft": "So, I'd like you to erase that history from@Kamihama.",
+                "textLeft": "Así que, me gustaría que borrares esa historia de@Kamihama.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -328,7 +328,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "People just...didn't like the East@because of Kamihama's history, and@they thought it was scary because@of the crime rate in the area.",
+                "narration": "A la gente simplemente... no le agrada el Este@por la historia de Kamihama, y@pensaban que era de temer por@la tasa de delincuencia en la zona.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-18"
             },
             {
@@ -374,7 +374,7 @@
                     }
                 ],
                 "nameCenter": "Kanagi",
-                "textCenter": "Yes, it's true. Though I was naive back then,@I did want to destroy everything.",
+                "textCenter": "Sí, es verdad. Aunque era ingenua en ese entonces,@si quería destruir todo.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -385,7 +385,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-19"
                     }
                 ],
-                "textCenter": "And now I have the once-in-a-lifetime chance@to do exactly that..."
+                "textCenter": "Y ahora tengo la oportunidad de una vida@de hacer justo eso..."
             },
             {
                 "chara": [
@@ -405,7 +405,7 @@
                 ],
                 "nameLeft": "Kanagi",
                 "nameRight": "Yachiyo",
-                "textRight": "Kanagi?!"
+                "textRight": "¡¿Kanagi?!"
             },
             {
                 "chara": [
@@ -416,7 +416,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-21"
                     }
                 ],
-                "textLeft": "Relax, Yachiyo. I haven't decided on a course@of action."
+                "textLeft": "Relájate, Yachiyo. Todavía no he decidido@que hacer."
             },
             {
                 "chara": [
@@ -441,7 +441,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "Yes?"
+                "textRight": "¿Sí?"
             },
             {
                 "chara": [
@@ -452,7 +452,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-24"
                     }
                 ],
-                "textLeft": "Do you want this city to be destroyed?"
+                "textLeft": "¿Quieres que esta cuidad sea destruida?"
             },
             {
                 "chara": [
@@ -474,7 +474,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-26"
                     }
                 ],
-                "textRight": "Can't you tell just from looking at my face?"
+                "textRight": "¿No te puedes dar cuenta con solo ver mi cara?"
             },
             {
                 "chara": [
@@ -486,7 +486,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-27"
                     }
                 ],
-                "textLeft": "Yes, sorry. It was a stupid question."
+                "textLeft": "Sí, perdona. Fue una pregunta estúpida."
             },
             {
                 "chara": [
@@ -499,7 +499,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-28"
                     }
                 ],
-                "textLeft": "Then that settles it. I want no part of this."
+                "textLeft": "Entonces eso lo decide. No quiero tener nada que ver con esto."
             },
             {
                 "autoTurnLast": 0.01,
@@ -520,7 +520,7 @@
             },
             {
                 "nameNarration": "Alina",
-                "narration": "― Alina ―@Okay. That's too bad.",
+                "narration": "― Alina ―@Okay. Pues muy mal.",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -532,144 +532,144 @@
             },
             {
                 "nameNarration": "Kanagi",
-                "narration": "— Kanagi —@Why are you so set on destruction?",
+                "narration": "— Kanagi —@¿Por qué estás tan empeñada en la destrucción?",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-31",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-30"
             },
             {
                 "nameNarration": "Alina",
-                "narration": "― Alina ―@It is what humanity desires.",
+                "narration": "― Alina ―@Es lo que la humanidad desea.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-32",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-31"
             },
             {
-                "narration": "― Alina ―@That's why they were drawn, en masse,@to my works based on life and death.",
+                "narration": "― Alina ―@Por eso fueron atraídos, in mass,@a mis trabajos basados en la vida y la muerte.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-33",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-32"
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@Though there may be people, like us, who@would use destruction as a stepping-stone...",
+                "narration": "― Nemu ―@Aunque haya gente, como nosotras, que@usarían la destrucción como un escalón...",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-34",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-33"
             },
             {
-                "narration": "― Nemu ―@I doubt there exists a single person who@feels genuine glee to see such ruin.",
+                "narration": "― Nemu ―@Dudo que exista una persona que@sienta alegría genuina al ver tal destrucción.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-35",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-34"
             },
             {
-                "narration": "― Nemu ―@You're projecting your desires on them.",
+                "narration": "― Nemu ―@Estás proyectando tus deseos en ellos.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-36",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-35"
             },
             {
                 "nameNarration": "Alina",
-                "narration": "― Alina ―@And yet I, Alina, am well aware of how they@crave destruction, even if unconsciously.",
+                "narration": "― Alina ―@Y aún así yo, Alina, estoy consiente de como@anhelan la destrucción, aún si inconscientemente.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-37",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-36"
             },
             {
-                "narration": "― Alina ―@They seek out dark fiction@to sate their need to feel.",
+                "narration": "― Alina ―@Buscan ficción oscura@para saciar su necesidad de sentir.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-38",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-37"
             },
             {
-                "narration": "― Alina ―@History is rife with bloody battles and yet@we have not stopped developing weapons.",
+                "narration": "― Alina ―@La historia esta plagada de batallas sangrientas@y sin embargo no hemos dejado de desarrollar@armas.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-39",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-38"
             },
             {
-                "narration": "― Alina ―@Quite the opposite, actually! Some even@rejoice each time a conflict is created.",
+                "narration": "― Alina ―@¡Todo lo contrario, en realidad! Algunos hasta se@alegran cada vez que un nuevo conflicto es creado.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-40",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-39"
             },
             {
-                "narration": "― Alina ―@The environment is on the brink, yet they @cannot stop gorging on its bounty.",
+                "narration": "― Alina ―@El medio ambiente está al borde, y aún así no@pueden dejar de saquear su riqueza.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-41",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-40"
             },
             {
-                "narration": "― Alina ―@They wait in anticipation of destruction@and refuse to lower their quality of life.",
+                "narration": "― Alina ―@Esperan en la anticipación de la destrucción@y se rehúsan a bajar su calidad de vida.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-42",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-41"
             },
             {
-                "narration": "― Alina ―@No animal in existence revels in the@carnage of its own kind like humanity.",
+                "narration": "― Alina ―@Ningún animal en existencia se revela en la@matanza de su propia especie como la humanidad.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-43",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-42"
             },
             {
-                "narration": "― Alina ―@In fact, humans who eliminate vast numbers@of other humans are made into heroes.",
+                "narration": "― Alina ―@De hecho, a los humanos que han eliminado grandes@cantidades de otros humanos se les llama heroes.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-44",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-43"
             },
             {
-                "narration": "― Alina ―@The more I think on it, the stronger my belief@that humans desire their own destruction becomes.",
+                "narration": "― Alina ―@Entre más lo pienso, más fuerte se hace mi@creencia de que los humanos desean su propia destrucción.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-45",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-44"
             },
             {
-                "narration": "― Alina ―@This is why destruction in itself is a work@of art that draws people in subconsciously.",
+                "narration": "― Alina ―@Por esto es que la destrucción es una obra de@arte que atrae a la gente de manera subconsciente.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-46",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-45"
             },
             {
-                "narration": "― Alina ―@And that is also the reason people@value my artwork so highly.",
+                "narration": "― Alina ―@Y esa es también la razón por la que la gente@le da tanto valor a mis obras de arte.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-47",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-46"
             },
             {
-                "narration": "― Alina ―@Haha!",
+                "narration": "― Alina ―@¡Jaja!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-48",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-47"
             },
             {
                 "nameNarration": "Kanagi",
-                "narration": "— Kanagi —@Not one word of that resonated with me,@even after all your lecturing.",
+                "narration": "— Kanagi —@Ni una palabra de eso resonó conmigo,@aún después de tu sermón.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-49",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-48"
             },
             {
-                "narration": "— Kanagi —@I'm sorry. I'm staying firm in my views.@I can't endorse this destruction.",
+                "narration": "— Kanagi —@Lo siento. Seguiré firme en mis creencias.@No puedo respaldar está destrucción.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-50",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-49"
             },
             {
                 "nameNarration": "Alina",
-                "narration": "― Alina ―@Bene.",
+                "narration": "― Alina ―@Fine.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-51",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-50"
             },
             {
-                "narration": "― Alina ―@If that's your decision, then you@can just watch as I do it for you.",
+                "narration": "― Alina ―@Si esa es tu decisión, entonces puedes@solo observar como lo hago por tí.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-52",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-51"
             },
             {
                 "nameNarration": "Eve",
-                "narration": "― Eve ―@――――!!!",
+                "narration": "― Eve ―@¡¡¡――――!!!",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-52"
             },
             {
                 "nameNarration": "Alina",
-                "narration": "― Alina ―@Humanity's greatest wish, left unfulfilled@since they came into being...",
+                "narration": "― Alina ―@El deseo más grande de la humanidad, sin cumplir@desde que llegaron a existir...",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-54"
             },
             {
-                "narration": "― Alina ―@Eve and I shall grant it!",
+                "narration": "― Alina ―@¡Eve y yo lo hemos de cumplir!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-55",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-54"
             },
             {
                 "bgm": "stop",
-                "narration": "― Alina ―@Now, let's party!",
+                "narration": "― Alina ―@Ahora, ¡Let's party!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-4-56",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-55"
             },
             {
                 "nameNarration": "Eve",
-                "narration": "― Eve ―@――――!!!",
+                "narration": "― Eve ―@¡¡¡――――!!!",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-56"
             },
             {
@@ -742,7 +742,7 @@
                 ],
                 "nameLeft": "Felicia",
                 "nameRight": "Yachiyo",
-                "textLeft": "I always thought this chick was nuts...",
+                "textLeft": "Siempre pensé esta estaba loca...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -756,7 +756,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-58"
                     }
                 ],
-                "textLeft": "But holy crap is she out of her mind!"
+                "textLeft": "¡Pero joder, está desquiciada!"
             },
             {
                 "chara": [
@@ -767,7 +767,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-59"
                     }
                 ],
-                "textRight": "I'm sure she thinks she has good@intentions..."
+                "textRight": "Estoy segura de que piensa que tiene buenas@intensiones..."
             },
             {
                 "chara": [
@@ -782,7 +782,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "But there's no way everyone here would want@their homes and lives to be destroyed!"
+                "textLeft": "¡Pero no hay forma de que todos aquí quieran@que sus casas y vidas sean destruidas!"
             },
             {
                 "chara": [
@@ -793,7 +793,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-61"
                     }
                 ],
-                "textLeft": "You can't just decide that for them!"
+                "textLeft": "¡No puedes simplemente decidir eso por ellos!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -814,7 +814,7 @@
                         "voiceFull": "fullvoice/section_102004/vo_full_102004-4-63"
                     }
                 ],
-                "textRight": "Alina's controlling Eve. If we take her out..."
+                "textRight": "Alina está controlando a Eve. Si la derrotamos..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -848,7 +848,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textLeft": "Yachiyo!",
+                "textLeft": "¡Yachiyo!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -860,7 +860,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-64"
                     }
                 ],
-                "textRight": "Iroha!"
+                "textRight": "¡Iroha!"
             },
             {
                 "chara": [
@@ -876,7 +876,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4001_equip_arms_bow_vh][se:4050_landing_jump]Take this!!!"
+                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4001_equip_arms_bow_vh][se:4050_landing_jump]¡¡¡Toma esto!!!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -905,7 +905,7 @@
                     }
                 ],
                 "nameCenter": "Alina",
-                "textCenter": "[bgEffect:shakeLarge][chara:120800:effect_shake][se:6001_hit_shooting_01_vh][se:6256_hit_spike_02_v]Ugh!"
+                "textCenter": "[bgEffect:shakeLarge][chara:120800:effect_shake][se:6001_hit_shooting_01_vh][se:6256_hit_spike_02_v]¡Ugh!"
             },
             {
                 "chara": [
@@ -917,7 +917,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-67"
                     }
                 ],
-                "textCenter": "...[wait:1.0][chara:120800:cheek_0][chara:120800:face_mtn_ex_014.exp.json][chara:120800:lipSynch_1][chara:120800:voiceFull_fullvoice/section_102004/vo_full_102004-4-68]Ha ha haaa!"
+                "textCenter": "...[wait:1.0][chara:120800:cheek_0][chara:120800:face_mtn_ex_014.exp.json][chara:120800:lipSynch_1][chara:120800:voiceFull_fullvoice/section_102004/vo_full_102004-4-68]¡Ja ja jaaa!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -948,7 +948,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "It didn't work?!"
+                "textLeft": "¡¿No funcionó?!"
             },
             {
                 "chara": [
@@ -961,7 +961,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-69"
                     }
                 ],
-                "textRight": "It's because of the Uwasa she's wearing."
+                "textRight": "Es por la Uwasa que tiene puesta."
             },
             {
                 "autoTurnLast": 0.2,
@@ -989,7 +989,7 @@
                         "voiceFull": "fullvoice/section_102004/vo_full_102004-4-71"
                     }
                 ],
-                "textCenter": "You don't have enough power left to fight@me, do you?"
+                "textCenter": "No tienes el poder suficiente para enfrentarme,@¿me equivoco?"
             },
             {
                 "chara": [
@@ -1001,7 +1001,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-71"
                     }
                 ],
-                "textCenter": "You should just sit there quietly and lose@yourself in my art!"
+                "textCenter": "¡Deberías quedarte ahí quieta y perderte@en mi arte!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1034,7 +1034,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Sana",
-                "textLeft": "My flames can't reach her either... Even@though they should be able to get there!"
+                "textLeft": "Mis flamas no la alcanzan tampoco... ¡Aunque@deberían de poder alcanzar!"
             },
             {
                 "chara": [
@@ -1044,7 +1044,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-4-73"
                     }
                 ],
-                "textRight": "Is there anyone who can reach Alina?"
+                "textRight": "¿Hay alguien que pueda alcanzar a Alina?"
             },
             {
                 "chara": [
@@ -1059,7 +1059,7 @@
                     }
                 ],
                 "nameLeft": "Felicia",
-                "textLeft": "M-me...well, maybe not me..."
+                "textLeft": "Y-yo... bueno, tal vez yo no..."
             },
             {
                 "chara": [
@@ -1074,7 +1074,7 @@
                     }
                 ],
                 "nameRight": "Momoko",
-                "textRight": "Definitely don't think I can pull it off."
+                "textRight": "Definitivamente no creo poder lograrlo."
             },
             {
                 "chara": [
@@ -1089,7 +1089,7 @@
                     }
                 ],
                 "nameLeft": "Kanagi",
-                "textLeft": "Neither I nor Mitama are capable of anything@as fancy as flight."
+                "textLeft": "Ni yo ni Mitama somos capaces de algo@tan vistoso como volar."
             },
             {
                 "chara": [
@@ -1104,7 +1104,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "And I don't think anyone has the stamina@left to pull off any acrobatics."
+                "textRight": "No creo que nadie le quede la energía@suficiente para lograr acrobacias."
             },
             {
                 "chara": [
@@ -1119,7 +1119,7 @@
                     }
                 ],
                 "nameLeft": "Sana",
-                "textLeft": "[chara:100400:lipSynch_1][chara:100400:voiceFull_fullvoice/section_102004/vo_full_102004-4-79]No one's left..."
+                "textLeft": "[chara:100400:lipSynch_1][chara:100400:voiceFull_fullvoice/section_102004/vo_full_102004-4-79]No queda nadie..."
             },
             {
                 "autoTurnLast": 2,

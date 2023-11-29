@@ -21,7 +21,7 @@
             {
                 "flashEffect": "flashWhite2",
                 "nameNarration": "Walpurgisnacht",
-                "narration": "― Walpurgisnacht ―@AH HA HAAA! AAAH HA HA HAAA!",
+                "narration": "― Walpurgisnacht ―@¡AH JA JAAA! ¡AAAH JA JA JAAA!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -77,7 +77,7 @@
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashRed2][bgEffect:shakeLarge][surround:6405A04][chara:101900:effect_shake]Eek!",
+                "textRight": "[flashEffect:flashRed2][bgEffect:shakeLarge][surround:6405A04][chara:101900:effect_shake]¡Eek!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -92,7 +92,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashRed2][bgEffect:shakeLarge][surround:6405A04][chara:101800:effect_shake]Agh!"
+                "textLeft": "[flashEffect:flashRed2][bgEffect:shakeLarge][surround:6405A04][chara:101800:effect_shake]¡Agh!"
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-3"
                     }
                 ],
-                "textRight": "Careful, Tsukuyo!"
+                "textRight": "¡Ten cuidado, Tsukuyo!"
             },
             {
                 "chara": [
@@ -128,7 +128,7 @@
                 ],
                 "nameLeft": "Homura",
                 "nameRight": "Madoka",
-                "textLeft": "Madoka! We should go now!"
+                "textLeft": "¡Madoka! ¡Vamos nosotras!"
             },
             {
                 "chara": [
@@ -140,7 +140,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Yeah! Fall back, you guys!"
+                "textRight": "¡Sí! ¡Retrocedan ustedes!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -174,7 +174,7 @@
             },
             {
                 "nameNarration": "Walpurgisnacht",
-                "narration": "― Walpurgisnacht ―@HA HAAA! AAAH HA HA HA!",
+                "narration": "― Walpurgisnacht ―@¡JA JAAA! ¡AAAH JA JA JA!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -230,7 +230,7 @@
                 ],
                 "nameLeft": "Homura",
                 "nameRight": "Madoka",
-                "textLeft": "*Pant* *Whine*",
+                "textLeft": "*Jadeo* *Jadeo*",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -244,7 +244,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-8"
                     }
                 ],
-                "textLeft": "(It's going like it did every time before.)",
+                "textLeft": "(Va como cada otra vez anterior.)",
                 "turnEffect": "thinking"
             },
             {
@@ -256,7 +256,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-9"
                     }
                 ],
-                "textLeft": "Nothing's changed, even with all these@Magical Girls here to help.",
+                "textLeft": "Nada a cambiado, aun con todas las@Chicas Mágicas de aquí ayudando.",
                 "turnEffect": "stop"
             },
             {
@@ -270,7 +270,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-10"
                     }
                 ],
-                "textRight": "Homura! You can't lose hope, okay?"
+                "textRight": "¡Homura! No puedes perder la esperanza, ¿sí?"
             },
             {
                 "chara": [
@@ -282,7 +282,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-11"
                     }
                 ],
-                "textRight": "Look how far we've made it already!"
+                "textRight": "¡Mira lo lejos que hemos llegado ya!"
             },
             {
                 "chara": [
@@ -295,7 +295,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-12"
                     }
                 ],
-                "textRight": "Don't worry. We'll beat it."
+                "textRight": "No te preocupes. La venceremos."
             },
             {
                 "autoTurnFirst": 2,
@@ -311,7 +311,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textLeft": "Madoka...you're right..."
+                "textLeft": "Madoka...tienes razón..."
             },
             {
                 "chara": [
@@ -343,7 +343,7 @@
                 "enableSkipAutoTurn": 0,
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textLeft": "I agree! We just need to regroup..."
+                "textLeft": "¡Estoy de acuerdo! Solo necesitamos reagruparnos..."
             },
             {
                 "chara": [
@@ -354,7 +354,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-15"
                     }
                 ],
-                "textRight": "As long as we don't lose hope, we can keep@fighting as much as we need to!"
+                "textRight": "¡Mientras no perdamos la esperanza, podemos@seguir peleando cuanto sea necesario!"
             },
             {
                 "chara": [
@@ -365,7 +365,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-16"
                     }
                 ],
-                "textLeft": "For sure!"
+                "textLeft": "¡Cierto!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -438,7 +438,7 @@
                     }
                 ],
                 "nameRight": "Tsukasa",
-                "textRight": "What...? What was that?"
+                "textRight": "¿Qué...? ¿Qué fue eso?"
             },
             {
                 "chara": [
@@ -460,7 +460,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "Hey, what the hell's going on?!"
+                "textLeft": "Hey, ¿Qué carajo está pasando?!"
             },
             {
                 "chara": [
@@ -472,7 +472,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "That magic I sensed just now..."
+                "textRight": "Esa magia que sentí justo ahora..."
             },
             {
                 "chara": [
@@ -494,7 +494,7 @@
                     }
                 ],
                 "nameLeft": "Tsukuyo",
-                "textLeft": "I don't understand this at all!"
+                "textLeft": "¡No entiendo nada de esto!"
             },
             {
                 "chara": [
@@ -506,7 +506,7 @@
                     }
                 ],
                 "nameRight": "Tsukasa",
-                "textRight": "Eve's magic just...changed?"
+                "textRight": "La magia de Eve acaba de...¿cambiar?"
             },
             {
                 "chara": [
@@ -519,7 +519,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-22"
                     }
                 ],
-                "textLeft": "Something must have happened..."
+                "textLeft": "Algo tuvo que haber pasado..."
             },
             {
                 "armatureList": [
@@ -598,7 +598,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-24"
                     }
                 ],
-                "textLeft": "Wh-what was that...? It sent us flying..."
+                "textLeft": "¿Qu-qué fue eso...? Nos mandó volando..."
             },
             {
                 "chara": [
@@ -609,7 +609,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-25"
                     }
                 ],
-                "textRight": "*Cough* Sis...!"
+                "textRight": "*Tos* ¡Hermana...!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -653,7 +653,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textRight": "This is an unforeseen predicament... Touka,@Eve's form has..."
+                "textRight": "Esta es una situación imprevista... Touka,@la forma de Eva ha..."
             },
             {
                 "chara": [
@@ -663,7 +663,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-28"
                     }
                 ],
-                "textLeft": "Completely transformed?!"
+                "textLeft": "¡¿Transformado por completo?!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -697,27 +697,27 @@
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@This can't be! I don't understand!",
+                "narration": "― Touka ―@¡Esto no puede ser! ¡No lo entiendo!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-3-31"
             },
             {
-                "narration": "― Touka ―@Ui's soul is right here, inside Ui,@where we're standing!",
+                "narration": "― Touka ―@¡El alma de Ui está justo aquí, dentro de Ui,@donde estamos paradas!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-3-32",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-31"
             },
             {
-                "narration": "― Touka ―@They were linked before, but now@it should be well outside of range...",
+                "narration": "― Touka ―@Estaban ligadas antes, pero ahora@debería estar muy fuera de rango...",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-3-33",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-32"
             },
             {
-                "narration": "― Touka ―@And instead of crumbling,@it changed its form altogether?!",
+                "narration": "― Touka ―@Y en lugar de desvanecerse,@¡¿cambió de forma por completo?!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-3-34",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-33"
             },
             {
                 "nameNarration": "Eve",
-                "narration": "― Eve ―@―＿＿━＿＿―￣━━―!!!",
+                "narration": "― Eve ―@¡―＿＿━＿＿―￣━━―!!!",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-34"
             },
             {
@@ -780,7 +780,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "*Cough* I don't understand!",
+                "textCenter": "*Tos* ¡No lo entiendo!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -793,7 +793,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-36"
                     }
                 ],
-                "textCenter": "It didn't become a Witch. And its soul is@supposed to be gone..."
+                "textCenter": "No se convirtió en Bruja. Y su alma@debió desaparecer..."
             },
             {
                 "chara": [
@@ -803,7 +803,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-37"
                     }
                 ],
-                "textCenter": "But the impurities remain..."
+                "textCenter": "Pero las impurezas persisten..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -829,7 +829,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Tsuruno",
-                "textRight": "I think there can only be one explanation."
+                "textRight": "Creo que solo puede haber una explicación."
             },
             {
                 "chara": [
@@ -842,7 +842,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-39"
                     }
                 ],
-                "textLeft": "What...?"
+                "textLeft": "¿Qué...?"
             },
             {
                 "chara": [
@@ -852,7 +852,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-40"
                     }
                 ],
-                "textRight": "You Magius wanted phase transition energy,@which releases when you become a Witch..."
+                "textRight": "Ustedes Magius querían energía de transición@de fase, que se libera cuando te conviertes@en Bruja..."
             },
             {
                 "chara": [
@@ -862,7 +862,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-41"
                     }
                 ],
-                "textRight": "You needed to keep Kyubey out in order to@secure that energy for yourselves, right?"
+                "textRight": "Necesitan mantener a Kyubey fuera para poder@asegurar esa energía para ustedes, ¿cierto?"
             },
             {
                 "chara": [
@@ -873,7 +873,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-42"
                     }
                 ],
-                "textRight": "And to do that...you made a force field."
+                "textRight": "Y para lograr eso...hicieron una barrera de energía."
             },
             {
                 "chara": [
@@ -884,7 +884,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-43"
                     }
                 ],
-                "textLeft": "I see..."
+                "textLeft": "Ya veo..."
             },
             {
                 "chara": [
@@ -894,7 +894,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-44"
                     }
                 ],
-                "textLeft": "Eve is a big clump of that energy, so the@force field's restraining it too...?"
+                "textLeft": "Eve es un gran pedazo de esa energía, así que@¿la barrera de energía la está deteniendo también...?"
             },
             {
                 "chara": [
@@ -907,7 +907,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-45"
                     }
                 ],
-                "textRight": "What do you think, Touka?!"
+                "textRight": "¡¿Qué piensas, Touka?!"
             },
             {
                 "chara": [
@@ -920,7 +920,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-46"
                     }
                 ],
-                "textLeft": "Thank you, Miss Mighty."
+                "textLeft": "Gracias, Señorita Poderosa."
             },
             {
                 "chara": [
@@ -930,7 +930,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-47"
                     }
                 ],
-                "textLeft": "Eve will eventually break down if we leave@it, but it'll take forever."
+                "textLeft": "Eve se derrumbará eventualmente si la dejamos,@pero tomará mucho tiempo."
             },
             {
                 "chara": [
@@ -943,7 +943,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-48"
                     }
                 ],
-                "textLeft": "So we need to get rid of the force field."
+                "textLeft": "Entonces tenemos que quitar la barrera de energía."
             },
             {
                 "chara": [
@@ -953,7 +953,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-49"
                     }
                 ],
-                "textLeft": "The miracle we have going in Kamihama will@fade with Eve's destruction anyway."
+                "textLeft": "El milagro que logramos en Kamihama se@desvanecerá con la destrucción de Eve de@cualquier forma."
             },
             {
                 "chara": [
@@ -970,7 +970,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "Alina!"
+                "textCenter": "¡Alina!"
             },
             {
                 "chara": [
@@ -980,7 +980,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-51"
                     }
                 ],
-                "textCenter": "Please get rid of the force field for us!"
+                "textCenter": "¡Por favor quita la barrera de energía!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -1020,7 +1020,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Alina?"
+                "textRight": "¿Alina?"
             },
             {
                 "chara": [
@@ -1033,7 +1033,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-54"
                     }
                 ],
-                "textLeft": "Haha!"
+                "textLeft": "¡Jaja!"
             },
             {
                 "chara": [
@@ -1045,7 +1045,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "I don't feel like it."
+                "textLeft": "No me da la gana."
             },
             {
                 "chara": [
@@ -1058,7 +1058,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-56"
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¡¿...?!"
             },
             {
                 "chara": [
@@ -1068,7 +1068,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-57"
                     }
                 ],
-                "textRight": "Alina? Is this some kind of sick joke?"
+                "textRight": "¿Alina? ¿Es esto algún tipo de broma?"
             },
             {
                 "chara": [
@@ -1083,7 +1083,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "If it stays up, it will allow Eve to sustain@itself."
+                "textRight": "Si se queda, permitirá a Eve@mantenerse activa."
             },
             {
                 "chara": [
@@ -1096,7 +1096,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-59"
                     }
                 ],
-                "textLeft": "Oh, I already shrank the force field earlier."
+                "textLeft": "Oh, ya encogí la barrera hace un rato."
             },
             {
                 "chara": [
@@ -1106,7 +1106,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-60"
                     }
                 ],
-                "textLeft": "Now it's wrapped tightly around Eve's corpo@perfetto, so it won't break down."
+                "textLeft": "Ahora está envuelta alrededor del perfect body@de Eve, así que no se romperá."
             },
             {
                 "chara": [
@@ -1121,7 +1121,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "I see..."
+                "textRight": "Ya veo..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -1144,11 +1144,11 @@
                 "narrationEffect": "in"
             },
             {
-                "narration": "Eve was destined to crumble apart, @so what changed its form...",
+                "narration": "Eve estaba destinada derrumbarse, @así que lo que cambió su forma...",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-3-63"
             },
             {
-                "narration": "Was being wrapped in the force field,@which in turn stabilized its energy.",
+                "narration": "Fue ser envuelta en la barrera de energía,@que a su vez estabilizó su energía.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-3-64",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-63"
             },
@@ -1202,7 +1202,7 @@
                     }
                 ],
                 "nameLeft": "Alina",
-                "textLeft": "I don't particularly care how it works.",
+                "textLeft": "No estoy muy interesada en como funciona.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -1215,7 +1215,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Why? Even attempting to understand your@motives is painful."
+                "textRight": "¿Por qué? Hasta intentar entender tus@motivos es doloroso."
             },
             {
                 "chara": [
@@ -1226,7 +1226,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-66"
                     }
                 ],
-                "textLeft": "Well, you see... I, Alina, care nothing for@the concept of liberation."
+                "textLeft": "Bueno, verás... Yo, Alina, no tengo interés en@el concepto de la liberación."
             },
             {
                 "chara": [
@@ -1236,7 +1236,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-67"
                     }
                 ],
-                "textLeft": "My personal goal has always been to achieve@my best artwork yet."
+                "textLeft": "Mi objetivo personal siempre fue lograr@mi mejor obra de arte."
             },
             {
                 "chara": [
@@ -1247,7 +1247,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-68"
                     }
                 ],
-                "textLeft": "And now, I intend to create that artwork."
+                "textLeft": "Y ahora, tengo la intención de crear tal obra."
             },
             {
                 "chara": [
@@ -1260,7 +1260,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-69"
                     }
                 ],
-                "textRight": "We raised those Witches together, we even@managed to change their forms."
+                "textRight": "Criamos a esas Brujas juntas, hasta@pudimos cambiar sus formas."
             },
             {
                 "chara": [
@@ -1271,7 +1271,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-70"
                     }
                 ],
-                "textRight": "That wasn't enough to satisfy your desires,@Alina?"
+                "textRight": "¿Eso no fue suficiente para satisfacer tus deseos,@Alina?"
             },
             {
                 "chara": [
@@ -1284,7 +1284,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-71"
                     }
                 ],
-                "textLeft": "Creation and cultivation are entirely@different things."
+                "textLeft": "La creación y el cultivo son cosas completamente@diferentes."
             },
             {
                 "chara": [
@@ -1297,7 +1297,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-72"
                     }
                 ],
-                "textLeft": "With Eve in my hands, to serve as my@paintbrush..."
+                "textLeft": "Con Eve en mis manos para servir como mi@pincel..."
             },
             {
                 "chara": [
@@ -1308,7 +1308,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-73"
                     }
                 ],
-                "textLeft": "I, Alina, will finally be able to create art@in the manner I desire!"
+                "textLeft": "¡Yo, Alina, podré al fin crear arte@en la forma en la que deseo!"
             },
             {
                 "chara": [
@@ -1323,7 +1323,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Do you intend to burn the city even more?"
+                "textRight": "¿Tienes pensado quemar la ciudad aún más?"
             },
             {
                 "chara": [
@@ -1337,7 +1337,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-75"
                     }
                 ],
-                "textLeft": "Sì."
+                "textLeft": "Yes."
             },
             {
                 "chara": [
@@ -1362,7 +1362,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Ahhh ha ha ha ha haaa!!!"
+                "textLeft": "¡¡¡Ahhh ja ja ja ja jaaa!!!"
             },
             {
                 "chara": [
@@ -1374,7 +1374,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-78"
                     }
                 ],
-                "textLeft": "Here, Eve..."
+                "textLeft": "Muy bien, Eve..."
             },
             {
                 "chara": [
@@ -1384,7 +1384,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-79"
                     }
                 ],
-                "textLeft": "I shall turn you into my paintbrush for@eterno!"
+                "textLeft": "¡Te he de convertir en mi pincel@for ever!"
             },
             {
                 "autoTurnFirst": 3,
@@ -1398,7 +1398,7 @@
                 ],
                 "enableSkipAutoTurn": 1,
                 "textBg": "shout",
-                "textLeft": "I shall embrace your frozen form, left cold@without a soul to inhabit it!"
+                "textLeft": "¡He de aceptar tu forma congelada, fría@sin un alma que la habite!"
             },
             {
                 "chara": [
@@ -1508,7 +1508,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textLeft": "Alina... She's...",
+                "textLeft": "Alina... Ella...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -1520,7 +1520,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-82"
                     }
                 ],
-                "textRight": "It's the same as Mami... Does that mean..."
+                "textRight": "Es lo mismo que Mami... ¿Eso significa...?"
             },
             {
                 "chara": [
@@ -1535,7 +1535,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "She's dressed in the Uwasa of the Fur God.@I thought we got rid of it..."
+                "textRight": "Está vestida del Rumor del Dios de las Pieles.@Pensé nos habíamos desecho de ella..."
             },
             {
                 "chara": [
@@ -1550,7 +1550,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "What'll happen now in that case?"
+                "textLeft": "¿Qué va a pasar ahora en ese caso?"
             },
             {
                 "chara": [
@@ -1565,7 +1565,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "That depends on whatever the [textBlue:Rumor] is,@right?"
+                "textLeft": "Eso depende de que [textBlue:Rumor] es,¿verdad?"
             },
             {
                 "chara": [
@@ -1576,7 +1576,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-86"
                     }
                 ],
-                "textRight": "That one warms frozen hearts, and takes away@some of the recipient's life in return."
+                "textRight": "Ese calienta corazones congelados, y le quita parte@de la vida a quien recibe a cambio."
             },
             {
                 "chara": [
@@ -1586,7 +1586,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-87"
                     }
                 ],
-                "textRight": "When Alina shrunk her force field to wrap@around Eve's body..."
+                "textRight": "Cuando Aline encogió su barrera de energía para@envolverla alrededor de Eve..."
             },
             {
                 "chara": [
@@ -1597,7 +1597,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-88"
                     }
                 ],
-                "textRight": "She must have used the Fur God Uwasa."
+                "textRight": "Tuvo que haber usado el Rumor de las Pieles."
             },
             {
                 "chara": [
@@ -1609,7 +1609,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-89"
                     }
                 ],
-                "textRight": "Eve shouldn't have anything that constitutes@as life, though..."
+                "textRight": "Aunque Eve no debería tener nada que se@constituya como vida..."
             },
             {
                 "chara": [
@@ -1624,7 +1624,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Then what's gonna happen now?"
+                "textLeft": "¿Entonces que va a suceder ahora?"
             },
             {
                 "chara": [
@@ -1635,7 +1635,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-91"
                     }
                 ],
-                "textRight": "I can't say for sure."
+                "textRight": "No lo sé a ciencia cierta."
             },
             {
                 "chara": [
@@ -1645,7 +1645,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-92"
                     }
                 ],
-                "textRight": "The Uwasa must have taken something other@than Eve's life..."
+                "textRight": "La Uwasa debió tomar algo más en lugar@de la vida de Eve..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1674,7 +1674,7 @@
                     }
                 ],
                 "nameCenter": "Alina",
-                "textCenter": "I can tell you that much, at least."
+                "textCenter": "Te puedo contar eso, por lo menos."
             },
             {
                 "chara": [
@@ -1687,7 +1687,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-94"
                     }
                 ],
-                "textCenter": "Stealing away life is essentially stealing@something's freedom."
+                "textCenter": "Robarle la vida a alguien es esencialmente robarle@la libertad a alguien."
             },
             {
                 "chara": [
@@ -1697,7 +1697,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-95"
                     }
                 ],
-                "textCenter": "I already tested this on other Witches."
+                "textCenter": "Ya probé esto con otras Brujas."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1723,7 +1723,7 @@
                 ],
                 "nameLeft": "Alina",
                 "nameRight": "Nemu",
-                "textRight": "You're stealing Eve's...freedom?"
+                "textRight": "¿Estás robando la libertad de...Eve?"
             },
             {
                 "chara": [
@@ -1734,7 +1734,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-97"
                     }
                 ],
-                "textLeft": "Yes. As such, it has become my paintbrush."
+                "textLeft": "Sí. En sí, se ha convertido en mi pincel."
             },
             {
                 "chara": [
@@ -1747,7 +1747,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-98"
                     }
                 ],
-                "textRight": "So next, you intend to shorten the lifespan@of Kamihama itself, using Eve to do so?"
+                "textRight": "Entonces ahora, ¿pretendes reducir la vida@de Kamihama en sí, usando Eve para eso?"
             },
             {
                 "chara": [
@@ -1758,7 +1758,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-99"
                     }
                 ],
-                "textLeft": "Naturalmente!"
+                "textLeft": "¡Naturally!"
             },
             {
                 "chara": [
@@ -1768,7 +1768,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-100"
                     }
                 ],
-                "textLeft": "I, Alina, shall use Eve to set the world@alight."
+                "textLeft": "Yo, Alina, he de usar Eve para iluminar al@mundo."
             },
             {
                 "chara": [
@@ -1778,7 +1778,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-101"
                     }
                 ],
-                "textLeft": "That is the kind of perfect opera d'arte that@humanity itself clamors to see!"
+                "textLeft": "¡Ese es el tipo de perfecta opera of art que la@humanidad misma clama por ver!"
             },
             {
                 "chara": [
@@ -1793,7 +1793,7 @@
                     }
                 ],
                 "nameRight": "Yachiyo",
-                "textRight": "I don't understand a word that comes out of@this girl's mouth."
+                "textRight": "No entiendo una sola palabra que sale de la boca@de esta chica."
             },
             {
                 "chara": [
@@ -1808,7 +1808,7 @@
                     }
                 ],
                 "nameRight": "Kanagi",
-                "textRight": "Humanity desires destruction..."
+                "textRight": "La humanidad desea la destrucción..."
             },
             {
                 "chara": [
@@ -1821,7 +1821,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-104"
                     }
                 ],
-                "textLeft": "I should think that you, Kanagi Izumi, would@understand me perfectly."
+                "textLeft": "Pensaría que tú, Kanagi Izumi, me@entenderías a la perfección."
             },
             {
                 "chara": [
@@ -1834,7 +1834,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-105"
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¡¿...?!"
             },
             {
                 "chara": [
@@ -1845,7 +1845,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-106"
                     }
                 ],
-                "textLeft": "You desire the same thing, do you not? To lay@waste to everything around you..."
+                "textLeft": "Tú deseas lo mimo, ¿no es así? De arrasar@con todo lo que te rodea..."
             },
             {
                 "chara": [
@@ -1858,7 +1858,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-3-107"
                     }
                 ],
-                "textRight": "...I can't deny that."
+                "textRight": "...no puede negar eso."
             },
             {
                 "autoTurnLast": 2,

@@ -78,7 +78,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Nemu... She used her Doppel so many times,@and made so many [textBlue:Rumors]..."
+                "textRight": "Nemu... Usó su Deppel tantas veces,@y creó tantos [textBlue:Rumores]..."
             },
             {
                 "chara": [
@@ -89,7 +89,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-3"
                     }
                 ],
-                "textRight": "That used up the last shreds of her life."
+                "textRight": "Que agotaron lo último que quedaba de su vida."
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "After we finally reunited, too..."
+                "textRight": "Y después de que nos volvimos a ver..."
             },
             {
                 "chara": [
@@ -116,7 +116,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-5"
                     }
                 ],
-                "textRight": "We promised... We promised that we'd walk@all over Kamihama when we got better."
+                "textRight": "Prometimos... Prometimos que caminaríamos@por todo Kamihama cuando sintiéramos mejor."
             },
             {
                 "chara": [
@@ -162,7 +162,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textLeft": "If I'd just remembered Ui sooner..."
+                "textLeft": "Si tan solo hubiera recordado a Ui antes..."
             },
             {
                 "chara": [
@@ -172,7 +172,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-9"
                     }
                 ],
-                "textLeft": "And remembered about Nemu and Touka..."
+                "textLeft": "y si hubiera recordado a Nemu y a Touka..."
             },
             {
                 "chara": [
@@ -182,7 +182,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-10"
                     }
                 ],
-                "textLeft": "If I'd learned about the Wings of the Magius@and fought a bit sooner..."
+                "textLeft": "Si me hubiera enterado de Las Alas de Magius@y hubiera peleado un poco antes..."
             },
             {
                 "chara": [
@@ -192,7 +192,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-11"
                     }
                 ],
-                "textLeft": "I could have saved Ui earlier..."
+                "textLeft": "Hubiera podido salvar a Ui antes..."
             },
             {
                 "chara": [
@@ -202,7 +202,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-12"
                     }
                 ],
-                "textLeft": "Kamihama would have stayed safe."
+                "textLeft": "Kamihama se habría mantenido segura."
             },
             {
                 "chara": [
@@ -212,7 +212,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-13"
                     }
                 ],
-                "textLeft": "Nemu wouldn't have needed to sacrifice@herself..."
+                "textLeft": "Nemu no habría tenido que sacrificarse..."
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-15"
                     }
                 ],
-                "textRight": "If you trace this all to its root, we were@being toyed with..."
+                "textRight": "Si rastreas todo esto hasta su raíz, han@estado jugando con nosotras..."
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-16"
                     }
                 ],
-                "textRight": "By our own fates as Magical Girls..."
+                "textRight": "Por nuestro propio destino como Chicas Mágicas..."
             },
             {
                 "chara": [
@@ -298,7 +298,7 @@
                 "nameCenter": "Rena",
                 "nameLeft": "Momoko",
                 "nameRight": "Kaede",
-                "textRight": "Huh? What's going on with Eve?",
+                "textRight": "¿Ehh? ¿Qué le está pasando a Eve?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -310,7 +310,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-19"
                     }
                 ],
-                "textCenter": "It looks completely different now."
+                "textCenter": "Se ve completamente diferente ahora."
             },
             {
                 "chara": [
@@ -332,7 +332,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-21"
                     }
                 ],
-                "textRight": "I was unconscious the whole time... I'm@so sorry, Momoko..."
+                "textRight": "Estuve inconsciente todo este tiempo...@Lo siento, Momoko..."
             },
             {
                 "chara": [
@@ -345,7 +345,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-22"
                     }
                 ],
-                "textCenter": "Same. Everyone's been in danger, and we..."
+                "textCenter": "Igual. Todas han estado en peligro, y nosotras..."
             },
             {
                 "chara": [
@@ -413,7 +413,7 @@
                         "voiceFull": "fullvoice/section_102004/vo_full_102004-7-25"
                     }
                 ],
-                "textLeft": "You're not goin' to be able to jump right@back into action."
+                "textLeft": "No vas a poder regresar a pelear@de inmediato."
             },
             {
                 "chara": [
@@ -425,7 +425,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-25"
                     }
                 ],
-                "textRight": "But that girl...Nemu?"
+                "textRight": "Pero esa chica... ¿Nemu?"
             },
             {
                 "chara": [
@@ -438,7 +438,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-26"
                     }
                 ],
-                "textCenter": "Did you beat the Magius...? Wait, what@happened?"
+                "textCenter": "¿Derrotaron a las Magius...? Espera, ¿Qué pasó?"
             },
             {
                 "chara": [
@@ -449,7 +449,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-27"
                     }
                 ],
-                "textLeft": "She used up what was left of her life to @protect us."
+                "textLeft": "Ella usó lo que le quedaba de vida para@protegernos."
             },
             {
                 "chara": [
@@ -469,7 +469,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "And she'd just reunited with Ui..."
+                "textLeft": "Y justo se había reencontrado con Ui..."
             },
             {
                 "chara": [
@@ -479,7 +479,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-29"
                     }
                 ],
-                "textLeft": "She'd only just gotten her back."
+                "textLeft": "La acababa de recuperar."
             },
             {
                 "chara": [
@@ -490,7 +490,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-30"
                     }
                 ],
-                "textLeft": "Yet again, we sacrificed a life..."
+                "textLeft": "Una vez más, sacrificamos una vida..."
             },
             {
                 "chara": [
@@ -503,7 +503,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-31"
                     }
                 ],
-                "textLeft": "Really, how long have I been doin' this@Magical Girl thing..."
+                "textLeft": "En serio, ¿cuanto tiempo llevo haciendo esto de@Chica Mágica...?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -536,7 +536,7 @@
                 ],
                 "nameLeft": "Felicia",
                 "nameRight": "Sana",
-                "textRight": "Tsuruno... Is Nemu really...",
+                "textRight": "Tsuruno... ¿Nemu realmente...?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -547,7 +547,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-33"
                     }
                 ],
-                "textLeft": "Did she...die?"
+                "textLeft": "¿De verdad... murió?"
             },
             {
                 "chara": [
@@ -562,7 +562,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "I don't know."
+                "textLeft": "No lo sé."
             },
             {
                 "chara": [
@@ -573,7 +573,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-35"
                     }
                 ],
-                "textLeft": "Still, whether we forgive you or not isn't @the issue. Nemu, this is cheating..."
+                "textLeft": "Aún así, si te perdonamos o no no es el@problema. Nemu, esto es trampa..."
             },
             {
                 "chara": [
@@ -583,7 +583,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-36"
                     }
                 ],
-                "textLeft": "We needed to ask you so many things! We @needed to hear everything that happened."
+                "textLeft": "¡Teníamos tantas cosas que preguntarte!@Teníamos que escuchar todo lo que pasó."
             },
             {
                 "chara": [
@@ -594,7 +594,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-37"
                     }
                 ],
-                "textLeft": "Keeping your lips sealed instead, huh...@That's the worst thing you've done yet."
+                "textLeft": "Mantener tus labios cerrados, huh...@Esa es lo peor que has hecho hasta ahora."
             },
             {
                 "autoTurnLast": 1,
@@ -616,7 +616,7 @@
             },
             {
                 "nameNarration": "Eve",
-                "narration": "― Eve ―@―━━―━――!!!",
+                "narration": "― Eve ―@¡¡¡―━━―━――!!!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -628,87 +628,87 @@
             },
             {
                 "nameNarration": "Kanagi",
-                "narration": "— Kanagi —@Pardon my bluntness, but we don't@have time to sit and stew in our grief.",
+                "narration": "— Kanagi —@Perdona mi franqueza, pero no tenemos@tiempo de quedar aquí a coser en nuestro dolor.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-40"
             },
             {
-                "narration": "— Kanagi —@The Magius artist has fallen,@but Eve is still very much active.",
+                "narration": "— Kanagi —@La Magius artista ha caído,@pero Eve continúa activa.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-41",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-40"
             },
             {
                 "nameNarration": "Mitama",
-                "narration": "— Mitama —@So it seems...",
+                "narration": "— Mitama —@Eso parece...",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-42",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-41"
             },
             {
-                "narration": "— Mitama —@Alina dissolved the force field, but I@haven't the slightest idea where she's gone.",
+                "narration": "— Mitama —@Alina disolvió la barrera de energía, pero no@tengo la menor idea de a donde se ha ido.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-43",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-42"
             },
             {
-                "narration": "— Mitama —@And it looks like Eve is going to rampage@one final time before crumbling away.",
+                "narration": "— Mitama —@Y parece que Eve va a enloquecer@una vez más antes de desaparecer.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-44",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-43"
             },
             {
                 "nameNarration": "Eve",
-                "narration": "― Eve ―@＿━￣￣―￣―━!!!",
+                "narration": "― Eve ―@¡¡¡＿━￣￣―￣―━!!!",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-44"
             },
             {
                 "nameNarration": "Ui",
-                "narration": "― Ui ―@Sis...",
+                "narration": "― Ui ―@Hermana...",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-46"
             },
             {
-                "narration": "― Ui ―@Eve's looking right at me.",
+                "narration": "― Ui ―@Eve me está volteando a ver.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-47",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-46"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Is it going to try to take you back?",
+                "narration": "— Iroha —@¿Va a intentar llevarte de nuevo?",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-48",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-47"
             },
             {
                 "nameNarration": "Touka",
-                "narration": "— Touka —@I won't let it.",
+                "narration": "— Touka —@No la dejaré.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-49",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-48"
             },
             {
-                "narration": "— Touka —@Not after Nemu gave her@own life to keep you here!",
+                "narration": "— Touka —@¡No después de que Nemu dió su@propia vida para mantenerte aquí!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-50",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-49"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@That's a given!@There's no way we're giving up here!",
+                "narration": "— Iroha —@¡Eso es un hecho!@¡No hay forma de que nos rindamos aquí!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-51",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-50"
             },
             {
                 "nameNarration": "Yachiyo",
-                "narration": "— Yachiyo —@Indeed.",
+                "narration": "— Yachiyo —@En efecto.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-52",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-51"
             },
             {
-                "narration": "— Yachiyo —@Our lives may have been toyed and gambled@with, but we won't let this go unanswered.",
+                "narration": "— Yachiyo —@Puede que hayan jugado y apostado con nuestras@vidas, pero no dejaremos esto sin respuesta.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-53",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-52"
             },
             {
-                "narration": "— Yachiyo —@Everyone...let's finish this.",
+                "narration": "— Yachiyo —@Todas... terminemos con esto.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-54",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-53"
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@Okay!",
+                "narration": "— Iroha —@¡Sí!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-7-55",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-7-54"
             },

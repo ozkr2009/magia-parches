@@ -33,7 +33,7 @@
                 ],
                 "nameLeft": "Touka",
                 "nameRight": "Nemu",
-                "textRight": "I have to take responsibility as the one who@robed her in that Uwasa.",
+                "textRight": "Tengo que asumir responsabilidad como la@persona quien le dió esa Uwasa.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -46,7 +46,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-1"
                     }
                 ],
-                "textLeft": "Nemu?"
+                "textLeft": "¿Nemu?"
             },
             {
                 "chara": [
@@ -59,7 +59,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-2"
                     }
                 ],
-                "textLeft": "Oh, right! You should erase the page that@talks about the Fur God!"
+                "textLeft": "¡Oh, cierto! ¡Puedes borrar la página que@habla sobre el Dios de las Pieles!"
             },
             {
                 "chara": [
@@ -70,7 +70,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-3"
                     }
                 ],
-                "textRight": "I tried that the moment I thought of it."
+                "textRight": "Intenté eso en el momento en el que se me ocurrió."
             },
             {
                 "chara": [
@@ -82,7 +82,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-4"
                     }
                 ],
-                "textLeft": "Oh...?"
+                "textLeft": "¿Oh...?"
             },
             {
                 "chara": [
@@ -93,7 +93,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-5"
                     }
                 ],
-                "textRight": "But it's had its freedom stolen by Alina, so@my commands have no effect on it."
+                "textRight": "Pero Alina tomó su libertad, así que@mis órdenes nos tienen efecto."
             },
             {
                 "chara": [
@@ -106,7 +106,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-6"
                     }
                 ],
-                "textLeft": "Then what are you going to do?"
+                "textLeft": "¿Entonces que piensas hacer?"
             },
             {
                 "chara": [
@@ -119,7 +119,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-7"
                     }
                 ],
-                "textLeft": "You already went overboard crafting [textBlue:Rumors]..."
+                "textLeft": "Ya te pasaste produciendo [textBlue:Rumores]..."
             },
             {
                 "chara": [
@@ -129,7 +129,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-8"
                     }
                 ],
-                "textLeft": "There's no way you have enough power left@to stop Alina."
+                "textLeft": "No hay forma de que te quede suficiente poder@como para detener a Alina."
             },
             {
                 "chara": [
@@ -140,7 +140,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-9"
                     }
                 ],
-                "textRight": "Be that as it may, I have created quite the@number of [textBlue:Rumors]."
+                "textRight": "Sea como fuere, he creado un buen@número de [textBlue:Rumores]."
             },
             {
                 "chara": [
@@ -151,7 +151,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-10"
                     }
                 ],
-                "textRight": "This book is infused with my lifeforce for@each and every one of them."
+                "textRight": "Este libro está infundido con mi fuerza vital para@todos y cada uno de ellos."
             },
             {
                 "chara": [
@@ -164,7 +164,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-11"
                     }
                 ],
-                "textLeft": "...?!"
+                "textLeft": "¡¿...?!"
             },
             {
                 "chara": [
@@ -177,7 +177,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Nemu, wait!"
+                "textLeft": "¡Nemu, espera!"
             },
             {
                 "chara": [
@@ -206,7 +206,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-14"
                     }
                 ],
-                "textRight": "I would have only had a tiny scrap of life@left, had I not become a Magical Girl."
+                "textRight": "No me hubiera quedado más que una pizca de@vida, si no me hubiera convertido en una@Chica Mágica."
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-15"
                     }
                 ],
-                "textRight": "The time I had as a result of extending that@life..."
+                "textRight": "El tiempo que tuve como resultado de extender@esa vida..."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-16"
                     }
                 ],
-                "textRight": "It may have given me a whole mountain range@of things to regret and apologize for..."
+                "textRight": "Puede que me haya dado una gran cantidad@de cosas que lamentar y por las que pedir@perdón..."
             },
             {
                 "chara": [
@@ -236,7 +236,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-17"
                     }
                 ],
-                "textRight": "But I got to go outside with Touka and Alina,@and work as one of the Magius."
+                "textRight": "Pero pude salir con Touka y Alina,@y trabajar juntas como una de las Magius."
             },
             {
                 "chara": [
@@ -249,7 +249,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-18"
                     }
                 ],
-                "textRight": "And after all of that, I was even able to@have a dramatic reunion with Ui..."
+                "textRight": "Y después de todo eso, hasta pude@tener una dramática reunión con Ui..."
             },
             {
                 "chara": [
@@ -262,7 +262,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-19"
                     }
                 ],
-                "textRight": "It was a wonderful tale, one that my regular@lifespan would never have granted me."
+                "textRight": "Fue un cuento maravilloso, uno que mi tiempo@de vida normal jamás me hubiera concedido."
             },
             {
                 "chara": [
@@ -273,7 +273,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-20"
                     }
                 ],
-                "textLeft": "Don't look so content..."
+                "textLeft": "No te veas tan contenta..."
             },
             {
                 "chara": [
@@ -284,7 +284,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-21"
                     }
                 ],
-                "textLeft": "You're talking about walking to your own@death, aren't you?!"
+                "textLeft": "Estás pensando en caminar hacia tu propia@muerte, ¡¿No es cierto?!"
             },
             {
                 "chara": [
@@ -297,7 +297,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "How can you smile like that?!"
+                "textLeft": "¡¿Cómo es que puedes sonreír de esa manera?!"
             },
             {
                 "chara": [
@@ -310,7 +310,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-23"
                     }
                 ],
-                "textRight": "Ui, forgive me for moving on now that I've@had my fill of living."
+                "textRight": "Ui, perdóname por seguir adelante ahora que@me he hartado de vivir."
             },
             {
                 "chara": [
@@ -323,7 +323,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-24"
                     }
                 ],
-                "textRight": "As for everyone else... I'm aware this may@not be sufficient reparation for what I did."
+                "textRight": "Y en cuanto a las demás... Estoy consciente de que@esto no será suficiente para repagar lo que hice."
             },
             {
                 "chara": [
@@ -333,7 +333,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-25"
                     }
                 ],
-                "textRight": "But I hope you can forgive me."
+                "textRight": "Pero espero que puedan perdonarme."
             },
             {
                 "chara": [
@@ -346,7 +346,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-26"
                     }
                 ],
-                "textLeft": "No! Nemu!"
+                "textLeft": "¡No! ¡Nemu!"
             },
             {
                 "chara": [
@@ -359,7 +359,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-27"
                     }
                 ],
-                "textRight": "Come along, my creations."
+                "textRight": "Vengan, mis creaciones."
             },
             {
                 "chara": [
@@ -369,7 +369,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-5-28"
                     }
                 ],
-                "textRight": "Let's return each of your bits of life to @the city we so longed for..."
+                "textRight": "Devolvamos todos sus pedacitos de vida a@la ciudad que tanto anhelamos..."
             },
             {
                 "autoTurnLast": 2,

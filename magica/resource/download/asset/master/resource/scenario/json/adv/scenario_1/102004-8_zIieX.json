@@ -41,7 +41,7 @@
                 ],
                 "nameLeft": "Sana",
                 "nameRight": "Kanagi",
-                "textRight": "It has a ridiculous amount of impurity stored@up, just like we suspected."
+                "textRight": "Tiene una cantidad ridícula de impurezas@acumuladas, justo como sospechábamos."
             },
             {
                 "chara": [
@@ -51,7 +51,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-8-2"
                     }
                 ],
-                "textRight": "It's going to take quite a while for all of@that to break down."
+                "textRight": "Va a tomar bastante tiempo para que todo@eso desaparezca."
             },
             {
                 "chara": [
@@ -64,7 +64,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-8-3"
                     }
                 ],
-                "textLeft": "I wish we could just take it out cleanly...@But its weak point, the gem, is gone..."
+                "textLeft": "Me gustaría poder vencerla de un golpe...@Pero su punto débil, su gema, no está..."
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "Shouldn't we just hit it really hard?"
+                "textRight": "¿No deberíamos simplemente pegarle muy fuerte?"
             },
             {
                 "chara": [
@@ -94,7 +94,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "We could try aiming for the gems that aren't@its core!"
+                "textLeft": "¡Podríamos intentar apuntar a las gemas que no@son su núcleo!"
             },
             {
                 "chara": [
@@ -109,7 +109,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "That's true."
+                "textLeft": "Es verdad."
             },
             {
                 "chara": [
@@ -119,7 +119,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-8-7"
                     }
                 ],
-                "textLeft": "They're small, and we'd have to destroy them@one by one, but they're still weak points!"
+                "textLeft": "Son pequeñas, y tendríamos que destruirlas@una por una, ¡pero siguen siendo puntos débiles!"
             },
             {
                 "chara": [
@@ -132,7 +132,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-8-8"
                     }
                 ],
-                "textRight": "Then let's crush it with all the magic we've@got left!"
+                "textRight": "¡Entonces vamos a aplastarlas con toda la magia que@nos queda!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -158,7 +158,7 @@
                 ],
                 "nameRight": "Mitama",
                 "questTurnChangeOut": "rollOutFast",
-                "textRight": "Felicia! Everyone!"
+                "textRight": "¡Felicia! ¡Todas!"
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-8-10"
                     }
                 ],
-                "textRight": "Here's the very last of my Grief Seed stock."
+                "textRight": "Esta es la última de mis Grief Seeds."
             },
             {
                 "chara": [
@@ -179,7 +179,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-8-11"
                     }
                 ],
-                "textRight": "There's nothing more I can do to help you@after this."
+                "textRight": "No hay nada mas que pueda hacer para ayudar@después de esto."
             },
             {
                 "autoTurnLast": 0.2,
@@ -231,7 +231,7 @@
                 ],
                 "nameLeft": "Momoko",
                 "nameRight": "Kanagi",
-                "textLeft": "That'll do fine! I owe ya one, Coordinator!"
+                "textLeft": "¡Con esto tenemos¡ ¡Te debo una, Coordinadora!"
             },
             {
                 "autoTurnLast": 1,
@@ -253,7 +253,7 @@
                         "voiceFull": "fullvoice/section_102004/vo_full_102004-8-14"
                     }
                 ],
-                "textRight": "Yes, this will allow me to fight much more@freely!"
+                "textRight": "¡Sí, esto me permitirá luchar con mucha más@libertad!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -282,7 +282,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "I won't let Nemu's sacrifice be in vain...@And I won't let Eve take Ui."
+                "textRight": "No dejaré que el sacrificio de Nemu sea en vano...@No dejaré que Eve se lleve a Ui."
             },
             {
                 "chara": [
@@ -292,7 +292,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-8-16"
                     }
                 ],
-                "textRight": "So this is it, Eve."
+                "textRight": "Así que esto es todo, Eve."
             },
             {
                 "chara": [
@@ -304,7 +304,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Time for you to break apart!"
+                "textRight": "¡Ahora de desaparecer!"
             },
             {
                 "autoTurnLast": 2,

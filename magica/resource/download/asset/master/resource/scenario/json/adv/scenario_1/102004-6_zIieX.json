@@ -43,7 +43,7 @@
                     }
                 ],
                 "nameCenter": "Alina",
-                "textCenter": "Yes, excellent... Our masterpiece shall be@done in no time if this keeps up!",
+                "textCenter": "Sí, excelente... ¡Nuestra obra maestra ha de ser@completada dentro de poco si esto sigue así!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -89,7 +89,7 @@
                     }
                 ],
                 "nameCenter": "Alina",
-                "textCenter": "Kh...ghhh...?",
+                "textCenter": "¿Kh...ghhh...?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -110,7 +110,7 @@
                 ],
                 "nameLeft": "Alina",
                 "nameRight": "Nemu",
-                "textRight": "It seems controlling Eve's monstrous form is@a little too much for your body to bear."
+                "textRight": "Pareciera que el controlar la forma monstruosa de@Eve es demasiado para tu cuerpo."
             },
             {
                 "chara": [
@@ -136,7 +136,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-4"
                     }
                 ],
-                "textLeft": "Hmph! So what if it is? What will happen?"
+                "textLeft": "¡Hmph! ¿Y qué si lo es? ¿Que va a pasar?"
             },
             {
                 "chara": [
@@ -149,7 +149,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-5"
                     }
                 ],
-                "textRight": "I can't even imagine, myself. Perhaps you'll@die, or become a Witch."
+                "textRight": "Ni siquiera lo puedo imaginar. Quizás@mueras, o te conviertas en una Bruja."
             },
             {
                 "chara": [
@@ -159,7 +159,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-6"
                     }
                 ],
-                "textRight": "Or perhaps you'll lose yourself completely@and become a lunatic."
+                "textRight": "O quizás pierdas la cabeza por completo@y te conviertas en una lunática."
             },
             {
                 "chara": [
@@ -172,7 +172,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-7"
                     }
                 ],
-                "textLeft": "Hah! I, Alina, shall end everything long@before that happens."
+                "textLeft": "¡Jah! Yo, Alina, he de acabar con todo mucho@antes de que eso suceda."
             },
             {
                 "chara": [
@@ -182,7 +182,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-8"
                     }
                 ],
-                "textLeft": "I will constrict the force field binding Eve@as tightly as I can."
+                "textLeft": "Constreñiré el campo de fuerza que rodea a Eve@tanto como pueda."
             },
             {
                 "chara": [
@@ -192,7 +192,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-9"
                     }
                 ],
-                "textLeft": "When all that power is released, it will@erupt into a magnificent esplosione!"
+                "textLeft": "¡Cuando todo ese poder sea liberado,@estallará creando magníficas explosions!"
             },
             {
                 "chara": [
@@ -205,7 +205,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-10"
                     }
                 ],
-                "textRight": "You got that idea from Touka, didn't you?"
+                "textRight": "Sacaste esa idea de Touka, ¿verdad?"
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-11"
                     }
                 ],
-                "textLeft": "I certainly did. It should be more than@enough to wipe Kamihama off the map."
+                "textLeft": "En efecto. Debería ser más que@suficiente para borrar a Kamihama del mapa."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-12"
                     }
                 ],
-                "textLeft": "And so, the sight of that destruction will be@seared into your retinas in mere seconds."
+                "textLeft": "Y así, la vista de esa destrucción será@grabada en sus retinas en meros segundos."
             },
             {
                 "chara": [
@@ -237,7 +237,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-13"
                     }
                 ],
-                "textRight": "Not if I defeat you first and set Eve free!"
+                "textRight": "¡No si primero te derroto y libero a Eve!"
             },
             {
                 "chara": [
@@ -250,7 +250,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-14"
                     }
                 ],
-                "textLeft": "Then allow me to heat things up for you@first."
+                "textLeft": "Entonces permite que haga las cosas más@emocionantes para tí primero."
             },
             {
                 "chara": [
@@ -264,7 +264,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Just as the [textBlue:Rumor] proclaims I should!"
+                "textLeft": "¡Justo como el [textBlue:Rumor] proclama que debería!"
             },
             {
                 "chara": [
@@ -277,7 +277,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-16"
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¡¿...?!"
             },
             {
                 "chara": [
@@ -305,16 +305,16 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "Etched into my book are the dreams the@four of us wove back in the hospital.",
+                "narration": "Grabados en mi libro están los sueños que@nosotras cuatro creamos en el hospital.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-19"
             },
             {
-                "narration": "My menagerie of Uwasa, written in my own@lifeforce... Come forth now, one last time.@Let us prevent this most tragic of endings.",
+                "narration": "Mi colección de Uwasas, escritas con mi propia@energía vital... Vengan ahora, una última vez.@Hemos de prevenir este final tan trágico.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-20",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-19"
             },
             {
-                "narration": "And this time, let us leave a@kind tale behind, one that will not@result in more trouble for others.",
+                "narration": "Y esta vez, hemos de dejar un@amable cuento detrás, uno que no@resultará en más problemas para otros.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-21",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-20"
             },
@@ -342,7 +342,7 @@
                     }
                 ],
                 "nameCenter": "Nemu",
-                "textCenter": "I'll strike you now with every Uwasa I have@recorded in this tome!",
+                "textCenter": "¡Usaré cada Uwasa que tengo para@propinar un golpe!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -353,7 +353,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-22"
                     }
                 ],
-                "textCenter": "Even if it means etching away the last of@my life to manifest them repeatedly!"
+                "textCenter": "¡Incluso si eso significa gastar lo último que@tengo de vida para invocarlas repetidamente!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -380,7 +380,7 @@
             {
                 "jingle": "1014M01",
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@ALINAAAAAAAAA!!!",
+                "narration": "― Nemu ―@¡¡¡ALINAAAAAAAAA!!!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -392,7 +392,7 @@
             {
                 "jingle": "1108M01",
                 "nameNarration": "Alina",
-                "narration": "― Alina ―@Ah ha ha ha ha ha ha ha ha haaa!",
+                "narration": "― Alina ―@¡Ah ja ja ja ja ja ja ja ja jaaa!",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-25",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-24"
             },
@@ -432,21 +432,21 @@
                 "turnChangeOutTime": 3
             },
             {
-                "narration": "Perhaps this is enough to redeem me.@Perhaps with this...I can be forgiven.",
+                "narration": "Tal vez esto sea suficiente para redimirme.@Tal vez con esto... podré ser perdonada.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-26"
             },
             {
-                "narration": "But if my crime cannot be repaid through any@means, I accept the infinite pyres of hell.",
+                "narration": "Pero si mi crimen no puede ser pagado por ningún@medio, acepto las llamas infinitas del infierno.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-27",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-26"
             },
             {
-                "narration": "It may take 349 eons for me to earn mercy,@but if I have the story of my wish to now...",
+                "narration": "Puede que tomen 349 eones para recibir misericordia,@pero aún si tengo la historia desde mi deseo a ahora...",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-28",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-27"
             },
             {
-                "narration": "Even hell's trials will be a blissful dream.",
+                "narration": "Incluso los juicios del infierno serán un sueño dichoso.",
                 "voiceFull": "fullvoice/section_102004/vo_full_102004-6-29",
                 "voiceFullStop": "fullvoice/section_102004/vo_full_102004-6-28"
             },
@@ -484,7 +484,7 @@
                 "nameLeft": "Touka",
                 "nameRight": "Ui",
                 "textBg": "shout",
-                "textRight": "NEMUUUUUUUUU!"
+                "textRight": "¡NEMUUUUUUUUU!"
             },
             {
                 "chara": [
@@ -497,7 +497,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "NEMU...!"
+                "textLeft": "¡NEMU...!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -537,7 +537,7 @@
                 "narration": "..."
             },
             {
-                "narration": "…"
+                "narration": "..."
             },
             {
                 "bgm": "stop",

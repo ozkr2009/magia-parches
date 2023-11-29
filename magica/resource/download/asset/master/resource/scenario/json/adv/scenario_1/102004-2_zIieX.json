@@ -33,7 +33,7 @@
                 ],
                 "nameLeft": "Sasara",
                 "nameRight": "Asuka",
-                "textRight": "It's time for the final battle! I'll do my@part, as a Ryushinryu instructor!",
+                "textRight": "¡Es hora de la batalla final! ¡Daré lo mejor de@mí, como una instructora de Ryushinryu!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -45,7 +45,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-1"
                     }
                 ],
-                "textLeft": "I'm right behind you, Asuka!"
+                "textLeft": "¡Estoy justo detrás tuyo, Asuka!"
             },
             {
                 "chara": [
@@ -55,7 +55,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-2"
                     }
                 ],
-                "textLeft": "The Kamihama Rescue Squad won't fail, I@swear it on my honor as a Magical Knight!"
+                "textLeft": "¡El Equipo de Rescate de Kamihama no fallará, lo@juro sobre mi honor de Guerrera Mágica!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -92,7 +92,7 @@
                 ],
                 "nameLeft": "Kokoro",
                 "nameRight": "Aimi",
-                "textRight": "I gotta at least be able to face Hayato with@pride when this is all over!"
+                "textRight": "¡Tengo que siquiera poder darle la cara a Hayato@con orgullo cuento esto acabe!"
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-4"
                     }
                 ],
-                "textLeft": "That's the spirit, Aimi!"
+                "textLeft": "¡Así se habla, Aimi!"
             },
             {
                 "chara": [
@@ -120,7 +120,7 @@
                     }
                 ],
                 "nameRight": "Masara",
-                "textRight": "You'd think she could get her spirits up even@more to confess her love to the guy, but..."
+                "textRight": "Pensarías que se armaría más de valor@para confesarse a ese chico, pero..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -157,7 +157,7 @@
                 ],
                 "nameLeft": "Ria",
                 "nameRight": "Manaka",
-                "textRight": "Not even you have the breathing room to try@to steal the spotlight, do you, Ria?"
+                "textRight": "Ni si quiera tu tienes el espacio para intentar@robarte el escenario, ¿o sí, Ria?"
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-7"
                     }
                 ],
-                "textLeft": "Wh-what?! Who said I was SCARED?!"
+                "textLeft": "¡¿Qu-qué?! ¡¿Quien dijo que tenía MIEDO?!"
             },
             {
                 "chara": [
@@ -181,7 +181,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-8"
                     }
                 ],
-                "textRight": "No one's saying that."
+                "textRight": "Nadie está diciendo eso."
             },
             {
                 "chara": [
@@ -196,7 +196,7 @@
                     }
                 ],
                 "nameLeft": "Mayu",
-                "textLeft": "Who would?"
+                "textLeft": "¿Quién lo haría?"
             },
             {
                 "chara": [
@@ -206,7 +206,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-10"
                     }
                 ],
-                "textLeft": "Ria is very capable of holding her own!"
+                "textLeft": "¡Ria es capaz de valerse por si misma!"
             },
             {
                 "autoTurnLast": 1,
@@ -241,7 +241,7 @@
                 "nameLeft": "Nanaka",
                 "nameRight": "Meiyui",
                 "questTurnChangeOut": "fadeOut",
-                "textLeft": "Unsurprising... This team we cobbled@together from essential strangers..."
+                "textLeft": "Era de esperarse... Este equipo improvisado@hecho de extrañas prácticamente..."
             },
             {
                 "chara": [
@@ -251,7 +251,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-12"
                     }
                 ],
-                "textLeft": "Is having difficulty staying united."
+                "textLeft": "Está teniendo problemas para mantenerse unido."
             },
             {
                 "chara": [
@@ -262,7 +262,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-13"
                     }
                 ],
-                "textLeft": "How is everyone's status, on the whole?"
+                "textLeft": "¿Cuál es el estado de todas, en general?"
             },
             {
                 "chara": [
@@ -273,7 +273,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-14"
                     }
                 ],
-                "textRight": "Getting ready to meet the next wave of@attacks."
+                "textRight": "Nos preparamos para recibir las siguiente ola de@ataques."
             },
             {
                 "chara": [
@@ -283,7 +283,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-15"
                     }
                 ],
-                "textRight": "I wish you wouldn't talk to me during our@downtime."
+                "textRight": "Me gustaría que no me hablaras durante nuestro@tiempo de descanso."
             },
             {
                 "chara": [
@@ -298,7 +298,7 @@
                     }
                 ],
                 "nameLeft": "Akira",
-                "textLeft": "Honestly, I think everyone's having a tough @time."
+                "textLeft": "Honestamente, creo que todas la están pasando@mal."
             },
             {
                 "chara": [
@@ -309,7 +309,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-17"
                     }
                 ],
-                "textLeft": "Those twins may have given out Grief Seeds,@but they don't do anything for fatigue..."
+                "textLeft": "Puede que aquellas gemelas noS hayan dado@Grief Seeds, pero no nos ayudan con la fatiga..."
             },
             {
                 "chara": [
@@ -324,7 +324,7 @@
                     }
                 ],
                 "nameRight": "Kako",
-                "textRight": "With it this bad over here, I hope that@Felicia will be okay..."
+                "textRight": "Con lo mal que van las cosas por aquí, espero@que Felicia esté bien..."
             },
             {
                 "chara": [
@@ -339,7 +339,7 @@
                     }
                 ],
                 "nameLeft": "Ayame",
-                "textLeft": "Puh-leeze, she'd never go down that easy!"
+                "textLeft": "Pufff, ¡ella no se dejaría vencer tan fácilmente!"
             },
             {
                 "chara": [
@@ -350,7 +350,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-20"
                     }
                 ],
-                "textLeft": "Besides, our fight's not even over yet! She's@not goin' anywhere until we settle things!"
+                "textLeft": "Además, ¡nuestra batalla todavía no acaba!@¡Ella no se va a ningún lado hasta que no@arreglemos las cosas!"
             },
             {
                 "chara": [
@@ -373,7 +373,7 @@
                 ],
                 "nameLeft": "Hazuki",
                 "nameRight": "Konoha",
-                "textLeft": "*Sigh* Ayame's in high spirits, at least."
+                "textLeft": "*Suspiro* Ayame tiene ánimos, por lo menos."
             },
             {
                 "chara": [
@@ -384,7 +384,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-22"
                     }
                 ],
-                "textLeft": "Meanwhile, I'm dead on my feet..."
+                "textLeft": "Mientras tanto, yo estoy agotada..."
             },
             {
                 "chara": [
@@ -395,7 +395,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-23"
                     }
                 ],
-                "textRight": "The way I see it, she's just putting on a@brave face."
+                "textRight": "Como lo veo yo, solo está poniendo la@cara de valiente."
             },
             {
                 "chara": [
@@ -405,7 +405,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-24"
                     }
                 ],
-                "textRight": "We can't take her cheeriness for granted..."
+                "textRight": "No podemos dar por sentado su ánimo..."
             },
             {
                 "chara": [
@@ -417,7 +417,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-25"
                     }
                 ],
-                "textLeft": "I know that all too well."
+                "textLeft": "Eso lo sé muy bien."
             },
             {
                 "autoTurnLast": 1,
@@ -451,7 +451,7 @@
                 "nameLeft": "Rika",
                 "nameRight": "Ren",
                 "questTurnChangeOut": "fadeOut",
-                "textLeft": "We're due to go fight next, Ren!"
+                "textLeft": "¡Es nuestro turno de pelear, Ren!"
             },
             {
                 "chara": [
@@ -462,7 +462,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-27"
                     }
                 ],
-                "textRight": "Yes... We have to hold them back, for@as long as we can..."
+                "textRight": "Sí... los tenemos que contener tanto@tiempo como sea posible..."
             },
             {
                 "chara": [
@@ -477,7 +477,7 @@
                     }
                 ],
                 "nameRight": "Hinano",
-                "textRight": "Sorry I'm late. I'll be hopping on the @bandwagon here, too!"
+                "textRight": "Siento llegar tarde. ¡Me les uniré por@aquí también!"
             },
             {
                 "chara": [
@@ -490,7 +490,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-29"
                     }
                 ],
-                "textLeft": "Miko-senpai!"
+                "textLeft": "¡Hinano!"
             },
             {
                 "chara": [
@@ -505,7 +505,7 @@
                     }
                 ],
                 "nameLeft": "Ren",
-                "textLeft": "Hinano-senpai!"
+                "textLeft": "¡Hinano!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -536,7 +536,7 @@
                 ],
                 "nameLeft": "Hinano",
                 "nameRight": "Emiri",
-                "textRight": "Hey, don't forget meee!"
+                "textRight": "¡Oigan, no se olviden de mí!"
             },
             {
                 "chara": [
@@ -547,7 +547,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-32"
                     }
                 ],
-                "textLeft": "We can save the greetings and apologies for@later. Let's get going!"
+                "textLeft": "Nos podemos guardar los saludos y las disculpas@para luego. ¡Vamos!"
             },
             {
                 "chara": [
@@ -562,7 +562,7 @@
                     }
                 ],
                 "nameLeft": "Rika",
-                "textLeft": "You got it! We're gonna whip up a supersized@serving of whoop-ass on these guys!"
+                "textLeft": "¡Muy bien! ¡Vamos a servirles una porción grande@de pateadas de culo!"
             },
             {
                 "chara": [
@@ -575,7 +575,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-34"
                     }
                 ],
-                "textRight": "Ooh, if Rikki's serving the food I'll handle@the garnishes!"
+                "textRight": "¡Ooh, si Rikki va a servir la comida, yo me@encargo de las guarniciones!"
             },
             {
                 "chara": [
@@ -590,7 +590,7 @@
                     }
                 ],
                 "nameLeft": "Hinano",
-                "textLeft": "What kind of attack are you planning?!"
+                "textLeft": "¡¿Qué tipo de ataque están planeando?!"
             },
             {
                 "autoTurnLast": 1,
@@ -624,7 +624,7 @@
                 "nameLeft": "Mami",
                 "nameRight": "Sayaka",
                 "questTurnChangeOut": "fadeOut",
-                "textRight": "We're up next, Mami. Let's put an end to@Walpurgisnacht!"
+                "textRight": "Nosotras seguimos, Mami. ¡Pongámosle fin a@Walpurgisnacht!"
             },
             {
                 "chara": [
@@ -635,7 +635,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-37"
                     }
                 ],
-                "textLeft": "Certainly! We'll stop her before she advances@any further!"
+                "textLeft": "¡Por su puesto! ¡La detendremos antes de que@avance más!"
             },
             {
                 "chara": [
@@ -650,7 +650,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "I know we're takin' turns defendin' against@each wave..."
+                "textRight": "Sé que nos estamos turnando para defender@contra cada ola..."
             },
             {
                 "chara": [
@@ -660,7 +660,7 @@
                         "voiceFullStop": "fullvoice/section_102004/vo_full_102004-2-39"
                     }
                 ],
-                "textRight": "But isn't there a way to do this that@doesn't burn so many calories?"
+                "textRight": "Pero ¿hay alguna manera de hacer esto@que no queme tantas calorías?"
             },
             {
                 "chara": [
@@ -675,7 +675,7 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "We don't really have any other option..."
+                "textLeft": "No tenemos ninguna otra opción..."
             },
             {
                 "chara": [
@@ -690,7 +690,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Yes! We have to fight alongside everyone to@stop Walpurgisnacht!"
+                "textRight": "¡Sí! ¡Tenemos que pelear junto con todas para@detener a Walpurgisnacht!"
             },
             {
                 "autoTurnLast": 2,
