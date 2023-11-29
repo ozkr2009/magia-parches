@@ -33,7 +33,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Felicia",
-                "textLeft": "Don't worry about it, Iroha! I'm also the@Mightiest at reeling my strength in!",
+                "textLeft": "¡No te preocupes, Iroha! ¡Yo también soy la más@poderosa a la hora de replegar mi fuerza!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -45,7 +45,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-1"
                     }
                 ],
-                "textLeft": "Once we stop Eve from going anywhere, our@next priority will be saving Ui!"
+                "textLeft": "¡Una vez que impidamos que Eve se vaya, nuestra@siguiente prioridad será salvar a Ui!"
             },
             {
                 "chara": [
@@ -56,7 +56,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-2"
                     }
                 ],
-                "textRight": "You got that right!"
+                "textRight": "¡Entendiste bien!"
             },
             {
                 "chara": [
@@ -66,7 +66,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-3"
                     }
                 ],
-                "textRight": "And we're not just savin' her!"
+                "textRight": "¡Y no solo la salvaremos a ella!"
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-4"
                     }
                 ],
-                "textRight": "We're gonna protect all of Kamihama, too!@OUR Kamihama!"
+                "textRight": "¡También vamos a proteger a todo Kamihama!@¡Nuestro Kamihama!"
             },
             {
                 "chara": [
@@ -102,7 +102,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textRight": "I know this must be really difficult, Iroha."
+                "textRight": "Sé que debe ser muy difícil, Iroha."
             },
             {
                 "chara": [
@@ -114,7 +114,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-6"
                     }
                 ],
-                "textRight": "But let's fight, together."
+                "textRight": "Pero vamos a luchar, juntas."
             },
             {
                 "chara": [
@@ -125,7 +125,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-7"
                     }
                 ],
-                "textRight": "Please trust us."
+                "textRight": "Por favor, confía en nosotras."
             },
             {
                 "chara": [
@@ -138,7 +138,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-8"
                     }
                 ],
-                "textLeft": "I do. I've trusted all of you, right from the@very beginning."
+                "textLeft": "Lo hago. He confíado en todas ustedes,@desde el principio."
             },
             {
                 "chara": [
@@ -150,7 +150,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-9"
                     }
                 ],
-                "textLeft": "And you're right... We need to protect our@city!"
+                "textLeft": "Y tienes razón...@¡Tenemos que proteger nuestra ciudad!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -187,7 +187,7 @@
                 ],
                 "flashEffect": "flashWhite2",
                 "nameNarration": "Eve",
-                "narration": "―━―＿―!!!",
+                "narration": "¡¡¡―━―＿―!!!",
                 "textBg": "shout"
             },
             {
@@ -220,7 +220,7 @@
                 ],
                 "nameLeft": "Kanagi",
                 "nameRight": "Felicia",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge]Nwaaagh!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge]¡Nwaaagh!"
             },
             {
                 "chara": [
@@ -233,7 +233,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-12"
                     }
                 ],
-                "textRight": "This damn moth! You can't take two steps@towards her without her whoppin' ya one!"
+                "textRight": "¡Esta maldita polilla! ¡No puedes dar dos pasos@hacia ella sin que te pegue uno!"
             },
             {
                 "chara": [
@@ -244,7 +244,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-13"
                     }
                 ],
-                "textLeft": "It was strange how quietly she was lying@there until now."
+                "textLeft": "Era extraño lo tranquila que estaba allí hasta ahora."
             },
             {
                 "chara": [
@@ -254,7 +254,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-14"
                     }
                 ],
-                "textLeft": "I'm a little surprised she waited for us to@get closer before counterattacking."
+                "textLeft": "Me sorprende que haya esperado a que nos@acerquemos para contraatacar."
             },
             {
                 "chara": [
@@ -265,7 +265,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-15"
                     }
                 ],
-                "textLeft": "Perhaps to Eve we're no more than pesky@flies."
+                "textLeft": "Quizá para Eve no seamos más que molestas moscas."
             },
             {
                 "chara": [
@@ -276,7 +276,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-16"
                     }
                 ],
-                "textRight": "The hell does that mean?!"
+                "textRight": "¡¿Qué demonios significa eso?!"
             },
             {
                 "chara": [
@@ -287,7 +287,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-2-17"
                     }
                 ],
-                "textLeft": "It means we barely even register as threats@to her."
+                "textLeft": "Significa que apenas somos una amenaza para ella."
             },
             {
                 "autoTurnLast": 2,

@@ -25,7 +25,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "*Pant* *Pant*",
+                "textCenter": "*Jadea* *Jadea*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -52,7 +52,7 @@
                 ],
                 "nameLeft": "Shizuku",
                 "nameRight": "Mitama",
-                "textRight": "Thanks so much, Shizuku. Your Space Fusion@really came in handy."
+                "textRight": "Muchas gracias, Shizuku.@Tu Fusión Espacial realmente es muy útil."
             },
             {
                 "chara": [
@@ -63,7 +63,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-2"
                     }
                 ],
-                "textRight": "I hope it wasn't too big of a strain on you."
+                "textRight": "Espero que no te haya supuesto un@gran esfuerzo."
             },
             {
                 "chara": [
@@ -76,7 +76,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-3"
                     }
                 ],
-                "textLeft": "Well, you did purify my Soul Gem for me@before..."
+                "textLeft": "Bueno, antes purificaste mi Soul Gem@por mí..."
             },
             {
                 "chara": [
@@ -86,7 +86,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-4"
                     }
                 ],
-                "textLeft": "I don't think I can manage to leave the shop@and fight yet..."
+                "textLeft": "No creo que pueda conseguir salir de@la tienda y luchar todavía..."
             },
             {
                 "chara": [
@@ -97,7 +97,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-5"
                     }
                 ],
-                "textLeft": "So I'm glad I can help in this way."
+                "textLeft": "Así que me alegro de poder ayudar de@esta manera."
             },
             {
                 "chara": [
@@ -110,7 +110,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-6"
                     }
                 ],
-                "textRight": "Yes, your assistance has been invaluable."
+                "textRight": "Sí, tu ayuda fue inestimable."
             },
             {
                 "chara": [
@@ -133,7 +133,7 @@
                 ],
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textRight": "Um, now that you're done, could you look at@Mifuyu for us...?"
+                "textRight": "Um, ahora que terminaron,@¿podrías mirar a Mifuyu...?"
             },
             {
                 "chara": [
@@ -144,7 +144,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-8"
                     }
                 ],
-                "textLeft": "She's asleep on the cot over here."
+                "textLeft": "Está dormida en el catre de aquí."
             },
             {
                 "autoTurnLast": 1,
@@ -220,7 +220,7 @@
                 ],
                 "nameCenter": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textCenter": "What do you think...?"
+                "textCenter": "¿Qué te parece...?"
             },
             {
                 "chara": [
@@ -231,7 +231,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-12"
                     }
                 ],
-                "textRight": "Yeah, can you help her? How does she look?"
+                "textRight": "Sí, ¿puedes ayudarla? ¿Cómo se ve ella?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -286,7 +286,7 @@
                     }
                 ],
                 "nameLeft": "Mitama",
-                "textLeft": "I don't think she's dead.",
+                "textLeft": "No creo que esté muerta.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -299,7 +299,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-14"
                     }
                 ],
-                "textRight": "Then...!"
+                "textRight": "¡Entonces...!"
             },
             {
                 "chara": [
@@ -310,7 +310,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-15"
                     }
                 ],
-                "textLeft": "However, I can't say for sure that she's@alive, either."
+                "textLeft": "Sin embargo, tampoco puedo asegurar que@esté viva."
             },
             {
                 "chara": [
@@ -321,7 +321,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-16"
                     }
                 ],
-                "textLeft": "I don't know exactly how to put this, but she@seems to be in a kind of coma."
+                "textLeft": "No sé exactamente cómo decirlo, pero parece@estar en una especie de coma."
             },
             {
                 "chara": [
@@ -336,7 +336,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "Is there any way for us to help her?"
+                "textCenter": "¿Hay alguna forma de ayudarla?"
             },
             {
                 "chara": [
@@ -350,7 +350,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-18"
                     }
                 ],
-                "textLeft": "I'm not sure..."
+                "textLeft": "No estoy segura..."
             },
             {
                 "chara": [
@@ -360,7 +360,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-19"
                     }
                 ],
-                "textLeft": "Her Soul Gem looks like it could shatter if@someone were to touch it too roughly."
+                "textLeft": "Su Soul Gem parece que podría romperse si alguien@la tocara con demasiada brusquedad."
             },
             {
                 "chara": [
@@ -371,7 +371,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-20"
                     }
                 ],
-                "textLeft": "I don't think there's anything my powers can@do for her."
+                "textLeft": "No creo que mis poderes puedan hacer nada por ella."
             },
             {
                 "chara": [
@@ -436,7 +436,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-24"
                     }
                 ],
-                "textRight": "*Sob*"
+                "textRight": "*Llorar*"
             },
             {
                 "chara": [
@@ -448,7 +448,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-25"
                     }
                 ],
-                "textLeft": "There is one thing that we can do, however."
+                "textLeft": "Sin embargo, hay una cosa que podemos hacer."
             },
             {
                 "chara": [
@@ -463,7 +463,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "*Sob*"
+                "textCenter": "*Llorar*"
             },
             {
                 "chara": [
@@ -474,7 +474,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-27"
                     }
                 ],
-                "textCenter": "Yes, I know what that is."
+                "textCenter": "Sí, ya sé lo que es."
             },
             {
                 "chara": [
@@ -485,7 +485,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-28"
                     }
                 ],
-                "textRight": "You mean we shouldn't let her sacrifice@be in vain, don't you?"
+                "textRight": "Quieres decir que no debemos dejar que su@sacrificio sea en vano, ¿no?"
             },
             {
                 "chara": [
@@ -496,7 +496,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-29"
                     }
                 ],
-                "textCenter": "For sure."
+                "textCenter": "Cierto."
             },
             {
                 "chara": [
@@ -507,7 +507,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-30"
                     }
                 ],
-                "textLeft": "Yes."
+                "textLeft": "Sí."
             },
             {
                 "chara": [
@@ -517,7 +517,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-31"
                     }
                 ],
-                "textLeft": "We need to be sure that Mifuyu can hold @her head high..."
+                "textLeft": "Tenemos que estar seguras de que Mifuyu pueda@mantener la cabeza alta..."
             },
             {
                 "chara": [
@@ -527,7 +527,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-32"
                     }
                 ],
-                "textLeft": "...when she wakes up from her slumber."
+                "textLeft": "...cuando se despierte de su sueño."
             },
             {
                 "armatureList": [
@@ -565,7 +565,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "...?!",
+                "textCenter": "¡¿...?!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -576,7 +576,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-34"
                     }
                 ],
-                "textCenter": "What in the world?!"
+                "textCenter": "¡¿Qué demonios?!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -608,11 +608,11 @@
             {
                 "nameLeft": "",
                 "nameRight": "",
-                "textLeft": "Hobwheh hwih!",
+                "textLeft": "¡Hobwheh hwih!",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "textRight": "Hbwet'sh mbhke nbhst!"
+                "textRight": "¡Hbwet'sh mbhke nbhst!"
             },
             {
                 "chara": [
@@ -667,7 +667,7 @@
                 ],
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textLeft": "They're whipping up a tornado...@They seem to be gathering something!"
+                "textLeft": "¡Están provocando un tornado...!@¡Parece que están reuniendo algo!"
             },
             {
                 "chara": [
@@ -678,7 +678,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-38"
                     }
                 ],
-                "textRight": "It almost looks like they're building a nest!"
+                "textRight": "¡Casi parece que están construyendo un nido!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -719,7 +719,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "They're even gathering up Walpurgisnacht's@Familiars!"
+                "textCenter": "¡Incluso están reuniendo a los familiares de@Walpurgisnacht!"
             },
             {
                 "chara": [
@@ -731,7 +731,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-40"
                     }
                 ],
-                "textCenter": "Wait... Is the reason why Eve's Familiars@are building a nest..."
+                "textCenter": "Espera... La razón por la que los Familiares@de Eve están construyendo un nido es..."
             },
             {
                 "chara": [
@@ -741,7 +741,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-4-41"
                     }
                 ],
-                "textCenter": "So that they can stockpile the impurities@that Walpurgisnacht is carrying?!"
+                "textCenter": "¡¿Para poder acumular las impurezas que lleva@Walpurgisnacht?!"
             },
             {
                 "autoTurnLast": 2,

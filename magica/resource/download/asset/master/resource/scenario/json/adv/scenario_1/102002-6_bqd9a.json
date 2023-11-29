@@ -34,7 +34,7 @@
                     }
                 ],
                 "nameCenter": "",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]Bwhedhy, bhwre!",
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]¡Bwhedhy, bhwre!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -61,7 +61,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "[flashEffect:flashRed2][bgEffect:shakeLarge][se:3001_chara_damage][chara:101700:effect_shake]Owww!"
+                "textCenter": "[flashEffect:flashRed2][bgEffect:shakeLarge][se:3001_chara_damage][chara:101700:effect_shake]¡Awww!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -96,7 +96,7 @@
                 "nameLeft": "Mitama",
                 "nameRight": "Tsukasa",
                 "textBg": "shout",
-                "textRight": "Mitama!"
+                "textRight": "¡Mitama!"
             },
             {
                 "chara": [
@@ -110,7 +110,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-3"
                     }
                 ],
-                "textLeft": "I'm fine! That attack wasn't meant for me."
+                "textLeft": "¡Estoy bien! Ese ataque no iba dirigido a mí."
             },
             {
                 "chara": [
@@ -121,7 +121,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-4"
                     }
                 ],
-                "textLeft": "Eve and Walpurgisnacht..."
+                "textLeft": "Eve y Walpurgisnacht..."
             },
             {
                 "chara": [
@@ -131,7 +131,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-5"
                     }
                 ],
-                "textLeft": "Even their Familiars seem like they're trying@to devour each other."
+                "textLeft": "Incluso sus Familiares parecen querer devorarse@mutuamente."
             },
             {
                 "chara": [
@@ -146,7 +146,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "Though Eve's Familiars have the advantage of@numbers."
+                "textCenter": "Aunque los Familiares de Eve tienen la ventaja@del número."
             },
             {
                 "chara": [
@@ -157,7 +157,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-7"
                     }
                 ],
-                "textRight": "When an enemy falls, they absorb its impurity@and tuck it away for later..."
+                "textRight": "Cuando un enemigo cae, absorben su impureza y@la guardan para después..."
             },
             {
                 "chara": [
@@ -167,7 +167,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-8"
                     }
                 ],
-                "textRight": "It looks like Mitama's right."
+                "textRight": "Parece que Mitama tiene razón."
             },
             {
                 "chara": [
@@ -180,7 +180,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-9"
                     }
                 ],
-                "textLeft": "If they were just trying to destroy each@other we could leave them to it..."
+                "textLeft": "Si solo trataran de destruirse unos a otros,@podríamos dejarlos..."
             },
             {
                 "chara": [
@@ -190,7 +190,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-10"
                     }
                 ],
-                "textLeft": "But we can't ignore how they're stockpiling@impurities."
+                "textLeft": "Pero no podemos ignorar cómo están acumulando@impurezas."
             },
             {
                 "chara": [
@@ -211,7 +211,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "All right. Tsukuyo? Tsukasa?"
+                "textLeft": "De acuerdo. ¿Tsukuyo? ¿Tsukasa?"
             },
             {
                 "chara": [
@@ -221,7 +221,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-12"
                     }
                 ],
-                "textLeft": "Did you get through to the other Magical@Girls?"
+                "textLeft": "¿Conseguiste hablar con las otras Chicas Mágicas?"
             },
             {
                 "chara": [
@@ -232,7 +232,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-13"
                     }
                 ],
-                "textRight": "Yes. I checked in with them, and it looks@like they've split up on their own missions."
+                "textRight": "Sí. Me comuniqué con ellas, y parece que se@han dividido en sus propias misiones."
             },
             {
                 "chara": [
@@ -247,7 +247,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "Apparently their initial plan was to wait on@the shore for Walpurgisnacht."
+                "textCenter": "Al parecer, su plan inicial era esperar en la@orilla a Walpurgisnacht."
             },
             {
                 "chara": [
@@ -257,7 +257,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-15"
                     }
                 ],
-                "textCenter": "But they split up once the Familiars began@raining down across the city."
+                "textCenter": "Pero se separaron una vez que los Familiares@comenzaron a llover por la ciudad."
             },
             {
                 "chara": [
@@ -268,7 +268,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-16"
                     }
                 ],
-                "textRight": "Yes, they're taking on the Familiars just@like we are."
+                "textRight": "Sí, se están enfrentando a los Familiares igual@que nosotras."
             },
             {
                 "chara": [
@@ -278,7 +278,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-17"
                     }
                 ],
-                "textLeft": "I see..."
+                "textLeft": "Ya veo..."
             },
             {
                 "chara": [
@@ -289,7 +289,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-18"
                     }
                 ],
-                "textLeft": "Then, now that the girls who were taking@shelter at my place are out and about..."
+                "textLeft": "Entonces, ahora que las chicas que se refugiaban@en mi tienda están fuera..."
             },
             {
                 "chara": [
@@ -301,7 +301,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-19"
                     }
                 ],
-                "textLeft": "Shall we start making the rounds as well?"
+                "textLeft": "¿Empezamos a hacer las rondas también?"
             },
             {
                 "chara": [
@@ -320,7 +320,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "The...rounds?"
+                "textCenter": "¿Las... rondas?"
             },
             {
                 "chara": [
@@ -331,7 +331,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-21"
                     }
                 ],
-                "textLeft": "Yes."
+                "textLeft": "Sí."
             },
             {
                 "chara": [
@@ -341,7 +341,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-22"
                     }
                 ],
-                "textLeft": "We'll take the Grief Seeds I have in the@store to where the others are fighting."
+                "textLeft": "Llevaremos las Grief Seeds que tengo en la@tienda a donde las otras están luchando."
             },
             {
                 "chara": [
@@ -353,7 +353,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-23"
                     }
                 ],
-                "textLeft": "Let's use all our power to support everyone@fighting throughout the city."
+                "textLeft": "Usemos todo nuestro poder para apoyar a todas@las que luchan en la ciudad."
             },
             {
                 "chara": [
@@ -364,7 +364,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-24"
                     }
                 ],
-                "textLeft": "And while we're at it, we need to take care@of the nests Eve's Familiars are building."
+                "textLeft": "Y ya que estamos, tenemos que encargarnos de los@nidos que los Familiares de Eve@están construyendo."
             },
             {
                 "chara": [
@@ -374,7 +374,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-25"
                     }
                 ],
-                "textLeft": "Since we have no idea what they're planning,@we need to destroy as much of it as we can."
+                "textLeft": "Como no tenemos ni idea de lo que están@planeando, tenemos que destruir todo lo que@podamos."
             },
             {
                 "chara": [
@@ -393,7 +393,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "Understood!"
+                "textCenter": "¡Entendido!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -424,7 +424,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-6-28"
                     }
                 ],
-                "textRight": "Aaah!"
+                "textRight": "¡Aaah!"
             },
             {
                 "chara": [
@@ -443,7 +443,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "Oh nooo... Another earthquake!"
+                "textCenter": "Ay nooo... ¡Otro terremoto!"
             },
             {
                 "chara": [
@@ -455,7 +455,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-6-29"
                     }
                 ],
-                "textLeft": "That must mean..."
+                "textLeft": "Eso debe significar..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -480,7 +480,7 @@
             },
             {
                 "nameNarration": "Mitama",
-                "narration": "— Mitama —@It's taken another leap toward the city.",
+                "narration": "— Mitama — Dio otro salto hacia la ciudad.",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",

@@ -33,7 +33,7 @@
                 ],
                 "nameLeft": "Mayu",
                 "nameRight": "Aimi",
-                "textLeft": "Oh no... What's happening?!",
+                "textLeft": "Qu... ¡¿Qué está pasando?!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -45,7 +45,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-1"
                     }
                 ],
-                "textRight": "I can't believe things went this haywire@while we were at the Coordinator's!"
+                "textRight": "¡No puedo creer que las cosas se hayan desviado@tanto mientras estábamos en la tienda de la@coordinadora!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -74,7 +74,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "Thank goodness you all came out."
+                "textCenter": "Menos mal que salieron."
             },
             {
                 "autoTurnLast": 0.2,
@@ -107,7 +107,7 @@
                 ],
                 "nameLeft": "Rika",
                 "nameRight": "Aimi",
-                "textLeft": "I know I cried a lot, and I still feel awful,@but what's done is done."
+                "textLeft": "Sé que solo estuve llorando, y aún me siento@fatal, pero lo hecho, hecho está."
             },
             {
                 "chara": [
@@ -119,7 +119,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-4"
                     }
                 ],
-                "textLeft": "I want to treasure the memories I made by@becoming a Magical Girl..."
+                "textLeft": "Quiero atesorar los recuerdos que hice al@convertirme en Chica Mágica..."
             },
             {
                 "chara": [
@@ -130,7 +130,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-5"
                     }
                 ],
-                "textLeft": "That's what I decided."
+                "textLeft": "Eso es lo que he decidido."
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-6"
                     }
                 ],
-                "textRight": "Yeah... It felt like everything that happened@to me was completely awful..."
+                "textRight": "Sí... Sentí que todo lo que me pasó fue@completamente horrible..."
             },
             {
                 "chara": [
@@ -151,7 +151,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-7"
                     }
                 ],
-                "textRight": "But when I really think it through, it isn't@like that at all."
+                "textRight": "Pero cuando lo pienso bien, no es así en absoluto."
             },
             {
                 "chara": [
@@ -162,7 +162,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-8"
                     }
                 ],
-                "textRight": "I wouldn't have half of my experiences and@memories if I hadn't become a Magical Girl."
+                "textRight": "No tendría ni la mitad de mis experiencias y@recuerdos si no me hubiera convertido en una@Chica Mágica."
             },
             {
                 "chara": [
@@ -174,7 +174,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-9"
                     }
                 ],
-                "textRight": "And Kamihama is full of those memories!"
+                "textRight": "¡Y Kamihama está lleno de esos recuerdos!"
             },
             {
                 "chara": [
@@ -189,7 +189,7 @@
                     }
                 ],
                 "nameLeft": "Kokoro",
-                "textLeft": "Yes, that's why it was inevitable that I'd@become a Magical Girl at some point."
+                "textLeft": "Sí, por eso era inevitable que me convirtiera@en Chica Mágica en algún momento."
             },
             {
                 "chara": [
@@ -201,7 +201,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-11"
                     }
                 ],
-                "textLeft": "I've decided to think of it as the best@choice I could have made back then."
+                "textLeft": "He decidido pensar en ello como la mejor@elección que podría haber hecho entonces."
             },
             {
                 "autoTurnFirst": 5.5,
@@ -218,7 +218,7 @@
                 ],
                 "enableSkipAutoTurn": 1,
                 "nameRight": "Ren",
-                "textRight": "Yes...this way it won't sour all the time we@spent, living our lives..."
+                "textRight": "Sí... así no se estropeará todo el tiempo que@pasamos, viviendo nuestras vidas..."
             },
             {
                 "chara": [
@@ -242,7 +242,7 @@
                 ],
                 "enableSkipAutoTurn": 0,
                 "nameLeft": "Mayu",
-                "textLeft": "S-so we have to help out!"
+                "textLeft": "¡Así que tenemos que ayudar!"
             },
             {
                 "chara": [
@@ -255,7 +255,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-14"
                     }
                 ],
-                "textLeft": "Um, Mitama? What should we do?"
+                "textLeft": "Um, ¿Mitama? ¿Qué debemos hacer?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -284,7 +284,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "*Giggle* It's reassuring to have so many@of you here to help."
+                "textCenter": "*Risita* Es reconfortante tener a tantas de@ustedes aquí para ayudar."
             },
             {
                 "chara": [
@@ -296,7 +296,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-16"
                     }
                 ],
-                "textCenter": "Okay then, you can start by hunting down all@these Familiars."
+                "textCenter": "Bien entonces, pueden empezar por cazar a todos@esos Familiares."
             },
             {
                 "chara": [
@@ -307,7 +307,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-5-17"
                     }
                 ],
-                "textCenter": "There's far too many for just my team to@wipe out."
+                "textCenter": "Hay demasiados para que solo mi equipo pueda@acabar con ellos."
             },
             {
                 "autoTurnLast": 2,
