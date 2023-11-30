@@ -51,7 +51,7 @@
                 ],
                 "nameLeft": "Mayu",
                 "nameRight": "Sasara",
-                "textLeft": "I can't believe it's going so smoothly...",
+                "textLeft": "No puedo creer que esté saliendo tan bien...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -62,7 +62,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-1"
                     }
                 ],
-                "textLeft": "Just a few moments ago we were too exhausted@to lift a finger. What a strange feeling."
+                "textLeft": "Hace un rato estábamos demasiado cansadas@como para movernos. Qué sensación tan@extraña."
             },
             {
                 "chara": [
@@ -73,7 +73,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-2"
                     }
                 ],
-                "textRight": "We have to make the most of this amazing@strength we were blessed with."
+                "textRight": "Tenemos que aprovechar al máximo esta gran@fuerza con la que hemos sido bendecidas."
             },
             {
                 "chara": [
@@ -85,7 +85,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-3"
                     }
                 ],
-                "textRight": "We may not understand where it came from,@but now our future looks a lot brighter..."
+                "textRight": "Tal vez no entendamos de dónde vino, pero@ahora nuestro futuro luce mucho mejor..."
             },
             {
                 "chara": [
@@ -104,7 +104,7 @@
                     }
                 ],
                 "nameRight": "Emiri",
-                "textRight": "Ah!"
+                "textRight": "¡Ah!"
             },
             {
                 "chara": [
@@ -117,7 +117,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-5"
                     }
                 ],
-                "textRight": "Looks like Rikki and her gang pulled@everything off perfectly!"
+                "textRight": "Parece que Rikki y su grupo lo han hecho@todo a la perfección."
             },
             {
                 "chara": [
@@ -130,7 +130,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-6"
                     }
                 ],
-                "textLeft": "They made her change course!"
+                "textLeft": "¡La hicieron cambiar de rumbo!"
             },
             {
                 "chara": [
@@ -143,7 +143,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-7"
                     }
                 ],
-                "textRight": "Oooh!!! I'm sooo pumped now!"
+                "textRight": "¡¡¡Oooh!!! ¡Estoy muy emocionada ahora!"
             },
             {
                 "chara": [
@@ -154,7 +154,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-8"
                     }
                 ],
-                "textLeft": "Riko, let's get ready too!"
+                "textLeft": "¡Riko, preparémonos también!"
             },
             {
                 "chara": [
@@ -169,7 +169,7 @@
                     }
                 ],
                 "nameRight": "Riko",
-                "textRight": "O-okay!"
+                "textRight": "¡S-sí!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -198,7 +198,7 @@
                     }
                 ],
                 "nameCenter": "Yachiyo",
-                "textCenter": "Tsuruno! Iroha!"
+                "textCenter": "¡Tsuruno! ¡Iroha!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -232,7 +232,7 @@
                 "nameCenter": "Iroha",
                 "nameLeft": "Yachiyo",
                 "nameRight": "Tsuruno",
-                "textRight": "I'm on it!"
+                "textRight": "¡Estoy en ello!"
             },
             {
                 "chara": [
@@ -243,7 +243,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-12"
                     }
                 ],
-                "textCenter": "Yeah!"
+                "textCenter": "¡Sí!"
             },
             {
                 "chara": [
@@ -254,7 +254,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-13"
                     }
                 ],
-                "textLeft": "Those four are taking care of guiding@Walpurgisnacht to Kaihin Park."
+                "textLeft": "Esas cuatro se están encargando de guiar a@Walpurgisnacht al Parque Kaihin."
             },
             {
                 "chara": [
@@ -264,7 +264,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-14"
                     }
                 ],
-                "textLeft": "Our job will be to keep her busy while@they do that!"
+                "textLeft": "¡Nuestro trabajo será mantenerla ocupada@mientras hacen eso!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -293,7 +293,7 @@
             {
                 "bgEffect": "shakeLarge",
                 "flashEffect": "flashWhite2",
-                "narration": "AAAH HA HA HA HA!",
+                "narration": "¡AAAH JA JA JA JA!",
                 "surround": "6405A02",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-5-16"
             },
@@ -318,7 +318,7 @@
                 "nameLeft": "Yachiyo",
                 "nameRight": "Tsuruno",
                 "narrationEffect": "out",
-                "textLeft": "Urgh. She's already throwing buildings at us!",
+                "textLeft": "Urgh. ¡Ya nos está tirando edificios!",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-16"
             },
             {
@@ -333,7 +333,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "C'mon guys! "
+                "textRight": "¡Vamos chicas!"
             },
             {
                 "chara": [
@@ -343,7 +343,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-18"
                     }
                 ],
-                "textRight": "Don't underestimate my luck when I'm in @top form!"
+                "textRight": "¡No subestimen mi suerte cuando estoy en@mi mejor forma!"
             },
             {
                 "chara": [
@@ -357,7 +357,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Raaah!"
+                "textRight": "¡Raaah!"
             },
             {
                 "autoTurnLast": 1.5,
@@ -389,7 +389,7 @@
                 ],
                 "nameLeft": "Yachiyo",
                 "nameRight": "Iroha",
-                "textRight": "Oh... So if she runs right to the fore of@where everyone is..."
+                "textRight": "Oh... Así que si ella corre justo al frente de@donde están todas..."
             },
             {
                 "autoTurnLast": 1,
@@ -408,7 +408,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-5-22"
                     }
                 ],
-                "textLeft": "*Giggle* That collapsing building just fell@in such a perfect way that no one got hit."
+                "textLeft": "*Risilla* El edificio colapsado cayó de una manera@tan perfecta que nadie resultó herido."
             },
             {
                 "autoTurnLast": 0.2,
@@ -437,7 +437,7 @@
                     }
                 ],
                 "nameCenter": "Sasara",
-                "textCenter": "Thanks so much! We'll get started leading her@away now, while we have the chance!"
+                "textCenter": "¡Muchas gracias! ¡Empezaremos a alejarla@ahora, mientras tengamos la oportunidad!"
             },
             {
                 "autoTurnLast": 2,
@@ -460,7 +460,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-5-24"
                     }
                 ],
-                "textCenter": "I am a Magical Knight..."
+                "textCenter": "Soy un Caballera Mágica..."
             },
             {
                 "chara": [
@@ -470,7 +470,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-24"
                     }
                 ],
-                "textCenter": "I WILL save countless lives. I'm not even@going to lose to my father on that count."
+                "textCenter": "SALVARÉ innumerables vidas. Ni siquiera voy@a perder contra mi padre en ese sentido."
             },
             {
                 "chara": [
@@ -481,7 +481,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-25"
                     }
                 ],
-                "textCenter": "And he's been saving people for a long time!"
+                "textCenter": "¡Y él ha estado salvando a la gente durante@mucho tiempo!"
             },
             {
                 "chara": [
@@ -493,7 +493,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300405_magia]So I'll use my abilities to lure evil to@myself, and bring you nice and close!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300405_magia]¡Así que usaré mis habilidades para atraer@el mal hacia mí, y traerte cerca!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -518,7 +518,7 @@
                     }
                 ],
                 "nameCenter": "Riko",
-                "textCenter": "I'm not a scaredy cat."
+                "textCenter": "No soy un gato asustadizo."
             },
             {
                 "chara": [
@@ -530,7 +530,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-28"
                     }
                 ],
-                "textCenter": "I gave myself a great pep talk just now, AND@I crossed my fingers. I'm not gonna lose!"
+                "textCenter": "Me di una gran discurso motivador hace un@momento, y crucé los dedos. ¡No perderé!"
             },
             {
                 "chara": [
@@ -541,7 +541,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-29"
                     }
                 ],
-                "textCenter": "I used my power to bring happiness to Miss@K and get us more customers!"
+                "textCenter": "¡Utilicé mi poder para hacer feliz a la señorita K@y conseguir más clientes!"
             },
             {
                 "chara": [
@@ -552,7 +552,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-30"
                     }
                 ],
-                "textCenter": "S-so now I'm gonna use that power to call@you over here, too!"
+                "textCenter": "¡A-Así que ahora voy a usar ese poder para@llamarte aquí también!"
             },
             {
                 "chara": [
@@ -564,7 +564,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:3035M01]Welcoooooome!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:3035M01]¡Bienvenidoooo!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -589,7 +589,7 @@
                     }
                 ],
                 "nameCenter": "Emiri",
-                "textCenter": "Oops, I better do it too!"
+                "textCenter": "Ups, ¡mejor lo hago yo también!"
             },
             {
                 "chara": [
@@ -602,7 +602,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-33"
                     }
                 ],
-                "textCenter": "Using the charm I got trying to get closer to@the girl I looked up to so much..."
+                "textCenter": "Usando el encanto que conseguí tratando de@acercarme a la chica que tanto admiraba..."
             },
             {
                 "chara": [
@@ -612,7 +612,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-34"
                     }
                 ],
-                "textCenter": "I'm gonna lure her right over here!"
+                "textCenter": "¡Voy a atraerla hacia aquí!"
             },
             {
                 "chara": [
@@ -626,7 +626,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300602_magia]We may have failed once, but, like, if we@keep this up it's totally gonna work out!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300602_magia]Puede que hayamos fallado una vez, pero,@si seguimos así, ¡seguro que va a funcionar!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -697,7 +697,7 @@
                 ],
                 "nameCenter": "Emiri",
                 "textBg": "shout",
-                "textCenter": "Whoooooooooa!",
+                "textCenter": "¡Whoooooooooa!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -711,7 +711,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-37"
                     }
                 ],
-                "textCenter": "Oh my god, attacking people right when they@finish talking is SO against the rules!"
+                "textCenter": "¡Por Dios, atacar a alguien justo cuando termina@de hablar va TAN en contra de las reglas!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -738,7 +738,7 @@
                 "nameLeft": "Emiri",
                 "nameRight": "Mayu",
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:3032M04]P-pleaaase stooopppppp!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:3032M04]¡P-por favooor, detenteeee!"
             },
             {
                 "chara": [
@@ -749,7 +749,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-39"
                     }
                 ],
-                "textRight": "My power to stop attacks is just what we@need at a time like this!"
+                "textRight": "¡Mi poder para detener los ataques es justo lo@que necesitamos en un momento como este!"
             },
             {
                 "chara": [
@@ -762,7 +762,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-40"
                     }
                 ],
-                "textLeft": "Phew, that was a nasty shock..."
+                "textLeft": "Phew, que mal susto..."
             },
             {
                 "chara": [
@@ -777,7 +777,7 @@
                     }
                 ],
                 "nameLeft": "Sasara",
-                "textLeft": "But if we have that ability, we should be@able to lead her over with some ease."
+                "textLeft": "Pero si tenemos esa habilidad, deberíamos ser@capaces de conducirla con cierta facilidad."
             },
             {
                 "chara": [
@@ -791,7 +791,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-42"
                     }
                 ],
-                "textRight": "Um, I can't keep her stalled forever, so@please hurry and get to a safe distance!"
+                "textRight": "Um, no puedo detenerla para siempre, ¡así que@apresúrense y vayan a una distancia segura!"
             },
             {
                 "chara": [
@@ -805,7 +805,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "What?! Let us know that sooner, okay?!"
+                "textLeft": "¡¿Qué?! ¡¿Avísanos antes, si?!"
             },
             {
                 "autoTurnLast": 1,
@@ -837,7 +837,7 @@
                     }
                 ],
                 "nameCenter": "Mayu",
-                "textCenter": "*Exhale*"
+                "textCenter": "*Exhalar*"
             },
             {
                 "chara": [
@@ -850,7 +850,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-45"
                     }
                 ],
-                "textCenter": "Boss... The wish I made for you came in@handy after all!"
+                "textCenter": "Jefe... ¡El deseo que pedí para ti fue útil@después de todo!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -860,7 +860,7 @@
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-46"
             },
             {
-                "narration": "AAAH HA HA HA HAAA!",
+                "narration": "¡AAAH JA JA JA JAAA!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-5-47"
             },
             {
@@ -876,7 +876,7 @@
                 ],
                 "nameCenter": "Mayu",
                 "narrationEffect": "out",
-                "textCenter": "Miss Walpurgisnacht!"
+                "textCenter": "¡Señorita Walpurgisnacht!"
             },
             {
                 "chara": [
@@ -888,7 +888,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-48"
                     }
                 ],
-                "textCenter": "I don't think I can keep you at bay much@longer..."
+                "textCenter": "No creo que pueda mantenerte a raya mucho@más tiempo..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -921,7 +921,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Madoka",
-                "textLeft": "She's on the move again. We need to help@them!",
+                "textLeft": "Se está moviendo de nuevo. ¡Necesitamos ayudarlas!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -933,7 +933,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-5-50"
                     }
                 ],
-                "textRight": "Got it!"
+                "textRight": "¡Entendido!"
             },
             {
                 "autoTurnLast": 2,

@@ -48,7 +48,7 @@
                 ],
                 "nameLeft": "Rena",
                 "nameRight": "Kaede",
-                "textRight": "Yesss! This time it worked great, Rena!",
+                "textRight": "¡Sííí! ¡Esta vez ha funcionado muy bien, Rena!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -77,7 +77,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-8-2"
                     }
                 ],
-                "textLeft": "Y-yeah, it did! We did it, Kaede!"
+                "textLeft": "¡S-sí, lo hizo! ¡Lo logramos, Kaede!"
             },
             {
                 "chara": [
@@ -89,7 +89,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-2"
                     }
                 ],
-                "textRight": "Now we should be able to hit Walpurgisnacht@with any kind of attack!"
+                "textRight": "¡Ahora deberíamos ser capaces de golpear a@Walpurgisnacht con cualquier tipo de ataque!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -123,7 +123,7 @@
                 ],
                 "nameLeft": "Akira",
                 "nameRight": "Hazuki",
-                "textRight": "That means the stage is set! We can finally@make a move!",
+                "textRight": "¡Eso significa que el escenario está preparado!@¡Finalmente podemos hacer un movimiento!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -135,7 +135,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-4"
                     }
                 ],
-                "textLeft": "Yeah! Hazuki 'n me already figured out@where her weaknesses are!"
+                "textLeft": "¡Sí! ¡Hazuki y yo ya hemos descubierto cuáles@son sus puntos débiles!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -164,7 +164,7 @@
                     }
                 ],
                 "nameCenter": "Rena",
-                "textCenter": "Already?!"
+                "textCenter": "¡¿Tan rápido?!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -197,7 +197,7 @@
                 ],
                 "nameLeft": "Nanaka",
                 "nameRight": "Kyoko",
-                "textRight": "That ain't a bad skill to have."
+                "textRight": "No está mal tener esa habilidad."
             },
             {
                 "chara": [
@@ -208,7 +208,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-7"
                     }
                 ],
-                "textLeft": "My power permits me to discover whoever my@enemies are..."
+                "textLeft": "Mi poder me permite descubrir quiénes son@mis enemigos..."
             },
             {
                 "chara": [
@@ -218,7 +218,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-8"
                     }
                 ],
-                "textLeft": "We've long established that Walpurgisnacht@is our enemy."
+                "textLeft": "Hace tiempo que sabemos que Walpurgisnacht@es nuestro enemigo."
             },
             {
                 "chara": [
@@ -228,7 +228,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-9"
                     }
                 ],
-                "textLeft": "Other than strategizing a way to fight it,@I'm afraid I can't be of much help..."
+                "textLeft": "Aparte de idear una estrategia para combatirla,@me temo que no puedo ser de mucha ayuda..."
             },
             {
                 "chara": [
@@ -239,7 +239,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-10"
                     }
                 ],
-                "textLeft": "So Hazuki and I discussed strategy while@we fought."
+                "textLeft": "Así que Hazuki y yo discutimos una estrategia@mientras luchábamos."
             },
             {
                 "chara": [
@@ -263,7 +263,7 @@
                 "nameCenter": "Akira",
                 "nameLeft": "Nanaka",
                 "nameRight": "Hazuki",
-                "textRight": "My skill's all about scanning people."
+                "textRight": "Mi habilidad consiste en escanear a la gente."
             },
             {
                 "chara": [
@@ -274,7 +274,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-12"
                     }
                 ],
-                "textCenter": "Mine's the power to seek out the weak points@to hit to take out a Witch!"
+                "textCenter": "¡El mío es el poder de buscar los puntos débiles@a golpear para acabar con una Bruja!"
             },
             {
                 "chara": [
@@ -285,7 +285,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-13"
                     }
                 ],
-                "textLeft": "Yes, and we concluded that combining those @skills should move things along nicely."
+                "textLeft": "Sí, y concluimos que combinando esas@habilidades las cosas deberían ir bien."
             },
             {
                 "autoTurnLast": 0.2,
@@ -318,7 +318,7 @@
                     }
                 ],
                 "nameCenter": "Kyoko",
-                "textCenter": "You don't miss a beat, do ya?"
+                "textCenter": "No se te escapa ni una, ¿verdad?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -359,7 +359,7 @@
                 "nameCenter": "Akira",
                 "nameLeft": "Nanaka",
                 "nameRight": "Hazuki",
-                "textLeft": "Akira? Hazuki? What did you find out?"
+                "textLeft": "¿Akira? ¿Hazuki? ¿Qué han descubierto?"
             },
             {
                 "chara": [
@@ -370,7 +370,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-16"
                     }
                 ],
-                "textRight": "Hate to be the bearer of bad news, but her@weak point isn't on her body."
+                "textRight": "Odio dar las malas noticias, pero su punto@débil no está en su cuerpo."
             },
             {
                 "chara": [
@@ -381,7 +381,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-17"
                     }
                 ],
-                "textCenter": "Yeah. No mistaking it, it's that gear that's@connected to her."
+                "textCenter": "Sí. No hay duda, es ese engranaje, el que está@conectado a ella."
             },
             {
                 "chara": [
@@ -392,7 +392,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-18"
                     }
                 ],
-                "textLeft": "I see. Thank you."
+                "textLeft": "Ya veo. Gracias."
             },
             {
                 "chara": [
@@ -403,7 +403,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-19"
                     }
                 ],
-                "textLeft": "Well then. Let us commence our attack."
+                "textLeft": "Pues bien. Comencemos nuestro ataque."
             },
             {
                 "autoTurnLast": 1,
@@ -444,7 +444,7 @@
                 ],
                 "nameLeft": "Sayaka",
                 "nameRight": "Kyoko",
-                "textRight": "We'll back ya up! Hit her hard, all at once!"
+                "textRight": "¡Nosotras las respaldaremos! ¡Ataquen con@fuerza, todos a la vez!"
             },
             {
                 "chara": [
@@ -455,7 +455,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-21"
                     }
                 ],
-                "textLeft": "Of course! We gotta knock her senseless, @here and now!"
+                "textLeft": "¡Por supuesto! ¡Tenemos que noquearla,@aquí y ahora!"
             },
             {
                 "autoTurnLast": 1,
@@ -500,7 +500,7 @@
                 "nameCenter": "Touka",
                 "nameLeft": "Iroha",
                 "nameRight": "Ui",
-                "textLeft": "Ui! Touka! We need to go, too!"
+                "textLeft": "¡Ui! ¡Touka! ¡Tenemos que ir también!"
             },
             {
                 "chara": [
@@ -511,7 +511,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-23"
                     }
                 ],
-                "textCenter": "Yeah!"
+                "textCenter": "¡Sí!"
             },
             {
                 "chara": [
@@ -522,7 +522,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-24"
                     }
                 ],
-                "textLeft": "Ui, you still aren't used to fighting, so@stay close to me!"
+                "textLeft": "Ui, todavía no estás acostumbrada a luchar,@¡así que quédate cerca de mí!"
             },
             {
                 "chara": [
@@ -533,7 +533,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-25"
                     }
                 ],
-                "textRight": "O-okay!"
+                "textRight": "¡E-está bien!"
             },
             {
                 "autoTurnLast": 1,
@@ -566,7 +566,7 @@
                     }
                 ],
                 "nameCenter": "Hinano",
-                "textCenter": "Everyone else, join in! We're gonna@go all out on her together!"
+                "textCenter": "¡Todas los demás, únanse! ¡Iremos con todo@hacia ella!"
             },
             {
                 "autoTurnLast": 1,
@@ -599,7 +599,7 @@
                 ],
                 "nameLeft": "Akira",
                 "nameRight": "Hazuki",
-                "textLeft": "*Huff* Barely time to catch my breath!@Honestly, though, I think it's for the best."
+                "textLeft": "*Suspiro* Apenas tengo tiempo de recuperar@el aliento. Sin embargo, creo que es lo mejor."
             },
             {
                 "chara": [
@@ -610,7 +610,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-8-28"
                     }
                 ],
-                "textRight": "Same here. I feel really amped up, it's not@like me at all...!"
+                "textRight": "Lo mismo digo. Me siento muy emocionada,@¡no es nada propio de mí...!"
             },
             {
                 "autoTurnLast": 2,

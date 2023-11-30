@@ -26,7 +26,7 @@
                 ],
                 "nameCenter": "Kanagi",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1016A01]Hah! Urrraaahhh!",
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1016A01]¡Jah! ¡Urrraaahhh!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -58,7 +58,7 @@
                 "bgEffect": "shakeLarge",
                 "flashEffect": "flashRed2",
                 "nameNarration": "Walpurgisnacht",
-                "narration": "AHA, HA HA HA, HAAA?!",
+                "narration": "¡¿AHA, JA JA JA, JAAA?!",
                 "surround": "1016A05",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-7-2"
             },
@@ -125,7 +125,7 @@
                     }
                 ],
                 "nameCenter": "Kanagi",
-                "textCenter": "Yes! I stopped her!"
+                "textCenter": "¡Sí! ¡La detuve!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -158,7 +158,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textLeft": "Okay! Now we have the perfect opening!"
+                "textLeft": "¡Bien! ¡Ahora tenemos la apertura perfecta!"
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-4"
                     }
                 ],
-                "textRight": "Just a few moments ago, this Witch seemed@like something we'd never be able to beat..."
+                "textRight": "Hace unos momentos, esta Bruja parecía algo@que nunca podríamos vencer..."
             },
             {
                 "chara": [
@@ -192,7 +192,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-6"
                     }
                 ],
-                "textLeft": "Yes, Sana! Now, I think we really CAN beat@her!"
+                "textLeft": "¡Sí, Sana! ¡Ahora, creo que realmente@PODEMOS vencerla!"
             },
             {
                 "chara": [
@@ -207,7 +207,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "It's still too early to say that!"
+                "textRight": "¡Aún es muy pronto para decir eso!"
             },
             {
                 "chara": [
@@ -220,7 +220,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-8"
                     }
                 ],
-                "textLeft": "Mami!"
+                "textLeft": "¡Mami!"
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Please tie her up so she can't move!"
+                "textLeft": "¡Por favor, átala para que no pueda moverse!"
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-10"
                     }
                 ],
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge]Don't worry. I'll keep both Walpurgisnacht@and our futures nice and secure!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge]No te preocupes. ¡Mantendré a Walpurgisnacht@y a nuestros futuros bien seguros!"
             },
             {
                 "chara": [
@@ -257,7 +257,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-11"
                     }
                 ],
-                "textRight": "Everyone, if you wouldn't mind!"
+                "textRight": "¡Todas, si no les molesta!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -286,7 +286,7 @@
                     }
                 ],
                 "nameCenter": "Kanoko",
-                "textCenter": "Roger!"
+                "textCenter": "¡De acuerdo!"
             },
             {
                 "chara": [
@@ -296,7 +296,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-13"
                     }
                 ],
-                "textCenter": "I'll do my part to keep everyone's futures@firmly bound in place!"
+                "textCenter": "¡Haré mi parte para mantener el futuro de@todas firmemente atado!"
             },
             {
                 "chara": [
@@ -307,7 +307,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-14"
                     }
                 ],
-                "textCenter": "Just like how my own wish kept me stuck on@the path toward my dream..."
+                "textCenter": "Al igual que mi propio deseo me mantuvo@en el camino hacia mi sueño..."
             },
             {
                 "chara": [
@@ -318,7 +318,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-15"
                     }
                 ],
-                "textCenter": "I'll keep you stitched nice and tight, right@here!"
+                "textCenter": "¡Te mantendré bien cosida, aquí mismo!"
             },
             {
                 "chara": [
@@ -328,7 +328,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-16"
                     }
                 ],
-                "textCenter": "That's my special technique, as a future@designer!"
+                "textCenter": "¡Esa es mi técnica especial, como futura@diseñadora!"
             },
             {
                 "chara": [
@@ -340,7 +340,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300102_magia]Now enjoy being sewn into submission!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300102_magia]¡Ahora disfruta de ser cosida hasta la@sumisión!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -374,7 +374,7 @@
                 ],
                 "nameLeft": "Rena",
                 "nameRight": "Kaede",
-                "textRight": "And finally I'll make Walpugisnacht take root@right here!"
+                "textRight": "¡Y finalmente haré que Walpurgisnacht@quede arraigada aquí mismo!"
             },
             {
                 "chara": [
@@ -385,7 +385,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-19"
                     }
                 ],
-                "textLeft": "All right, guess I'll help you out again."
+                "textLeft": "Muy bien, supongo que te ayudaré de nuevo."
             },
             {
                 "chara": [
@@ -395,7 +395,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-20"
                     }
                 ],
-                "textLeft": "If I don't transform when an obvious chance@like this shows up..."
+                "textLeft": "Si no me transformo cuando aparece una@oportunidad tan obvia como ésta..."
             },
             {
                 "chara": [
@@ -405,7 +405,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-21"
                     }
                 ],
-                "textLeft": "I might miss the chance to help at all."
+                "textLeft": "Podría perder la oportunidad de ayudar@por completo."
             },
             {
                 "chara": [
@@ -417,7 +417,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-22"
                     }
                 ],
-                "textRight": "If that's really why you're helping, then @I don't need your help!"
+                "textRight": "Si realmente esa es la razón por la que estás@ayudando, ¡entonces no necesito tu ayuda!"
             },
             {
                 "chara": [
@@ -430,7 +430,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-23"
                     }
                 ],
-                "textLeft": "Ugh, isn't it obvious I was joking?!"
+                "textLeft": "Ugh, ¡¿no es obvio que estaba bromeando?!"
             },
             {
                 "chara": [
@@ -442,7 +442,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-24"
                     }
                 ],
-                "textLeft": "I'm saying I worry about you doing it all @alone."
+                "textLeft": "Estoy diciendo que me preocupa que lo hagas@todo sola."
             },
             {
                 "autoTurnLast": 1,
@@ -470,7 +470,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-7-26"
                     }
                 ],
-                "textLeft": "C'mon, let's do this."
+                "textLeft": "Vamos, hagamos esto."
             },
             {
                 "chara": [
@@ -484,7 +484,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-26"
                     }
                 ],
-                "textRight": "Being told that by my own face is pretty@weird, not gonna lie..."
+                "textRight": "Que me lo diga mi propio rostro es bastante@raro, la verdad..."
             },
             {
                 "chara": [
@@ -496,7 +496,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-27"
                     }
                 ],
-                "textLeft": "Stop complaining and do it!"
+                "textLeft": "¡Deja de quejarte y hazlo!"
             },
             {
                 "chara": [
@@ -510,7 +510,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-28"
                     }
                 ],
-                "textRight": "Why are YOU the one getting mad at ME?!"
+                "textRight": "¡¿Por qué eres TÚ la que se enfada CONMIGO?!"
             },
             {
                 "chara": [
@@ -524,7 +524,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-29"
                     }
                 ],
-                "textRight": "Urgh, fine! All right!"
+                "textRight": "Urgh, ¡Está bien!"
             },
             {
                 "chara": [
@@ -537,7 +537,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-30"
                     }
                 ],
-                "textRight": "Let's secure Walpurgisnacht so she can't@move."
+                "textRight": "Aseguremos a Walpurgisnacht para que no@pueda moverse."
             },
             {
                 "chara": [
@@ -551,7 +551,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-31"
                     }
                 ],
-                "textLeft": "That's the plan."
+                "textLeft": "Ese es el plan."
             },
             {
                 "chara": [
@@ -563,7 +563,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-7-32"
                     }
                 ],
-                "textLeft": "With two of us, we can keep it in place@twice as effectively!"
+                "textLeft": "Con las dos, ¡podemos mantenerla en su sitio@con el doble de eficacia!"
             },
             {
                 "autoTurnLast": 2,

@@ -43,7 +43,7 @@
                     }
                 ],
                 "nameCenter": "Momoko",
-                "textCenter": "It's now or never.",
+                "textCenter": "Es ahora o nunca.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -54,7 +54,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-1"
                     }
                 ],
-                "textCenter": "If we let this chance slip by, we're not@gettin' another one."
+                "textCenter": "Si dejamos pasar esta oportunidad, no@tendremos otra."
             },
             {
                 "chara": [
@@ -64,7 +64,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-2"
                     }
                 ],
-                "textCenter": "So, guys, we gotta make sure we use every@last bit of our power."
+                "textCenter": "Así que, chicas, tenemos que asegurarnos de@usar hasta la última gota de nuestro poder."
             },
             {
                 "chara": [
@@ -75,7 +75,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-3"
                     }
                 ],
-                "textCenter": "So what I'm gonna do is I'm gonna use my@power to give you all a morale boost!"
+                "textCenter": "¡Por eso, voy a usar mi poder para darles a@todos un impulso de moral!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -106,7 +106,7 @@
                 ],
                 "nameLeft": "Momoko",
                 "nameRight": "Natsuki",
-                "textRight": "Let me cheer 'em on with you!"
+                "textRight": "¡Déjame animarlos contigo!"
             },
             {
                 "chara": [
@@ -123,7 +123,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-5"
                     }
                 ],
-                "textRight": "I may not be able to stand at the mound..."
+                "textRight": "Puede que no sea capaz de pararme en el@montículo..."
             },
             {
                 "chara": [
@@ -135,7 +135,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-6"
                     }
                 ],
-                "textRight": "But I'm the girl that stays with you, at @your back, and keeps pushing you forward!"
+                "textRight": "¡Pero yo soy la chica que se queda contigo, a@tu espalda, y te impulsa a seguir adelante!"
             },
             {
                 "chara": [
@@ -146,7 +146,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-7"
                     }
                 ],
-                "textLeft": "All right then. Shall the two of us give 'em@another boost?"
+                "textLeft": "Muy bien, entonces. ¿Les damos@otro empujón?"
             },
             {
                 "chara": [
@@ -159,7 +159,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-8"
                     }
                 ],
-                "textRight": "Yeah!"
+                "textRight": "¡Claro!"
             },
             {
                 "chara": [
@@ -173,7 +173,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[bgEffect:shakeSmall]All right, everyone! Listen up! This is our@final, most important battle!"
+                "textLeft": "[bgEffect:shakeSmall]¡Muy bien, todas! ¡Escuchen! ¡Esta es nuestra@última y más importante batalla!"
             },
             {
                 "chara": [
@@ -184,7 +184,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Right now, all of us are sproutin' wings,@wings of hope!"
+                "textLeft": "En este momento, a todas nos están brotando@alas, ¡alas de esperanza!"
             },
             {
                 "chara": [
@@ -195,7 +195,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Wings from Kamihama, Mitakihara, all over!"
+                "textLeft": "¡Alas de Kamihama, Mitakihara, todas!"
             },
             {
                 "chara": [
@@ -206,7 +206,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Let's focus all that power into one assault@and send this avatar of impurity flyin'!"
+                "textLeft": "¡Concentremos todo ese poder en un asalto y@mandemos a volar a este avatar de impureza!"
             },
             {
                 "chara": [
@@ -219,7 +219,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-13"
                     }
                 ],
-                "textRight": "Yeah! Gotta grab this chance while we can!"
+                "textRight": "¡Sí! ¡Tenemos que aprovechar esta oportunidad@mientras podamos!"
             },
             {
                 "chara": [
@@ -230,7 +230,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Let's turn this game around in the final@inning, with one big home run!"
+                "textRight": "¡Démosle la vuelta a este juego en la última@entrada, con un gran Home Run!"
             },
             {
                 "chara": [
@@ -242,7 +242,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:3215_goodstatus]GOOOOOO!!!"
+                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:3215_goodstatus]¡¡¡VAMOOOOS!!!"
             },
             {
                 "chara": [
@@ -254,7 +254,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:1701_arena_win]GO, FIGHT, WIIIIIIIIIN!!!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:1701_arena_win]¡¡¡ADELANTE, A LUCHAR, A GANAAAAAR!!!"
             },
             {
                 "autoTurnLast": 1,
@@ -290,9 +290,9 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-3-18"
                     }
                 ],
-                "nameLeft": "White Feather",
-                "nameRight": "Black Feather",
-                "textLeft": "We should get going, too.",
+                "nameLeft": "Pluma Blanca",
+                "nameRight": "Pluma Negra",
+                "textLeft": "Deberíamos ir también.",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -303,7 +303,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-18"
                     }
                 ],
-                "textLeft": "We're no longer Feathers working for the@sake of the Magius."
+                "textLeft": "Ya no somos Plumas trabajando por el bien@de Magius."
             },
             {
                 "chara": [
@@ -314,7 +314,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-19"
                     }
                 ],
-                "textLeft": "Now we're Feathers for all Magical Girls!"
+                "textLeft": "¡Ahora somos Plumas para todas las Chicas@Mágicas!"
             },
             {
                 "chara": [
@@ -325,7 +325,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-3-20"
                     }
                 ],
-                "textRight": "Yeah!"
+                "textRight": "¡Sí!"
             },
             {
                 "autoTurnLast": 2,

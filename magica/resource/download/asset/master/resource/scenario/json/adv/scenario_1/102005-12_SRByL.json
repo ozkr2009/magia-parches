@@ -44,7 +44,7 @@
                 ],
                 "nameCenter": "Ayaka",
                 "textBg": "shout",
-                "textCenter": "Allllll righty, then! First, I gotta do the @prep work!",
+                "textCenter": "¡Muuuuuy bien, entonces! ¡Primero, tengo@que hacer el trabajo de preparación!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -57,7 +57,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-1"
                     }
                 ],
-                "textCenter": "I'm sorry, Shizuku."
+                "textCenter": "Lo siento, Shizuku."
             },
             {
                 "chara": [
@@ -68,7 +68,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-2"
                     }
                 ],
-                "textCenter": "I wanted to use my unique magic to turn your@injuries into a joke..."
+                "textCenter": "Quería usar mi magia única para convertir@tus heridas en una broma..."
             },
             {
                 "chara": [
@@ -78,7 +78,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-3"
                     }
                 ],
-                "textCenter": "But I can't fix up stuff like physical@injuries."
+                "textCenter": "Pero no puedo arreglar cosas como heridas@físicas."
             },
             {
                 "chara": [
@@ -91,7 +91,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-4"
                     }
                 ],
-                "textCenter": "But how's this, I promise once we get back@home, I'll make you laugh your ass off!"
+                "textCenter": "Pero qué tal esto, prometo que una vez que@volvamos a casa, ¡te haré reír a carcajadas!"
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-5"
                     }
                 ],
-                "textCenter": "But first, I gotta deal with Walpurgisnacht."
+                "textCenter": "Pero primero, tengo que lidiar con Walpurgisnacht."
             },
             {
                 "chara": [
@@ -117,7 +117,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:301902_magia]Hey! The idea of you gettin' free is a@just a joke! Amirite?!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:301902_magia]¡Oye! ¡La idea de que te liberes es solo una@broma! ¡¿Verdad?!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -143,7 +143,7 @@
                 "flashEffect": "flashRed2",
                 "jingle": "301904_magia",
                 "nameNarration": "Walpurgisnacht",
-                "narration": "WAH HA HA HA!",
+                "narration": "¡WAH JA JA JA!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -178,7 +178,7 @@
                     }
                 ],
                 "nameCenter": "Ayaka",
-                "textCenter": "Woohoo! It stopped moving! You're next on@stage, Little Miss Florist!",
+                "textCenter": "¡Wuujuu! ¡Dejó de moverse! ¡Eres la siguiente,@Señorita Florista!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -204,7 +204,7 @@
                     }
                 ],
                 "nameCenter": "Konomi",
-                "textCenter": "O-okay! Here I go!"
+                "textCenter": "¡B-bien! ¡Aquí voy!"
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-10"
                     }
                 ],
-                "textCenter": "The magic we're all using to form this@next attack..."
+                "textCenter": "La magia que estamos usando para formar@este próximo ataque..."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-11"
                     }
                 ],
-                "textCenter": "Let it grow and bloom into something even@more spectacular!"
+                "textCenter": "¡Deja que crezca y florezca en algo aún más@espectacular!"
             },
             {
                 "chara": [
@@ -239,7 +239,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:303001_magia]I'll bring flowers to our battle with my@power!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:303001_magia]¡Llevaré flores a nuestra batalla con mi poder!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -264,7 +264,7 @@
                     }
                 ],
                 "nameCenter": "Manaka",
-                "textCenter": "I don't have the same nerve Ria-senpai has@when it comes to stealing the spotlight..."
+                "textCenter": "No tengo el mismo valor que tiene Ria cuando@se trata de robar el protagonismo..."
             },
             {
                 "chara": [
@@ -274,7 +274,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-14"
                     }
                 ],
-                "textCenter": "But hey, now I get to do my thing!"
+                "textCenter": "¡Pero oye, ahora puedo hacer lo mío!"
             },
             {
                 "chara": [
@@ -285,7 +285,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-15"
                     }
                 ],
-                "textCenter": "Leave all the Familiars to me!"
+                "textCenter": "¡Déjenme a mí todos los Familiares!"
             },
             {
                 "chara": [
@@ -297,7 +297,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-16"
                     }
                 ],
-                "textCenter": "I'm gonna make use of my magic...just like@how I spread publicity for our restaurant."
+                "textCenter": "Voy a hacer uso de mi magia... justo como cuando@reparto publicidad para mi restaurante."
             },
             {
                 "chara": [
@@ -309,7 +309,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300902_magia]Only this time, I'm spreading pain out to@all the Familiars around here!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300902_magia]¡Solo que esta vez, estoy propagando el daño@a todos los Familiares de por aquí!"
             },
             {
                 "chara": [
@@ -330,7 +330,7 @@
                 ],
                 "nameLeft": "Manaka",
                 "nameRight": "Kako",
-                "textRight": "I'll use my replication magic to help you@hunt down those Familiars!"
+                "textRight": "¡Usaré mi magia de replicación para ayudarte@a cazar a esos Familiares!"
             },
             {
                 "chara": [
@@ -340,7 +340,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-19"
                     }
                 ],
-                "textRight": "Although I can't replicate anything stronger@than what my magic can produce..."
+                "textRight": "Aunque no puedo replicar nada más fuerte@que lo que mi magia puede producir..."
             },
             {
                 "chara": [
@@ -351,7 +351,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-20"
                     }
                 ],
-                "textRight": "I'll snuff out as many of the Familiars@scattered around Kamihama as I can!"
+                "textRight": "¡Acabaré con todos los familiares dispersos@por Kamihama que pueda!"
             },
             {
                 "chara": [
@@ -364,7 +364,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-21"
                     }
                 ],
-                "textLeft": "That's a big help. Thanks a bunch!"
+                "textLeft": "Esa es una gran ayuda. ¡Muchas gracias!"
             },
             {
                 "chara": [
@@ -376,7 +376,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:301102_magia]Sure!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:301102_magia]¡Por supuesto!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -405,7 +405,7 @@
                     }
                 ],
                 "nameCenter": "Ren",
-                "textCenter": "And... I'll finish this. So that when dawn@breaks, and this is all over..."
+                "textCenter": "Y... yo terminaré esto. Para que cuando@amanezca, y todo esto termine..."
             },
             {
                 "chara": [
@@ -415,7 +415,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-24"
                     }
                 ],
-                "textCenter": "That Witch will never take another breath@again."
+                "textCenter": "Esa Bruja no vuelva a respirar."
             },
             {
                 "chara": [
@@ -426,7 +426,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-25"
                     }
                 ],
-                "textCenter": "I'll heal her tainted soul, so she can rest@in peace... Yes!"
+                "textCenter": "Sanaré su alma manchada, para que pueda@descansar en paz... ¡Sí!"
             },
             {
                 "autoTurnLast": 1,
@@ -458,7 +458,7 @@
                     }
                 ],
                 "nameCenter": "Yachiyo",
-                "textCenter": "Now it's your big moment.",
+                "textCenter": "Ahora es tu gran momento.",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -469,7 +469,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-27"
                     }
                 ],
-                "textCenter": "Go ahead, Ui!"
+                "textCenter": "¡Adelante, Ui!"
             },
             {
                 "chara": [
@@ -484,7 +484,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "Okay!"
+                "textCenter": "¡Está bien!"
             },
             {
                 "chara": [
@@ -496,7 +496,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-29"
                     }
                 ],
-                "textCenter": "(I have the power to \"[textRed:harvest]\".)",
+                "textCenter": "(Yo tengo el poder de \"[textRed:recolectar]\".)",
                 "turnEffect": "thinking"
             },
             {
@@ -508,7 +508,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-30"
                     }
                 ],
-                "textCenter": "(While everyone's fighting, I can gather up@a whole lot of magic...)"
+                "textCenter": "(Mientras todas luchan, puedo reunir un@montón de magia...)"
             },
             {
                 "chara": [
@@ -519,7 +519,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-31"
                     }
                 ],
-                "textCenter": "(Then use what I collect to give us the@energy we need for a massive attack.)"
+                "textCenter": "(Luego usar lo recolectado para darnos la energía@ necesaria para un ataque masivo.)"
             },
             {
                 "chara": [
@@ -532,7 +532,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "Guys!",
+                "textCenter": "¡Chicas!",
                 "turnEffect": "stop"
             },
             {
@@ -544,7 +544,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "All of you, lend me your hope!"
+                "textCenter": "¡Todas, bríndenme su esperanza!"
             },
             {
                 "autoTurnLast": 3,
@@ -598,7 +598,7 @@
                     }
                 ],
                 "nameLeft": "Momoko",
-                "textLeft": "Here ya go, Ui!",
+                "textLeft": "¡Aquí tienes, Ui!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -639,7 +639,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "To think the time would come when I would @offer up my power to save this place..."
+                "textRight": "Y pensar que llegaría el momento en que@ofrecería mi poder para salvar este lugar..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -682,7 +682,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "Please! Use all our power to keep Kamihama,@and all of our memories, safe!"
+                "textLeft": "¡Por favor! ¡Usa nuestro poder para mantener@a Kamihama, y nuestros recuerdos, a salvo!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -729,7 +729,7 @@
                     }
                 ],
                 "nameCenter": "Homura",
-                "textCenter": "And get rid of this horrible calamity!"
+                "textCenter": "¡Y deshazte de esta horrible calamidad!"
             },
             {
                 "chara": [
@@ -741,7 +741,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-38"
                     }
                 ],
-                "textCenter": "(So everyone can survive...and so I don't@have to go through all this again...)"
+                "textCenter": "(Para que todas puedan sobrevivir... y para que@no tengan que pasar por todo esto otra vez...)"
             },
             {
                 "chara": [
@@ -753,7 +753,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-39"
                     }
                 ],
-                "textCenter": "(And to save Madoka!)"
+                "textCenter": "(¡Y salvar a Madoka!)"
             },
             {
                 "autoTurnLast": 0.01,
@@ -793,7 +793,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "*Whine* Th-there's so much of it...",
+                "textCenter": "*Jadear* E-es mucho...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -806,7 +806,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-41"
                     }
                 ],
-                "textCenter": "But...with this..."
+                "textCenter": "Pero... con esto..."
             },
             {
                 "chara": [
@@ -818,7 +818,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "Here, Touka!"
+                "textCenter": "¡Toma, Touka!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -838,7 +838,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "Thanks, Ui!"
+                "textCenter": "¡Gracias, Ui!"
             },
             {
                 "chara": [
@@ -850,7 +850,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-44"
                     }
                 ],
-                "textCenter": "...?!"
+                "textCenter": "¡¿...?!"
             },
             {
                 "chara": [
@@ -864,7 +864,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-45"
                     }
                 ],
-                "textCenter": "Ugh! It...nearly crushed me!"
+                "textCenter": "¡Ugh! ¡Casi... me aplasta!"
             },
             {
                 "chara": [
@@ -877,7 +877,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-46"
                     }
                 ],
-                "textCenter": "But I gotta...bear with it!"
+                "textCenter": "¡Pero tengo que... soportarlo!"
             },
             {
                 "chara": [
@@ -888,7 +888,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-47"
                     }
                 ],
-                "textCenter": "I gotta convert all this disparate magic into@one!"
+                "textCenter": "¡Tengo que convertir toda esta magia dispersa@en una!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -934,7 +934,7 @@
                 ],
                 "nameCenter": "Touka",
                 "textBg": "shout",
-                "textCenter": "And then send it to you!",
+                "textCenter": "¡Y luego enviártelo a ti!",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -960,7 +960,7 @@
                     }
                 ],
                 "nameCenter": "Yachiyo",
-                "textCenter": "Thank you. I will bear everyone's hope!"
+                "textCenter": "Gracias. ¡Llevaré la esperanza de todas!"
             },
             {
                 "autoTurnLast": 1,
@@ -983,7 +983,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-12-51"
                     }
                 ],
-                "textCenter": "Really, to think I could handle all this @magic with such ease..."
+                "textCenter": "Realmente, pensar que podría manejar toda@esta magia con tanta facilidad..."
             },
             {
                 "chara": [
@@ -993,7 +993,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-51"
                     }
                 ],
-                "textCenter": "I never thought that I possessed such a@capability..."
+                "textCenter": "Nunca pensé que poseía tal habilidad..."
             },
             {
                 "chara": [
@@ -1003,7 +1003,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-52"
                     }
                 ],
-                "textCenter": "...just because I exist to bear others' hope."
+                "textCenter": "... solo porque existo para llevar la esperanza@de otros."
             },
             {
                 "chara": [
@@ -1017,7 +1017,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-53"
                     }
                 ],
-                "textCenter": "Mel...Kanae..."
+                "textCenter": "Mel... Kanae..."
             },
             {
                 "chara": [
@@ -1027,7 +1027,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-54"
                     }
                 ],
-                "textCenter": "I'll add your hope to the pile, too."
+                "textCenter": "También añadiré su esperanza."
             },
             {
                 "chara": [
@@ -1040,7 +1040,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-55"
                     }
                 ],
-                "textCenter": "We can all fight as one!"
+                "textCenter": "¡Todas podemos luchar como una sola!"
             },
             {
                 "chara": [
@@ -1051,7 +1051,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-12-56"
                     }
                 ],
-                "textCenter": "We'll pierce through Walpurgisnacht, and@carry on through to a whole new future..."
+                "textCenter": "Atravesaremos a Walpurgisnacht, y seguiremos@hacia un futuro totalmente nuevo..."
             },
             {
                 "chara": [
@@ -1063,7 +1063,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "With this arrow!"
+                "textCenter": "¡Con esta flecha!"
             },
             {
                 "autoTurnLast": 2,

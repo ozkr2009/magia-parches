@@ -51,7 +51,7 @@
                 ],
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textLeft": "Now the real battle begins.",
+                "textLeft": "Ahora comienza la verdadera batalla.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -63,7 +63,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-1"
                     }
                 ],
-                "textRight": "Yeah. We have to lock Walpurgisnacht in@place..."
+                "textRight": "Sí. Tenemos que inmovilizar a Walpurgisnacht@en donde está..."
             },
             {
                 "chara": [
@@ -73,7 +73,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-2"
                     }
                 ],
-                "textRight": "...so that everyone can concentrate their @attacks on her!"
+                "textRight": "¡... para que todas puedan concentrar sus@ataques en ella!"
             },
             {
                 "chara": [
@@ -84,7 +84,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-3"
                     }
                 ],
-                "textLeft": "For sure!"
+                "textLeft": "¡Seguro que sí!"
             },
             {
                 "chara": [
@@ -94,7 +94,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-4"
                     }
                 ],
-                "textLeft": "We're the only ones who understand each other@and we share a bond of unconditional love."
+                "textLeft": "Somos las únicas que nos entendemos y@tenemos un vínculo de amor incondicional."
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-5"
                     }
                 ],
-                "textRight": "Our song bears that same love..."
+                "textRight": "Nuestra canción lleva ese mismo amor..."
             },
             {
                 "chara": [
@@ -115,7 +115,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-6"
                     }
                 ],
-                "textLeft": "And now, we shall use it to stop you from@taking even one more step!"
+                "textLeft": "¡Y ahora, lo usaremos para impedir que des@un paso más!"
             },
             {
                 "chara": [
@@ -132,7 +132,7 @@
                 ],
                 "nameCenter": "Tsukuyo & Tsukasa",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1018A05][surround:1019A04]Flute Blossom Resonance!",
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1018A05][surround:1019A04]¡Flute Blossom Resonance!",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-7"
             },
             {
@@ -170,7 +170,7 @@
                 "autoTurnLast": 0.01,
                 "bgEffect": "shakeLarge",
                 "flashEffect": "flashRed2",
-                "narration": "BWAHAHAHA!!!",
+                "narration": "¡¡¡BWAJAJAJA!!!",
                 "surround": "1018A06",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-6-9"
             },
@@ -201,7 +201,7 @@
                     }
                 ],
                 "nameCenter": "Asuka",
-                "textCenter": "That's quite enough!",
+                "textCenter": "¡Ya es suficiente!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -212,7 +212,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-10"
                     }
                 ],
-                "textCenter": "I command you, as an upstanding Ryushinryu@assistant instructor!"
+                "textCenter": "¡Te ordeno, como instructor asistente de@Ryushinryu!"
             },
             {
                 "chara": [
@@ -223,7 +223,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-11"
                     }
                 ],
-                "textCenter": "You may not move from this spot!"
+                "textCenter": "¡No podrás moverte de este lugar!"
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:101305_magia]This is my power: strict adherence to the @rules!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:101305_magia]Este es mi poder: ¡cumplimiento estricto de@las reglas!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -262,7 +262,7 @@
                 "bgEffect": "shakeLarge",
                 "jingle": "stop",
                 "nameNarration": "Walpurgisnacht",
-                "narration": "AH HA HA HA HA!",
+                "narration": "¡AH JA JA JA JA!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-6-14"
             },
             {
@@ -295,7 +295,7 @@
                     }
                 ],
                 "nameCenter": "Asuka",
-                "textCenter": "Oh, that was a mistake! I should've stopped@her attack first!",
+                "textCenter": "¡Oh, eso fue un error! ¡Debí haber detenido@su ataque primero!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -308,7 +308,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-15"
                     }
                 ],
-                "textCenter": "I can only apply my magic to one rule at a@time..."
+                "textCenter": "Solo puedo aplicar mi magia a una regla a@la vez..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -335,7 +335,7 @@
                 ],
                 "nameLeft": "Asuka",
                 "nameRight": "Himika",
-                "textRight": "Allow me!"
+                "textRight": "¡Permíteme!"
             },
             {
                 "chara": [
@@ -345,7 +345,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-17"
                     }
                 ],
-                "textRight": "I can divert the attack with this coin@right here!"
+                "textRight": "¡Puedo desviar el ataque con esta moneda@de aquí!"
             },
             {
                 "chara": [
@@ -357,7 +357,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:302001_magia]Raaaraaaraaaghhh!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:302001_magia]¡Raaaraaaraaaghhh!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -382,7 +382,7 @@
             },
             {
                 "nameNarration": "Walpurgisnacht",
-                "narration": "...?!"
+                "narration": "¡¿...?!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -416,7 +416,7 @@
                 ],
                 "nameLeft": "Asuka",
                 "nameRight": "Himika",
-                "textLeft": "You distracted her...with a coin?!",
+                "textLeft": "¡¿La distrajiste... con una moneda?!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -428,7 +428,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-21"
                     }
                 ],
-                "textRight": "Sure! Money can change how you live! It can@change your life!"
+                "textRight": "¡Por supuesto! El dinero puede cambiar tu@forma de vivir. ¡Puede cambiar tu vida!"
             },
             {
                 "chara": [
@@ -438,7 +438,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-22"
                     }
                 ],
-                "textRight": "It's scary how much it can change your@perspective and values!"
+                "textRight": "¡Es aterrador lo mucho que puede cambiar@tu perspectiva y tus valores!"
             },
             {
                 "chara": [
@@ -449,7 +449,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-23"
                     }
                 ],
-                "textRight": "That's how important and attention-grabbing@money is!"
+                "textRight": "¡Así de importante y atrayente es el dinero!"
             },
             {
                 "chara": [
@@ -464,7 +464,7 @@
                     }
                 ],
                 "nameLeft": "Kanagi",
-                "textLeft": "Great thinking, Himika!"
+                "textLeft": "¡Muy bien pensado, Himika!"
             },
             {
                 "chara": [
@@ -477,7 +477,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-25"
                     }
                 ],
-                "textLeft": "But luring Walpurgisnacht to something on@the ground will get the park blown away."
+                "textLeft": "Pero atraer a Walpurgisnacht a algo que esté@en el suelo hará que el parque sea destruido."
             },
             {
                 "chara": [
@@ -490,7 +490,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-26"
                     }
                 ],
-                "textRight": "Oh, no...you're right!"
+                "textRight": "Oh, no... ¡tienes razón!"
             },
             {
                 "chara": [
@@ -501,7 +501,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-27"
                     }
                 ],
-                "textLeft": "Hm. As one might expect I can't understand@what's going through a Witch's head..."
+                "textLeft": "Hm. Como era de esperar, no puedo entender@qué es lo que piensa una Bruja..."
             },
             {
                 "chara": [
@@ -516,7 +516,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "*Giggle* In that case let's stop her with@force."
+                "textRight": "*Risilla* En ese caso, detengámosla a la fuerza."
             },
             {
                 "chara": [
@@ -530,7 +530,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-29"
                     }
                 ],
-                "textLeft": "Mitama?"
+                "textLeft": "¿Mitama?"
             },
             {
                 "chara": [
@@ -543,7 +543,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-30"
                     }
                 ],
-                "textRight": "I am the Coordinator after all. I'll give @your magic a temporary boost."
+                "textRight": "Soy la Coordinadora después de todo. Te daré@un aumento temporal de tu magia."
             },
             {
                 "chara": [
@@ -555,7 +555,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-31"
                     }
                 ],
-                "textRight": "Then you should be able to stop@Walpurgisnacht in her tracks."
+                "textRight": "Entonces deberías ser capaz de detener a@Walpurgisnacht."
             },
             {
                 "chara": [
@@ -568,7 +568,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-32"
                     }
                 ],
-                "textLeft": "I see. Good strategy."
+                "textLeft": "Ya veo. Buena estrategia."
             },
             {
                 "chara": [
@@ -580,7 +580,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-6-33"
                     }
                 ],
-                "textLeft": "I'd be glad to take up that job!"
+                "textLeft": "¡Estaré encantada de aceptar ese trabajo!"
             },
             {
                 "autoTurnLast": 2,

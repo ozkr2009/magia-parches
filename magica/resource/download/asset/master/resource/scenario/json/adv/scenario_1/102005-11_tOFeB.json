@@ -59,7 +59,7 @@
                 "nameCenter": "Mito",
                 "nameLeft": "Leila",
                 "nameRight": "Seika",
-                "textLeft": "There, my flames healed everyone! It may not@be much, but everyone got some!",
+                "textLeft": "¡Listo, mis llamas curaron a todas! ¡Puede que@no sea mucho, pero todas recibieron algo!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -71,7 +71,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-1"
                     }
                 ],
-                "textRight": "Yeah, seems like it."
+                "textRight": "Sí, eso parece."
             },
             {
                 "chara": [
@@ -83,7 +83,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-2"
                     }
                 ],
-                "textRight": "Plus, now we each have a better idea of what@we can all do."
+                "textRight": "Además, ahora cada una tiene una mejor idea@de lo que las demás pueden hacer."
             },
             {
                 "chara": [
@@ -94,7 +94,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-3"
                     }
                 ],
-                "textCenter": "Yeah! I connected everyone's hearts. We may@not know everything about each other..."
+                "textCenter": "¡Sí! Conecté los corazones de todas. Puede que@no sepamos todo sobre los demás..."
             },
             {
                 "chara": [
@@ -106,7 +106,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-4"
                     }
                 ],
-                "textCenter": "But now we all have a decent idea of what all@of us can do and what we're thinkin' about!"
+                "textCenter": "Pero ahora todas tenemos una mejor idea de@lo que podemos hacer y de lo que pensamos."
             },
             {
                 "autoTurnLast": 0.2,
@@ -148,7 +148,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textLeft": "I see what you mean..."
+                "textLeft": "Veo a que te refieres..."
             },
             {
                 "chara": [
@@ -158,7 +158,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-6"
                     }
                 ],
-                "textLeft": "I don't hear their voices in my head, and I@can't really see anything I didn't before..."
+                "textLeft": "No oigo sus voces en mi cabeza, y no puedo@ver nada que no haya visto antes..."
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-7"
                     }
                 ],
-                "textLeft": "But now, I really feel like I'm on the same@page as everyone else here."
+                "textLeft": "Pero ahora, realmente siento que coincido@con todas las demás aquí."
             },
             {
                 "chara": [
@@ -181,7 +181,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-8"
                     }
                 ],
-                "textRight": "Now we can really combine our strength."
+                "textRight": "Ahora realmente podemos combinar nuestra fuerza."
             },
             {
                 "chara": [
@@ -195,7 +195,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-9"
                     }
                 ],
-                "textLeft": "Yes..."
+                "textLeft": "Sí..."
             },
             {
                 "chara": [
@@ -205,7 +205,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-10"
                     }
                 ],
-                "textLeft": "We bound her and attacked her, but we still@haven't taken down Walpurgisnacht."
+                "textLeft": "La amarramos y la atacamos, pero aún no@hemos derribado a Walpurgisnacht."
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-11"
                     }
                 ],
-                "textLeft": "But this time...we can strike her with all@of our might at once..."
+                "textLeft": "Pero esta vez... podemos golpearla con todas@nuestras fuerzas a la vez..."
             },
             {
                 "chara": [
@@ -231,7 +231,7 @@
                     }
                 ],
                 "nameRight": "Tsuruno",
-                "textRight": "And we might be able to wipe her out@before she starts moving again!"
+                "textRight": "¡Y podríamos acabar con ella antes de que@empiece a moverse de nuevo!"
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                     }
                 ],
                 "nameLeft": "Sana",
-                "textLeft": "Then all of the Familiars flooding the @streets would disappear."
+                "textLeft": "Entonces todos los Familiares que inundan@las calles desaparecerían."
             },
             {
                 "chara": [
@@ -261,7 +261,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "Hey, even I get it! I know we can do it@this time!"
+                "textRight": "¡Oye, hasta yo lo entiendo! ¡Sé que podemos@hacerlo esta vez!"
             },
             {
                 "chara": [
@@ -274,7 +274,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-15"
                     }
                 ],
-                "textRight": "Hell, we can do pretty much anythin' with@the power we've got left!"
+                "textRight": "¡Rayos, podemos hacer casi cualquier cosa@con el poder que nos queda!"
             },
             {
                 "chara": [
@@ -289,7 +289,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Well, maybe not enough to do \"anything\"..."
+                "textLeft": "Bueno, tal vez no lo suficiente como para hacer \"cualquier cosa\"..."
             },
             {
                 "chara": [
@@ -299,7 +299,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-17"
                     }
                 ],
-                "textLeft": "But I think we can beat this Witch."
+                "textLeft": "Pero creo que podemos vencer a esta Bruja."
             },
             {
                 "chara": [
@@ -310,7 +310,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-18"
                     }
                 ],
-                "textLeft": "We'll strike quick and get rid of@Walpurgisnacht and her Familiars!"
+                "textLeft": "¡Ataquemos rápido y deshagámonos de@Walpurgisnacht y sus Familiares!"
             },
             {
                 "chara": [
@@ -325,7 +325,7 @@
                     }
                 ],
                 "nameRight": "Yachiyo",
-                "textRight": "And the key to doing that is..."
+                "textRight": "Y la clave para hacerlo es..."
             },
             {
                 "armatureList": [
@@ -381,7 +381,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textRight": "I can harness a power much stronger than my@own, but only once.",
+                "textRight": "Puedo utilizar un poder mucho más fuerte@que el mío, pero solo una vez.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -393,7 +393,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-21"
                     }
                 ],
-                "textLeft": "Just once?"
+                "textLeft": "¿Solo una vez?"
             },
             {
                 "armatureList": [
@@ -448,7 +448,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-11-23"
                     }
                 ],
-                "textLeft": "That powerful attack you mentioned...",
+                "textLeft": "Ese poderoso ataque que mencionaste...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -460,7 +460,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-23"
                     }
                 ],
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "autoTurnLast": 2,
@@ -496,9 +496,9 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-11-25"
                     }
                 ],
-                "nameLeft": "Mami",
+                "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textRight": "I haven't been working as a Magical Girl for@the past 7 years for nothing.",
+                "textRight": "No he estado trabajando como Chica Mágica@durante los últimos 7 años por nada.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -510,7 +510,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-25"
                     }
                 ],
-                "textRight": "There's no way I'll fall to my knees here!"
+                "textRight": "¡No hay manera de que caiga de rodillas aquí!"
             },
             {
                 "autoTurnLast": 1,
@@ -532,7 +532,7 @@
             },
             {
                 "nameNarration": "Mel",
-                "narration": "Yachiyo-senpai!",
+                "narration": "¡Yachiyo-senpai!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-11-28",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-27"
             },
@@ -568,7 +568,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-11-29"
                     }
                 ],
-                "textRight": "...?!",
+                "textRight": "¡¿...?!",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -583,7 +583,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-29"
                     }
                 ],
-                "textRight": "(Wh-what was that?! I felt like I heard@voices just now...)"
+                "textRight": "(¡¿Qué fue eso?! Me pareció escuchar voces@justo ahora...)"
             },
             {
                 "autoTurnLast": 2,
@@ -601,7 +601,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-11-31"
                     }
                 ],
-                "textRight": "(What's happening? I suddenly feel@something...)"
+                "textRight": "(¿Qué está pasando? De repente siento algo...)"
             },
             {
                 "autoTurnLast": 1,
@@ -618,21 +618,21 @@
                 "turnChangeOut": "whiteOut"
             },
             {
-                "narration": "What is this?",
+                "narration": "¿Que es esto?",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-11-32"
             },
             {
-                "narration": "It feels warm, and somehow comforting.",
+                "narration": "Se siente cálido y de alguna manera@reconfortante.",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-11-33",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-32"
             },
             {
-                "narration": "Something deep inside me?",
+                "narration": "¿Algo muy dentro de mí?",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-11-34",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-33"
             },
             {
-                "narration": "No, that's not it. Someone else's magic?",
+                "narration": "No, no es eso. ¿La magia de alguien más?",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-11-35",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-34"
             },
@@ -687,7 +687,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Yachiyo",
-                "textRight": "My unique magic is the power to inherit@hope from other Magical Girls.",
+                "textRight": "Mi magia única es el poder de heredar la@esperanza de otras Chicas Mágicas.",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -698,7 +698,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-36"
                     }
                 ],
-                "textRight": "Once that hope's been entrusted to me, I@keep it held within...and I can control it."
+                "textRight": "Una vez que se me ha confiado esa esperanza,@la guardo dentro... y puedo controlarla."
             },
             {
                 "chara": [
@@ -708,7 +708,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-37"
                     }
                 ],
-                "textRight": "That power's been supporting me all along,@and it took me until now to realize it."
+                "textRight": "Ese poder me ha estado apoyando todo este@tiempo, y no me he dado cuenta hasta ahora."
             },
             {
                 "chara": [
@@ -720,7 +720,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-38"
                     }
                 ],
-                "textRight": "But this time... I'll use it for everyone's@sake."
+                "textRight": "Pero esta vez... lo usaré por el bien de todos."
             },
             {
                 "chara": [
@@ -731,7 +731,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-39"
                     }
                 ],
-                "textLeft": "But, Yachiyo..."
+                "textLeft": "Pero, Yachiyo..."
             },
             {
                 "chara": [
@@ -742,7 +742,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-40"
                     }
                 ],
-                "textRight": "I've made it this far because I had Kanae@and Mel's hope supporting me."
+                "textRight": "He llegado hasta aquí porque tenía la@esperanza de Kanae y Mel apoyándome."
             },
             {
                 "chara": [
@@ -752,7 +752,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-41"
                     }
                 ],
-                "textRight": "So if I use that up, my magic will weaken,@much like Mifuyu's did as she got older."
+                "textRight": "Así que si uso eso, mi magia se debilitará,@como le pasó a Mifuyu al crecer."
             },
             {
                 "chara": [
@@ -763,7 +763,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-42"
                     }
                 ],
-                "textLeft": "Are you okay with that?"
+                "textLeft": "¿Estás bien con eso?"
             },
             {
                 "chara": [
@@ -776,7 +776,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-43"
                     }
                 ],
-                "textRight": "That kind of risk won't stop me."
+                "textRight": "Ese tipo de riesgo no me detendrá."
             },
             {
                 "chara": [
@@ -786,7 +786,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-44"
                     }
                 ],
-                "textRight": "I've lived a really long time for a Magical@Girl."
+                "textRight": "He vivido mucho tiempo para ser una Chica Mágica."
             },
             {
                 "chara": [
@@ -800,7 +800,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-45"
                     }
                 ],
-                "textRight": "And there's so many other Magical Girls@following behind me..."
+                "textRight": "Y hay tantas otras Chicas Mágicas@siguiéndome..."
             },
             {
                 "chara": [
@@ -810,7 +810,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-46"
                     }
                 ],
-                "textRight": "Into a new era."
+                "textRight": "Hacia una nueva era."
             },
             {
                 "chara": [
@@ -828,7 +828,7 @@
                         "id": 100100
                     }
                 ],
-                "textRight": "No matter what happens, I want you to be the@one I entrust my own hope to, Iroha."
+                "textRight": "Pase lo que pase, quiero que seas tú a quien@confíe mi propia esperanza, Iroha."
             },
             {
                 "chara": [
@@ -842,7 +842,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Don't say that! You'll jinx us!"
+                "textLeft": "¡No digas eso! ¡Nos vas a maldecir!"
             },
             {
                 "chara": [
@@ -854,7 +854,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-49"
                     }
                 ],
-                "textLeft": "It'll be fine. We can do this."
+                "textLeft": "Estará bien. Podemos hacer esto."
             },
             {
                 "chara": [
@@ -867,7 +867,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-50"
                     }
                 ],
-                "textRight": "We can. That's the plan."
+                "textRight": "Podemos. Ese es el plan."
             },
             {
                 "chara": [
@@ -878,7 +878,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-51"
                     }
                 ],
-                "textLeft": "Okay!"
+                "textLeft": "¡Bien!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -915,7 +915,7 @@
                 ],
                 "nameLeft": "Ui",
                 "nameRight": "Touka",
-                "textLeft": "Sis! I can use my power now, can't I?!"
+                "textLeft": "¡Hermana! ¡¿Ahora puedo usar mi poder, no?!"
             },
             {
                 "chara": [
@@ -926,7 +926,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-53"
                     }
                 ],
-                "textRight": "Yes! This is the time for us to help!"
+                "textRight": "¡Sí! ¡Es nuestro momento de ayudar!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -955,7 +955,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Okay. Let's help everyone together!"
+                "textCenter": "¡Muy bien. Ayudemos todas juntas!"
             },
             {
                 "autoTurnLast": 1,
@@ -980,7 +980,7 @@
                     }
                 ],
                 "nameCenter": "Homura",
-                "textCenter": "This is incredible... I never thought this@would've been possible!"
+                "textCenter": "Esto es increíble... ¡Nunca pensé que esto@sería posible!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1013,7 +1013,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Sayaka",
-                "textLeft": "Homura!"
+                "textLeft": "¡Homura!"
             },
             {
                 "chara": [
@@ -1023,7 +1023,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-57"
                     }
                 ],
-                "textLeft": "Let's do all we can to make sure nothing@gets in their way!"
+                "textLeft": "¡Hagamos todo lo posible para que nada se@interponga en su camino!"
             },
             {
                 "chara": [
@@ -1034,7 +1034,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-58"
                     }
                 ],
-                "textRight": "Yeah, we can't mess up this final blow!"
+                "textRight": "¡Sí, no podemos fallar este ataque final!"
             },
             {
                 "chara": [
@@ -1068,7 +1068,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-60"
                     }
                 ],
-                "textRight": "We should send Iroha our power, too."
+                "textRight": "También deberíamos enviarle a Iroha nuestro@poder."
             },
             {
                 "chara": [
@@ -1079,7 +1079,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-61"
                     }
                 ],
-                "textLeft": "You're right. Let's do this, together!"
+                "textLeft": "Tienes razón. ¡Hagamos esto, juntas!"
             },
             {
                 "chara": [
@@ -1090,7 +1090,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-62"
                     }
                 ],
-                "textLeft": "And not just us... With Iroha, Yachiyo, and@all the others as well!"
+                "textLeft": "Y no solo nosotras... ¡con Iroha, Yachiyo y@todas las demás también!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1119,7 +1119,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Everyone's resolves is set... I can@feel it in my heart."
+                "textCenter": "La determinación de todas está puesta...@Puedo sentirlo en mi corazón."
             },
             {
                 "chara": [
@@ -1130,7 +1130,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-11-64"
                     }
                 ],
-                "textCenter": "*Exhale*"
+                "textCenter": "*Exhalar*"
             },
             {
                 "autoTurnLast": 0.01,
@@ -1149,7 +1149,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "We could all see it, through our linked@hearts and minds: our final weapon.",
+                "narration": "Todas podíamos verla, a través de nuestros@corazones y mentes interconectadas: nuestra arma final.",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-11-66"
             },
             {
@@ -1194,7 +1194,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "We'll pierce through Walpurgisnacht with an@arrow we all forged together!",
+                "textCenter": "¡Atravesaremos a Walpurgisnacht con una@flecha que habremos forjado todas juntas!",
                 "turnChangeOut": "fadeOut"
             },
             {

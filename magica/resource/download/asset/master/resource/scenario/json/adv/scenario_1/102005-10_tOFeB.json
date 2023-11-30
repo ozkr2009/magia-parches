@@ -34,7 +34,7 @@
                 ],
                 "nameLeft": "Kokoro",
                 "nameRight": "Ayame",
-                "textLeft": "*Pant* *Gasp*",
+                "textLeft": "*Jadea* *Jadea*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -47,7 +47,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-1"
                     }
                 ],
-                "textRight": "Phew... We held it back?!"
+                "textRight": "Phew... ¡¿Lo detuvimos?!"
             },
             {
                 "autoTurnLast": 1,
@@ -65,7 +65,7 @@
             },
             {
                 "nameNarration": "Walpurgisnacht",
-                "narration": "― Walpurgisnacht ―@WAH HA HA, AH HA HA",
+                "narration": "― Walpurgisnacht ―@WAH JA JA, AH JA JA",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -77,7 +77,7 @@
             },
             {
                 "nameNarration": "Kokoro",
-                "narration": "― Kokoro ―@Walpurgisnacht is trying to break free...",
+                "narration": "― Kokoro ―@Walpurgisnacht está tratando de liberarse...",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-10-4",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-3"
             },
@@ -141,7 +141,7 @@
                 ],
                 "nameLeft": "Ayame",
                 "nameRight": "Konoha",
-                "textRight": "I refuse to let my family get hurt. That's@the very least I can do."
+                "textRight": "Me niego a dejar que mi familia salga herida.@Es lo mínimo que puedo hacer."
             },
             {
                 "chara": [
@@ -154,7 +154,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-7"
                     }
                 ],
-                "textLeft": "Konoha!"
+                "textLeft": "¡Konoha!"
             },
             {
                 "chara": [
@@ -167,7 +167,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-8"
                     }
                 ],
-                "textRight": "There's no way I'd leave you here with what's@going on."
+                "textRight": "No hay manera de que te deje aquí con lo que@está pasando."
             },
             {
                 "chara": [
@@ -180,7 +180,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-9"
                     }
                 ],
-                "textRight": "Hurry, fall back while you still can!"
+                "textRight": "¡Date prisa, retrocede mientras puedas!"
             },
             {
                 "autoTurnLast": 1,
@@ -238,7 +238,7 @@
                 ],
                 "nameLeft": "Kokoro",
                 "nameRight": "Masara",
-                "textRight": "You should too."
+                "textRight": "Tu también deberías."
             },
             {
                 "chara": [
@@ -261,7 +261,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-12"
                     }
                 ],
-                "textLeft": "Okay."
+                "textLeft": "Está bien."
             },
             {
                 "chara": [
@@ -275,9 +275,9 @@
                         "id": 301600
                     }
                 ],
-                "nameCenter": "Seika's Voice",
+                "nameCenter": "Voz de Seika",
                 "textBg": "shout",
-                "textCenter": "W-we'll try to create an opening while you @all retreat!",
+                "textCenter": "I-intentaremos crear una apertura mientras@todas retroceden.",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-10-14",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-13"
             },
@@ -290,7 +290,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-14"
                     }
                 ],
-                "textLeft": "[flashEffect:explosion]Magical Girls...in the ocean?"
+                "textLeft": "[flashEffect:explosion]¿Chicas Mágicas... en el océano?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -367,7 +367,7 @@
                 "nameCenter": "Mito",
                 "nameLeft": "Leila",
                 "nameRight": "Seika",
-                "textLeft": "Good thing it's raining, huh, Seika!"
+                "textLeft": "¡Menos mal que está lloviendo, eh, Seika!"
             },
             {
                 "chara": [
@@ -380,7 +380,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-16"
                     }
                 ],
-                "textRight": "Yes... All three of us got really close to@Walpurgisnacht."
+                "textRight": "Sí... Las tres nos hemos acercado mucho a@Walpurgisnacht."
             },
             {
                 "chara": [
@@ -391,7 +391,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-17"
                     }
                 ],
-                "textCenter": "Next up is you, Leila! Use your sacred fire@to heal everyone up!"
+                "textCenter": "¡Sigues tú, Leila! ¡Usa tu fuego sagrado para@curar a todos!"
             },
             {
                 "chara": [
@@ -404,7 +404,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-18"
                     }
                 ],
-                "textLeft": "You bet!"
+                "textLeft": "¡Claro que sí!"
             },
             {
                 "chara": [
@@ -415,7 +415,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-19"
                     }
                 ],
-                "textLeft": "I'm counting on you, too, Mito! Make sure@everyone's hearts are linked up!"
+                "textLeft": "¡También cuento contigo, Mito! ¡Asegúrate de@que los corazones de todas estén vinculados!"
             },
             {
                 "chara": [
@@ -428,7 +428,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-10-20"
                     }
                 ],
-                "textCenter": "Will do! Just say the word!"
+                "textCenter": "¡Lo haré! ¡Solo da la orden!"
             },
             {
                 "chara": [
@@ -452,7 +452,7 @@
                         "id": 301500
                     }
                 ],
-                "textLeft": "All right..."
+                "textLeft": "Muy bien..."
             },
             {
                 "chara": [
@@ -464,7 +464,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "Ready, and...!"
+                "textCenter": "¡Listas, y...!"
             },
             {
                 "autoTurnLast": 1,
@@ -480,7 +480,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "GOOOOOOOOO!!!",
+                "narration": "¡¡¡VAMOOOOOOS!!!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-10-24"
             },
             {

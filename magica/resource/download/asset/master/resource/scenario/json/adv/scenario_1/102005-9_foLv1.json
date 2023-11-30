@@ -33,7 +33,7 @@
                 ],
                 "nameLeft": "Homura",
                 "nameRight": "Madoka",
-                "textLeft": "Madoka! Let's go!",
+                "textLeft": "¡Madoka! ¡Vamos!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -45,7 +45,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-1"
                     }
                 ],
-                "textRight": "Yeah! Here goes nothing!"
+                "textRight": "¡Sí! ¡Es ahora o nunca!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -70,7 +70,7 @@
                     }
                 ],
                 "nameCenter": "Hinano",
-                "textCenter": "I almost died in a chemistry accident, and@only survived thanks to my wish.",
+                "textCenter": "Casi muero en un accidente químico, y sólo@sobreviví gracias a mi deseo.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -84,7 +84,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-3"
                     }
                 ],
-                "textCenter": "And that wish gave me the power to make@chemical explosions... Ironic, huh?"
+                "textCenter": "Y ese deseo me dio el poder de hacer@explosiones químicas... Irónico, ¿no?"
             },
             {
                 "chara": [
@@ -97,7 +97,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-4"
                     }
                 ],
-                "textCenter": "Right now, though, I think it's a pretty@great power to have."
+                "textCenter": "En este momento, sin embargo, creo que es@un gran poder para tener."
             },
             {
                 "chara": [
@@ -111,7 +111,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300302_magia]'Cause I'm gonna use it to save people@instead of hurt them!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:300302_magia]¡Porque lo usaré para salvar a la gente en@lugar de hacerles daño!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -137,7 +137,7 @@
                 "flashEffect": "flashRed2",
                 "jingle": "300306_magia",
                 "nameNarration": "Walpurgisnacht",
-                "narration": "BWAHA, HA HA HA HA HA...",
+                "narration": "BWAHA, JA JA JA JA JA...",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -187,7 +187,7 @@
                 "nameCenter": "Madoka",
                 "nameLeft": "Homura",
                 "nameRight": "Sayaka",
-                "textCenter": "Is it working at all?!",
+                "textCenter": "¡¿Está funcionando?!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -199,7 +199,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-8"
                     }
                 ],
-                "textLeft": "I don't think she's down yet."
+                "textLeft": "No creo que haya caído aún."
             },
             {
                 "chara": [
@@ -212,7 +212,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-9"
                     }
                 ],
-                "textRight": "Still, that's got to have at least done@some kind of damage!"
+                "textRight": "Aun así, ¡eso tiene que haber hecho al menos@algo de daño!"
             },
             {
                 "autoTurnLast": 1,
@@ -283,7 +283,7 @@
                 "nameCenter": "Kokoro",
                 "nameLeft": "Masara",
                 "nameRight": "Aimi",
-                "textRight": "Guys! Walpurgisnacht is gonna counterattack!"
+                "textRight": "¡Chicas! ¡Walpurgisnacht va a contraatacar!"
             },
             {
                 "chara": [
@@ -294,7 +294,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-11"
                     }
                 ],
-                "textCenter": "Are you sure, Aimi? She shouldn't even be@able to move!"
+                "textCenter": "¿Estás segura, Aimi? ¡Ni siquiera debería ser@capaz de moverse!"
             },
             {
                 "chara": [
@@ -305,7 +305,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-12"
                     }
                 ],
-                "textLeft": "Did you catch a glimpse of the future?"
+                "textLeft": "¿Has visto el futuro?"
             },
             {
                 "chara": [
@@ -316,7 +316,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-13"
                     }
                 ],
-                "textCenter": "Wait, that was a prediction?"
+                "textCenter": "Espera, ¿eso fue una predicción?"
             },
             {
                 "chara": [
@@ -329,7 +329,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-14"
                     }
                 ],
-                "textRight": "Yeah! We don't have time to stop it!"
+                "textRight": "¡Sí! ¡No tenemos tiempo para detenerla!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -363,7 +363,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-9-16"
                     }
                 ],
-                "textRight": "An attack's coming...sooner than we'd like!"
+                "textRight": "Se avecina un ataque... ¡Más pronto de lo que@nos gustaría!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -386,7 +386,7 @@
             },
             {
                 "nameNarration": "Walpurgisnacht",
-                "narration": "AH HA HA HA HA HA HA!",
+                "narration": "¡AH JA JA JA JA JA JA!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -434,7 +434,7 @@
                     }
                 ],
                 "nameCenter": "Kokoro",
-                "textCenter": "Masara! Aimi! Fall back, I can weather us@through this!",
+                "textCenter": "¡Masara! ¡Aimi! ¡Retrocedan, puedo aguantar@esto!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -448,7 +448,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-18"
                     }
                 ],
-                "textRight": "Oh, come on, Kokoro! I don't care how strong@your special power is, you've gotta—"
+                "textRight": "¡Oh, vamos, Kokoro! No me importa cuán@fuerte sea tu poder especial, tienes que—"
             },
             {
                 "chara": [
@@ -461,7 +461,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-19"
                     }
                 ],
-                "textCenter": "I promise I'll be fine. I'm more durable @than I look."
+                "textCenter": "Te prometo que estaré bien. Soy más@resistente de lo que parezco."
             },
             {
                 "chara": [
@@ -472,7 +472,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-20"
                     }
                 ],
-                "textLeft": "I suppose your Magical Girl qualities come@from your regular human background..."
+                "textLeft": "Supongo que tus cualidades como Chica Mágica@provienen de tu origen humano habitual..."
             },
             {
                 "chara": [
@@ -482,7 +482,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-21"
                     }
                 ],
-                "textLeft": "Perhaps the same could be said for me."
+                "textLeft": "Quizá se podría decir lo mismo de mí."
             },
             {
                 "chara": [
@@ -506,7 +506,7 @@
                         "id": 302300
                     }
                 ],
-                "textLeft": "Come on, Aimi, we need to leave."
+                "textLeft": "Vamos, Aimi, tenemos que irnos."
             },
             {
                 "chara": [
@@ -518,7 +518,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Kokoro!"
+                "textRight": "¡Kokoro!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -578,7 +578,7 @@
                 ],
                 "nameLeft": "Kokoro",
                 "nameRight": "Ayame",
-                "textRight": "I'll defend this place too!"
+                "textRight": "¡Defenderé este lugar también!"
             },
             {
                 "chara": [
@@ -589,7 +589,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-25"
                     }
                 ],
-                "textRight": "I wished to keep the Azalea House standin', @so I'm real good at makin' things survive!"
+                "textRight": "Deseé mantener la Casa Azalea en pie, ¡por eso@soy buena haciendo que las cosas resistan!"
             },
             {
                 "chara": [
@@ -599,7 +599,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-26"
                     }
                 ],
-                "textRight": "You aren't the only one who can keep things@safe 'n sound, Kokoro!"
+                "textRight": "¡No eres la única que puede mantener las@cosas a salvo, Kokoro!"
             },
             {
                 "chara": [
@@ -610,7 +610,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-27"
                     }
                 ],
-                "textLeft": "Are you trying to compete with me?!"
+                "textLeft": "¡¿Estás tratando de competir conmigo?!"
             },
             {
                 "chara": [
@@ -621,7 +621,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-28"
                     }
                 ],
-                "textRight": "Yep! Let's see who can actually protect@everyone!"
+                "textRight": "¡Sí! ¡Veamos quién puede realmente proteger@a todos!"
             },
             {
                 "chara": [
@@ -632,7 +632,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-29"
                     }
                 ],
-                "textLeft": "What?!"
+                "textLeft": "¡¿Qué?!"
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                 ],
                 "nameLeft": "Hazuki",
                 "nameRight": "Konoha",
-                "textRight": "Ayame! You don't have to compete with her,@you know!"
+                "textRight": "¡Ayame! ¡No tienes que competir con ella!"
             },
             {
                 "chara": [
@@ -666,7 +666,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-31"
                     }
                 ],
-                "textLeft": "We need to retreat too, Konoha, and fast!"
+                "textLeft": "¡Tenemos que retirarnos también, Konoha,@y rápido!"
             },
             {
                 "chara": [
@@ -679,7 +679,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-32"
                     }
                 ],
-                "textRight": "No, wait, I can't leave Ayame to deal with@this on her own!"
+                "textRight": "¡No, espera, no puedo dejar que Ayame se@ocupe de esto sola!"
             },
             {
                 "chara": [
@@ -690,7 +690,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-33"
                     }
                 ],
-                "textLeft": "I know how you feel, but we'll just get in@her way if we stay!"
+                "textLeft": "¡Sé cómo te sientes, pero solo estaremos@estorbando si nos quedamos!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -699,7 +699,7 @@
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-34"
             },
             {
-                "narration": "HA HA HA HA HA HA HAAA!",
+                "narration": "¡JA JA JA JA JA JA JAAA!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-9-35"
             },
             {
@@ -712,7 +712,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textLeft": "Oh, damn it!",
+                "textLeft": "¡Oh, Maldición!",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-35"
             },
             {
@@ -779,7 +779,7 @@
                 "nameCenter": "Sana",
                 "nameLeft": "Hazuki",
                 "nameRight": "Konoha",
-                "textCenter": "Over here! I can make you invisible if you@get here quickly!",
+                "textCenter": "¡Por aquí! ¡Puedo hacerlas invisibles si vienen@aquí rápido!",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -793,7 +793,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-37"
                     }
                 ],
-                "textLeft": "Phew, you saved us!"
+                "textLeft": "¡Phew, nos has salvado!"
             },
             {
                 "chara": [
@@ -806,7 +806,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-38"
                     }
                 ],
-                "textRight": "Thank you..."
+                "textRight": "Gracias..."
             },
             {
                 "autoTurnLast": 2,
@@ -853,7 +853,7 @@
                 "nameRight": "Ayame",
                 "surround": "7022_earthquake",
                 "textBg": "shout",
-                "textLeft": "[flashEffect:explosion]Khhhhhhhhh!"
+                "textLeft": "[flashEffect:explosion]¡Khhhhhhhhh!"
             },
             {
                 "chara": [
@@ -865,7 +865,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:explosion]I'm not...gonna...give...UP!!!"
+                "textRight": "[flashEffect:explosion]¡¡¡No me... voy a... RENDIR!!!"
             },
             {
                 "chara": [
@@ -878,7 +878,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-9-41"
                     }
                 ],
-                "textLeft": "[flashEffect:explosion]Everyone's doomed if I fall!"
+                "textLeft": "[flashEffect:explosion]¡Todas estarán condenadas si caigo!"
             },
             {
                 "chara": [
@@ -892,7 +892,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:explosion]I'm definitely...gonna dooo thiiiiiis!"
+                "textRight": "[flashEffect:explosion]¡Definitivamente... lo voy a lograaaar!"
             },
             {
                 "autoTurnLast": 2,

@@ -25,7 +25,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "AAAH HA HA HA HAAA!",
+                "narration": "¡AAAH JA JA JA JAAA!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-4-1"
             },
             {
@@ -83,7 +83,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Sayaka",
-                "textRight": "Oh, damn it!",
+                "textRight": "Oh, ¡maldición!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -97,7 +97,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-2"
                     }
                 ],
-                "textRight": "It's trying to move to the part of the city@that hasn't been wrecked yet!"
+                "textRight": "¡Está intentando ir a la parte de la ciudad que@aún no ha sido destruida!"
             },
             {
                 "chara": [
@@ -110,7 +110,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-3"
                     }
                 ],
-                "textLeft": "We got this!"
+                "textLeft": "¡Estamos en ello!"
             },
             {
                 "chara": [
@@ -122,7 +122,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-4"
                     }
                 ],
-                "textLeft": "C'mon, Felicia! Our turn to shine!"
+                "textLeft": "¡Vamos, Felicia! ¡Es nuestro momento de brillar!"
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "Heck yeah!"
+                "textRight": "¡Claro que sí!"
             },
             {
                 "chara": [
@@ -151,7 +151,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-6"
                     }
                 ],
-                "textRight": "I'mma bash her skull in so hard she won't@remember what she's doin'!"
+                "textRight": "¡Le voy a golpear el cráneo tan fuerte que no@recordará lo que está haciendo!"
             },
             {
                 "chara": [
@@ -164,7 +164,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-7"
                     }
                 ],
-                "textRight": "Humph! Humph!"
+                "textRight": "¡Humph! ¡Humph!"
             },
             {
                 "chara": [
@@ -177,7 +177,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-8"
                     }
                 ],
-                "textLeft": "Now you're talking! Yep, yep!"
+                "textLeft": "¡Así se habla! ¡Sip, Sip!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -206,7 +206,7 @@
                     }
                 ],
                 "nameCenter": "Meiyui",
-                "textCenter": "Our current situation calls for me to step@up, I see."
+                "textCenter": "Nuestra situación actual requiere que dé un@paso adelante, por lo que veo."
             },
             {
                 "autoTurnLast": 0.2,
@@ -239,7 +239,7 @@
                 ],
                 "nameLeft": "Ria",
                 "nameRight": "Rika",
-                "textLeft": "Ho ho! It's my turn to take the stage too!"
+                "textLeft": "¡Vaya! ¡También es mi turno de subir al@escenario!"
             },
             {
                 "chara": [
@@ -250,7 +250,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-11"
                     }
                 ],
-                "textRight": "And me!"
+                "textRight": "¡Y yo!"
             },
             {
                 "chara": [
@@ -260,7 +260,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-12"
                     }
                 ],
-                "textRight": "My date plans are on hold thanks to all@these new bruises..."
+                "textRight": "Los planes para mi cita están en espera gracias@a todos estos nuevos moretones..."
             },
             {
                 "chara": [
@@ -271,7 +271,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-13"
                     }
                 ],
-                "textRight": "So I'm gonna have to vent all that anger@right here!"
+                "textRight": "¡Así que voy a tener que descargar toda esa@ira aquí mismo!"
             },
             {
                 "chara": [
@@ -284,7 +284,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-14"
                     }
                 ],
-                "textLeft": "THAT'S your motivation?!"
+                "textLeft": "¡¿ESA es tu motivación?!"
             },
             {
                 "chara": [
@@ -297,7 +297,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-15"
                     }
                 ],
-                "textRight": "*Giggle* I'm just kidding."
+                "textRight": "*Risilla* Solo estoy bromeando."
             },
             {
                 "chara": [
@@ -315,7 +315,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-16"
                     }
                 ],
-                "textRight": "I've had some tough times, but I've met so@many precious friends here."
+                "textRight": "He tenido momentos difíciles, pero conocí a@muchos valiosos amigos aquí."
             },
             {
                 "chara": [
@@ -327,7 +327,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-17"
                     }
                 ],
-                "textRight": "I won't allow her to destroy it any more!"
+                "textRight": "¡No permitiré que lo destruya más!"
             },
             {
                 "chara": [
@@ -342,7 +342,7 @@
                     }
                 ],
                 "nameRight": "Meiyui",
-                "textRight": "Then our motives are the same."
+                "textRight": "Entonces nuestros motivos son los mismos."
             },
             {
                 "chara": [
@@ -353,7 +353,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-19"
                     }
                 ],
-                "textLeft": "Once you make the Witch lose her memories,@we shift the direction she's moving, right?"
+                "textLeft": "Una vez hagas que pierda sus recuerdos,@cambiamos el rumbo que lleva, ¿verdad?"
             },
             {
                 "chara": [
@@ -363,7 +363,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-20"
                     }
                 ],
-                "textLeft": "She'll tremble in fear before the might of @the wondrous Ria Ami!"
+                "textLeft": "¡Temblará de miedo ante el poder de la@maravillosa Ria Ami!"
             },
             {
                 "chara": [
@@ -376,7 +376,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-21"
                     }
                 ],
-                "textLeft": "Oh ho ho ho ho!"
+                "textLeft": "¡Ah ja ja!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -407,7 +407,7 @@
                     }
                 ],
                 "nameCenter": "Felicia",
-                "textCenter": "Big, stupid Witch...",
+                "textCenter": "Grande y estúpida Bruja...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -420,7 +420,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-23"
                     }
                 ],
-                "textCenter": "You might be the same one that killed my@mom and dad!"
+                "textCenter": "¡Puede que seas la misma que mató a mi@mamá y mi papá!"
             },
             {
                 "chara": [
@@ -433,7 +433,7 @@
                 ],
                 "nameCenter": "Felicia",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:100501_magia]Here goes... I'm gonna crush you!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:100501_magia]Aquí voy... ¡Te aplastaré!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -465,7 +465,7 @@
                 "bgEffect": "shakeLarge",
                 "flashEffect": "flashRed2",
                 "jingle": "100506_magia",
-                "narration": "WAH HA HA... AAAH HA HA HA?!?!",
+                "narration": "¡¿¡¿WAH JA JA... AAAH JA JA JA?!?!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-4-26"
             },
             {
@@ -510,7 +510,7 @@
                     }
                 ],
                 "nameCenter": "Ria",
-                "textCenter": "Her movements have slowed down... I think@she just lost her memories?",
+                "textCenter": "Sus movimientos se han ralentizado...@¿Creo que ha perdido sus recuerdos?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -522,7 +522,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-27"
                     }
                 ],
-                "textCenter": "Time to use my concealment magic!"
+                "textCenter": "¡Es hora de usar mi magia de ocultamiento!"
             },
             {
                 "chara": [
@@ -534,7 +534,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:3010M02]I will remove your destination from view!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:3010M02]¡Removeré tu lugar de destino de la vista!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -559,7 +559,7 @@
                     }
                 ],
                 "nameCenter": "Meiyui",
-                "textCenter": "I'm up next!"
+                "textCenter": "¡Soy la siguiente!"
             },
             {
                 "chara": [
@@ -569,7 +569,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-30"
                     }
                 ],
-                "textCenter": "The power I obtained to save my organization;@to convince a target that lies are truth."
+                "textCenter": "El poder que obtuve para salvar a mi familia;@convencer que las mentiras son la verdad..."
             },
             {
                 "chara": [
@@ -581,7 +581,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:301202_magia]I will use that power now, to save the city!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:301202_magia]¡Usaré ese poder ahora, para salvar la ciudad!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -606,7 +606,7 @@
                     }
                 ],
                 "nameCenter": "Rika",
-                "textCenter": "I'm last up, huh?"
+                "textCenter": "Soy la última, ¿eh?"
             },
             {
                 "chara": [
@@ -619,7 +619,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-33"
                     }
                 ],
-                "textCenter": "My power's so ironic that I honestly kinda@hate using it..."
+                "textCenter": "Mi poder es tan irónico que honestamente@odio usarlo..."
             },
             {
                 "chara": [
@@ -631,7 +631,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-4-34"
                     }
                 ],
-                "textCenter": "But now's not the time to complain!"
+                "textCenter": "¡Pero ahora no es el momento de quejarse!"
             },
             {
                 "chara": [
@@ -643,7 +643,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:303101_magia]Cause I'm gonna use it to make this Witch@change her mind, and head towards the sea!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][jingle:303101_magia]¡Porque voy a usarlo para que esta Bruja@cambie de idea y se dirija hacia el mar!"
             },
             {
                 "autoTurnLast": 2,

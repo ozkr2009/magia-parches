@@ -49,7 +49,7 @@
                     }
                 ],
                 "nameCenter": "Homura",
-                "textCenter": "I don't have many weapons left to use...",
+                "textCenter": "No me quedan muchas armas para usar...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -61,7 +61,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-1"
                     }
                 ],
-                "textCenter": "[flashEffect:flashWhite2][se:4005_equip_arms_grenade_vh]Please, please let this work!"
+                "textCenter": "[flashEffect:flashWhite2][se:4005_equip_arms_grenade_vh]¡Por favor, que esto funcione!"
             },
             {
                 "autoTurnLast": 1,
@@ -107,7 +107,7 @@
                 "enableSkipAutoTurn": 1,
                 "nameLeft": "Mami",
                 "nameRight": "Kyoko",
-                "textLeft": "*Exhale* Follow up on her attacks!"
+                "textLeft": "*Exhalar* ¡Sigan sus ataques!"
             },
             {
                 "chara": [
@@ -129,7 +129,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 0,
-                "textRight": "[flashEffect:flashWhite2][surround:2006A04]Don't need to tell me that! We're gonna@send this thing packin'."
+                "textRight": "[flashEffect:flashWhite2][surround:2006A04]¡No hace falta que me lo digas! Mandemos@esta cosa a volar."
             },
             {
                 "chara": [
@@ -152,7 +152,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Sayaka",
-                "textRight": "Madoka, let's sync our attacks!"
+                "textRight": "¡Madoka, sincronicemos nuestros ataques!"
             },
             {
                 "chara": [
@@ -164,7 +164,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Okay! Please let this be the end!"
+                "textLeft": "¡Está bien! ¡Por favor, que esto sea el final!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -239,7 +239,7 @@
                     }
                 ],
                 "nameCenter": "Homura",
-                "textCenter": "Nothing we do has any effect... At this@rate...",
+                "textCenter": "Nada de lo que hacemos tiene efecto...@A este ritmo...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -277,10 +277,10 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-1-11"
                     }
                 ],
-                "nameCenter": "Black Feather",
-                "nameLeft": "White Feather",
-                "nameRight": "Black Feather",
-                "textLeft": "Can you still fight?",
+                "nameCenter": "Pluma Negra",
+                "nameLeft": "Pluma Blanca",
+                "nameRight": "Pluma Negra",
+                "textLeft": "¿Aún pueden pelear?",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -303,7 +303,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-12"
                     }
                 ],
-                "textRight": "I think I can muster...a bit more..."
+                "textRight": "Creo que puedo... un poco más..."
             },
             {
                 "chara": [
@@ -316,7 +316,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-13"
                     }
                 ],
-                "textLeft": "Who among the Feathers can keep going?!"
+                "textLeft": "¡¿Quiénes entre las Plumas pueden seguir luchando?!"
             },
             {
                 "chara": [
@@ -327,7 +327,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-14"
                     }
                 ],
-                "textCenter": "I...can't...sorry..."
+                "textCenter": "Yo... no puedo... lo siento..."
             },
             {
                 "chara": [
@@ -372,7 +372,7 @@
                 ],
                 "nameLeft": "Masara",
                 "nameRight": "Kokoro",
-                "textRight": "Masara... I'm so sorry, I shouldn't have@jumped in front like that...",
+                "textRight": "Masara... lo siento, no debí lanzarme al@frente de esa manera...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -385,7 +385,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-17"
                     }
                 ],
-                "textLeft": "It... It's all ri..."
+                "textLeft": "Es... Está bi..."
             },
             {
                 "autoTurnLast": 1,
@@ -409,7 +409,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-1-19"
                     }
                 ],
-                "textRight": "You can't even stand anymore!"
+                "textRight": "¡Ya no puedes ni estar de pie!"
             },
             {
                 "chara": [
@@ -432,7 +432,7 @@
                 ],
                 "nameLeft": "Natsuki",
                 "nameRight": "Aimi",
-                "textRight": "How are you doing, Natsuki?"
+                "textRight": "¿Cómo estás, Natsuki?"
             },
             {
                 "chara": [
@@ -445,7 +445,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-20"
                     }
                 ],
-                "textLeft": "Haha, ugh. I'm the cheerleader here... But@now I'm the one getting cheered up..."
+                "textLeft": "Jaja, ugh. Yo soy la animadora aquí... Pero@ahora soy yo la que está siendo animada..."
             },
             {
                 "chara": [
@@ -458,7 +458,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-21"
                     }
                 ],
-                "textRight": "Don't say that. You did plenty of cheering@today!"
+                "textRight": "¡No digas eso. Nos has animado mucho hoy!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -491,7 +491,7 @@
                 ],
                 "nameLeft": "Hinano",
                 "nameRight": "Rika",
-                "textRight": "I can...still...fight!",
+                "textRight": "!Aún... puedo... luchar!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -503,7 +503,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-23"
                     }
                 ],
-                "textLeft": "Hey, don't overdo it."
+                "textLeft": "Oye, no te excedas."
             },
             {
                 "chara": [
@@ -515,7 +515,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-24"
                     }
                 ],
-                "textRight": "But if I don't do something she's going to@end so many precious lives!"
+                "textRight": "¡Pero si no hago algo ella va a acabar con@muchas vidas preciosas!"
             },
             {
                 "chara": [
@@ -526,7 +526,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-25"
                     }
                 ],
-                "textLeft": "Hey! Anyone else around who can fight?!"
+                "textLeft": "¡Oigan! ¡¿Alguien más por aquí que pueda@luchar?!"
             },
             {
                 "chara": [
@@ -541,7 +541,7 @@
                     }
                 ],
                 "nameRight": "Emiri",
-                "textRight": "Myako...senpai..."
+                "textRight": "Myako... senpai..."
             },
             {
                 "chara": [
@@ -553,7 +553,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Not you! You stay right there, dumbass!"
+                "textLeft": "¡Tú no! ¡Quédate ahí, idiota!"
             },
             {
                 "chara": [
@@ -567,7 +567,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-28"
                     }
                 ],
-                "textRight": "M-meaniiieee..."
+                "textRight": "M-malaaa..."
             },
             {
                 "chara": [
@@ -590,7 +590,7 @@
                 ],
                 "nameLeft": "Kanoko",
                 "nameRight": "Ren",
-                "textRight": "I can...keep going...y-yes..."
+                "textRight": "Yo puedo... seguir... s-sí..."
             },
             {
                 "chara": [
@@ -601,7 +601,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-30"
                     }
                 ],
-                "textLeft": "Yeah... I've been tempered like steel in my@family's factory, so this is nothing."
+                "textLeft": "Sí... fui moldeada como el acero en la fábrica@de mi familia, así que esto no es nada."
             },
             {
                 "autoTurnLast": 0.01,
@@ -633,7 +633,7 @@
                     }
                 ],
                 "nameLeft": "Nanaka",
-                "textLeft": "I should be okay...",
+                "textLeft": "Debería estar bien...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -664,7 +664,7 @@
                 ],
                 "nameCenter": "Ayame",
                 "nameRight": "Konoha",
-                "textCenter": "Hey, at this rate the Azalea House is@gonna..."
+                "textCenter": "Oigan, a este paso la Casa Azalea va@a ser..."
             },
             {
                 "chara": [
@@ -675,7 +675,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-33"
                     }
                 ],
-                "textRight": "We won't let that happen. No matter what."
+                "textRight": "No dejaremos que eso ocurra.@Pase lo que pase."
             },
             {
                 "autoTurnLast": 1,
@@ -761,7 +761,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Tsuruno",
-                "textLeft": "*Pant* *Pant* That explosion just now...@It was around here.",
+                "textLeft": "*Jadear* *Jadear* Esa explosión de ahora...@Fue por aquí.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -773,7 +773,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-36"
                     }
                 ],
-                "textRight": "Yeah, judging by the direction Walpurgisnacht@is facing, there's no doubt about it."
+                "textRight": "Sí, a juzgar por la dirección a la que mira@Walpurgisnacht, no hay duda."
             },
             {
                 "chara": [
@@ -788,7 +788,7 @@
                     }
                 ],
                 "nameLeft": "Sana",
-                "textLeft": "But it doesn't make any sense..."
+                "textLeft": "Pero no tiene ningún sentido..."
             },
             {
                 "chara": [
@@ -798,7 +798,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-38"
                     }
                 ],
-                "textLeft": "They looked like they had the upper hand a@minute ago, but now there's no one around."
+                "textLeft": "Parecía que tenían la ventaja hace un minuto,@pero ahora no hay nadie alrededor."
             },
             {
                 "autoTurnLast": 0.01,
@@ -822,7 +822,7 @@
                         "voiceFull": "fullvoice/section_102005/vo_full_102005-1-40"
                     }
                 ],
-                "nameCenter": "Black Feather",
+                "nameCenter": "Pluma Negra",
                 "textCenter": "...",
                 "turnChangeOut": "rollOutFast"
             },
@@ -867,7 +867,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "Feathers..."
+                "textRight": "Plumas..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -929,7 +929,7 @@
                 ],
                 "nameLeft": "Yachiyo",
                 "nameRight": "Felicia",
-                "textRight": "Hey, look over there! It's that chick who@fought Yachiyo!",
+                "textRight": "¡Oigan, miren allí! ¡Es la chica que luchó@contra Yachiyo!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -943,7 +943,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-44"
                     }
                 ],
-                "textLeft": "It is! Mami!"
+                "textLeft": "¡Si lo es! ¡Mami!"
             },
             {
                 "chara": [
@@ -981,7 +981,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Madoka",
-                "textRight": "Iroha!"
+                "textRight": "¡Iroha!"
             },
             {
                 "chara": [
@@ -992,7 +992,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-47"
                     }
                 ],
-                "textLeft": "Madoka! And Homura, too!"
+                "textLeft": "¡Madoka! ¡y Homura también!"
             },
             {
                 "chara": [
@@ -1004,7 +1004,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-48"
                     }
                 ],
-                "textLeft": "Weren't things going well?"
+                "textLeft": "¿No iban las cosas bien?"
             },
             {
                 "chara": [
@@ -1017,7 +1017,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-49"
                     }
                 ],
-                "textRight": "That explosion was just us combining all our@power for a final attack."
+                "textRight": "Esa explosión fue solo nosotras combinando@todo nuestro poder para un ataque final."
             },
             {
                 "chara": [
@@ -1040,7 +1040,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Homura",
-                "textRight": "And now we have almost no one left@who can fight..."
+                "textRight": "Y ahora no queda casi nadie que pueda@luchar..."
             },
             {
                 "chara": [
@@ -1051,7 +1051,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-51"
                     }
                 ],
-                "textLeft": "But hey, if you pile up enough dust, you can@make a mountain, right?"
+                "textLeft": "Pero oye, si juntas suficiente polvo, puedes@hacer una montaña, ¿no?"
             },
             {
                 "chara": [
@@ -1061,7 +1061,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-52"
                     }
                 ],
-                "textLeft": "Even if you're all worn out individually, if@you can just pull together a bit longer..."
+                "textLeft": "Incluso si están agotados individualmente, si@pudieran seguir un poco más..."
             },
             {
                 "chara": [
@@ -1076,7 +1076,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "We've already done that. This is the result."
+                "textRight": "Ya lo hemos hecho. Este es el resultado."
             },
             {
                 "chara": [
@@ -1091,7 +1091,7 @@
                     }
                 ],
                 "nameLeft": "Mitama",
-                "textLeft": "We used up all our Grief Seeds, too."
+                "textLeft": "También usamos todas nuestras Grief Seeds."
             },
             {
                 "chara": [
@@ -1101,7 +1101,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-55"
                     }
                 ],
-                "textLeft": "Our options were already limited."
+                "textLeft": "Nuestras opciones ya son limitadas."
             },
             {
                 "chara": [
@@ -1132,7 +1132,7 @@
                 "nameCenter": "Tsukuyo",
                 "nameLeft": "Kanagi",
                 "nameRight": "Tsukasa",
-                "textLeft": "I'm sure this is a foolish question, but@you guys don't have any left either, right?"
+                "textLeft": "Seguro que es una pregunta tonta, pero a@ustedes tampoco les queda nada, ¿verdad?"
             },
             {
                 "chara": [
@@ -1143,7 +1143,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-57"
                     }
                 ],
-                "textRight": "Yeah, we're all out of Grief Seeds."
+                "textRight": "Sí, nos quedamos sin Grief Seeds."
             },
             {
                 "chara": [
@@ -1154,7 +1154,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-58"
                     }
                 ],
-                "textCenter": "We used up our entire stock in the battles@leading up to this point..."
+                "textCenter": "Usamos todo lo que teníamos en las batallas@que llevaron a este punto..."
             },
             {
                 "chara": [
@@ -1165,7 +1165,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-59"
                     }
                 ],
-                "textLeft": "So you used all of the Grief Seeds that were@in Mitama's shop..."
+                "textLeft": "Así que usaron todas las Grief Seeds que había@en la tienda de Mitama..."
             },
             {
                 "chara": [
@@ -1175,7 +1175,7 @@
                         "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-60"
                     }
                 ],
-                "textLeft": "Seeing as we don't have the time or energy@to go hunt other Witches..."
+                "textLeft": "Considerando que no tenemos tiempo ni energía@para ir a cazar a otras Brujas..."
             },
             {
                 "autoTurnLast": 0.02,
@@ -1208,7 +1208,7 @@
                     }
                 ],
                 "nameCenter": "Kyoko",
-                "textCenter": "We may have the numbers, but we ain't formin'@no mountain, that's for damn sure."
+                "textCenter": "Puede que tengamos los números, pero no@formamos ninguna montaña, eso es seguro."
             },
             {
                 "autoTurnLast": 0.01,
@@ -1283,7 +1283,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "AH HA HA HA HA HA!",
+                "narration": "¡AH HA HA HA HA HA!",
                 "voiceFull": "fullvoice/section_102005/vo_full_102005-1-63"
             },
             {
@@ -1296,7 +1296,7 @@
                 ],
                 "nameCenter": "Iroha",
                 "narrationEffect": "out",
-                "textCenter": "So we're all out of options...?",
+                "textCenter": "¿Así que nos quedamos sin opciones...?",
                 "voiceFullStop": "fullvoice/section_102005/vo_full_102005-1-63"
             },
             {
