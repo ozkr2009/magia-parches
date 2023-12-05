@@ -1,0 +1,65 @@
+[
+	{
+		"id":24024,
+		"default":true,
+		"name":"Sayaka Miki scene0 ver.",
+		"desc":"Una Chica Mágica con un gran sentido de@la justicia que está en medio de los bucles@temporales. Va en el 2do año de la Escuela@Secundaria de Mitakihara. Después de@clases, visita a su amigo Kyosuke en el@hospital, y ayuda a Saeki en Récompense.@Es amiga cercana de Madoka.",
+		"cv":"Kitamura Eri"
+	},
+	{
+		"id":10011,
+		"default":true,
+		"name":"Iroha Tamaki",
+		"desc":"Vino a Kamihama para investigar unos extraños sueños que estaba teniendo. De buen corazón, se preocupa demasiado por los demás. No está al tanto de las tendencias y no es buena con su celular. Aunque reservada, puede ser una luchadora cuando más se necesita.",
+		"cv":"Momo Asakura"
+	},
+	{
+		"id":10022,
+		"default":true,
+		"name":"Yachiyo Nanami",
+		"desc":"Una veterana que ha luchado contra Brujas durante 7 años en Kamihama. Está bien informada sobre la ciudad y las Chicas Mágicas en general. Se mantiene alejada de otras Chicas Mágicas mientras recopila información sobre los Rumores de la ciudad de Kamihama.",
+		"cv":"Sora Amamiya"
+	},
+	{
+		"id":10032,
+		"default":true,
+		"name":"Tsuruno Yui",
+		"desc":"Una Chica Mágica temeraria y llena de energía. Tsuruno ama a su familia, especialmente a su abuelo y bisabuelo, quienes llevaron a los Yuis a su antigua prosperidad. Lucha por convertirse en la Chica Mágica más poderosa para restaurar el nombre de los Yuis.",
+		"cv":"Shiina Natsukawa"
+	},
+	{
+		"id":10094,
+		"default":true,
+		"name":"Rena Minami",
+		"desc":"Una chica a la que le cuesta abrirse a los demás. Actúa con arrogancia para compensar su falta de autoestima, lo que causa que la gente que no la conoce bien la malinterprete. Es quisquillosa con la comida y le encantan los dulces. También es una gran fan de las idols.",
+		"cv":"Kaori Ishihara"
+	},
+	{
+		"id":10104,
+		"default":true,
+		"name":"Momoko Togame",
+		"desc":"Una Chica Mágica que siempre está al pendiente de las novatas. Al ser la hija del medio, se vio influenciada por la masculinidad de sus dos hermanos, pero le encantan las cosas lindas y femeninas, como los peluches. Es por esto que también es fan de las idols.",
+		"cv":"Mikako Komatsu"
+	},
+	{
+		"id":10113,
+		"default":true,
+		"name":"Kaede Akino",
+		"desc":"Kaede es una chica preocupadiza y asustadiza. También es amable, cariñosa y dispuesta a arriesgarse por sus amigos. Le encantan los animales, las plantas, los insectos y la naturaleza en general. Le gusta la jardinería y las máquinas de garras, aunque no se le dan bien.",
+		"cv":"Ayaka Oohashi"
+	},
+	{
+		"id":10052,
+		"default":true,
+		"name":"Felicia Mitsuki",
+		"desc":"Una Chica Mágica llena de energía y determinación que odia a las Brujas por haber acabado con la vida de sus padres. Ahora trabaja como mercenaria, cazando Brujas por todo Kamihama. Su ruda forma de hablar esconde un corazón bondadoso y su amor por los animales.",
+		"cv":"Ayane Sakura"
+	},
+	{
+		"id":10042,
+		"default":true,
+		"name":"Sana Futaba",
+		"desc":"Una Chica Mágica pesimista que fue rechazada por su familia y por quienes la rodeaban, por lo que apenas tiene confianza en sí misma. Sin embargo, permanecerá en silencio junto a las personas que la necesiten, dispuesta a ayudarlas cuando llegue el momento.",
+		"cv":"Yui Ogura"
+	}
+]
