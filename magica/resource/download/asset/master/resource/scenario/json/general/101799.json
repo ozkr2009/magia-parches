@@ -11,7 +11,7 @@
 						"motion": 0,
 						"pos": 1,
 						"voice": "vo_game_0002_01",
-						"textHome": "I carry everything a girl@needs for going into battle..."
+						"textHome": "Vendo todo lo que una chica@necesita para ir a la batalla..."
 					}
 				]
 			},
@@ -29,7 +29,7 @@
 				"chara": [
 					{
 						"id": 101700,
-						"textHome": "Welcome to the@Coordinator's Shop♪"
+						"textHome": "Bienvenido a la tienda@de la Coordinadora♪"
 					}
 				]
 			},
@@ -63,7 +63,7 @@
 						"motion": 0,
 						"pos": 1,
 						"voice": "vo_game_0002_10",
-						"textHome": "In twilight, when the curtain@of night begins to fall,@Magical Girls begin to stir..."
+						"textHome": "En el crepúsculo, cuando la cortina@de la noche empieza a caer, las@Chicas Mágicas empiezan a agitarse..."
 					}
 				]
 			},
@@ -84,7 +84,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "I have to do my best to@be prepared in case@someone gets injured."
+						"textHome": "Tengo que hacer todo lo posible@para estar preparada en caso@por si alguien se lesiona."
 					}
 				]
 			},
@@ -118,7 +118,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_11",
-						"textHome": "I hope everyone comes back@to the shop safely."
+						"textHome": "Espero que todas regresen a la@tiendas a salvo."
 					}
 				]
 			},
@@ -140,7 +140,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 400,
-						"textHome": "I'm sorry, I tend to get@uneasy late at night."
+						"textHome": "Lo siento, tiendo a inquietarme@a altas horas de la noche."
 					}
 				]
 			},
@@ -174,7 +174,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_12",
-						"textHome": "Sometimes people can't tell@if I'm joking or not,@but I'm always serious."
+						"textHome": "A veces las personas no se dan@cuenta de si estoy bromeando@o no, pero siempre hablo en serio."
 					}
 				]
 			},
@@ -197,7 +197,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "Serious about teasing that is.@*Giggle*"
+						"textHome": "Seria en cuanto a bromas,@claro está. *Risita*"
 					}
 				]
 			},
@@ -231,7 +231,7 @@
 						"motion": 200,
 						"pos": 1,
 						"voice": "vo_game_0002_02",
-						"textHome": "Are you all prepared@for battle?"
+						"textHome": "¿Estás lista@para la batalla?"
 					}
 				]
 			},
@@ -241,7 +241,7 @@
 					{
 						"id": 101700,
 						"motion": 0,
-						"textHome": "I provide safety@and security for everyone♪"
+						"textHome": "Proporciono seguridad@y protección para todas♪"
 					}
 				]
 			},
@@ -276,7 +276,7 @@
 						"motion": 1,
 						"pos": 1,
 						"voice": "vo_game_0002_03",
-						"textHome": "Hi, welcome♪"
+						"textHome": "Hola, bienvenida♪"
 					}
 				]
 			},
@@ -287,7 +287,7 @@
 						"cheek": 1,
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
-						"textHome": "Want me to adjust@your Soul Gem?"
+						"textHome": "¿Quieres que ajuste tu@Soul Gem?"
 					}
 				]
 			},
@@ -299,7 +299,7 @@
 						"face": "mtn_ex_051.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "Ahh, you're here to do@a little shopping, aren't you?"
+						"textHome": "Ahh, vienes a hacer@algunas compras, ¿no es así?"
 					}
 				]
 			},
@@ -333,7 +333,7 @@
 						"motion": 1,
 						"pos": 1,
 						"voice": "vo_game_0002_04",
-						"textHome": "I've put heart and soul@into these items♪"
+						"textHome": "He puesto mi alma y corazón@en estos artículos♪"
 					}
 				]
 			},
@@ -356,7 +356,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 200,
-						"textHome": "Now, tell me what@you'd like to buy♪"
+						"textHome": "Ahora, dime que te@gustaría comprar♪"
 					}
 				]
 			},
@@ -380,7 +380,7 @@
 						"motion": 1,
 						"pos": 1,
 						"voice": "vo_game_0002_05",
-						"textHome": "Your Coordinator is so@thankful for all@your patronage!"
+						"textHome": "¡Tu Coordinadora está muy@agradecida por todo@tu patrocinio!"
 					}
 				]
 			},
@@ -392,7 +392,7 @@
 						"face": "mtn_ex_011.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "That's why I'm offering@a \"limited time\" only sale♪"
+						"textHome": "Por eso es que estoy ofreciendo@una oferta de \"tiempo limitado\"♪"
 					}
 				]
 			},
@@ -416,7 +416,7 @@
 						"motion": 1,
 						"pos": 1,
 						"voice": "vo_game_0002_06",
-						"textHome": "I've got some really special@items in stock right now!"
+						"textHome": "¡Tengo algunos artículos muy@especiales disponibles ahora mismo!"
 					}
 				]
 			},
@@ -426,7 +426,7 @@
 					{
 						"id": 101700,
 						"motion": 100,
-						"textHome": "But once they're gone,@they're gone."
+						"textHome": "Pero cuando se acaben,@se acabaron."
 					}
 				]
 			},
@@ -438,7 +438,7 @@
 						"face": "mtn_ex_011.exp.json",
 						"id": 101700,
 						"motion": 300,
-						"textHome": "Don't miss out♪"
+						"textHome": "No te quedes sin el tuyo♪"
 					}
 				]
 			},
@@ -462,7 +462,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_07",
-						"textHome": "Look what you found,@you greedy little shopper♪"
+						"textHome": "Mira lo que encontraste,@pequeño comprador codicioso♪"
 					}
 				]
 			},
@@ -482,7 +482,7 @@
 						"cheek": 2,
 						"face": "mtn_ex_011.exp.json",
 						"id": 101700,
-						"textHome": "*Chuckle*@Go ahead,take a closer look."
+						"textHome": "*Risa*@Adelante,echa un vistazo más de cerca."
 					}
 				]
 			},
@@ -517,7 +517,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_08",
-						"textHome": "I'm open 24 hours a day@in spirit only."
+						"textHome": "Estoy abierta 24 horas al día@peor solo en espíritu."
 					}
 				]
 			},
@@ -527,7 +527,7 @@
 					{
 						"id": 101700,
 						"motion": 400,
-						"textHome": "You really should let@this late riser sleep a little..."
+						"textHome": "Deberías dejar dormir un poco más@a esta noctámbula..."
 					}
 				]
 			},
@@ -539,7 +539,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 200,
-						"textHome": "Or maybe you can't go@on without my attention?"
+						"textHome": "¿O quizás es que no puedes vivir@sin mi atención?"
 					}
 				]
 			},
@@ -563,7 +563,7 @@
 						"motion": 0,
 						"pos": 1,
 						"voice": "vo_game_0002_09",
-						"textHome": "The shop's not very busy@around noon. It's the best@time to take it easy♪"
+						"textHome": "Esta tienda no está muy ocupada@alrededor del medio día. Es el@mejor momento para relajarse♪"
 					}
 				]
 			},
@@ -585,7 +585,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "*Giggle*@Shall we have lunch@together?"
+						"textHome": "*Risita*@¿Almorzamos juntos?"
 					}
 				]
 			},
