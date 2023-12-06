@@ -11,7 +11,7 @@
 						"motion": 0,
 						"pos": 1,
 						"voice": "vo_game_0002_01",
-						"textHome": "Vendo todo lo que una chica@necesita para ir a la batalla..."
+						"textHome": "Vendo todo lo que@una chica necesita@para ir a la batalla..."
 					}
 				]
 			},
@@ -63,7 +63,7 @@
 						"motion": 0,
 						"pos": 1,
 						"voice": "vo_game_0002_10",
-						"textHome": "En el crepúsculo, cuando la cortina@de la noche empieza a caer, las@Chicas Mágicas empiezan a agitarse..."
+						"textHome": "En el crepúsculo, al caer la@noche, las Chicas Mágicas@empiezan a moverse..."
 					}
 				]
 			},
@@ -84,7 +84,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "Tengo que hacer todo lo posible@para estar preparada en caso@por si alguien se lesiona."
+						"textHome": "Tengo que esforzarme y@estar preparada en caso de@que alguien resulte herida."
 					}
 				]
 			},
@@ -118,7 +118,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_11",
-						"textHome": "Espero que todas regresen a la@tiendas a salvo."
+						"textHome": "Espero que todas@regresen sanas y salvas@a la tienda."
 					}
 				]
 			},
@@ -140,7 +140,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 400,
-						"textHome": "Lo siento, tiendo a inquietarme@a altas horas de la noche."
+						"textHome": "Lo siento,@tiendo a inquietarme@a altas horas de la noche."
 					}
 				]
 			},
@@ -174,7 +174,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_12",
-						"textHome": "A veces las personas no se dan@cuenta de si estoy bromeando@o no, pero siempre hablo en serio."
+						"textHome": "A veces la gente no sabe@si estoy bromeando o no,@pero siempre voy en serio."
 					}
 				]
 			},
@@ -197,7 +197,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "Seria en cuanto a bromas,@claro está. *Risita*"
+						"textHome": "En serio en cuanto@a las bromas, claro está.@*Risita*"
 					}
 				]
 			},
@@ -231,7 +231,7 @@
 						"motion": 200,
 						"pos": 1,
 						"voice": "vo_game_0002_02",
-						"textHome": "¿Estás lista@para la batalla?"
+						"textHome": "¿Están preparadas@para la batalla?"
 					}
 				]
 			},
@@ -287,7 +287,7 @@
 						"cheek": 1,
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
-						"textHome": "¿Quieres que ajuste tu@Soul Gem?"
+						"textHome": "¿Quieres que ajuste@tu Soul Gem?"
 					}
 				]
 			},
@@ -299,7 +299,7 @@
 						"face": "mtn_ex_051.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "Ahh, vienes a hacer@algunas compras, ¿no es así?"
+						"textHome": "Ahh, vienes a hacer@algunas compras,@¿no es así?"
 					}
 				]
 			},
@@ -333,7 +333,7 @@
 						"motion": 1,
 						"pos": 1,
 						"voice": "vo_game_0002_04",
-						"textHome": "He puesto mi alma y corazón@en estos artículos♪"
+						"textHome": "He puesto mi@alma y corazón@en estos artículos♪"
 					}
 				]
 			},
@@ -380,7 +380,7 @@
 						"motion": 1,
 						"pos": 1,
 						"voice": "vo_game_0002_05",
-						"textHome": "¡Tu Coordinadora está muy@agradecida por todo@tu patrocinio!"
+						"textHome": "¡Tu Coordinadora está@muy agradecida por tu@continua preferencia!"
 					}
 				]
 			},
@@ -392,7 +392,7 @@
 						"face": "mtn_ex_011.exp.json",
 						"id": 101700,
 						"motion": 100,
-						"textHome": "Por eso es que estoy ofreciendo@una oferta de \"tiempo limitado\"♪"
+						"textHome": "Es por eso que estoy@ofreciendo una campaña@de \"tiempo limitado\"♪"
 					}
 				]
 			},
@@ -416,7 +416,7 @@
 						"motion": 1,
 						"pos": 1,
 						"voice": "vo_game_0002_06",
-						"textHome": "¡Tengo algunos artículos muy@especiales disponibles ahora mismo!"
+						"textHome": "¡Tengo algunos@artículos muy especiales@disponibles ahora mismo!"
 					}
 				]
 			},
@@ -426,7 +426,7 @@
 					{
 						"id": 101700,
 						"motion": 100,
-						"textHome": "Pero cuando se acaben,@se acabaron."
+						"textHome": "No los volverás a ver@una vez que se@hayan agotado."
 					}
 				]
 			},
@@ -438,7 +438,7 @@
 						"face": "mtn_ex_011.exp.json",
 						"id": 101700,
 						"motion": 300,
-						"textHome": "No te quedes sin el tuyo♪"
+						"textHome": "No te los pierdas♪"
 					}
 				]
 			},
@@ -462,7 +462,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_07",
-						"textHome": "Mira lo que encontraste,@pequeño comprador codicioso♪"
+						"textHome": "Mira lo que encontraste,@pequeño comprador@codicioso♪"
 					}
 				]
 			},
@@ -482,7 +482,7 @@
 						"cheek": 2,
 						"face": "mtn_ex_011.exp.json",
 						"id": 101700,
-						"textHome": "*Risa*@Adelante,echa un vistazo más de cerca."
+						"textHome": "*Risa*@Adelante, echa un vistazo@más de cerca."
 					}
 				]
 			},
@@ -517,7 +517,7 @@
 						"motion": 300,
 						"pos": 1,
 						"voice": "vo_game_0002_08",
-						"textHome": "Estoy abierta 24 horas al día@peor solo en espíritu."
+						"textHome": "Sé que digo@'abierto las 24 horas',@pero solo es en teoría."
 					}
 				]
 			},
@@ -527,7 +527,7 @@
 					{
 						"id": 101700,
 						"motion": 400,
-						"textHome": "Deberías dejar dormir un poco más@a esta noctámbula..."
+						"textHome": "No soy una persona@madrugadora, así que@déjame dormir..."
 					}
 				]
 			},
@@ -539,7 +539,7 @@
 						"face": "mtn_ex_010.exp.json",
 						"id": 101700,
 						"motion": 200,
-						"textHome": "¿O quizás es que no puedes vivir@sin mi atención?"
+						"textHome": "¿O quizás es que@no puedes vivir@sin mi atención?"
 					}
 				]
 			},
@@ -563,7 +563,7 @@
 						"motion": 0,
 						"pos": 1,
 						"voice": "vo_game_0002_09",
-						"textHome": "Esta tienda no está muy ocupada@alrededor del medio día. Es el@mejor momento para relajarse♪"
+						"textHome": "Poca gente viene durante@el medio día. Es el mejor@momento para relajarse♪"
 					}
 				]
 			},
