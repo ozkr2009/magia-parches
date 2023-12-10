@@ -25,7 +25,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Just a little more...",
+                "textCenter": "Solo un poco más...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -36,7 +36,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-1"
                     }
                 ],
-                "textCenter": "Now that Eve's trapped, we can shatter her @gem and free Ui from inside her..."
+                "textCenter": "Ahora que Eve está atrapada, podemos destrozar@su gema y liberar a Ui de su interior..."
             },
             {
                 "chara": [
@@ -46,7 +46,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-2"
                     }
                 ],
-                "textCenter": "And we can finish this before Kamihama is@damaged more than it already has been."
+                "textCenter": "Y podemos acabar con esto antes de que Kamihama@sufra más daños de los que ya recibió."
             },
             {
                 "autoTurnLast": 0.2,
@@ -79,7 +79,7 @@
                 ],
                 "nameLeft": "Yachiyo",
                 "nameRight": "Kanagi",
-                "textLeft": "Hey, Leader... Shall we get going?"
+                "textLeft": "Líder... ¿Nos ponemos en marcha?"
             },
             {
                 "chara": [
@@ -90,7 +90,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-4"
                     }
                 ],
-                "textRight": "Yes, now's the perfect time to strike."
+                "textRight": "Si, ahora es el momento perfecto para atacar."
             },
             {
                 "autoTurnLast": 0.2,
@@ -118,7 +118,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-14-6"
                     }
                 ],
-                "textCenter": "Okay."
+                "textCenter": "De acuerdo."
             },
             {
                 "chara": [
@@ -131,7 +131,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-6"
                     }
                 ],
-                "textCenter": "Feathers...?"
+                "textCenter": "¿Plumas...?"
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-7"
                     }
                 ],
-                "textCenter": "I'm sure you're suffering the most out of any@of us here."
+                "textCenter": "Estoy seguro de que estás sufriendo más que@cualquiera de nosotros aquí."
             },
             {
                 "chara": [
@@ -155,7 +155,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-8"
                     }
                 ],
-                "textCenter": "Thank you so much for coming to help!"
+                "textCenter": "¡Muchas gracias por venir a ayudar!"
             },
             {
                 "chara": [
@@ -187,7 +187,7 @@
                 "nameCenter": "Rena",
                 "nameLeft": "Momoko",
                 "nameRight": "Kaede",
-                "textRight": "I-I can keep going..."
+                "textRight": "Yo... yo puedo seguir..."
             },
             {
                 "chara": [
@@ -197,7 +197,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-10"
                     }
                 ],
-                "textCenter": "If you're planning on fortifying the area@with weeds, I'll help you."
+                "textCenter": "Si piensas fortificar la zona con maleza,@te ayudaré."
             },
             {
                 "autoTurnLast": 1,
@@ -224,7 +224,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-14-12"
                     }
                 ],
-                "textLeft": "We're not gonna sit on the sidelines and@watch. Let's do this, guys!"
+                "textLeft": "No vamos a quedarnos al margen mirando.@¡Vamos a hacerlo, chicas!"
             },
             {
                 "chara": [
@@ -241,7 +241,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-12"
                     }
                 ],
-                "textRight": "Yeah!"
+                "textRight": "¡Sí!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -276,7 +276,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Thank you, Momoko, Rena, Kaede..."
+                "textCenter": "Gracias, Momoko, Rena, Kaede..."
             },
             {
                 "chara": [
@@ -289,7 +289,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-14-14"
                     }
                 ],
-                "textCenter": "Let's work together so we can put a stop to@Eve's curses!"
+                "textCenter": "¡Trabajemos juntas para poder acabar con@las maldiciones de Eve!"
             },
             {
                 "autoTurnLast": 2,

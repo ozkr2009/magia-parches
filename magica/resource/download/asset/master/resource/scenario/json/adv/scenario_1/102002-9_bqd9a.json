@@ -43,7 +43,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Felicia",
-                "textRight": "I'mma stick it right to the ground!",
+                "textRight": "¡Voy a clavarlo en el suelo!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -55,7 +55,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-1"
                     }
                 ],
-                "textLeft": "Yeah! That'll stop Eve from flying away!"
+                "textLeft": "¡Sí! ¡Eso evitará que Eve salga volando!"
             },
             {
                 "chara": [
@@ -67,7 +67,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:0001_jump01]SHIIIIIIIIING!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:0001_jump01]¡SHIIIIIIIIING!"
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4051_landing_throw]Raaaaaaaaagh!!!"
+                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4051_landing_throw]¡¡¡Raaaaaaaaagh!!!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -123,7 +123,7 @@
                         "motion": 1
                     }
                 ],
-                "narration": "―＿―━!!!"
+                "narration": "¡¡¡―＿―━!!!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -155,7 +155,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Felicia",
-                "textLeft": "Are you KIDDING ME?!"
+                "textLeft": "¡¿Me estás tomando el pelo?!"
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-7"
                     }
                 ],
-                "textRight": "Urrrgh!!! This stupid bug keeps movin' like@it's nothin'!"
+                "textRight": "¡¡¡Urrrgh!!! ¡Este estúpido bicho sigue@moviéndose como si nada!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -209,7 +209,7 @@
                 "nameCenter": "Rena",
                 "nameLeft": "Momoko",
                 "nameRight": "Kaede",
-                "textRight": "Momoko, could you use your boosting magic@on me?",
+                "textRight": "Momoko, ¿podrías usar tu magia potenciadora@conmigo?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -220,7 +220,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-9"
                     }
                 ],
-                "textRight": "I think I might be able to help the others@out with my magic!"
+                "textRight": "Creo que podría ayudar a las demás con mi magia."
             },
             {
                 "chara": [
@@ -233,7 +233,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-10"
                     }
                 ],
-                "textLeft": "Ohhh, good idea! Nice thinkin', Kaede!"
+                "textLeft": "Ahhh, ¡buena idea! ¡Bien pensado, Kaede!"
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-11"
                     }
                 ],
-                "textCenter": "Huh? What're you talking about?"
+                "textCenter": "¿Eh? ¿De qué están hablando?"
             },
             {
                 "chara": [
@@ -261,7 +261,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "She's thinkin' of doin' a bit of gardenin'@around Eve, that's all."
+                "textLeft": "Está pensando en hacer un poco de jardinería@alrededor de Eve, eso es todo."
             },
             {
                 "chara": [
@@ -273,7 +273,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-13"
                     }
                 ],
-                "textLeft": "Right?"
+                "textLeft": "¿Verdad?"
             },
             {
                 "chara": [
@@ -286,7 +286,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-14"
                     }
                 ],
-                "textRight": "Yeah! I think I can fix Eve in place if I use@the plants with my magic!"
+                "textRight": "¡Sí! ¡Creo que puedo fijar a Eve en su sitio@si uso las plantas con mi magia!"
             },
             {
                 "autoTurnFirst": 3,
@@ -299,7 +299,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textCenter": "Oh yeah...that could work! Good idea for@once, Kaede!"
+                "textCenter": "¡Ah, sí... eso podría funcionar!@¡Al fin una buena idea, Kaede!"
             },
             {
                 "chara": [
@@ -323,7 +323,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 0,
-                "textRight": "You didn't need to add \"for once\"!"
+                "textRight": "¡No hacía falta que añadieras \"al fin\"!"
             },
             {
                 "chara": [
@@ -336,7 +336,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-17"
                     }
                 ],
-                "textLeft": "Anyway, I gotcha covered!"
+                "textLeft": "¡De todos modos, te tengo cubierta!"
             },
             {
                 "chara": [
@@ -356,7 +356,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Get ready, Kaede!",
+                "textLeft": "¡Prepárate, Kaede!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -368,7 +368,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-19"
                     }
                 ],
-                "textRight": "Okay! I can start whenever!"
+                "textRight": "¡Bien! Puedo hacerlo cuando quieras."
             },
             {
                 "autoTurnLast": 2,
@@ -391,7 +391,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-9-21"
                     }
                 ],
-                "textRight": "I'll stop Eve in its tracks with your power!"
+                "textRight": "¡Detendré a Eve con tu poder!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -415,7 +415,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-9-22"
                     }
                 ],
-                "textRight": "Fwahhh!"
+                "textRight": "¡Fwahhh!"
             },
             {
                 "chara": [
@@ -426,7 +426,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-22"
                     }
                 ],
-                "textLeft": "Eve...!"
+                "textLeft": "¡Eve...!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -465,7 +465,7 @@
                 ],
                 "flashEffect": "flashWhite2",
                 "nameNarration": "Eve",
-                "narration": "―━―━―!!!"
+                "narration": "¡¡¡―━―━―!!!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -497,7 +497,7 @@
                     }
                 ],
                 "nameCenter": "Sana",
-                "textCenter": "I can't believe it... It broke my chains!",
+                "textCenter": "No puedo creerlo... ¡Rompió las cadenas!",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -513,7 +513,7 @@
                     }
                 ],
                 "nameCenter": "Mami",
-                "textCenter": "And it tore through my ribbons, too!"
+                "textCenter": "¡Y también rompió mis cintas!"
             },
             {
                 "chara": [
@@ -528,7 +528,7 @@
                     }
                 ],
                 "nameCenter": "Tsuruno",
-                "textCenter": "Eve... All it did was spread its wings..."
+                "textCenter": "Y... lo único que hizo fue desplegar sus alas..."
             },
             {
                 "chara": [
@@ -544,7 +544,7 @@
                 ],
                 "nameCenter": "Kyoko",
                 "textBg": "shout",
-                "textCenter": "This ain't good. Get outta the way!"
+                "textCenter": "Esto no se ve bien. ¡Cúbranse!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -561,7 +561,7 @@
                 "bgEffect": "shakeLarge",
                 "flashEffect": "flashWhite2",
                 "nameNarration": "Eve",
-                "narration": "￣￣＿＿━━―━!!!"
+                "narration": "¡¡¡￣￣＿＿━━―━!!!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -617,7 +617,7 @@
                 ],
                 "nameCenter": "Kaede",
                 "textBg": "shout",
-                "textCenter": "Guys!",
+                "textCenter": "¡Chicas!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -652,7 +652,7 @@
                 "nameCenter": "Rena",
                 "nameLeft": "Momoko",
                 "nameRight": "Kaede",
-                "textLeft": "We're okay!"
+                "textLeft": "¡Estamos bien!"
             },
             {
                 "chara": [
@@ -662,7 +662,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-31"
                     }
                 ],
-                "textLeft": "It sent us flyin', but nothin' hit us@head on."
+                "textLeft": "Nos hizo volar, pero nada nos golpeó de frente."
             },
             {
                 "chara": [
@@ -686,7 +686,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "Kaede! Momoko! We need to get out, too!"
+                "textCenter": "¡Kaede! ¡Momoko! ¡Nosotras también tenemos@que salir!"
             },
             {
                 "chara": [
@@ -696,7 +696,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-33"
                     }
                 ],
-                "textCenter": "It doesn't matter how many plants you grow,@if Eve cuts through them all we're toast!"
+                "textCenter": "¡No importa cuántas plantas crezcas, si Eve las@atraviesa todas estamos fritas!"
             },
             {
                 "chara": [
@@ -707,7 +707,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-34"
                     }
                 ],
-                "textRight": "Y-you're right!"
+                "textRight": "¡Tienes razón!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -748,7 +748,7 @@
                     }
                 ],
                 "nameNarration": "Eve",
-                "narration": "―＿―￣―!!!"
+                "narration": "¡¡¡―＿―￣―!!!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -772,7 +772,7 @@
                     }
                 ],
                 "nameCenter": "Momoko",
-                "textCenter": "This is bad..."
+                "textCenter": "Esto es malo..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -796,7 +796,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-9-38"
                     }
                 ],
-                "textCenter": "(Eve's drawin' magic into the center@of its body...)",
+                "textCenter": "(Eve está atrayendo magia al centro de su@cuerpo...)",
                 "turnEffect": "thinking"
             },
             {
@@ -808,7 +808,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-38"
                     }
                 ],
-                "textCenter": "(Does it intend to attack us head on?)"
+                "textCenter": "(¿Pretende atacarnos de frente?)"
             },
             {
                 "chara": [
@@ -819,7 +819,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-39"
                     }
                 ],
-                "textCenter": "Hhh...!",
+                "textCenter": "¡Hhh...!",
                 "turnEffect": "stop"
             },
             {
@@ -852,7 +852,7 @@
                     }
                 ],
                 "nameLeft": "Rena",
-                "textLeft": "What the― Momoko?!"
+                "textLeft": "¡¿Pero qu― Momoko?!"
             },
             {
                 "chara": [
@@ -865,7 +865,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-41"
                     }
                 ],
-                "textRight": "Momoko, come back!"
+                "textRight": "¡Momoko, vuelve!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -890,7 +890,7 @@
                     }
                 ],
                 "nameCenter": "Momoko",
-                "textCenter": "It's gonna attack before we can get away!",
+                "textCenter": "¡Va a atacar antes de que podamos escapar!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -902,7 +902,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "I'm gonna try to negate the attack! You two@get outta here!"
+                "textCenter": "¡Voy a intentar anular el ataque!@¡Ustedes salgan de aquí!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -947,7 +947,7 @@
                     }
                 ],
                 "nameCenter": "Momoko",
-                "textCenter": "Okay, I've got this..."
+                "textCenter": "Bien, lo tengo..."
             },
             {
                 "chara": [
@@ -959,7 +959,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]Hyaaaaaagh!!!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]¡¡¡Hyaaaaaagh!!!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -985,7 +985,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-9-47"
                     }
                 ],
-                "textCenter": "(It can't be! The magic's not in the middle @of it anymore?!)",
+                "textCenter": "(¡No puede ser! ¡¿La magia ya no está en@el centro?!)",
                 "turnEffect": "thinking"
             },
             {
@@ -997,7 +997,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-47"
                     }
                 ],
-                "textCenter": "(It's flowin' to its arms!)"
+                "textCenter": "(¡Está fluyendo hacia sus brazos!)"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1055,7 +1055,7 @@
                     }
                 ],
                 "nameCenter": "Momoko",
-                "textCenter": "That's some elegant magic work you've got@goin' on there."
+                "textCenter": "Eso que tienes ahí es un elegante@trabajo de magia."
             },
             {
                 "autoTurnLast": 0.01,
@@ -1089,7 +1089,7 @@
                 "nameCenter": "Rena",
                 "nameLeft": "Momoko",
                 "nameRight": "Kaede",
-                "textRight": "Momoko!"
+                "textRight": "¡Momoko!"
             },
             {
                 "chara": [
@@ -1100,7 +1100,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-51"
                     }
                 ],
-                "textCenter": "Momoko!!!"
+                "textCenter": "¡¡¡Momoko!!!"
             },
             {
                 "chara": [
@@ -1113,7 +1113,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-9-52"
                     }
                 ],
-                "textLeft": "Why are you two still here?!"
+                "textLeft": "¡¿Por qué siguen aquí?!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -1148,7 +1148,7 @@
                 ],
                 "flashEffect": "flashWhite2",
                 "nameNarration": "Eve",
-                "narration": "―━――━━━!!!!!!"
+                "narration": "¡¡¡¡¡¡―━――━━━!!!!!!"
             },
             {
                 "autoTurnLast": 1,

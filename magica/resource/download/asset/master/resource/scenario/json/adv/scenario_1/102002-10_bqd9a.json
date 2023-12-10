@@ -72,7 +72,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-2"
                     }
                 ],
-                "textRight": "*Groan*"
+                "textRight": "*Quejido*"
             },
             {
                 "autoTurnLast": 0.2,
@@ -105,7 +105,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Momoko! Rena! Kaede!"
+                "textCenter": "¡Momoko! ¡Rena! ¡Kaede!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -129,7 +129,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-5"
                     }
                 ],
-                "textLeft": "Sorry... I may be tough, but man that hurt..."
+                "textLeft": "Lo siento... Puede que sea dura, pero...@eso dolió..."
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Hold on!"
+                "textRight": "¡Aguanta!"
             },
             {
                 "autoTurnLast": 2,
@@ -160,7 +160,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-7"
                     }
                 ],
-                "textLeft": "Oh, that's right. Your unique magic..."
+                "textLeft": "Ah, es verdad. Tu magia única..."
             },
             {
                 "chara": [
@@ -170,7 +170,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-7"
                     }
                 ],
-                "textLeft": "You can heal wounds, can't ya..."
+                "textLeft": "Puedes curar heridas, ¿verdad?"
             },
             {
                 "chara": [
@@ -185,7 +185,7 @@
                     }
                 ],
                 "nameLeft": "Rena",
-                "textLeft": "Thanks, Iroha."
+                "textLeft": "Gracias, Iroha."
             },
             {
                 "chara": [
@@ -196,7 +196,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-9"
                     }
                 ],
-                "textRight": "It's the least I could do!"
+                "textRight": "¡Es lo menos que podía hacer!"
             },
             {
                 "chara": [
@@ -208,7 +208,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-10"
                     }
                 ],
-                "textRight": "I'm really sorry I can't do more to help..."
+                "textRight": "Siento mucho no poder hacer más para ayudar..."
             },
             {
                 "chara": [
@@ -223,7 +223,7 @@
                     }
                 ],
                 "nameLeft": "Kaede",
-                "textLeft": "You don't...need to apologize for that..."
+                "textLeft": "No... tienes que disculparte por eso..."
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-12"
                     }
                 ],
-                "textLeft": "We can save everyone if we beat Eve."
+                "textLeft": "Podemos salvar a todos si derrotamos a Eve."
             },
             {
                 "chara": [
@@ -249,7 +249,7 @@
                     }
                 ],
                 "nameLeft": "Momoko",
-                "textLeft": "Yeah. The city, the people in it, and your@little sis. We all wanna save 'em."
+                "textLeft": "Sí. La ciudad, la gente que hay en ella y tu@hermanita. Todos queremos salvarlas."
             },
             {
                 "autoTurnLast": 0.01,
@@ -275,7 +275,7 @@
                 ],
                 "nameCenter": "Sayaka",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:2004A09]Don't mess with us!!!",
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:2004A09]¡¡¡No jodas con nosotras!!!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -344,7 +344,7 @@
                 ],
                 "nameLeft": "Sayaka",
                 "nameRight": "Homura",
-                "textLeft": "Huh?! Why didn't that do anything?"
+                "textLeft": "¡¿Eh?! ¿Por qué no ha hecho nada?"
             },
             {
                 "chara": [
@@ -355,7 +355,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-17"
                     }
                 ],
-                "textRight": "Sayaka, calm down!"
+                "textRight": "¡Sayaka, cálmate!"
             },
             {
                 "chara": [
@@ -368,7 +368,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-18"
                     }
                 ],
-                "textLeft": "How can you say that when other Magical@Girls are getting owned?!"
+                "textLeft": "¡¿Cómo puedes decir eso cuando otras Chicas@Mágicas están siendo vencidas?!"
             },
             {
                 "chara": [
@@ -379,7 +379,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-19"
                     }
                 ],
-                "textLeft": "This isn't the time to go cowering in a@corner!"
+                "textLeft": "¡Este no es el momento de acurrucarse en@una esquina!"
             },
             {
                 "chara": [
@@ -392,7 +392,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-20"
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¡¿...?!"
             },
             {
                 "chara": [
@@ -404,7 +404,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-21"
                     }
                 ],
-                "textRight": "I-I didn't, I wasn't trying to..."
+                "textRight": "Y-yo no, yo no estaba intentando..."
             },
             {
                 "chara": [
@@ -419,7 +419,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "Just smashin' it like that you're gonna use@up all your magic and get yourself killed."
+                "textRight": "Atacando así vas a gastar toda tu magia y@conseguirás que te maten."
             },
             {
                 "chara": [
@@ -445,7 +445,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "She's right. We need to find its weak point."
+                "textRight": "Tiene razón. Tenemos que encontrar su punto@débil."
             },
             {
                 "autoTurnLast": 0.2,
@@ -502,7 +502,7 @@
                     }
                 ],
                 "nameCenter": "Madoka",
-                "textCenter": "Eve's moving again!"
+                "textCenter": "¡Eve se mueve de nuevo!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -564,7 +564,7 @@
                 ],
                 "nameLeft": "Tsuruno",
                 "nameRight": "Iroha",
-                "textRight": "This time it's facing...",
+                "textRight": "Esta vez está mirando... ",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -575,7 +575,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-27"
                     }
                 ],
-                "textRight": "...over toward the Suitoku Shopping Center."
+                "textRight": "... hacia el Centro Comercial Suitoku."
             },
             {
                 "chara": [
@@ -585,7 +585,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-28"
                     }
                 ],
-                "textLeft": "That's where Banbanzai is!"
+                "textLeft": "¡Ahí es donde está Banbanzai!"
             },
             {
                 "chara": [
@@ -598,7 +598,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-29"
                     }
                 ],
-                "textLeft": "I have to save it! My grandpa built that@restaurant..."
+                "textLeft": "¡Tengo que salvarlo! Mi abuelo construyó@ese restaurante..."
             },
             {
                 "autoTurnLast": 1,
@@ -628,7 +628,7 @@
                     }
                 ],
                 "nameRight": "Yachiyo",
-                "textRight": "Tsuruno, where are you going?!"
+                "textRight": "Tsuruno: ¡¿A dónde vas?!"
             },
             {
                 "chara": [
@@ -639,7 +639,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-31"
                     }
                 ],
-                "textRight": "You can't save anything if you go alone!"
+                "textRight": "¡No puedes salvar nada si vas sola!"
             },
             {
                 "chara": [
@@ -653,7 +653,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-32"
                     }
                 ],
-                "textLeft": "Well, what SHOULD I do then?!"
+                "textLeft": "¡¿Bueno, entonces qué DEBO hacer?!"
             },
             {
                 "chara": [
@@ -663,7 +663,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-33"
                     }
                 ],
-                "textLeft": "Everyone might've evacuated already,@yeah..."
+                "textLeft": "Puede que todo el mundo haya evacuado ya,@sí..."
             },
             {
                 "chara": [
@@ -674,7 +674,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-34"
                     }
                 ],
-                "textLeft": "But Banbanzai itself can't evacuate!"
+                "textLeft": "¡Pero el propio Banbanzai no puede evacuar!"
             },
             {
                 "chara": [
@@ -685,7 +685,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-35"
                     }
                 ],
-                "textRight": "Calm down. Aren't you supposed to be the@Mightiest Magical Girl?!"
+                "textRight": "Cálmate. ¡¿No se supone que eres la Chica@Mágica Más Poderosa?!"
             },
             {
                 "chara": [
@@ -695,7 +695,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-36"
                     }
                 ],
-                "textRight": "You can't brute force your way past this!"
+                "textRight": "¡No puedes pasar esto por la fuerza bruta!"
             },
             {
                 "chara": [
@@ -706,7 +706,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-37"
                     }
                 ],
-                "textRight": "Remember what we can do at our best!"
+                "textRight": "¡Recuerda lo que podemos hacer en nuestro@mejor momento!"
             },
             {
                 "chara": [
@@ -718,7 +718,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-38"
                     }
                 ],
-                "textLeft": "...?!"
+                "textLeft": "¡¿...?!"
             },
             {
                 "chara": [
@@ -731,7 +731,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-39"
                     }
                 ],
-                "textLeft": "Sorry, Master... Just, we're taking so much@time finding its weak point..."
+                "textLeft": "Lo siento, maestra... Es que estamos tardando@mucho en encontrar su punto débil..."
             },
             {
                 "bgm": "stop",
@@ -748,7 +748,7 @@
                 ],
                 "nameRight": "Felicia",
                 "surround": "7012_tempest",
-                "textRight": "Fine! I'll make a weak point FOR ya!"
+                "textRight": "¡Bien! ¡Haré un punto débil PARA ti!"
             },
             {
                 "chara": [
@@ -763,7 +763,7 @@
                     }
                 ],
                 "nameLeft": "Sana",
-                "textLeft": "Felicia!"
+                "textLeft": "¡Felicia!"
             },
             {
                 "chara": [
@@ -774,7 +774,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-42"
                     }
                 ],
-                "textRight": "I'll smash it so hard with my magic it'll @forget everythin'!"
+                "textRight": "¡Le pegaré tan fuerte con mi magia@que se olvidará de todo!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -845,7 +845,7 @@
                 ],
                 "nameLeft": "",
                 "nameRight": "Mitama",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1017A03]And with this...begone!",
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1017A03]¡Y con esto... se acabó!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -881,7 +881,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "*Pant* *Pant*"
+                "textCenter": "*Jadear* *Jadear*"
             },
             {
                 "chara": [
@@ -891,7 +891,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-46"
                     }
                 ],
-                "textCenter": "No matter how many I kill, more just keep @coming."
+                "textCenter": "No importa cuántos mate, siguen@llegando más."
             },
             {
                 "chara": [
@@ -902,7 +902,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-47"
                     }
                 ],
-                "textCenter": "I suppose this death parade will keep on@marching until everything's gone to ruin..."
+                "textCenter": "Supongo que esta masacre continúe hasta que@todo se vaya al garete..."
             },
             {
                 "chara": [
@@ -913,7 +913,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-48"
                     }
                 ],
-                "textCenter": "(I wished to destroy Kamihama...and now here@I am.)",
+                "textCenter": "(Deseaba destruir a Kamihama... y ahora@aquí estoy.)",
                 "turnEffect": "thinking"
             },
             {
@@ -925,7 +925,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-49"
                     }
                 ],
-                "textCenter": "(Thinking of it in those terms, I really @can't apologize enough to everyone...)"
+                "textCenter": "(Pensándolo en esos términos, realmente no@puedo disculparme lo suficiente con todas...)"
             },
             {
                 "chara": [
@@ -937,7 +937,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-50"
                     }
                 ],
-                "textCenter": "(This must be punishment for trying to @protect this city...)"
+                "textCenter": "(Esto debe ser un castigo por intentar@proteger esta ciudad...)"
             },
             {
                 "autoTurnLast": 0.2,
@@ -971,7 +971,7 @@
                 ],
                 "nameLeft": "Sasara",
                 "nameRight": "Asuka",
-                "textRight": "Mitama! We're all clear over here!",
+                "textRight": "¡Mitama! ¡Todo despejado por aquí!",
                 "turnEffect": "stop"
             },
             {
@@ -982,7 +982,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-52"
                     }
                 ],
-                "textRight": "The townspeople appear to have evacuated!"
+                "textRight": "¡Parece que los habitantes de la ciudad@han evacuado!"
             },
             {
                 "chara": [
@@ -993,7 +993,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-53"
                     }
                 ],
-                "textLeft": "That might actually be a blessing."
+                "textLeft": "Eso podría ser en realidad una bendición."
             },
             {
                 "chara": [
@@ -1003,7 +1003,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-54"
                     }
                 ],
-                "textLeft": "Now we can stop focusing on rescuing@people..."
+                "textLeft": "Ahora podemos dejar de centrarnos en@rescatar a la gente..."
             },
             {
                 "chara": [
@@ -1013,7 +1013,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-55"
                     }
                 ],
-                "textLeft": "And devote ourselves to fighting Familiars."
+                "textLeft": "Y dedicarnos a luchar contra los Familiares."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1042,7 +1042,7 @@
                     }
                 ],
                 "nameCenter": "Mitama",
-                "textCenter": "We can't tell yet when the next wave of@Familiars will show up."
+                "textCenter": "Aún no podemos saber cuándo aparecerá@la próxima oleada de Familiares."
             },
             {
                 "chara": [
@@ -1053,7 +1053,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-57"
                     }
                 ],
-                "textCenter": "I'll give you two these, so you can prepare@for when they do."
+                "textCenter": "Te daré dos de estos, para que puedas@prepararte para cuando lo hagan."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1084,7 +1084,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-59"
                     }
                 ],
-                "textRight": "Grief Seeds?"
+                "textRight": "¿Grief Seeds?"
             },
             {
                 "chara": [
@@ -1094,7 +1094,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-59"
                     }
                 ],
-                "textRight": "Can we really take these?"
+                "textRight": "¿De verdad podemos tomarlas?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -1122,7 +1122,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-61"
                     }
                 ],
-                "textCenter": "Of course. The situation is serious."
+                "textCenter": "Por supuesto. La situación es grave."
             },
             {
                 "chara": [
@@ -1133,7 +1133,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-61"
                     }
                 ],
-                "textCenter": "Consider this a special one-time treat from@your Coordinator."
+                "textCenter": "Considéralo un regalo especial único de@tu Coordinadora."
             },
             {
                 "chara": [
@@ -1143,7 +1143,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-62"
                     }
                 ],
-                "textCenter": "I'll be handing them out to the other girls,@too, so don't worry about them."
+                "textCenter": "También los repartiré entre las demás chicas,@así que no te preocupes por ellas."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1174,7 +1174,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-64"
                     }
                 ],
-                "textRight": "In that case I'll be glad to take one!"
+                "textRight": "¡En ese caso, estaré encantada de coger uno!"
             },
             {
                 "chara": [
@@ -1185,7 +1185,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-64"
                     }
                 ],
-                "textLeft": "We'll move on now and try to find more@Familiars."
+                "textLeft": "Ahora seguiremos adelante e intentaremos@encontrar más Familiares."
             },
             {
                 "chara": [
@@ -1196,7 +1196,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-65"
                     }
                 ],
-                "textRight": "Yes. Let's methodically crush them. "
+                "textRight": "Sí. Destruyámoslos metódicamente. "
             },
             {
                 "autoTurnLast": 0.2,
@@ -1220,7 +1220,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-67"
                     }
                 ],
-                "textRight": "Oh! Speak of the devil... I just sensed more@Familiars."
+                "textRight": "¡Ah! Hablando del diablo... Acabo de@percibir más Familiares."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1248,7 +1248,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-68"
                     }
                 ],
-                "textCenter": "Yes. And they're close."
+                "textCenter": "Sí. Y están cerca."
             },
             {
                 "autoTurnLast": 0.2,
@@ -1279,7 +1279,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-69"
                     }
                 ],
-                "textRight": "Oh no, Sasara!"
+                "textRight": "¡Ay no, Sasara!"
             },
             {
                 "chara": [
@@ -1290,7 +1290,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-69"
                     }
                 ],
-                "textRight": "The magic I'm sensing is back at the school@we were just at!"
+                "textRight": "¡La magia que estoy sintiendo está regresando@a la escuela en la que acabamos de estar!"
             },
             {
                 "chara": [
@@ -1300,7 +1300,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-70"
                     }
                 ],
-                "textLeft": "They're targeting the evacuees?!"
+                "textLeft": "¡¿Están apuntando a los evacuados?!"
             },
             {
                 "chara": [
@@ -1313,7 +1313,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-10-71"
                     }
                 ],
-                "textLeft": "Saving human lives is the priority here...@Asuka, come on! Hurry!"
+                "textLeft": "Salvar vidas humanas es la prioridad aquí...@¡Asuka, vamos! ¡Date prisa!"
             },
             {
                 "autoTurnLast": 1,
@@ -1341,7 +1341,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-10-73"
                     }
                 ],
-                "textCenter": "I'll help you!"
+                "textCenter": "¡Te ayudaré!"
             },
             {
                 "autoTurnLast": 1,
@@ -1378,10 +1378,10 @@
                 ],
                 "nameLeft": "",
                 "nameRight": "",
-                "textLeft": "Bwharm!"
+                "textLeft": "¡Bwharm!"
             },
             {
-                "textRight": "Bwhotsh whbots!"
+                "textRight": "¡Bwhotsh whbots!"
             },
             {
                 "autoTurnLast": 2,

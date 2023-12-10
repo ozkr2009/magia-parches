@@ -33,7 +33,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "nameRight": "Sana",
-                "textLeft": "Let you handle this? Sana, what are you...",
+                "textLeft": "¿Dejarte manejar esto? ¿Qué estás...?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -45,7 +45,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-1"
                     }
                 ],
-                "textRight": "I can lock it in place with my chains!"
+                "textRight": "¡Puedo inmovilizarlo con mis cadenas!"
             },
             {
                 "chara": [
@@ -55,7 +55,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-2"
                     }
                 ],
-                "textRight": "Hurry and search for its weakness while I@keep it still!"
+                "textRight": "¡Date prisa y busca su punto débil mientras@yo la mantengo quieta!"
             },
             {
                 "chara": [
@@ -76,7 +76,7 @@
                     }
                 ],
                 "nameLeft": "Kyoko",
-                "textLeft": "You gonna do that all on your own?"
+                "textLeft": "¿Vas a hacer eso tú sola?"
             },
             {
                 "chara": [
@@ -88,7 +88,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-4"
                     }
                 ],
-                "textLeft": "I tell ya, it's always the ones who look@like weaklin's who've got the biggest guts."
+                "textLeft": "¿Ven? Las que parecen débiles siempre son@las que tienen más agallas."
             },
             {
                 "chara": [
@@ -99,7 +99,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-5"
                     }
                 ],
-                "textLeft": "Here, I'll help ya out."
+                "textLeft": "Toma, te ayudaré."
             },
             {
                 "chara": [
@@ -114,7 +114,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "I will, too!"
+                "textLeft": "Yo también."
             },
             {
                 "chara": [
@@ -126,7 +126,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-7"
                     }
                 ],
-                "textLeft": "We're trying to restrain a truly monstrous@Witch."
+                "textLeft": "Estamos intentando contener a una bruja@realmente monstruosa."
             },
             {
                 "chara": [
@@ -139,7 +139,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-8"
                     }
                 ],
-                "textLeft": "The more help you have the better, correct?"
+                "textLeft": "Cuanta más ayuda tengas, mejor, ¿verdad?"
             },
             {
                 "chara": [
@@ -152,7 +152,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-9"
                     }
                 ],
-                "textRight": "Ohhh! Thank you both so much!"
+                "textRight": "¡Ohhh! ¡Muchas gracias a los dos!"
             },
             {
                 "chara": [
@@ -165,7 +165,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-10"
                     }
                 ],
-                "textLeft": "Everyone, please!"
+                "textLeft": "¡Todos, por favor!"
             },
             {
                 "chara": [
@@ -175,7 +175,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-11"
                     }
                 ],
-                "textLeft": "Help us secure the ribbons and chains to the@ground!"
+                "textLeft": "¡Ayudennos a asegurar las cintas y las@cadenas al suelo!"
             },
             {
                 "chara": [
@@ -190,7 +190,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Got it!"
+                "textRight": "¡Entendido!"
             },
             {
                 "chara": [
@@ -205,7 +205,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Yes! Let's pin Eve down with our arrows,@Madoka!"
+                "textLeft": "¡Sí! ¡Vamos a inmovilizar a Eve con@nuestras flechas, Madoka!"
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-14"
                     }
                 ],
-                "textRight": "Okay!"
+                "textRight": "¡De acuerdo!"
             },
             {
                 "chara": [
@@ -239,7 +239,7 @@
                 ],
                 "nameLeft": "Yachiyo",
                 "nameRight": "Felicia",
-                "textRight": "What should I do?!"
+                "textRight": "¡¿Qué debo hacer?!"
             },
             {
                 "chara": [
@@ -250,7 +250,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-16"
                     }
                 ],
-                "textRight": "I have a hammer. All I do is bash stuff."
+                "textRight": "Tengo un martillo. Lo único que hago@es golpear cosas."
             },
             {
                 "chara": [
@@ -261,7 +261,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-17"
                     }
                 ],
-                "textLeft": "I'll generate some spears. You can use those."
+                "textLeft": "Generaré algunas lanzas. Puedes usarlas."
             },
             {
                 "chara": [
@@ -272,7 +272,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-18"
                     }
                 ],
-                "textRight": "Oooh!"
+                "textRight": "¡Uooh!"
             },
             {
                 "chara": [
@@ -285,7 +285,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-8-19"
                     }
                 ],
-                "textRight": "Nice! I get to chuck spears around!"
+                "textRight": "¡Bien! ¡Ahora puedo lanzar lanzas!"
             },
             {
                 "chara": [
@@ -300,7 +300,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "Don't hog all of them for yourself, Felicia!"
+                "textLeft": "¡No las acapares todas para ti, Felicia!"
             },
             {
                 "autoTurnLast": 2,

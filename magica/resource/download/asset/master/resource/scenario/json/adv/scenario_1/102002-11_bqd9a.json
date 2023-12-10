@@ -74,7 +74,7 @@
                         "voiceFull": "fullvoice/section_102002/vo_full_102002-11-2"
                     }
                 ],
-                "textRight": "*Pant* *Pant* That's it for the time@being..."
+                "textRight": "*Jadear* *Jadear* Eso es todo por el momento..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -109,7 +109,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-3"
                     }
                 ],
-                "textRight": "I'm, like, totally beat!"
+                "textRight": "Estoy, como, totalmente derrotada..."
             },
             {
                 "chara": [
@@ -122,7 +122,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-4"
                     }
                 ],
-                "textLeft": "I want to say, \"This is no time for whining.\""
+                "textLeft": "Quisiera decir, \"No es momento de quejarse\"."
             },
             {
                 "chara": [
@@ -134,7 +134,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-5"
                     }
                 ],
-                "textLeft": "...but honestly, this is getting rough for @me, too."
+                "textLeft": "...pero sinceramente, esto también se@está poniendo duro para mí."
             },
             {
                 "chara": [
@@ -147,7 +147,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-6"
                     }
                 ],
-                "textRight": "Oh my god, right?!"
+                "textRight": "¡¿Cielos, verdad?!"
             },
             {
                 "chara": [
@@ -160,7 +160,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-7"
                     }
                 ],
-                "textLeft": "What're you getting all happy about? Idiot!"
+                "textLeft": "¡¿Por qué te pones tan contenta,@idiota?!"
             },
             {
                 "chara": [
@@ -172,7 +172,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-8"
                     }
                 ],
-                "textLeft": "Sorry about this, you two."
+                "textLeft": "Me disculpo por eso."
             },
             {
                 "chara": [
@@ -183,7 +183,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-9"
                     }
                 ],
-                "textLeft": "You went out of your way to bring us Grief@Seeds and here we are being weaklings."
+                "textLeft": "Te esforzaste mucho para traernos Grief Seeds@y aquí estamos siendo unas debiluchas."
             },
             {
                 "chara": [
@@ -206,7 +206,7 @@
                 ],
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textRight": "No, we're not in any better shape."
+                "textRight": "No, no estamos en las mejores condiciones."
             },
             {
                 "chara": [
@@ -217,7 +217,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-11"
                     }
                 ],
-                "textLeft": "For sure."
+                "textLeft": "Es verdad."
             },
             {
                 "autoTurnLast": 0.01,
@@ -289,8 +289,8 @@
                     }
                 ],
                 "nameLeft": "Hinano",
-                "nameRight": "Emiri",
-                "textLeft": "It's finally here, huh.",
+                "nameRight": "Tsukasa",
+                "textLeft": "Por fin está aquí, eh.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -314,7 +314,7 @@
                 ],
                 "nameLeft": "Tsukuyo",
                 "nameRight": "Tsukasa",
-                "textRight": "Mitama probably noticed, too..."
+                "textRight": "Mitama probablemente también se haya dado@cuenta..."
             },
             {
                 "chara": [
@@ -325,7 +325,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-15"
                     }
                 ],
-                "textLeft": "I believe so, yes."
+                "textLeft": "Creo que sí."
             },
             {
                 "chara": [
@@ -337,7 +337,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-16"
                     }
                 ],
-                "textLeft": "Tsukasa... You should try to get in contact@with her."
+                "textLeft": "Tsukasa... Deberías intentar ponerte en@contacto con ella."
             },
             {
                 "chara": [
@@ -350,7 +350,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-17"
                     }
                 ],
-                "textRight": "Sure!"
+                "textRight": "¡Claro!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -380,7 +380,7 @@
                     }
                 ],
                 "surround": "7202_telepathy",
-                "textRight": "Mitama! Can you hear me?",
+                "textRight": "¡Mitama! ¿Puedes oírme?",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "ef_adv_02"
             },
@@ -394,7 +394,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-19"
                     }
                 ],
-                "textRight": "Mitama?!"
+                "textRight": "¡¿Mitama?!"
             },
             {
                 "chara": [
@@ -409,7 +409,7 @@
                     }
                 ],
                 "nameLeft": "Mitama",
-                "textLeft": "Tsukasa?!"
+                "textLeft": "¡¿Tsukasa?!"
             },
             {
                 "chara": [
@@ -427,7 +427,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Thank goodness!"
+                "textLeft": "¡Gracias al cielo!"
             },
             {
                 "chara": [
@@ -438,7 +438,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-22"
                     }
                 ],
-                "textLeft": "I was just wondering what to do... I couldn't@reach you before. I was out of range."
+                "textLeft": "Me preguntaba qué hacer... No podía contactarme@contigo. Estaba fuera de alcance."
             },
             {
                 "chara": [
@@ -448,7 +448,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-23"
                     }
                 ],
-                "textRight": "You were trying to reach me?"
+                "textRight": "¿Intentabas localizarme?"
             },
             {
                 "chara": [
@@ -460,7 +460,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-24"
                     }
                 ],
-                "textLeft": "Yes. Walpurgisnacht is here."
+                "textLeft": "Sí. Walpurgisnacht está aquí."
             },
             {
                 "chara": [
@@ -471,7 +471,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-25"
                     }
                 ],
-                "textRight": "I knew you'd notice."
+                "textRight": "Sabía que te darías cuenta."
             },
             {
                 "chara": [
@@ -484,7 +484,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-26"
                     }
                 ],
-                "textLeft": "Yes. The situation has gotten even more@grave..."
+                "textLeft": "La situación se ha vuelto aún más grave..."
             },
             {
                 "chara": [
@@ -494,7 +494,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-27"
                     }
                 ],
-                "textLeft": "But there may be a way for us to turn this@situation to our advantage."
+                "textLeft": "Pero puede que haya una forma de convertir esta@situación en una ventaja para nosotras."
             },
             {
                 "chara": [
@@ -505,7 +505,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-28"
                     }
                 ],
-                "textRight": "Our...advantage?"
+                "textRight": "¿Nuestra... ventaja?"
             },
             {
                 "chara": [
@@ -516,7 +516,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-29"
                     }
                 ],
-                "textLeft": "Yes."
+                "textLeft": "Sí."
             },
             {
                 "chara": [
@@ -526,7 +526,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-30"
                     }
                 ],
-                "textLeft": "We can fight the Familiars, but we'll never@beat them all while the Witch is alive."
+                "textLeft": "Podemos luchar contra los Familiares, pero nunca@los venceremos a todos mientras la Bruja esté viva."
             },
             {
                 "chara": [
@@ -536,7 +536,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-31"
                     }
                 ],
-                "textLeft": "Eventually we'll be driven into a corner."
+                "textLeft": "Al final nos vencerán."
             },
             {
                 "chara": [
@@ -549,7 +549,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-32"
                     }
                 ],
-                "textRight": "I see... So we'll target the Witch?"
+                "textRight": "Ya veo... ¿Entonces nos centraremos en@la bruja?"
             },
             {
                 "chara": [
@@ -560,7 +560,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-33"
                     }
                 ],
-                "textLeft": "Yes."
+                "textLeft": "Sí."
             },
             {
                 "chara": [
@@ -570,7 +570,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-34"
                     }
                 ],
-                "textLeft": "Eve and Walpurgisnacht... We'll destroy both@of them."
+                "textLeft": "Eve y Walpurgisnacht... Las destruiremos@a ambas."
             },
             {
                 "chara": [
@@ -581,7 +581,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-35"
                     }
                 ],
-                "textLeft": "It doesn't change the fact that the situation@has gotten much worse..."
+                "textLeft": "Eso no cambia el hecho de que la situación@ha empeorado mucho..."
             },
             {
                 "chara": [
@@ -591,7 +591,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-36"
                     }
                 ],
-                "textLeft": "But I believe consolidating our forces is@more advantageous than being spread out."
+                "textLeft": "Pero creo que consolidar nuestras fuerzas es@más ventajoso que estar dispersas."
             },
             {
                 "autoTurnFirst": 2,
@@ -604,7 +604,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textRight": "Yeah... We don't have any other choice, @do we?"
+                "textRight": "Sí... No tenemos otra opción, ¿verdad?"
             },
             {
                 "chara": [
@@ -624,7 +624,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 0,
-                "textLeft": "What do you think?"
+                "textLeft": "¿Qué te parece?"
             },
             {
                 "chara": [
@@ -635,7 +635,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-39"
                     }
                 ],
-                "textRight": "Hinano's also with me, so I'll ask her what@she thinks."
+                "textRight": "Hinano también está conmigo, así que le@preguntaré qué opina."
             },
             {
                 "chara": [
@@ -646,7 +646,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-40"
                     }
                 ],
-                "textLeft": "Yes, please do get her opinion."
+                "textLeft": "Sí, por favor, pídele su opinión."
             },
             {
                 "chara": [
@@ -656,7 +656,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-41"
                     }
                 ],
-                "textLeft": "If she's on board then contact everyone@else too. They should cooperate."
+                "textLeft": "Si ella está de acuerdo, entonces contacta con@todos los demás también. Deberían cooperar."
             },
             {
                 "chara": [
@@ -666,7 +666,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-42"
                     }
                 ],
-                "textRight": "All right."
+                "textRight": "De acuerdo."
             },
             {
                 "armatureList": [
@@ -730,7 +730,7 @@
                     }
                 ],
                 "nameLeft": "Hinano",
-                "textLeft": "I know what you're going to suggest."
+                "textLeft": "Sé lo que vas a sugerir."
             },
             {
                 "chara": [
@@ -740,7 +740,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-45"
                     }
                 ],
-                "textLeft": "At the moment, all we can do is fend off the@Familiars..."
+                "textLeft": "Por el momento, todo lo que podemos hacer es@defendernos de los Familiares..."
             },
             {
                 "chara": [
@@ -750,7 +750,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-46"
                     }
                 ],
-                "textLeft": "But if Walpurgisnacht is here, that's a whole@other story."
+                "textLeft": "Pero si Walpurgisnacht está aquí, eso es@otra historia."
             },
             {
                 "chara": [
@@ -761,7 +761,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-47"
                     }
                 ],
-                "textLeft": "I think we'd better regroup."
+                "textLeft": "Creo que será mejor que nos reagrupemos."
             },
             {
                 "chara": [
@@ -776,7 +776,7 @@
                     }
                 ],
                 "nameLeft": "Tsukuyo",
-                "textLeft": "Tsukasa!"
+                "textLeft": "¡Tsukasa!"
             },
             {
                 "chara": [
@@ -787,7 +787,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-49"
                     }
                 ],
-                "textRight": "Yes, Tsukuyo! Let's go spread the word!"
+                "textRight": "¡Sí, Tsukuyo! ¡Vamos a correr la voz!"
             },
             {
                 "chara": [
@@ -798,7 +798,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-50"
                     }
                 ],
-                "textLeft": "We must! After all, Walpurgisnacht and Eve@work like any other Witch."
+                "textLeft": "¡Debemos hacerlo! Después de todo, Walpurgisnacht@y Eve funcionan como cualquier otra bruja."
             },
             {
                 "chara": [
@@ -808,7 +808,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-51"
                     }
                 ],
-                "textLeft": "Cut off the source of their powers, and all@their Familiars shall crumble as one!"
+                "textLeft": "¡Corta la fuente de sus poderes, y todos sus@Familiares se desmoronarán como una sola!"
             },
             {
                 "chara": [
@@ -821,7 +821,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-52"
                     }
                 ],
-                "textRight": "Wait. Eve..."
+                "textRight": "Espera. Eve..."
             },
             {
                 "chara": [
@@ -831,7 +831,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-53"
                     }
                 ],
-                "textRight": "Cut off the power source? And it'll crumble?"
+                "textRight": "¿Cortar la fuente de poder? ¿Y se desmoronará?"
             },
             {
                 "chara": [
@@ -842,7 +842,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-54"
                     }
                 ],
-                "textLeft": "Yes! Cut it off at the source!"
+                "textLeft": "¡Sí! ¡Córtala desde la fuente!"
             },
             {
                 "chara": [
@@ -852,7 +852,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-55"
                     }
                 ],
-                "textLeft": "[chara:101800:cheek_0][chara:101800:face_mtn_ex_050.exp.json][chara:101800:lipSynch_1][chara:101800:voiceFull_fullvoice/section_102002/vo_full_102002-11-56]Wait..."
+                "textLeft": "[chara:101800:cheek_0][chara:101800:face_mtn_ex_050.exp.json][chara:101800:lipSynch_1][chara:101800:voiceFull_fullvoice/section_102002/vo_full_102002-11-56]Espera..."
             },
             {
                 "chara": [
@@ -865,7 +865,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-56"
                     }
                 ],
-                "textRight": "Huh?"
+                "textRight": "¿Eh?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -890,7 +890,7 @@
                 ],
                 "nameCenter": "Tsukasa",
                 "nameRight": "Hinano",
-                "textRight": "What's got you twins looking so stunned?"
+                "textRight": "¿Por qué están tan aturdidas, par de gemelas?"
             },
             {
                 "chara": [
@@ -904,7 +904,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Aaaaaaaaah!!!"
+                "textLeft": "¡¡¡Aaaaaaaaah!!!"
             },
             {
                 "chara": [
@@ -918,7 +918,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Waaaaaargh!!!"
+                "textRight": "¡¡¡Waaaaaargh!!!"
             },
             {
                 "chara": [
@@ -931,7 +931,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-60"
                     }
                 ],
-                "textLeft": "I've just remembered Eve's weak point!"
+                "textLeft": "¡Acabo de recordar el punto débil de Eve!"
             },
             {
                 "chara": [
@@ -945,7 +945,7 @@
                     }
                 ],
                 "nameCenter": "Tsukasa",
-                "textCenter": "We need to get back in contact with Mitama,@stat!"
+                "textCenter": "¡Tenemos que volver a contactar con Mitama,@ya!"
             },
             {
                 "chara": [
@@ -956,7 +956,7 @@
                         "voiceFullStop": "fullvoice/section_102002/vo_full_102002-11-62"
                     }
                 ],
-                "textLeft": "Yes! And Iroha, too!"
+                "textLeft": "¡Sí! ¡Y con Iroha también!"
             },
             {
                 "chara": [
@@ -970,7 +970,7 @@
                     }
                 ],
                 "nameRight": "Hinano",
-                "textRight": "Heyyy, you two! Calm down!"
+                "textRight": "¡Oígan! ¡Cálmense!"
             },
             {
                 "autoTurnLast": 2,
