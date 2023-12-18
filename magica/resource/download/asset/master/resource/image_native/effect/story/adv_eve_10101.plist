@@ -7,9 +7,9 @@
 			<key>1010_cut_09_chara01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>495</integer>
+				<integer>557</integer>
 				<key>height</key>
-				<integer>894</integer>
+				<integer>907</integer>
 				<key>originalWidth</key>
 				<integer>557</integer>
 				<key>originalHeight</key>
@@ -19,22 +19,22 @@
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
-				<real>19</real>
+				<real>0</real>
 				<key>offsetY</key>
-				<real>-6.5</real>
+				<real>0</real>
 			</dict>
-			<key>1010_tree02.png</key>
+			<key>1010_cut_06_bg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>461</integer>
+				<integer>512</integer>
 				<key>height</key>
-				<integer>787</integer>
+				<integer>371</integer>
 				<key>originalWidth</key>
-				<integer>461</integer>
+				<integer>512</integer>
 				<key>originalHeight</key>
-				<integer>787</integer>
+				<integer>371</integer>
 				<key>x</key>
-				<integer>496</integer>
+				<integer>559</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -42,18 +42,56 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>1010_tree01.png</key>
+			<key>1010_cut_04_charar.png</key>
 			<dict>
 				<key>width</key>
-				<integer>597</integer>
+				<integer>803</integer>
 				<key>height</key>
-				<integer>1004</integer>
+				<integer>1111</integer>
 				<key>originalWidth</key>
-				<integer>597</integer>
+				<integer>803</integer>
 				<key>originalHeight</key>
-				<integer>1004</integer>
+				<integer>1111</integer>
 				<key>x</key>
-				<integer>958</integer>
+				<integer>0</integer>
+				<key>y</key>
+				<integer>909</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>1010_cut_04_bg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>512</integer>
+				<key>height</key>
+				<integer>371</integer>
+				<key>originalWidth</key>
+				<integer>512</integer>
+				<key>originalHeight</key>
+				<integer>371</integer>
+				<key>x</key>
+				<integer>559</integer>
+				<key>y</key>
+				<integer>373</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>1010_cut_03_hand.png</key>
+			<dict>
+				<key>width</key>
+				<integer>768</integer>
+				<key>height</key>
+				<integer>557</integer>
+				<key>originalWidth</key>
+				<integer>768</integer>
+				<key>originalHeight</key>
+				<integer>557</integer>
+				<key>x</key>
+				<integer>1073</integer>
 				<key>y</key>
 				<integer>0</integer>
 				<key>offsetX</key>
@@ -61,20 +99,39 @@
 				<key>offsetY</key>
 				<real>0</real>
 			</dict>
-			<key>1010_cut_10_bg.png</key>
+			<key>1010_cut_03_bg.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1024</integer>
+				<integer>512</integer>
 				<key>height</key>
-				<integer>787</integer>
+				<integer>371</integer>
 				<key>originalWidth</key>
-				<integer>1024</integer>
+				<integer>512</integer>
 				<key>originalHeight</key>
-				<integer>787</integer>
+				<integer>371</integer>
 				<key>x</key>
-				<integer>0</integer>
+				<integer>1073</integer>
 				<key>y</key>
-				<integer>1005</integer>
+				<integer>559</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>1010_cut_02_bg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>512</integer>
+				<key>height</key>
+				<integer>384</integer>
+				<key>originalWidth</key>
+				<integer>512</integer>
+				<key>originalHeight</key>
+				<integer>384</integer>
+				<key>x</key>
+				<integer>805</integer>
+				<key>y</key>
+				<integer>932</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
@@ -83,17 +140,36 @@
 			<key>1010_cut_01_tx01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>945</integer>
+				<integer>553</integer>
 				<key>height</key>
-				<integer>116</integer>
+				<integer>122</integer>
 				<key>originalWidth</key>
-				<integer>945</integer>
+				<integer>553</integer>
 				<key>originalHeight</key>
-				<integer>116</integer>
+				<integer>122</integer>
 				<key>x</key>
-				<integer>1025</integer>
+				<integer>805</integer>
 				<key>y</key>
-				<integer>1005</integer>
+				<integer>1318</integer>
+				<key>offsetX</key>
+				<real>0</real>
+				<key>offsetY</key>
+				<real>0</real>
+			</dict>
+			<key>1010_cut_01_bg.png</key>
+			<dict>
+				<key>width</key>
+				<integer>768</integer>
+				<key>height</key>
+				<integer>576</integer>
+				<key>originalWidth</key>
+				<integer>768</integer>
+				<key>originalHeight</key>
+				<integer>576</integer>
+				<key>x</key>
+				<integer>805</integer>
+				<key>y</key>
+				<integer>1442</integer>
 				<key>offsetX</key>
 				<real>0</real>
 				<key>offsetY</key>
