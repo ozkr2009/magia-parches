@@ -47,7 +47,7 @@
                 ],
                 "nameLeft": "Kyoko",
                 "nameRight": "Sayaka",
-                "textRight": "Ah! Kyoko?"
+                "textRight": "¡Ah! ¿Kyoko?"
             },
             {
                 "chara": [
@@ -58,7 +58,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "...Huh?"
+                "textLeft": "... ¿Eh?"
             },
             {
                 "chara": [
@@ -68,7 +68,7 @@
                         "id": 200601
                     }
                 ],
-                "textLeft": "Why are all four of you together?"
+                "textLeft": "¿Por qué están las cuatro juntas?"
             },
             {
                 "chara": [
@@ -81,7 +81,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "Well..."
+                "textRight": "Bueno..."
             },
             {
                 "chara": [
@@ -89,7 +89,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "What about you? It's unusual for you to come@all the way to Mitakihara."
+                "textRight": "¿Qué hay de ti? Es inusual que hayas venido@hasta Mitakihara."
             },
             {
                 "chara": [
@@ -99,7 +99,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "...Has something happened?"
+                "textRight": "... ¿Pasó algo?"
             },
             {
                 "chara": [
@@ -121,7 +121,7 @@
                         "id": 200601
                     }
                 ],
-                "textLeft": "I was just huntin' down a Witch."
+                "textLeft": "Sólo estaba cazando una Bruja."
             },
             {
                 "chara": [
@@ -134,7 +134,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "A Witch?"
+                "textRight": "¿Una Bruja?"
             },
             {
                 "chara": [
@@ -147,7 +147,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Are they back in Kazamino too?"
+                "textRight": "¿Ellas también regresaron a Kazamino?"
             },
             {
                 "chara": [
@@ -156,7 +156,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Pretty much."
+                "textLeft": "Pues sí."
             },
             {
                 "chara": [
@@ -166,7 +166,7 @@
                         "id": 200601
                     }
                 ],
-                "textLeft": "There's this crazy one, keeps wanderin' from@place to place."
+                "textLeft": "Y está esta que no deja de moverse de@un sitio a otro."
             },
             {
                 "chara": [
@@ -179,7 +179,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "A moving Witch?"
+                "textRight": "¿Una Bruja errante?"
             },
             {
                 "chara": [
@@ -189,7 +189,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "...There are people missing in Kazamino@too."
+                "textRight": "... También hay gente desaparecida en@Kazamino."
             },
             {
                 "chara": [
@@ -198,7 +198,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Are those missing persons cases related to@the Witch?"
+                "textRight": "¿Esos casos de personas desaparecidas están@relacionados con esa Bruja?"
             },
             {
                 "chara": [
@@ -209,7 +209,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "[chara:200601:effect_emotion_surprise_0][se:7226_shock]...?!"
+                "textLeft": "[chara:200601:effect_emotion_surprise_0][se:7226_shock]¡¿...?!"
             },
             {
                 "chara": [
@@ -220,7 +220,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "What's it to you?"
+                "textLeft": "¿Eso importa?"
             },
             {
                 "chara": [
@@ -231,7 +231,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "...So they are."
+                "textRight": "... Entonces lo son."
             },
             {
                 "chara": [
@@ -240,7 +240,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Hey, she's my prey. Keep your hands off."
+                "textLeft": "Oye, ella es mi presa.@Mantén tus manos fuera."
             },
             {
                 "chara": [
@@ -248,7 +248,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "But isn't she in Mitakihara now?"
+                "textRight": "¿Pero no está ella ahora en Mitakihara?"
             },
             {
                 "chara": [
@@ -258,7 +258,7 @@
                         "id": 200601
                     }
                 ],
-                "textLeft": "You sayin' I gotta give 'er up? I found her@first, ya know."
+                "textLeft": "¿Dices que tengo que cederla?@Yo la encontré primero, ¿entiendes?"
             },
             {
                 "chara": [
@@ -269,7 +269,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yes, but now she's in Mitakihara. She might@already be hurting people."
+                "textRight": "Sí, pero ahora está en Mitakihara.@Puede que ya esté haciendo daño a la gente."
             },
             {
                 "chara": [
@@ -277,7 +277,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "We can't let her cause any more damage in@our territory."
+                "textRight": "No podemos dejar que cause más daño en@nuestro territorio."
             },
             {
                 "chara": [
@@ -288,7 +288,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "...I get it."
+                "textLeft": "... Lo entiendo."
             },
             {
                 "chara": [
@@ -296,7 +296,7 @@
                         "id": 200601
                     }
                 ],
-                "textLeft": "You guys're after her too, huh."
+                "textLeft": "Ustedes también están detrás de ella, eh."
             },
             {
                 "chara": [
@@ -305,7 +305,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I'll say this now. I'm not backin' off."
+                "textLeft": "Voy a decir esto ahora. No me voy a rendir."
             },
             {
                 "chara": [
@@ -316,7 +316,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "And if you're insistin' on gettin' in my@way..."
+                "textLeft": "Y si insisten en meterse en mi camino..."
             },
             {
                 "chara": [
@@ -327,7 +327,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Wait!"
+                "textRight": "¡Espera!"
             },
             {
                 "chara": [
@@ -335,7 +335,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "I'm not telling you to back off. I just...@Can't we work together?"
+                "textRight": "No te estoy diciendo que te rindas. Yo sólo...@¿No podemos trabajar juntas?"
             },
             {
                 "chara": [
@@ -346,7 +346,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Say what? ...Work together? And why would@I do that?"
+                "textLeft": "¿Qué has dicho?... ¿Trabajar juntas?@¿Y por qué haría eso?"
             },
             {
                 "chara": [
@@ -359,7 +359,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Hey, let's keep calm now! Fighting here won't@help anyone."
+                "textRight": "¡Oigan, cálmense ahora!@Pelear aquí no ayudará a nadie."
             },
             {
                 "chara": [
@@ -372,7 +372,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Yeah, it's not like we're trying to pull one@over on ya or anything."
+                "textRight": "Sí, no es que estemos tratando de engañarte@o algo así."
             },
             {
                 "chara": [
@@ -380,7 +380,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "It'd be all right to at least share info,@right?"
+                "textRight": "Estaría bien al menos compartir información,@¿verdad?"
             },
             {
                 "chara": [
@@ -406,7 +406,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Yeah, and we can decide what to do after@that."
+                "textRight": "Sí, y podemos decidir qué hacer después@de eso."
             },
             {
                 "chara": [
@@ -418,7 +418,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "...Fine. I could use any tips ya got anyway."
+                "textLeft": "... Está bien. De todos modos, me vendría bien@cualquier pista que tuvieran."
             },
             {
                 "chara": [
@@ -431,7 +431,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "Good, then let's go. We were going to plan@out our stategy at my place."
+                "textRight": "Bien, entonces vamos. Íbamos a planear@nuestra estrategia en mi casa."
             },
             {
                 "chara": [
@@ -439,7 +439,7 @@
                         "id": 200601
                     }
                 ],
-                "textLeft": "...Okay."
+                "textLeft": "... De acuerdo."
             },
             {
                 "autoTurnLast": 0.2,
@@ -477,7 +477,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Sayaka",
-                "textRight": "*Sigh* She never did like cooperating."
+                "textRight": "*Suspiro* Nunca le ha gustado cooperar."
             },
             {
                 "chara": [
@@ -487,7 +487,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "And about the meeting we're gonna have about@what the Magius did."
+                "textRight": "Y sobre la reunión que vamos a tener sobre@todo lo que hizo Magius."
             },
             {
                 "chara": [
@@ -495,7 +495,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "You think Kyoko'll show up? I mean, it's a@problem for all us Magical Girls, so..."
+                "textRight": "¿Creen que Kyoko irá? Digo, es un problema@para todas las Chicas Mágicas, así que..."
             },
             {
                 "chara": [
@@ -513,7 +513,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "And when Mami's here, she seems especially...@You know?"
+                "textLeft": "Y cuando Mami está aquí,@parece muy... ¿Sabes?"
             },
             {
                 "chara": [
@@ -524,7 +524,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yeah..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -532,7 +532,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "I guess we can't expect them to play nice@all of a sudden."
+                "textRight": "Supongo que no podemos esperar a que@se lleven bien de repente."
             },
             {
                 "chara": [
@@ -540,7 +540,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "But they worked together against@Walpurgisnacht just fine."
+                "textRight": "Pero trabajaron muy bien juntas contra@Walpurgisnacht."
             },
             {
                 "chara": [
@@ -549,7 +549,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "Yeah, I'm sure the way things are now isn't@any good for either of them."
+                "textLeft": "Sí, estoy segura de que tal y como están las@cosas ahora, no es bueno para ninguna."
             },
             {
                 "chara": [
@@ -560,7 +560,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "You got that right."
+                "textRight": "Tienes razón."
             },
             {
                 "autoTurnLast": 0.2,

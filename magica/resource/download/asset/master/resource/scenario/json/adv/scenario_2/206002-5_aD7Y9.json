@@ -31,7 +31,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Homura",
-                "textLeft": "*Giggle*",
+                "textLeft": "*Risita*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -42,7 +42,7 @@
                         "id": 200301
                     }
                 ],
-                "textRight": "Madoka?"
+                "textRight": "¿Madoka?"
             },
             {
                 "chara": [
@@ -51,7 +51,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I was just thinking, I'm glad I became a@Magical Girl, too."
+                "textLeft": "Sólo pensaba que también me alegro de@haberme convertido en una Chica Mágica."
             },
             {
                 "chara": [
@@ -60,7 +60,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "What..."
+                "textRight": "¿Qué...?"
             },
             {
                 "chara": [
@@ -70,7 +70,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "I got to meet everyone like this."
+                "textLeft": "Pude conocer a todas de esta manera."
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "And more than anything, I have faith!"
+                "textLeft": "Y sobre todo, ¡tengo fe!"
             },
             {
                 "chara": [
@@ -88,7 +88,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "In the future, in our hopes... I believe in@them."
+                "textLeft": "En el futuro, en nuestras esperanzas...@Creo en ellas."
             },
             {
                 "chara": [
@@ -100,7 +100,7 @@
                         "motion": 201
                     }
                 ],
-                "textLeft": "And that's because I became friends with@such wonderful people."
+                "textLeft": "Y eso es porque me hice amiga de personas@tan maravillosas."
             },
             {
                 "chara": [
@@ -113,7 +113,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "*Giggle* I'm starting to get embarrassed."
+                "textLeft": "*Risilla* Estoy empezando a avergonzarme."
             },
             {
                 "chara": [
@@ -126,7 +126,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Hahaha, yeah. I totally believe, too."
+                "textRight": "Jajaja, sí. Yo también lo creo totalmente."
             },
             {
                 "chara": [
@@ -136,7 +136,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "In the future AND our hopes!"
+                "textRight": "¡En el futuro Y nuestras esperanzas!"
             },
             {
                 "chara": [
@@ -150,7 +150,7 @@
                     }
                 ],
                 "nameLeft": "Kyoko",
-                "textLeft": "*Chuckle* "
+                "textLeft": "*Risita* "
             },
             {
                 "autoTurnLast": 0.2,
@@ -187,7 +187,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(That time...)",
+                "textCenter": "(Esa vez...)",
                 "turnEffect": "thinking"
             },
             {
@@ -213,7 +213,7 @@
                         "id": 200301
                     }
                 ],
-                "textCenter": "I have to tell everyone!",
+                "textCenter": "¡Tengo que decírselo a todas!",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -224,7 +224,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "We're all being tricked by Kyubey!"
+                "textCenter": "¡Todas estamos siendo engañadas por Kyubey!"
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                         "id": 200301
                     }
                 ],
-                "textCenter": "Oh...but..."
+                "textCenter": "Oh... pero..."
             },
             {
                 "chara": [
@@ -243,7 +243,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "Even if I try to explain..."
+                "textCenter": "Incluso si intentara explicarlo..."
             },
             {
                 "chara": [
@@ -252,7 +252,7 @@
                         "motion": 1
                     }
                 ],
-                "textCenter": "...they might not believe me."
+                "textCenter": "... podrían no creerme."
             },
             {
                 "chara": [
@@ -286,7 +286,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I didn't think they'd believe me.)",
+                "textCenter": "(No pensé que me creerían.)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -299,7 +299,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I didn't think they could accept our fate.)"
+                "textCenter": "(No creí que pudieran aceptar nuestro destino.)"
             },
             {
                 "chara": [
@@ -308,7 +308,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(But...)"
+                "textCenter": "(Pero...)"
             },
             {
                 "chara": [
@@ -317,7 +317,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(But even knowing it was our fate to become@Witches, they did.)"
+                "textCenter": "(Pero aún sabiendo que nuestro destino era@convertirnos en Brujas, lo hicieron.)"
             },
             {
                 "chara": [
@@ -326,7 +326,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(And they're trying to overcome it.)"
+                "textCenter": "(Y están tratando de superarlo.)"
             },
             {
                 "chara": [
@@ -336,7 +336,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "(Madoka still hasn't given up on the future,@or on hope.)"
+                "textCenter": "(Madoka aún no ha renunciado al futuro,@ni a la esperanza.)"
             },
             {
                 "chara": [
@@ -346,7 +346,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Even if we can't do it alone, we can support@one another.)"
+                "textCenter": "(Aunque no podamos hacerlo solas,@podemos apoyarnos mutuamente.)"
             },
             {
                 "chara": [
@@ -359,7 +359,7 @@
                         "tear": 1
                     }
                 ],
-                "textCenter": "(In that case, maybe this timeline...)"
+                "textCenter": "(En ese caso, tal vez esta línea de tiempo...)"
             },
             {
                 "autoTurnLast": 0.2,
@@ -383,7 +383,7 @@
                     }
                 ],
                 "nameLeft": "Kyoko",
-                "textLeft": "Huh?"
+                "textLeft": "¿Eh?"
             },
             {
                 "chara": [
@@ -396,7 +396,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "Whoa, what's wrong?"
+                "textLeft": "Whoa, ¿qué pasa?"
             },
             {
                 "chara": [
@@ -409,7 +409,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "I have a handkerchief if you need one."
+                "textLeft": "Tengo un pañuelo si lo necesitas."
             },
             {
                 "chara": [
@@ -422,7 +422,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Ah, Homura?! Did I say something wrong?"
+                "textLeft": "¡¿Ah, Homura?! ¿He dicho algo malo?"
             },
             {
                 "chara": [
@@ -434,7 +434,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "No... It's not that..."
+                "textRight": "No... No es eso..."
             },
             {
                 "chara": [
@@ -443,16 +443,16 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "I'm just so happy I could make it here."
+                "textRight": "Sólo estoy muy feliz de haber podido@llegar hasta aquí."
             },
             {
                 "nameNarration": "Homura",
-                "narration": "This is where I should be, the place where@we'll protect each other, no matter what.",
+                "narration": "Aquí es donde debería estar,@el lugar donde nos protegeremos mutuamente,@pase lo que pase.",
                 "narrationBg": "bg_adv_narration.jpg",
                 "narrationEffect": "in"
             },
             {
-                "narration": "I want to live in this world.@Together with Madoka and everyone."
+                "narration": "Quiero vivir en este mundo.@Junto con Madoka y las demás."
             },
             {
                 "autoTurnLast": 2,
@@ -487,7 +487,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Homura",
-                "textLeft": "*Giggle* This really is good!",
+                "textLeft": "*Risilla* ¡Esto es realmente bueno!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -496,7 +496,7 @@
                         "id": 200301
                     }
                 ],
-                "textRight": "Yeah! I'm glad we could all come."
+                "textRight": "¡Sí! Me alegro que todas hayamos podido venir."
             },
             {
                 "chara": [
@@ -509,7 +509,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "Were pancakes always this good?"
+                "textLeft": "¿Los panqueques siempre fueron tan buenos?"
             },
             {
                 "chara": [
@@ -522,7 +522,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "I could eat about a dozen more!"
+                "textRight": "¡Podría comer una docena más!"
             },
             {
                 "chara": [
@@ -535,7 +535,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "I know they're good, but have some restraint,@okay?"
+                "textLeft": "Sé que están buenos,@pero ten algo de moderación, ¿de acuerdo?"
             },
             {
                 "chara": [
@@ -545,7 +545,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "Hey, I'm free to do whatever I want."
+                "textRight": "Oye, soy libre de hacer lo que quiera."
             },
             {
                 "chara": [
@@ -554,7 +554,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Goodness... You won't be able to move if@you keep this up."
+                "textLeft": "Cielos... No podrás moverte si sigues así."
             },
             {
                 "chara": [
@@ -567,7 +567,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Oh yeah."
+                "textLeft": "Oh, cierto."
             },
             {
                 "chara": [
@@ -577,7 +577,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "They're having a meeting in Kamihama to talk@about what the Magius did."
+                "textLeft": "Habrá una reunión en Kamihama para hablar@de todo lo que hizo Magius."
             },
             {
                 "chara": [
@@ -585,7 +585,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "You'll come too, won't you, Kyoko?"
+                "textLeft": "Tú también vendrás, ¿verdad, Kyoko?"
             },
             {
                 "chara": [
@@ -596,7 +596,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Nope."
+                "textRight": "Nop."
             },
             {
                 "chara": [
@@ -607,7 +607,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "What?!"
+                "textLeft": "¡¿Qué?!"
             },
             {
                 "chara": [
@@ -620,7 +620,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "Nope, you're coming. You were one of the@people involved."
+                "textLeft": "Nop, tú vendrás.@Fuiste una de las personas involucradas."
             },
             {
                 "chara": [
@@ -633,7 +633,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "That's right. You should learn about what@happened."
+                "textLeft": "Así es. Deberías enterarte de lo que pasó."
             },
             {
                 "chara": [
@@ -642,7 +642,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Fine, just gimme the gist of it when it's@over. Then I'll know."
+                "textRight": "Bien, sólo denme un resumen cuando termine.@Entonces lo sabré."
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "I think you're missing the point..."
+                "textLeft": "Creo que no estás entendiendo el punto..."
             },
             {
                 "chara": [
@@ -666,7 +666,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Can we focus on what's important right now?@More pancakes over here!"
+                "textRight": "¿Podemos centrarnos en lo que es importante@ahora? ¡Más panqueques por aquí!"
             },
             {
                 "chara": [
@@ -679,7 +679,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "I guess we'll have to pick her up on our way@to the meeting."
+                "textRight": "Supongo que tendremos que recogerla@de camino a la reunión."
             },
             {
                 "chara": [
@@ -692,7 +692,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "Looks like it..."
+                "textLeft": "Parece que sí..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -731,22 +731,22 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "(I never thought we'd get to spend our days@like this...)"
+                "textCenter": "(Nunca pensé que llegaríamos a pasar@nuestros días así...)"
             },
             {
                 "nameNarration": "Homura",
-                "narration": "The fight continues.",
+                "narration": "La lucha continúa.",
                 "narrationBg": "bg_adv_narration.jpg",
                 "narrationEffect": "in"
             },
             {
-                "narration": "Witches aren't gone and not@every problem's been solved."
+                "narration": "Las Brujas no han desaparecido@y no se han resuelto todos los problemas."
             },
             {
-                "narration": "But we'll be okay."
+                "narration": "Pero estaremos bien."
             },
             {
-                "narration": "No matter what happens from@now on, we can endure it.@I know we can."
+                "narration": "No importa lo que pase desde ahora,@podremos soportarlo. Sé que podremos."
             },
             {
                 "autoTurnLast": 2,

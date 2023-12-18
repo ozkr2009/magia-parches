@@ -32,7 +32,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Madoka",
-                "textRight": "So three people have gone missing in the past@few days?",
+                "textRight": "¿Así que tres personas han desaparecido@en los últimos días?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -41,7 +41,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Yes, and there have been some cases of people@getting lost on roads they're familiar with."
+                "textLeft": "Sí, y ha habido algunos casos de personas que@se han perdido en carreteras que conocen."
             },
             {
                 "chara": [
@@ -54,7 +54,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "...This could be the work of a Witch."
+                "textRight": "... Esto podría ser obra de una Bruja."
             },
             {
                 "chara": [
@@ -78,7 +78,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(A Witch.)"
+                "textRight": "(Una Bruja.)"
             },
             {
                 "chara": [
@@ -90,7 +90,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Yes. This is only my guess, but..."
+                "textLeft": "Sí. Esto es sólo mi suposición, pero..."
             },
             {
                 "chara": [
@@ -99,7 +99,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Since things have calmed down in Kamihama,@I think Witches have returned here."
+                "textLeft": "Ya que las cosas se han calmado en Kamihama,@creo que las brujas han regresado aquí."
             },
             {
                 "chara": [
@@ -112,7 +112,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Oh, right..."
+                "textRight": "Oh, es cierto..."
             },
             {
                 "chara": [
@@ -122,7 +122,7 @@
                         "id": 200101
                     }
                 ],
-                "textRight": "Then!"
+                "textRight": "¡Entonces!"
             },
             {
                 "chara": [
@@ -135,7 +135,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Yeah, we need to defeat them before there@are more victims!"
+                "textRight": "Sí, ¡tenemos que derrotarlas antes de que@haya más víctimas!"
             },
             {
                 "chara": [
@@ -146,7 +146,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "*Chuckle* I'm glad you think so."
+                "textLeft": "*Risita* Me alegra que pienses eso."
             },
             {
                 "chara": [
@@ -154,7 +154,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "You see, I've done a little investigating."
+                "textLeft": "Verás, he investigado un poco."
             },
             {
                 "chara": [
@@ -167,7 +167,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Huh?! All by yourself?"
+                "textRight": "¡¿Eh?! ¿Tú sola?"
             },
             {
                 "chara": [
@@ -178,7 +178,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Only through what I could find on the@internet. I haven't done anything dangerous."
+                "textLeft": "Sólo a través de lo que pude encontrar en@internet. No he hecho nada peligroso."
             },
             {
                 "chara": [
@@ -191,7 +191,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "What can ya figure out about Witches online?"
+                "textRight": "¿Qué puedes averiguar sobre las brujas en@internet?"
             },
             {
                 "chara": [
@@ -201,7 +201,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "I tried pinning down where each incident@occurred."
+                "textLeft": "Intenté localizar dónde ocurrió cada incidente."
             },
             {
                 "chara": [
@@ -209,7 +209,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "What I've gathered is at home. Will you@come over after class?"
+                "textLeft": "Lo que logré reunir está en mi casa.@¿Pueden venir después de clases?"
             },
             {
                 "chara": [
@@ -222,7 +222,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Sure!"
+                "textRight": "¡Claro!"
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "You got it!"
+                "textRight": "¡Por supuesto!"
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Are you free too, Homura?"
+                "textLeft": "¿Tú también estás libre, Homura?"
             },
             {
                 "chara": [
@@ -259,7 +259,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "Yes, I can go."
+                "textRight": "Sí, puedo ir."
             },
             {
                 "chara": [
@@ -272,7 +272,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "Agh! Darn it! I haven't taken one bite of@my lunch yet!"
+                "textLeft": "¡Agh! ¡Maldición! ¡Aún no le he dado ni un bocado a mi almuerzo!"
             },
             {
                 "chara": [
@@ -285,7 +285,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "Ah! Lunch is almost over!"
+                "textRight": "¡Ah! ¡El descanso está a punto de terminar!"
             },
             {
                 "chara": [
@@ -298,7 +298,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "Oh my, I'm sorry."
+                "textLeft": "Vaya, lo siento."
             },
             {
                 "chara": [
@@ -308,7 +308,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Don't eat too quickly though. You might @choke."
+                "textLeft": "Pero no coman muy rápido.@Podrían atragantarse."
             },
             {
                 "autoTurnLast": 0.2,
@@ -345,7 +345,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Even though we've defeated Walpurgisnacht.)",
+                "textCenter": "(Aunque hayamos derrotado a Walpurgisnacht.)",
                 "turnEffect": "thinking"
             },
             {
@@ -355,7 +355,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(It doesn't mean all Witches are gone.)"
+                "textCenter": "(No significa que todas las Brujas hayan@desaparecido.)"
             },
             {
                 "chara": [
@@ -366,7 +366,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(And so long as there are Witches...)"
+                "textCenter": "(Así que mientras haya Brujas...)"
             },
             {
                 "chara": [
@@ -383,13 +383,13 @@
                     }
                 ],
                 "nameNarration": "Homura",
-                "narration": "Madoka will most definitely keep fighting.",
+                "narration": "Madoka definitivamente seguirá luchando.",
                 "narrationBg": "bg_adv_20191.jpg",
                 "narrationEffect": "in",
                 "turnEffect": "stop"
             },
             {
-                "narration": "She'll be in danger as long as she fights."
+                "narration": "Ella estará en peligro mientras luche."
             },
             {
                 "chara": [
@@ -400,7 +400,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "narrationEffect": "out",
-                "textLeft": "Hey, Homura. Lunch is almost over, you@know?"
+                "textLeft": "Oye, Homura. El descanso está a punto de@terminar, ¿sabes?"
             },
             {
                 "chara": [
@@ -412,20 +412,20 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "A-ah... Yeah!"
+                "textRight": "A-ah... ¡Sí!"
             },
             {
                 "bgm": "stop",
                 "nameNarration": "Homura",
-                "narration": "Can I... Can I keep her safe forever?",
+                "narration": "¿Podré... Podré protegerla por siempre?",
                 "narrationBg": "black",
                 "narrationEffect": "in"
             },
             {
-                "narration": "After trying again and again,@Walpurgisnacht is finally gone."
+                "narration": "Después de intentarlo una y otra vez,@Walpurgisnacht por fin se ha ido."
             },
             {
-                "narration": "But can I keep her safe in@whatever battles come next?"
+                "narration": "Pero, ¿podré protegerla en@las batallas que se avecinan?"
             },
             {
                 "autoTurnLast": 2,

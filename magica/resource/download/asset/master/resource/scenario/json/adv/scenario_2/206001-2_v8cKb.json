@@ -30,8 +30,8 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "nameRight": "Madoka's Voice",
-                "textRight": "Homuraaa!"
+                "nameRight": "Voz de Madoka",
+                "textRight": "¡Homuraaa!"
             },
             {
                 "chara": [
@@ -68,7 +68,7 @@
                 ],
                 "nameLeft": "Homura",
                 "nameRight": "Madoka",
-                "textRight": "Good morning!"
+                "textRight": "¡Buenos días!"
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Ah, Madoka. Good morning."
+                "textLeft": "Ah, Madoka. Buenos días."
             },
             {
                 "chara": [
@@ -88,7 +88,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Ahhh! What a beautiful day!"
+                "textRight": "¡Ahhh! ¡Qué hermoso día!"
             },
             {
                 "chara": [
@@ -108,7 +108,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "(She looks happy...)",
+                "textLeft": "(Ella luce feliz...)",
                 "turnEffect": "thinking"
             },
             {
@@ -119,7 +119,7 @@
                         "id": 200101
                     }
                 ],
-                "textRight": "The sun's so relaxing when it's nice and warm@like this, isn't it?",
+                "textRight": "El sol es muy relajante cuando es agradable y@cálido como este, ¿no es así?",
                 "turnEffect": "stop"
             },
             {
@@ -131,7 +131,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "...Yeah."
+                "textLeft": "... sí."
             },
             {
                 "chara": [
@@ -140,7 +140,7 @@
                         "motion": 201
                     }
                 ],
-                "textRight": "Oh, that's right! Hey, Homura."
+                "textRight": "¡Oh, es cierto! Oye, Homura."
             },
             {
                 "chara": [
@@ -150,7 +150,7 @@
                         "id": 200101
                     }
                 ],
-                "textRight": "Let's go get pancakes with everyone sometime."
+                "textRight": "Vayamos a comer panqueques con todas las@demás alguna vez."
             },
             {
                 "chara": [
@@ -161,11 +161,11 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Pancakes?"
+                "textLeft": "¿Panqueques?"
             },
             {
-                "nameCenter": "Sayaka's Voice",
-                "textCenter": "Heeey!"
+                "nameCenter": "Voz de Sayaka",
+                "textCenter": "¡Oigaaan!"
             },
             {
                 "chara": [
@@ -176,7 +176,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Ah! Sayaka! Mami!"
+                "textRight": "¡Ah! ¡Sayaka! ¡Mami!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -206,7 +206,7 @@
                 ],
                 "nameLeft": "Sayaka",
                 "nameRight": "Mami",
-                "textLeft": "Morning, guys!",
+                "textLeft": "¡Buenos días, chicas!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -215,7 +215,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "*Giggle* Good morning."
+                "textRight": "*Risilla* Buenos días."
             },
             {
                 "chara": [
@@ -228,7 +228,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Good morning!"
+                "textLeft": "¡Buenos días!"
             },
             {
                 "chara": [
@@ -241,7 +241,7 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "Good morning..."
+                "textLeft": "Buenos días..."
             },
             {
                 "chara": [
@@ -254,7 +254,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Haha, what perfect timing!"
+                "textLeft": "Jaja, ¡qué oportuno!"
             },
             {
                 "chara": [
@@ -264,7 +264,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "Mami, do you remember the pancake place@we went to before?"
+                "textLeft": "Mami, ¿recuerdas el lugar de los panqueques@al que fuimos antes?"
             },
             {
                 "chara": [
@@ -275,7 +275,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "I certainly do."
+                "textRight": "Por supuesto que sí."
             },
             {
                 "chara": [
@@ -284,7 +284,7 @@
                         "motion": 201
                     }
                 ],
-                "textLeft": "Do you want to all go together?"
+                "textLeft": "¿Vamos todas juntas?"
             },
             {
                 "chara": [
@@ -294,7 +294,7 @@
                         "id": 200501
                     }
                 ],
-                "textRight": "Oh, what a nice idea."
+                "textRight": "Oh, qué buena idea."
             },
             {
                 "chara": [
@@ -307,7 +307,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Huh, what? This is the first I'm hearing of@this place."
+                "textRight": "Eh, ¿qué? Es la primera vez que oigo hablar de@ese lugar."
             },
             {
                 "chara": [
@@ -318,7 +318,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Ah, right. You weren't there then."
+                "textLeft": "Ah, cierto. No estuviste allí en ese momento."
             },
             {
                 "chara": [
@@ -328,7 +328,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "It was reeeally good!"
+                "textLeft": "¡Estaba muuuy bueno!"
             },
             {
                 "chara": [
@@ -339,7 +339,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Since we're all going, do you think Kyoko@would want to come too?"
+                "textLeft": "Ya que vamos todas, ¿creen que Kyoko quiera@venir también?"
             },
             {
                 "chara": [
@@ -350,7 +350,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Kyoko?"
+                "textRight": "¿Kyoko?"
             },
             {
                 "chara": [
@@ -361,7 +361,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "It's food we're talking about, so I'd be@willing to bet she'll come."
+                "textRight": "Estamos hablando de comida, así que estoy@convencida de que vendrá."
             },
             {
                 "autoTurnLast": 0.2,
@@ -408,12 +408,12 @@
                     }
                 ],
                 "nameNarration": "Homura",
-                "narration": "Madoka, Sayaka, Mami...@They're all smiling and laughing.@Even Kyoko is safe back in Kazamino.",
+                "narration": "Madoka, Sayaka, Mami...@Todas están sonriendo y riendo.@Incluso Kyoko está de vuelta en Kazamino.",
                 "narrationBg": "bg_adv_20031.jpg",
                 "narrationEffect": "in"
             },
             {
-                "narration": "This is the end I thought I wanted...@But I can't feel any joy."
+                "narration": "Este es el final que pensé que quería...@Pero no me siento nada alegre."
             },
             {
                 "chara": [
@@ -423,7 +423,7 @@
                 ],
                 "nameRight": "Madoka",
                 "narrationEffect": "out",
-                "textRight": "Homura? Hey, what's wrong?"
+                "textRight": "¿Homura? Oye, ¿qué pasa?"
             },
             {
                 "chara": [
@@ -435,16 +435,16 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "...Hm? Oh, nothing."
+                "textLeft": "... ¿Eh? Oh, no es nada."
             },
             {
                 "nameNarration": "Homura",
-                "narration": "I'm not completely certain I've actually@saved her. That's why I can't be happy.",
+                "narration": "No estoy completamente segura de haberla@salvado. Por eso no me siento feliz.",
                 "narrationBg": "black",
                 "narrationEffect": "in"
             },
             {
-                "narration": "Is this world the right one?@Is it okay to stay here?@I just don't know."
+                "narration": "¿Es este mundo el correcto?@¿Está bien quedarse aquí?@Simplemente no lo sé."
             },
             {
                 "autoTurnLast": 2,

@@ -53,10 +53,10 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "― Homura ―@(We finally did it. We got through@the battle with Walpurgisnacht.)"
+                "narration": "― Homura ―@(Finalmente lo logramos. Superamos@la batalla contra Walpurgisnacht.)"
             },
             {
-                "narration": "― Homura ―@(I made it to the finish line,@after failing so many times...)"
+                "narration": "― Homura ―@(Llegué a la línea de meta,@después de fracasar tantas veces...)"
             },
             {
                 "autoTurnLast": 2,
@@ -82,7 +82,7 @@
                     }
                 ],
                 "nameCenter": "Homura",
-                "textCenter": "(Walpurgisnacht is defeated. I saved@Madoka.)",
+                "textCenter": "(Walpurgisnacht fue derrotada.@Salvé a Madoka.)",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -92,7 +92,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(So why do I feel this way?)"
+                "textCenter": "(Entonces, ¿por qué me siento así?)"
             },
             {
                 "chara": [
@@ -113,7 +113,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "(I'm lost...)"
+                "textCenter": "(Estoy perdida...)"
             },
             {
                 "chara": [
@@ -122,7 +122,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I'm stuck not knowing if this is the best@outcome.)"
+                "textCenter": "(No sé si este fue el mejor resultado.)"
             },
             {
                 "chara": [
@@ -132,7 +132,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "(What if...)"
+                "textCenter": "(¿Y si...?)"
             },
             {
                 "chara": [
@@ -142,7 +142,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Is it possible there's a better ending for@her?)"
+                "textCenter": "(¿Es posible que haya un mejor final para ella?)"
             },
             {
                 "chara": [
@@ -151,7 +151,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Even with Walpurgisnacht gone...)"
+                "textCenter": "(Aunque Walpurgisnacht haya sido eliminada...)"
             },
             {
                 "chara": [
@@ -160,7 +160,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(It doesn't mean Magical Girls can escape@their fate.)"
+                "textCenter": "(Eso no significa que las Chicas Mágicas puedan@escapar de su destino.)"
             },
             {
                 "chara": [
@@ -171,7 +171,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "(Maybe Madoka would be happier if...)"
+                "textCenter": "(¿Tal vez Madoka sería más feliz si...)"
             },
             {
                 "chara": [
@@ -180,7 +180,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(...she never became a Magical Girl?)"
+                "textCenter": "(... nunca se convirtiera en una Chica Mágica?)"
             },
             {
                 "chara": [
@@ -201,7 +201,7 @@
                         "motion": 1
                     }
                 ],
-                "textCenter": "(What should I do?)"
+                "textCenter": "(¿Qué hago?)"
             },
             {
                 "chara": [
@@ -210,7 +210,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I can't come to an answer no matter how@much I think about it.)"
+                "textCenter": "(No puedo llegar a una respuesta por mucho@que lo piense.)"
             },
             {
                 "chara": [
@@ -220,7 +220,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "(And...)"
+                "textCenter": "(Además...)"
             },
             {
                 "chara": [
@@ -229,7 +229,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(This timeline is completely different from@the others.)"
+                "textCenter": "(Esta línea de tiempo es completamente@diferente a las demás.)"
             },
             {
                 "chara": [
@@ -238,7 +238,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(That's why we were able to defeat@Walpurgisnacht...)"
+                "textCenter": "(Es por eso que fuimos capaces de derrotar a@Walpurgisnacht...)"
             },
             {
                 "chara": [
@@ -248,7 +248,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "(But that doesn't mean things will keep@moving in a positive direction.)"
+                "textCenter": "(Pero eso no significa que las cosas seguirán@yendo por un buen camino.)"
             },
             {
                 "chara": [
@@ -258,7 +258,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I wonder... Have I become someone who@can protect her?)"
+                "textCenter": "(Me pregunto si... ¿me he convertido en alguien que pueda protegerla?)"
             },
             {
                 "chara": [
@@ -271,8 +271,8 @@
             },
             {
                 "bgm": "stop",
-                "nameRight": "Madoka's Voice",
-                "textRight": "Homura!"
+                "nameRight": "Voz de Madoka",
+                "textRight": "¡Homura!"
             },
             {
                 "autoTurnLast": 2,

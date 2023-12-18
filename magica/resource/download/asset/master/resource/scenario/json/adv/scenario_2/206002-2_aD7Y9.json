@@ -35,7 +35,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Sayaka",
-                "textLeft": "How's it going?",
+                "textLeft": "¿Cómo va todo?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -45,7 +45,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "The Witch is close. We should almost be@there."
+                "textRight": "La Bruja está cerca.@Ya casi deberíamos estar allí."
             },
             {
                 "chara": [
@@ -54,7 +54,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "How is she moving?"
+                "textRight": "¿Cómo se está moviendo?"
             },
             {
                 "chara": [
@@ -62,7 +62,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "She's wandering around like before. At the@speed she's going..."
+                "textLeft": "Está dando vueltas como antes.@A la velocidad que va..."
             },
             {
                 "chara": [
@@ -71,7 +71,7 @@
                         "motion": 201
                     }
                 ],
-                "textLeft": "I don't think she'll leave the area Mami@estimated."
+                "textLeft": "No creo que salga de la zona que estimó Mami."
             },
             {
                 "chara": [
@@ -81,7 +81,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "That's our Mami for ya!"
+                "textRight": "¡Esa es nuestra Mami!"
             },
             {
                 "chara": [
@@ -94,7 +94,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "Oh! The Witch changed direction!"
+                "textRight": "¡Oh! ¡La Bruja cambió de dirección!"
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "You're right!"
+                "textLeft": "¡Tienes razón!"
             },
             {
                 "chara": [
@@ -115,7 +115,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "She's going toward the sun, so from where@you guys are..."
+                "textLeft": "Va en dirección al sol,@así que desde donde están ustedes..."
             },
             {
                 "chara": [
@@ -128,7 +128,7 @@
                     }
                 ],
                 "nameRight": "Mami",
-                "textRight": "We should head towards the supermarket."
+                "textRight": "Deberíamos dirigirnos al supermercado."
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "The supermarket? This road'll get us there@faster."
+                "textRight": "¿El supermercado?@Este camino nos llevará más rápido."
             },
             {
                 "chara": [
@@ -154,7 +154,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "Oh, sweet teamwork!"
+                "textLeft": "¡Oh, dulce trabajo en equipo!"
             },
             {
                 "chara": [
@@ -172,7 +172,7 @@
                         "pos": 0
                     }
                 ],
-                "nameCenter": "Mami & Kyoko",
+                "nameCenter": "Mami y Kyoko",
                 "textCenter": "..."
             },
             {
@@ -183,7 +183,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "I just told ya a faster way there. Nothin'@to write home about."
+                "textRight": "Sólo les dije un camino más rápido.@No es nada del otro mundo."
             },
             {
                 "chara": [
@@ -195,7 +195,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "We know."
+                "textLeft": "Lo sabemos."
             },
             {
                 "autoTurnLast": 0.5,
@@ -222,7 +222,7 @@
             {
                 "nameLeft": "Madoka",
                 "nameRight": "Sayaka",
-                "textRight": "We all made it!",
+                "textRight": "¡Lo logramos todas!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -234,7 +234,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Yeah, I'm so glad!"
+                "textLeft": "¡Sí, me alegro mucho!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -302,7 +302,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "Um... Mami and Kyoko..."
+                "textRight": "Um... Mami y Kyoko..."
             },
             {
                 "chara": [
@@ -312,7 +312,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Is it just me or do they seem even more @awkward than before?"
+                "textLeft": "¿Soy yo o se ven aún más incómodas que@antes?"
             },
             {
                 "chara": [
@@ -325,7 +325,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Well... They didn't argue or get in a fight."
+                "textRight": "Bueno... No discutieron ni se pelearon."
             },
             {
                 "chara": [
@@ -335,7 +335,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "But, I dunno, it's weird. It was like the@opposite."
+                "textRight": "Pero, no sé, es raro. Fue todo lo contrario."
             },
             {
                 "chara": [
@@ -348,7 +348,7 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "The opposite?"
+                "textLeft": "¿Lo contrario?"
             },
             {
                 "chara": [
@@ -359,7 +359,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "It's like they worked well together because@they were so familiar back in the day."
+                "textRight": "Es como si trabajasen muy bien juntas porque@eran muy cercanas en su día."
             },
             {
                 "chara": [
@@ -367,7 +367,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "Like they knew each other's quirks."
+                "textRight": "Como si conocieran las peculiaridades de@la otra."
             },
             {
                 "chara": [
@@ -376,7 +376,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "I guess Kyoko doesn't like that."
+                "textRight": "Supongo que a Kyoko no le gusta eso."
             },
             {
                 "chara": [
@@ -384,7 +384,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "And Mami also seems to feel weird about@it."
+                "textRight": "Y Mami también parece sentirse rara al@respecto."
             },
             {
                 "chara": [
@@ -397,7 +397,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Hmm... Sounds tough."
+                "textLeft": "Hmm... Suena complicado."
             },
             {
                 "autoTurnLast": 0.2,
@@ -431,7 +431,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "Are you three ready?"
+                "textLeft": "¿Están listas las tres?"
             },
             {
                 "chara": [
@@ -440,7 +440,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "If you're not comin', I'm leavin' ya."
+                "textRight": "Si no vienen, las dejaré atrás."
             },
             {
                 "autoTurnLast": 0.2,
@@ -474,7 +474,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Wait, we're coming!"
+                "textRight": "¡Espera, ya vamos!"
             },
             {
                 "chara": [
@@ -483,7 +483,7 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "Is everything going to be okay?"
+                "textLeft": "¿Va a ir todo bien?"
             },
             {
                 "chara": [
@@ -496,7 +496,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "We'll be all right in a fight. We can give@plenty of support."
+                "textLeft": "Estaremos bien en una pelea.@Podemos dar mucho apoyo."
             },
             {
                 "chara": [
@@ -507,7 +507,7 @@
                         "motion": 201
                     }
                 ],
-                "textRight": "For sure! Welp, let's take down this Witch!"
+                "textRight": "¡Por supuesto!@¡Bueno, acabemos con esta Bruja!"
             },
             {
                 "chara": [
@@ -520,7 +520,7 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "...Okay."
+                "textLeft": "... Está bien."
             },
             {
                 "autoTurnLast": 2,

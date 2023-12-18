@@ -32,7 +32,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Sayaka",
-                "textLeft": "*Exhale* I'm so glad the people who were@trapped in there are all okay.",
+                "textLeft": "*Exhalar* Qué alegría que todas las personas@que estaban atrapadas allí estén bien.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -41,7 +41,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "Yeah, I guess this wraps everything up!"
+                "textRight": "¡Sí, supongo que esto concluye todo!"
             },
             {
                 "chara": [
@@ -54,7 +54,7 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "Yes."
+                "textLeft": "Sí."
             },
             {
                 "autoTurnLast": 0.2,
@@ -81,7 +81,7 @@
                     }
                 ],
                 "nameCenter": "Kyoko",
-                "textCenter": "...Hey."
+                "textCenter": "... Oye."
             },
             {
                 "chara": [
@@ -99,7 +99,7 @@
                     }
                 ],
                 "nameNarration": "",
-                "narration": "*Toss*",
+                "narration": "*Lanzar*",
                 "narrationBg": "bg_adv_21151.jpg",
                 "narrationEffect": "in"
             },
@@ -112,7 +112,7 @@
                 ],
                 "nameLeft": "Mami",
                 "narrationEffect": "out",
-                "textLeft": "This is...the Grief Seed?"
+                "textLeft": "¿Esto es... la Grief Seed?"
             },
             {
                 "chara": [
@@ -122,7 +122,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Are you sure? Isn't this what you came@here for?"
+                "textLeft": "¿Estás segura?@¿No es esto por lo que viniste aquí?"
             },
             {
                 "chara": [
@@ -131,7 +131,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "I don't like bein' indebted to people. Plus,@I already used one."
+                "textRight": "No me gusta estar en deuda con la gente.@Además, ya usé una."
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Indebted, really..."
+                "textLeft": "En deuda, en serio..."
             },
             {
                 "chara": [
@@ -188,7 +188,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Um, I..."
+                "textRight": "Um, yo..."
             },
             {
                 "chara": [
@@ -199,7 +199,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "I don't regret becoming a Magical Girl."
+                "textRight": "No me arrepiento de haberme convertido en@una Chica Mágica."
             },
             {
                 "chara": [
@@ -210,7 +210,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Sayaka?"
+                "textLeft": "¿Sayaka?"
             },
             {
                 "chara": [
@@ -223,7 +223,7 @@
                     }
                 ],
                 "nameLeft": "Kyoko",
-                "textLeft": "What're you goin' on about all of a sudden?"
+                "textLeft": "¿De qué estás hablando tan de repente?"
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "We're not normal girls anymore, and we might@become Witches..."
+                "textRight": "Ya no somos chicas normales,@y podríamos convertirnos en Brujas..."
             },
             {
                 "chara": [
@@ -242,7 +242,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "There're tons of things that suck about this@gig. We've got a lot on our plates now."
+                "textRight": "Hay muchas cosas que apestan en este trabajo.@Y ahora tenemos muchas cosas en mente."
             },
             {
                 "chara": [
@@ -253,7 +253,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "But in return for that..."
+                "textRight": "Pero a cambio de eso..."
             },
             {
                 "chara": [
@@ -263,7 +263,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "We got the power...the power to protect the@people important to us."
+                "textRight": "Obtuvimos el poder... el poder de proteger a@las personas importantes para nosotras."
             },
             {
                 "chara": [
@@ -288,7 +288,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "And if I didn't become a Magical Girl, I'd@never have met everyone."
+                "textRight": "Y si no me hubiera convertido en una Chica@Mágica, nunca las habría conocido a todas."
             },
             {
                 "chara": [
@@ -299,7 +299,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Madoka, Homura, and I are in the same year,@but..."
+                "textRight": "Madoka, Homura y yo estamos en@el mismo año, pero..."
             },
             {
                 "chara": [
@@ -307,7 +307,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "Who knows if I'd have met Mami, Kyoko, or@any of the girls in Kamihama."
+                "textRight": "Quién sabe si habría conocido a Mami, Kyoko o@a alguna de las chicas de Kamihama."
             },
             {
                 "chara": [
@@ -317,7 +317,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "Everyone I met because I became a Magical@Girl..."
+                "textRight": "A todas las que conocí porque me convertí en@una Chica Mágica..."
             },
             {
                 "chara": [
@@ -328,7 +328,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I love all of them."
+                "textRight": "Las quiero a todas."
             },
             {
                 "chara": [
@@ -341,7 +341,7 @@
                     }
                 ],
                 "nameLeft": "Homura",
-                "textLeft": "...Yeah."
+                "textLeft": "... Sí."
             },
             {
                 "chara": [
@@ -352,7 +352,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "And with people like that around, I'm not@worried."
+                "textRight": "Y con personas así a mi alrededor,@no me siento preocupada."
             },
             {
                 "chara": [
@@ -360,7 +360,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "If it ever seems like I'll make a mistake@with this power..."
+                "textRight": "Si alguna vez parece que voy a cometer un@error con este poder..."
             },
             {
                 "chara": [
@@ -368,7 +368,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "I know someone'll be there to stop me."
+                "textRight": "Sé que alguien estará allí para detenerme."
             },
             {
                 "chara": [
@@ -377,7 +377,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "That's what I'm feeling right now."
+                "textRight": "Eso es lo que siento ahora mismo."
             },
             {
                 "chara": [
@@ -387,7 +387,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "Yeah, it's totally embarrassing, but..."
+                "textRight": "Sí, es muy vergonzoso, pero..."
             },
             {
                 "chara": [
@@ -397,7 +397,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "You guys are important to me. I wanted you@to know."
+                "textRight": "Ustedes son importantes para mí.@Quería que lo supieran."
             },
             {
                 "chara": [
@@ -410,7 +410,7 @@
                     }
                 ],
                 "nameLeft": "Kyoko",
-                "textLeft": "...Is that so?"
+                "textLeft": "... ¿En serio?"
             },
             {
                 "chara": [
@@ -433,7 +433,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "So, Mami. If you have any feelings about@Kyoko..."
+                "textRight": "Así que, Mami. Si tienes algun sentimiento@por Kyoko..."
             },
             {
                 "chara": [
@@ -442,7 +442,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Throw 'em at 'er! You'll feel so much better."
+                "textRight": "¡Dicelo y ya! Te sentirás mucho mejor."
             },
             {
                 "chara": [
@@ -451,7 +451,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "My feelings..."
+                "textLeft": "Mis sentimientos..."
             },
             {
                 "chara": [
@@ -460,7 +460,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "You too, Kyoko. Go on, clear the air."
+                "textRight": "Tú también, Kyoko. Vamos, aclara las cosas."
             },
             {
                 "chara": [
@@ -473,7 +473,7 @@
                     }
                 ],
                 "nameLeft": "Kyoko",
-                "textLeft": "Clear what air? There's nothin' I wanna@say..."
+                "textLeft": "¿Aclarar las cosas?@No hay nada que quiera decir..."
             },
             {
                 "bgm": "stop",
@@ -520,7 +520,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Kyoko",
-                "textRight": "Don't tell me you wanna protect me or@somethin'?",
+                "textRight": "¿No me digas que quieres protegerme o@algo así?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -530,7 +530,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Lame..."
+                "textRight": "Ridiculo..."
             },
             {
                 "autoTurnLast": 1,
@@ -562,7 +562,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "...I do."
+                "textCenter": "... Sí quiero."
             },
             {
                 "chara": [
@@ -570,7 +570,7 @@
                         "id": 200501
                     }
                 ],
-                "textCenter": "If we can have the same goals, and travel@down the same path again..."
+                "textCenter": "Si podemos tener los mismos objetivos,@y volver a recorrer el mismo camino..."
             },
             {
                 "chara": [
@@ -579,7 +579,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "I've been thinking about it, but...I just@can't seem to give up on you."
+                "textCenter": "He estado pensando en ello, pero...@Simplemente no puedo rendirme contigo."
             },
             {
                 "autoTurnLast": 0.5,
@@ -612,7 +612,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Kyoko",
-                "textLeft": "Kyoko, your conviction that you'll use your@power for your sake and yours alone...",
+                "textLeft": "Kyoko, tu convicción de que usarás tu poder@por tu bien y sólo por el tuyo...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -622,7 +622,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I have no intention of telling you to abandon@it."
+                "textLeft": "No tengo intención de decirte que@la abandones."
             },
             {
                 "chara": [
@@ -632,7 +632,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Because even if you have that conviction, we@can still work together."
+                "textLeft": "Porque aunque tengas esa convicción,@podemos seguir trabajando juntas."
             },
             {
                 "chara": [
@@ -642,7 +642,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "We can?"
+                "textRight": "¿Podemos?"
             },
             {
                 "chara": [
@@ -653,7 +653,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "In Kamihama, I...I wanted to protect@everyone."
+                "textLeft": "En Kamihama, yo...@Yo quería proteger a todos."
             },
             {
                 "chara": [
@@ -661,7 +661,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "That was how I felt, but ultimately I acted@in my own interests."
+                "textLeft": "Eso era lo que sentía,@pero al final actué por mis propios intereses."
             },
             {
                 "chara": [
@@ -669,7 +669,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "You acted in your own interests, but..."
+                "textLeft": "Tú actuaste por tus propios intereses,@pero..."
             },
             {
                 "chara": [
@@ -680,7 +680,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "In the process, you helped everyone."
+                "textLeft": "En el proceso, ayudaste a todos."
             },
             {
                 "chara": [
@@ -691,7 +691,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "That's not always how it goes."
+                "textRight": "Eso no siempre es así."
             },
             {
                 "chara": [
@@ -699,7 +699,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Even if it was by chance, the end result's@the same."
+                "textLeft": "Aunque haya sido por casualidad,@el resultado final es el mismo."
             },
             {
                 "chara": [
@@ -710,7 +710,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "So...when we have the same goal, do you@think we could fight together?"
+                "textLeft": "Así que... cuando tengamos el mismo objetivo,@¿crees que podríamos luchar juntas?"
             },
             {
                 "chara": [
@@ -721,7 +721,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Even if our convictions are different..."
+                "textLeft": "Incluso si nuestras convicciones son@diferentes..."
             },
             {
                 "chara": [
@@ -729,7 +729,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "If by acting in your own interests you can@benefit others..."
+                "textLeft": "Si al actuar por tus propios intereses puedes@beneficiar a otros..."
             },
             {
                 "chara": [
@@ -739,7 +739,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Can we not fight together?"
+                "textLeft": "¿Podríamos no pelear entre nosotras?"
             },
             {
                 "chara": [
@@ -749,7 +749,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "I'd really like to...be friends with you."
+                "textLeft": "Realmente me gustaría... ser tu amiga."
             },
             {
                 "chara": [
@@ -760,7 +760,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "And I don't mean the superficial friends you@talk about."
+                "textLeft": "Y no me refiero al tipo de amistad superficial@de la que hablas."
             },
             {
                 "chara": [
@@ -768,7 +768,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "I mean when we need it, I want to help you,@and I want you to help me."
+                "textLeft": "Quiero decir que cuando sea necesario,@quiero ayudarte, y quiero que me ayudes."
             },
             {
                 "chara": [
@@ -777,7 +777,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That's all."
+                "textLeft": "Eso es todo."
             },
             {
                 "chara": [
@@ -799,7 +799,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "I don't want things to be like they were@before."
+                "textLeft": "No quiero que las cosas sean como antes."
             },
             {
                 "chara": [
@@ -808,7 +808,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "I'd like us to have a fresh start."
+                "textLeft": "Me gustaría que tuviéramos un@nuevo comienzo."
             },
             {
                 "chara": [
@@ -819,7 +819,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "You... You're such a goody-goody."
+                "textRight": "Tú... Eres toda una santita."
             },
             {
                 "chara": [
@@ -841,7 +841,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Aw, heck. If you're gonna go that far, I@guess I'll make use of ya when I need it."
+                "textRight": "Ah, diablos. Si vas a ir tan lejos, supongo que@haré uso de ti cuando lo necesite."
             },
             {
                 "chara": [
@@ -849,7 +849,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "And you can do the same."
+                "textRight": "Y tú puedes hacer lo mismo."
             },
             {
                 "chara": [
@@ -860,7 +860,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "*Giggle* Thanks. That sounds good for now."
+                "textLeft": "*Risita* Gracias. Eso suena bien por ahora."
             },
             {
                 "chara": [
@@ -894,7 +894,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Still playing it cool."
+                "textRight": "Sigue haciéndose la fría."
             },
             {
                 "chara": [
@@ -906,7 +906,7 @@
                     }
                 ],
                 "nameLeft": "Kyoko",
-                "textLeft": "You say somethin'?"
+                "textLeft": "¿Dijiste algo?"
             },
             {
                 "chara": [
@@ -916,7 +916,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "Me? No, nothing."
+                "textRight": "¿Yo? No, nada."
             },
             {
                 "chara": [
@@ -926,7 +926,7 @@
                         "id": 200601
                     }
                 ],
-                "textLeft": "C'mon, aren't we supposed to clear the air?"
+                "textLeft": "Vamos, ¿no se supone que debíamos@aclarar las cosas?"
             },
             {
                 "chara": [
@@ -935,7 +935,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Like a certain someone said!"
+                "textLeft": "¡Como dijo cierta persona!"
             },
             {
                 "chara": [
@@ -946,7 +946,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "[chara:200401:effect_emotion_surprise_0][se:7226_shock]Huh?! That's cheating! You can't use that @against me!"
+                "textRight": "[chara:200401:effect_emotion_surprise_0][se:7226_shock]¡¿Huh?! ¡Eso es trampa!@¡No puedes usar eso contra mí!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -981,7 +981,7 @@
                 ],
                 "nameLeft": "Madoka",
                 "nameRight": "Homura",
-                "textLeft": "*Giggle*"
+                "textLeft": "*Risita*"
             },
             {
                 "chara": [
@@ -991,7 +991,7 @@
                         "id": 200301
                     }
                 ],
-                "textRight": "Madoka?"
+                "textRight": "¿Madoka?"
             },
             {
                 "autoTurnLast": 2,

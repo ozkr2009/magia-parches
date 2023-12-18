@@ -32,7 +32,7 @@
                 ],
                 "nameLeft": "Mami",
                 "nameRight": "Homura",
-                "textLeft": "Here, I want you to take a look at this.",
+                "textLeft": "Aquí, quiero que vean esto.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -42,7 +42,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "This is...a map of Mitakihara and the@surrounding area?"
+                "textRight": "Esto es... ¿un mapa de Mitakihara y sus@alrededores?"
             },
             {
                 "chara": [
@@ -55,7 +55,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "There are some locations circled."
+                "textLeft": "Hay algunos lugares marcados con un círculo."
             },
             {
                 "chara": [
@@ -68,7 +68,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Oh yeah. And they're even divided up by@color?"
+                "textRight": "Oh, sí. Incluso están divididos por colores..."
             },
             {
                 "chara": [
@@ -81,7 +81,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "Huh... So this is what ya looked into?"
+                "textRight": "Huh... ¿Así que esto es lo que has investigado?"
             },
             {
                 "chara": [
@@ -94,7 +94,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "Yes..."
+                "textLeft": "Sí..."
             },
             {
                 "chara": [
@@ -104,7 +104,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "I've marked disappearances and places where@people got lost when they shouldn't have."
+                "textLeft": "He marcado las desapariciones y los lugares@donde la gente se perdió cuando no debía."
             },
             {
                 "chara": [
@@ -117,7 +117,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "Ohh, that's what you did online!"
+                "textRight": "Ohh, ¡eso es lo que hiciste en internet!"
             },
             {
                 "chara": [
@@ -127,7 +127,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Exactly. Through news sites and social media."
+                "textLeft": "Exacto. A través de páginas de noticias y@redes sociales."
             },
             {
                 "chara": [
@@ -138,7 +138,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "The marks are where there was an incident."
+                "textLeft": "Las marcas están donde hubo un incidente."
             },
             {
                 "chara": [
@@ -146,7 +146,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "And I used a different color for each day@something happened."
+                "textLeft": "Y utilicé un color diferente para cada día que@ocurría algo."
             },
             {
                 "chara": [
@@ -155,7 +155,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Do you see any kind of pattern?"
+                "textLeft": "¿Ven algún tipo de patrón?"
             },
             {
                 "chara": [
@@ -178,7 +178,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "I feel like the distance the Witch moves in@one day isn't very far."
+                "textLeft": "Parece que la distancia que recorre la Bruja@en un día no es muy grande."
             },
             {
                 "chara": [
@@ -191,7 +191,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "And the movements are irregular."
+                "textRight": "Y los movimientos son irregulares."
             },
             {
                 "chara": [
@@ -201,7 +201,7 @@
                         "id": 200301
                     }
                 ],
-                "textRight": "It also doesn't particularly seem like she's@going for crowded areas."
+                "textRight": "Tampoco parece que se dirija a zonas muy@concurridas."
             },
             {
                 "chara": [
@@ -214,7 +214,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "What's she up to? She's even going back to@places she was at before."
+                "textRight": "¿Qué está tramando? Incluso está volviendo a@lugares donde estuvo antes."
             },
             {
                 "chara": [
@@ -225,7 +225,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Do you think she's looking for something?"
+                "textLeft": "¿Creen que está buscando algo?"
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                         "id": 200401
                     }
                 ],
-                "textRight": "That...or she doesn't know where she's@going?"
+                "textRight": "Eso... ¿o no sabe a dónde está yendo?"
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Oh! She's lost!"
+                "textRight": "¡Oh! ¡Está perdida!"
             },
             {
                 "chara": [
@@ -260,7 +260,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "(Lost...)"
+                "textRight": "(Perdida...)"
             },
             {
                 "chara": [
@@ -271,7 +271,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "You might be right!"
+                "textLeft": "¡Puede que tengas razón!"
             },
             {
                 "chara": [
@@ -279,7 +279,7 @@
                         "id": 200101
                     }
                 ],
-                "textLeft": "Or maybe she doesn't know where she wants@to go...or something like that?"
+                "textLeft": "¿O tal vez ella no sabe a dónde quiere ir...@o algo así?"
             },
             {
                 "chara": [
@@ -300,7 +300,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "(\"She doesn't know where she wants to go.\")",
+                "textRight": "(\"Ella no sabe a dónde quiere ir.\")",
                 "turnEffect": "thinking"
             },
             {
@@ -310,7 +310,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(...Like me.)"
+                "textRight": "(... Como yo.)"
             },
             {
                 "chara": [
@@ -323,7 +323,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "So you wanted to figure out where the@Witch'll go next, right?",
+                "textRight": "Así que querías averiguar a dónde irá la Bruja@después, ¿verdad?",
                 "turnEffect": "stop"
             },
             {
@@ -332,7 +332,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "Why not look for her magic? That'd be@faster, I bet."
+                "textRight": "¿Por qué no buscar su magia?@Apuesto a que eso sería más rápido."
             },
             {
                 "chara": [
@@ -345,7 +345,7 @@
                     }
                 ],
                 "nameLeft": "Mami",
-                "textLeft": "...But that hasn't been working out well@for you, correct?"
+                "textLeft": "... Pero eso no ha funcionado bien para ti,@¿correcto?"
             },
             {
                 "chara": [
@@ -365,7 +365,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Well...yeah."
+                "textRight": "Bueno... sí."
             },
             {
                 "chara": [
@@ -376,7 +376,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "I think they're right. She must be lost."
+                "textLeft": "Creo que tienen razón. Debe estar perdida."
             },
             {
                 "chara": [
@@ -384,7 +384,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Not even she knows where she wants to go."
+                "textLeft": "Ni siquiera sabe a dónde quiere ir."
             },
             {
                 "chara": [
@@ -393,7 +393,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "So you're sayin' there's no way to know@where the Witch'll go next."
+                "textRight": "Así que dices que no hay manera de saber@a dónde irá la bruja después."
             },
             {
                 "chara": [
@@ -404,7 +404,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Well yes, but..."
+                "textLeft": "Pues sí, pero..."
             },
             {
                 "chara": [
@@ -412,7 +412,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "If that's all the info you've got, I'm outta@here."
+                "textRight": "Si esa es toda la información que tienes,@me largo de aquí."
             },
             {
                 "chara": [
@@ -423,7 +423,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Hey, wait!"
+                "textLeft": "¡Oye, espera!"
             },
             {
                 "chara": [
@@ -436,7 +436,7 @@
                     }
                 ],
                 "nameLeft": "Sayaka",
-                "textLeft": "What are you getting upset for? Let her @finish."
+                "textLeft": "¿Por qué te enojas? Déjala terminar."
             },
             {
                 "chara": [
@@ -447,7 +447,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Huh? I'm not friggin' gettin' upset!"
+                "textRight": "¿Eh? ¡No me estoy enojando!"
             },
             {
                 "chara": [
@@ -469,7 +469,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "Sorry. I shouldn't have interrupted."
+                "textRight": "Perdón. No debería haber interrumpido."
             },
             {
                 "chara": [
@@ -479,7 +479,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "What else?"
+                "textRight": "¿Qué más?"
             },
             {
                 "chara": [
@@ -503,7 +503,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "We can't predict where she will go."
+                "textLeft": "No podemos predecir a dónde irá."
             },
             {
                 "chara": [
@@ -511,7 +511,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "But I think we can narrow down a general@range that she can move within."
+                "textLeft": "Pero creo que podemos limitar el área@general en la que podría moverse."
             },
             {
                 "chara": [
@@ -524,7 +524,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "So like an area she might be in?"
+                "textRight": "¿Así que como un área en la que podría estar?"
             },
             {
                 "chara": [
@@ -533,7 +533,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Yes, look."
+                "textLeft": "Sí, miren."
             },
             {
                 "chara": [
@@ -541,7 +541,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "The first incident reported was here. On that@day, victims appeared in this area."
+                "textLeft": "El primer incidente reportado fue aquí.@Ese día, las víctimas aparecieron en esta zona."
             },
             {
                 "chara": [
@@ -549,7 +549,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Casualties on the next day were here. The@area is about this big."
+                "textLeft": "Las víctimas del día siguiente estaban aquí.@El área es más o menos así de grande."
             },
             {
                 "chara": [
@@ -562,7 +562,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "So the next day... Ah, she was in this area?"
+                "textRight": "Entonces, al día siguiente...@Ah, ¿estaba en esta área?"
             },
             {
                 "chara": [
@@ -571,7 +571,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "And yesterday she was here."
+                "textLeft": "Y ayer estuvo aquí."
             },
             {
                 "chara": [
@@ -584,7 +584,7 @@
                     }
                 ],
                 "nameRight": "Kyoko",
-                "textRight": "Okay, okay. So you're breakin' down how@far she can move."
+                "textRight": "Bien, bien. Así que estás reduciendo la@distancia a la que se puede mover."
             },
             {
                 "chara": [
@@ -593,7 +593,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Right, at most the area she moves in a day is@about this large."
+                "textLeft": "Correcto, como mucho el área en la que se@mueve en un día es de este tamaño."
             },
             {
                 "chara": [
@@ -602,7 +602,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Today, I felt her magic around this spot."
+                "textRight": "Hoy sentí su magia alrededor de este lugar."
             },
             {
                 "chara": [
@@ -623,7 +623,7 @@
                         "id": 200601
                     }
                 ],
-                "textRight": "...What?"
+                "textRight": "... ¿Qué?"
             },
             {
                 "chara": [
@@ -634,7 +634,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Er, nothing. Thank you."
+                "textLeft": "Er, nada. Gracias."
             },
             {
                 "chara": [
@@ -659,7 +659,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "That's...about right on the border between@Mitakihara and Kazamino?"
+                "textRight": "Eso es... ¿más o menos en la frontera entre@Mitakihara y Kazamino?"
             },
             {
                 "chara": [
@@ -670,7 +670,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Yes. And considering her range of@movement..."
+                "textLeft": "Sí. Y considerando su rango de movimiento..."
             },
             {
                 "chara": [
@@ -680,7 +680,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Homura, would you get that compass over@there for me?"
+                "textLeft": "Homura, ¿podrías pasarme ese compás de ahí?"
             },
             {
                 "chara": [
@@ -693,7 +693,7 @@
                     }
                 ],
                 "nameRight": "Homura",
-                "textRight": "Oh, sure."
+                "textRight": "Oh, claro."
             },
             {
                 "chara": [
@@ -703,7 +703,7 @@
                         "id": 200501
                     }
                 ],
-                "textLeft": "Thanks."
+                "textLeft": "Gracias."
             },
             {
                 "chara": [
@@ -715,7 +715,7 @@
                     }
                 ],
                 "nameNarration": "",
-                "narration": "*Skritch* *Scratch*",
+                "narration": "*Rayar* *Rayar*",
                 "narrationBg": "",
                 "narrationEffect": "in"
             },
@@ -726,7 +726,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textLeft": "It should be within this circumference."
+                "textLeft": "Debería estar dentro de esta circunferencia."
             },
             {
                 "chara": [
@@ -747,8 +747,8 @@
                         "pos": 2
                     }
                 ],
-                "nameCenter": "Madoka & Sayaka",
-                "textCenter": "Ohhh!"
+                "nameCenter": "Madoka y Sayaka",
+                "textCenter": "¡Ohhh!"
             },
             {
                 "chara": [
@@ -764,7 +764,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textLeft": "Now it will just take some legwork."
+                "textLeft": "Ahora sólo hará falta un poco de@trabajo de campo."
             },
             {
                 "chara": [
@@ -777,7 +777,7 @@
                     }
                 ],
                 "nameRight": "Madoka",
-                "textRight": "We should be able to cover this size of@an area!"
+                "textRight": "¡Deberíamos ser capaces de cubrir un área de@este tamaño!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -800,7 +800,7 @@
                     }
                 ],
                 "nameRight": "Sayaka",
-                "textRight": "All right! Time to find our lost Witch!"
+                "textRight": "¡Muy bien!@¡Es hora de encontrar a nuestra Bruja perdida!"
             },
             {
                 "chara": [
@@ -812,7 +812,7 @@
                     }
                 ],
                 "nameLeft": "Madoka",
-                "textLeft": "Yeah! Let's do this!"
+                "textLeft": "¡Sí! ¡Hagámoslo!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -863,7 +863,7 @@
                         "pos": 0
                     }
                 ],
-                "textLeft": "Homura? Are you okay?"
+                "textLeft": "¿Homura? ¿Estás bien?"
             },
             {
                 "chara": [
@@ -873,7 +873,7 @@
                         "id": 200301
                     }
                 ],
-                "textRight": "...Yeah."
+                "textRight": "... Sí."
             },
             {
                 "chara": [
@@ -885,7 +885,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "(What...what do I want to do?)"
+                "textRight": "(¿Qué... qué es lo que quiero hacer?)"
             },
             {
                 "autoTurnLast": 2,
