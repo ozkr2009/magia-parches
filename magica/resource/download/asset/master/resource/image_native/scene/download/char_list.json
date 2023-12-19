@@ -1,10 +1,73 @@
 [
 	{
-		"id":24024,
+		"id":11444,
 		"default":true,
-		"name":"Sayaka Miki scene0 ver.",
-		"desc":"Una Chica Mágica con un gran sentido de la justicia que está en medio de los bucles temporales. Va en 2do año en la Escuela Secundaria de Mitakihara. Después de clases, visita a su amigo Kyosuke en el hospital, y ayuda a Sakie en Récompense. Es amiga cercana de Madoka.",
-		"cv":"Kitamura Eri"
+		"name":"Uwasa Mikoto",
+		"desc":"Tras capturar el cuerpo de Nemu para materializarse como una Uwasa, Mikoto es ahora libre. La Mikoto blanca, que es la personalidad de \"Mikoto Sena\", y la Mikoto negra, que es la personalidad de una Uwasa, existían por separado, pero al fusionarse, han adquirido un gran poder.",
+		"cv":"Kaede Hondo"
+	},
+	{
+		"id":11064,
+		"default":true,
+		"name":"Mifuyu Azusa ver. Cuento de Hadas",
+		"desc":"Una Chica Mágica cuya mente volvió a la primaria tras encontrar una cápsula del tiempo. Recuerda tener 19 años, pero sigue siendo una llorona. Su aspecto tras transformarse se vio influido por el \"Rey Demonio de Fuego\" que interpretó. Su madre no sabe que quería ser una heroína.",
+		"cv":"Mai Nakahara"
+	},
+	{
+		"id":14024,
+		"default":true,
+		"name":"Yachiyo Nanami ver. Cuento de Hadas",
+		"desc":"Una Chica Mágica cuya mente volvió a la primaria tras encontrar una cápsula del tiempo. Ya era muy madura, así que no hay mucha diferencia con su aspecto normal. Su transformación se vio influida por la \"Reina de Hielo\" que interpretó en el pasado, aunque no actuaba muy bien.",
+		"cv":"Sora Amamiya"
+	},
+	{
+		"id":11374,
+		"default":true,
+		"name":"Nayuta & Mikage ver. Navidad",
+		"desc":"Amigas cercanas y Chicas Mágicas que han tomado formas de \"Befanas\", brujas del folclore italiano. Sobrevuelan el cielo de Kamihama en escoba, repartiendo dulces navideños como regalo. Van bien equipadas con parches térmicos bajo la ropa para soportar el intenso frío.",
+		"cv":"Haruka Ran & Amane Shindou"
+	},
+	{
+		"id":25024,
+		"default":true,
+		"name":"Holy Mami ver. Anime",
+		"desc":"Una Chica Mágica de Mitakihara que se fusionó con la Uwasa de la Santa de Kamihama. Se siente culpable de haber convencido a Madoka y otras de hacer contratos, y trabaja duro para liberarlas de su destino. No tendrá piedad contra quienes se opongan a las Alas de Magius.",
+		"cv":"Kaori Mizuhashi"
+	},
+	{
+		"id":12034,
+		"default":true,
+		"name":"Tsuruno & Felicia ver. Delivery",
+		"desc":"Chicas Mágicas que viajan al \"Fin del Mundo\" en un mundo increíble donde la Navidad es eterna. Montadas en su moto hecha a medida, la \"Super Reno-san #2\", reparten sonrisas mientras siguen su viaje. El okamochi que llevan atrás fue creado por la magia de la Navidad.",
+		"cv":"Shiina Natsukawa & Ayane Sakura"
+	},
+	{
+		"id":11074,
+		"default":true,
+		"name":"Touka & Nemu ver. Nochebuena",
+		"desc":"Chicas Mágicas cuyos fuertes desesos las han transformado en un motivo de la Nochebuena. A través de un misterioso diario, recorren la navidad e investigan el extraño fenómeno que les ha ocurrido. Aunque nunca lo admitirían, les gusta bastante su aspecto.",
+		"cv":"Rie Kugimiya & Sumire Morohoshi"
+	},
+	{
+		"id":35014,
+		"default":true,
+		"name":"Rika & Ren ver. Navidad",
+		"desc":"Chicas Mágicas que traen felicidad a la ciudad en Navidad. Desde pasteles hasta auroras, pueden crear lo que sea siempre que se pongan de acuerdo. Su cosa favorita es un gigantesco globo de nieve. En Navidad, se reúnen con otras Chicas Mágicas en ese lugar y tienen una fiesta.",
+		"cv":"Kanae Itou & Yuka Ozaki"
+	},
+	{
+		"id":11084,
+		"default":true,
+		"name":"Holy Alina",
+		"desc":"Una Chica Mágica vestida con su propio arte, basado en la naturaleza de la humanidad. Para reunir la energía que necesita, calienta los corazones helados de las personas a cambio de años de vida. También crea máscaras de muerte de sus objetivos, pero esto es solo algo artístico.",
+		"cv":"Ayana Taketatsu"
+	},
+	{
+		"id":25004,
+		"default":true,
+		"name":"Holy Mami",
+		"desc":"Una Chica Mágica de Mitakihara, y mentora de Madoka y sus amigas. Antes estaba orgullosa de cazar brujas y salvar a la gente, pero ahora se trasladó a Kamihama, donde trabaja para guiar a las Chicas Mágicas hacia la liberación.",
+		"cv":"Kaori Mizuhashi"
 	},
 	{
 		"id":10011,
