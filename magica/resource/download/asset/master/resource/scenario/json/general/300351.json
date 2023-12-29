@@ -523,7 +523,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_3003_51_24",
-                        "textHome": "Hm? Gonna have some summer fun today?"
+						"textHome": "¿Qué tal? ¿Hoy también estás@disfrutando del verano?"
                     }
                 ]
             },
@@ -535,7 +535,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 300300,
                         "motion": 0,
-                        "textHome": "Stay cautious in the chem lab,@bold on the beach!"
+						"textHome": "¡Cuidadosa en el laboratorio,@atrevida en la playa!"
                     }
                 ]
             },
@@ -556,7 +556,7 @@
                         "face": "mtn_ex_000.exp.json",
                         "id": 300300,
                         "motion": 200,
-                        "textHome": "That's the kinda sexy scientist I wanna be!"
+						"textHome": "¡Esa es la clase de científica sexy@que quiero ser!"
                     }
                 ]
             },
@@ -581,7 +581,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_3003_51_25",
-                        "textHome": "Might go for a morning dip in the ocean..."
+						"textHome": "Creo que me daré un chapuzón@en el mar por la mañana..."
                     }
                 ]
             },
@@ -593,7 +593,7 @@
                         "face": "mtn_ex_030.exp.json",
                         "id": 300300,
                         "motion": 0,
-                        "textHome": "Once it gets later in the day,@it gets crowded with couples and families."
+						"textHome": "Una vez que el sol esté en lo más alto,@se llenará de parejas y familias."
                     }
                 ]
             },
@@ -627,7 +627,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_3003_51_26",
-                        "textHome": "The sun's high in the sky,@so make sure to block those UV rays."
+						"textHome": "El sol está cada vez más alto, así que@asegúrate de bloquear esos rayos UV."
                     }
                 ]
             },
@@ -637,7 +637,7 @@
                     {
                         "id": 300300,
                         "motion": 0,
-                        "textHome": "I'm not coming up with a@Sunburn-B-Gone tonic anytime soon!"
+						"textHome": "¡No creo que en algún futuro cercano@se vaya a crear un tónico que elimine@las quemaduras solares!"
                     }
                 ]
             },
@@ -671,7 +671,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_3003_51_27",
-                        "textHome": "The chemistry club is like my own@private castle in the evening..."
+						"textHome": "El club de química es como mi@propio castillo privado por las tardes..."
                     }
                 ]
             },
@@ -681,7 +681,7 @@
                     {
                         "id": 300300,
                         "motion": 300,
-                        "textHome": "Especially during summer break."
+						"textHome": "Especialmente durante@las vacaciones de verano."
                     }
                 ]
             },
@@ -691,7 +691,7 @@
                     {
                         "id": 300300,
                         "motion": 0,
-                        "textHome": "Sometimes Emiri comes to visit,@that's about it."
+						"textHome": "Incluso a veces Emiri viene de visita."
                     }
                 ]
             },
@@ -749,7 +749,7 @@
                         "motion": 400,
                         "pos": 1,
                         "voice": "vo_char_3003_51_28",
-                        "textHome": "Wha... Is it the middle of the night already?!"
+						"textHome": "¿¡Qué...!?@¿Ya es medianoche?"
                     }
                 ]
             },
@@ -760,7 +760,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_030.exp.json",
                         "id": 300300,
-                        "textHome": "Well, I'll turn in after I study a bit more..."
+						"textHome": "Bueno, me iré a dormir después de@estudiar un poco más..."
                     }
                 ]
             },
@@ -770,7 +770,7 @@
                     {
                         "id": 300300,
                         "motion": 300,
-                        "textHome": "I won't set a good example for my juniors@if I slack off on homework."
+						"textHome": "No daré un buen ejemplo a los jóvenes@si me descuido con los deberes."
                     }
                 ]
             },
@@ -795,7 +795,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_3003_51_29",
-                        "textHome": "Bleh, it's so hot..."
+						"textHome": "Bleh, qué calor..."
                     }
                 ]
             },
@@ -805,7 +805,7 @@
                     {
                         "eyeClose": 1,
                         "id": 300300,
-                        "textHome": "I wanna go to my villa and cool down!"
+						"textHome": "¡Quiero ir a mi villa y refrescarme!"
                     }
                 ]
             },
@@ -817,7 +817,7 @@
                         "eyeClose": 0,
                         "face": "mtn_ex_050.exp.json",
                         "id": 300300,
-                        "textHome": "I call the school library my villa, by the way."
+						"textHome": "Por cierto, yo llamo a la biblioteca de@la escuela mi villa."
                     }
                 ]
             },
@@ -862,7 +862,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_3003_51_30",
-                        "textHome": "Time to get going."
+						"textHome": "Es hora de ponerse en marcha."
                     }
                 ]
             },
@@ -874,7 +874,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 300300,
                         "motion": 400,
-                        "textHome": "No, not to the pool!@It's time to patrol for Witches!"
+						"textHome": "¡No, a la piscina no!@¡Es hora de patrullar en busca de Brujas!"
                     }
                 ]
             },
@@ -884,7 +884,7 @@
                     {
                         "id": 300300,
                         "motion": 200,
-                        "textHome": "We can't let ourselves get too soft@over the summer!"
+						"textHome": "¡No podemos relajarnos demasiado@durante el verano!"
                     }
                 ]
             },
@@ -909,7 +909,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_3003_51_31",
-                        "textHome": "You wanna go to Endless Mirrors?"
+						"textHome": "¿Quieres ir al Endless Mirrors?"
                     }
                 ]
             },
@@ -919,7 +919,7 @@
                     {
                         "id": 300300,
                         "motion": 200,
-                        "textHome": "Maybe this heat will have worn out the@Magical Girl copies and make the fights@easier."
+						"textHome": "Quizá este calor haya debilitado@a las copias de las Chicas Mágicas@y facilite las peleas."
                     }
                 ]
             },
@@ -997,7 +997,7 @@
                         "motion": 100,
                         "pos": 1,
                         "voice": "vo_char_3003_51_33",
-                        "textHome": "Heh heh heh..."
+						"textHome": "Je je je..."
                     }
                 ]
             },
@@ -1008,7 +1008,7 @@
                         "eyeClose": 0,
                         "id": 300300,
                         "motion": 400,
-                        "textHome": "Behold! My bold and bodacious swimsuit!"
+						"textHome": "¡Contemplen!@¡Mi atrevido y fabuloso traje de baño!"
                     }
                 ]
             },
@@ -1018,7 +1018,7 @@
                     {
                         "id": 300300,
                         "motion": 300,
-                        "textHome": "I'm basically a summer bombshell!@Pure coastal T-N-T!"
+						"textHome": "¡Soy básicamente una bomba de verano!@¡Puro T-N-T costero!"
                     }
                 ]
             },
@@ -1052,7 +1052,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_3003_51_34",
-                        "textHome": "I'm so excited to strut across the beach."
+						"textHome": "Estoy muy emocionada de poder@lucirme en la playa."
                     }
                 ]
             },
@@ -1062,7 +1062,7 @@
                     {
                         "id": 300300,
                         "motion": 200,
-                        "textHome": "Cause this year, I've got 15 centimeters@of height raisi—"
+						"textHome": "Porque este año, tengo 15 centímetros@de plantillas elevad—"
                     }
                 ]
             },
@@ -1074,7 +1074,7 @@
                         "face": "mtn_ex_010.exp.json",
                         "id": 300300,
                         "motion": 400,
-                        "textHome": "I mean, extra thick soled sandals!"
+						"textHome": "¡No! Quiero decir, ¡sandalias de suela extra gruesa!"
                     }
                 ]
             },
@@ -1099,7 +1099,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_3003_51_35",
-                        "textHome": "Hey, what are you doing?!"
+						"textHome": "¿¡Oye, qué estás haciendo!?"
                     }
                 ]
             },
@@ -1121,7 +1121,7 @@
                     {
                         "eyeClose": 0,
                         "id": 300300,
-                        "textHome": "How dare you splash me outta nowhere!@Do it again and I'll incinera—"
+						"textHome": "¡Cómo te atreves a salpicarme de la nada!@Hazlo de nuevo y te inciner—"
                     }
                 ]
             },
@@ -1141,7 +1141,7 @@
                         "cheek": 1,
                         "face": "mtn_ex_050.exp.json",
                         "id": 300300,
-                        "textHome": "I mean, blast you with my WATER cannon!"
+						"textHome": "Quiero decir,@¡te dispararé con mi cañón de AGUA!"
                     }
                 ]
             },
@@ -1176,7 +1176,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_3003_51_36",
-                        "textHome": "You can't just kid around when@you're in the ocean."
+						"textHome": "No puedes simplemente andar@tonteando cuando estás en el océano."
                     }
                 ]
             },
@@ -1188,7 +1188,7 @@
                         "face": "mtn_ex_020.exp.json",
                         "id": 300300,
                         "motion": 1,
-                        "textHome": "Witches might show up even at the beach..."
+						"textHome": "Las Brujas podrían aparecer@incluso en la playa..."
                     }
                 ]
             },
@@ -1199,7 +1199,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_010.exp.json",
                         "id": 300300,
-                        "textHome": "And that's when I step in!"
+						"textHome": "¡Y es ahí cuando entro yo!"
                     }
                 ]
             },
@@ -1224,7 +1224,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_3003_51_37",
-                        "textHome": "Could be fun to hold some kinda@\"Fun Chemistry Experiment Event\"@on the beach."
+						"textHome": "Sería divertido realizar una especie de@\"Evento de Experimentos Químicos@Divertidos\" en la playa."
                     }
                 ]
             },
@@ -1234,7 +1234,7 @@
                     {
                         "id": 300300,
                         "motion": 1,
-                        "textHome": "I mean, I bet lots of parents are here@with their kids."
+						"textHome": "Apuesto a que muchos padres están aquí@con sus hijos."
                     }
                 ]
             },
@@ -1294,7 +1294,7 @@
                         "motion": 300,
                         "pos": 1,
                         "voice": "vo_char_3003_51_38",
-                        "textHome": "I'm still so far off from my ideal body!"
+						"textHome": "Todavía estoy muy lejos de@mi cuerpo ideal"
                     }
                 ]
             },
@@ -1304,7 +1304,7 @@
                     {
                         "id": 300300,
                         "motion": 400,
-                        "textHome": "I can't wait until I manage to get there."
+						"textHome": "¡No puedo esperar a conseguirlo!"
                     }
                 ]
             },
@@ -1315,7 +1315,7 @@
                         "cheek": 0,
                         "face": "mtn_ex_050.exp.json",
                         "id": 300300,
-                        "textHome": "I only have so many summers of youth left,@ya know?!"
+						"textHome": "No le quedan muchos veranos@a mi juventud, ¿¡sabes!?"
                     }
                 ]
             },
@@ -1351,7 +1351,7 @@
                         "motion": 1,
                         "pos": 1,
                         "voice": "vo_char_3003_51_39",
-                        "textHome": "I wanna sip a non-alcoholic cocktail@underneath a parasol on the beach..."
+						"textHome": "Quisiera tomar un cóctel sin alcohol@bajo una sombrilla en la playa..."
                     }
                 ]
             },
@@ -1363,7 +1363,7 @@
                         "face": "mtn_ex_050.exp.json",
                         "id": 300300,
                         "motion": 0,
-                        "textHome": "Hey, quit tellin' me kids are@supposed to drink juice!"
+						"textHome": "¡Oye, deja de decirme que los niños@deberían beber jugo!"
                     }
                 ]
             },
@@ -1399,7 +1399,7 @@
                         "motion": 0,
                         "pos": 1,
                         "voice": "vo_char_3003_51_40",
-                        "textHome": "Emiri and Rika invited me to go to@the sea with them."
+						"textHome": "Emiri y Rika me invitaron@a ir a la playa con ellas."
                     }
                 ]
             },
@@ -1409,7 +1409,7 @@
                     {
                         "id": 300300,
                         "motion": 300,
-                        "textHome": "It'd be so embarrassing if people thought@I was their little sister. I'm older than them!"
+						"textHome": "Aunque es muy humillante que la gente@piense que soy la hermana pequeña.@¡Soy mayor que ellas!"
                     }
                 ]
             },
@@ -1445,7 +1445,7 @@
                         "motion": 200,
                         "pos": 1,
                         "voice": "vo_char_3003_51_41",
-                        "textHome": "H-hey now! Quit pokin' my head!"
+						"textHome": "¡O-oye, basta!@¡Deja de tocarme la cabeza!"
                     }
                 ]
             },
@@ -1475,7 +1475,7 @@
                     {
                         "id": 300300,
                         "motion": 0,
-                        "textHome": "Hold on...are you blushing looking@at my amazing body?"
+						"textHome": "Espera... ¿te estás sonrojando al ver@mi cuerpo de dinamita?"
                     }
                 ]
             },

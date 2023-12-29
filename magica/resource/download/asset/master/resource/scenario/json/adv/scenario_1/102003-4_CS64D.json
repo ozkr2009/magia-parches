@@ -79,7 +79,7 @@
             },
             {
                 "nameNarration": "",
-                "narration": "Querido lector, le ruego que deje descansar todo lo@que cree saber sobre el universo.",
+                "narration": "Querido lector, le ruego que deje@descansar todo lo que cree saber sobre@el universo.",
                 "narrationEffect": "in",
                 "narrationHAlignment": "left",
                 "narrationPosX": 150,
@@ -87,10 +87,10 @@
                 "turnChangeOutTime": 4
             },
             {
-                "narration": "¿Usted persigue el conocimiento como yo? Entonces por favor@mire de nuevo al mundo a traves del ojo de un infante."
+                "narration": "¿Usted persigue el conocimiento como yo?@Entonces por favor mire de nuevo al mundo a@traves del ojo de un infante."
             },
             {
-                "narration": "Hay innumerables factores detrás del@progreso de la humanidad, y el aprendizaje, que no es más que@uno de ellos, es el resultado de muchos otros."
+                "narration": "Hay innumerables factores detrás del@progreso de la humanidad, y el aprendizaje,@que no es más que uno de ellos,@es el resultado de muchos otros."
             },
             {
                 "narration": "El sentido común no es aplicable al progreso.@Como tal, lo que se requiere de nosotros para avanzar@son innumerables perspectivas y mentes abiertas."
@@ -102,7 +102,7 @@
                 "narration": "@Las Chicas protegen este mundo.@Nuestra civilización existe gracias a ellas.@La cultura que las rodea persiste hasta el día de hoy."
             },
             {
-                "narration": "Le aseguro que mi investigación no me ha llegado a desquiciar.@Y tampoco es esta una obra de ficción.@Este libro es el resultado de investigación,@observación, y repetidos trabajos de campo."
+                "narration": "Le aseguro que mi investigación@no me ha llegado a desquiciar.@Tampoco es esta una obra de ficción.@Este libro es el resultado de investigación,@observación, y repetidos trabajos de campo."
             },
             {
                 "narration": "Y así, querido lector... Juzgue esta obra@una vez haya consumido los contenidos de@cada página y haya observado sus batallas, sus deseos,@y el papel que desempeñan plenamente por usted mismo."
@@ -174,7 +174,7 @@
                 ],
                 "nameCenter": "Touka",
                 "narrationEffect": "out",
-                "textCenter": "¡Fiuww! ¡Mi examen médico con papá está terminado!"
+                "textCenter": "¡Fiuww! ¡Mi examen médico con papá está@terminado!"
             },
             {
                 "chara": [
@@ -396,7 +396,7 @@
                     }
                 ],
                 "enableSkipAutoTurn": 1,
-                "textCenter": "(Alfa... Eso puede significar \"comandante\". ¿Un cubo@de comandantes?)"
+                "textCenter": "(Alfa... Eso puede significar \"comandante\".@¿Un cubo de comandantes?)"
             },
             {
                 "chara": [

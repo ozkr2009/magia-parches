@@ -118,7 +118,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-6"
           }
         ],
-        "textLeft": "Mel... Tu... tu Gema del Alma..."
+        "textLeft": "Mel... Tu... tu Soul Gem..."
       },
       {
         "chara": [
@@ -552,7 +552,7 @@
             "visible": "appear"
           }
         ],
-        "narration": "F empezó a retorcerse de dolor y la Soul Gem@se convirtió de repente en una Semilla de Dolor.@Así, nació una Bruja.",
+        "narration": "F empezó a retorcerse de dolor y la Soul Gem@se convirtió de repente en una Grief Seed.@Así, nació una Bruja.",
         "voiceFull": "fullvoice/section_101604/vo_full_101604-10-36",
         "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-35"
       },
