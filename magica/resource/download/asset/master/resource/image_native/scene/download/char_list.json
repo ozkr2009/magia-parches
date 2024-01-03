@@ -1,73 +1,52 @@
 [
 	{
-		"id":11444,
+		"id":11134,
 		"default":true,
-		"name":"Uwasa Mikoto",
-		"desc":"Tras capturar el cuerpo de Nemu para materializarse como una Uwasa, Mikoto es ahora libre. La Mikoto blanca, que es la personalidad de \"Mikoto Sena\", y la Mikoto negra, que es la personalidad de una Uwasa, existían por separado, pero al fusionarse, han adquirido un gran poder.",
-		"cv":"Kaede Hondo"
+		"name":"Asuka Tatsuki ver. Dios Dragón de Año nuevo",
+		"desc":"Una Chica Mágica que tomó la apariencia del dios dragón fundador de la familia Tatsuki. Busca alcanzar la \"claridad y serenidad\" por Año Nuevo, pero no tiene esperanzas de lograrlo. Tiene un mazo de la suerte, pero no concede sus deseos, así que intenta hacerlo por su cuenta.",
+		"cv":"Asami Seto"
 	},
 	{
-		"id":11064,
+		"id":22034,
 		"default":true,
-		"name":"Mifuyu Azusa ver. Cuento de Hadas",
-		"desc":"Una Chica Mágica cuya mente volvió a la primaria tras encontrar una cápsula del tiempo. Recuerda tener 19 años, pero sigue siendo una llorona. Su aspecto tras transformarse se vio influido por el \"Rey Demonio de Fuego\" que interpretó. Su madre no sabe que quería ser una heroína.",
-		"cv":"Mai Nakahara"
+		"name":"Homura Akemi ver. Haregi",
+		"desc":"Homura Akemi sufre un cambio de personalidad debido a los recuerdos de otra línea temporal. Deambula por un misterioso sueño situado en Kamihama, y junto a Madoka buscan la forma de salir. Aunque confundida por la situación, no renuncia a su deseo de salvar a Madoka.",
+		"cv":"Chiwa Saitou"
 	},
 	{
-		"id":14024,
+		"id":11254,
 		"default":true,
-		"name":"Yachiyo Nanami ver. Cuento de Hadas",
-		"desc":"Una Chica Mágica cuya mente volvió a la primaria tras encontrar una cápsula del tiempo. Ya era muy madura, así que no hay mucha diferencia con su aspecto normal. Su transformación se vio influida por la \"Reina de Hielo\" que interpretó en el pasado, aunque no actuaba muy bien.",
-		"cv":"Sora Amamiya"
+		"name":"Shizuka Tokime ver. Primer Amanecer del Año",
+		"desc":"Una Chica Mágica que busca guiar al Clan Tokime hacia un nuevo comienzo. Reza por la paz de su país y la de su familia en el primer amanecer del año. Aprendió que hay diversos tipos de ozoni, con mochi redondo o cuadrado, pollo o amberjack. Al entrar en su kotatsu, no vuelve a salir.",
+		"cv":"Shuu Uchida"
 	},
 	{
-		"id":11374,
+		"id":14014,
 		"default":true,
-		"name":"Nayuta & Mikage ver. Navidad",
-		"desc":"Amigas cercanas y Chicas Mágicas que han tomado formas de \"Befanas\", brujas del folclore italiano. Sobrevuelan el cielo de Kamihama en escoba, repartiendo dulces navideños como regalo. Van bien equipadas con parches térmicos bajo la ropa para soportar el intenso frío.",
-		"cv":"Haruka Ran & Amane Shindou"
+		"name":"Iroha & Ui ver. Miko",
+		"desc":"Dos Chicas Mágicas muy unidas que ayudan en el santuario durante el Año Nuevo vestidas de miko, ya sea guiando a la gente por el recinto o bailando la danza Kagura. Están ansiosas por aprender la terminología del santuario y poder encontrarse con sus compañeras.",
+		"cv":"Momo Asakura & Manaka Iwami"
 	},
 	{
-		"id":25024,
+		"id":24004,
 		"default":true,
-		"name":"Holy Mami ver. Anime",
-		"desc":"Una Chica Mágica de Mitakihara que se fusionó con la Uwasa de la Santa de Kamihama. Se siente culpable de haber convencido a Madoka y otras de hacer contratos, y trabaja duro para liberarlas de su destino. No tendrá piedad contra quienes se opongan a las Alas de Magius.",
-		"cv":"Kaori Mizuhashi"
+		"name":"Sayaka Miki ver. Haregi",
+		"desc":"Una Chica Mágica que vive en Mitakihara. Su hermoso Haregi le ofrece una protección suprema y lucha blandiendo un pincel que se ajusta a sus manos como una espada. Tras sus audaces trazos y victorias, parece tener un crush propio de su edad.",
+		"cv":"Eri Kitamura"
 	},
 	{
-		"id":12034,
+		"id":11174,
 		"default":true,
-		"name":"Tsuruno & Felicia ver. Delivery",
-		"desc":"Chicas Mágicas que viajan al \"Fin del Mundo\" en un mundo increíble donde la Navidad es eterna. Montadas en su moto hecha a medida, la \"Super Reno-san #2\", reparten sonrisas mientras siguen su viaje. El okamochi que llevan atrás fue creado por la magia de la Navidad.",
-		"cv":"Shiina Natsukawa & Ayane Sakura"
+		"name":"Mitama Yakumo ver. Haregi",
+		"desc":"Una Chica Mágica que trabaja duro y juega duro desde el primer día del año. Le tiene mucho cariño al kimono que le regaló Yachiyo, así que lo infundió con magia para poder llevarlo en la batalla. Con sus cartas como arma, ataca a los que no juegan su juego correctamente.",
+		"cv":"Yui Horie"
 	},
 	{
-		"id":11074,
+		"id":21004,
 		"default":true,
-		"name":"Touka & Nemu ver. Nochebuena",
-		"desc":"Chicas Mágicas cuyos fuertes desesos las han transformado en un motivo de la Nochebuena. A través de un misterioso diario, recorren la navidad e investigan el extraño fenómeno que les ha ocurrido. Aunque nunca lo admitirían, les gusta bastante su aspecto.",
-		"cv":"Rie Kugimiya & Sumire Morohoshi"
-	},
-	{
-		"id":35014,
-		"default":true,
-		"name":"Rika & Ren ver. Navidad",
-		"desc":"Chicas Mágicas que traen felicidad a la ciudad en Navidad. Desde pasteles hasta auroras, pueden crear lo que sea siempre que se pongan de acuerdo. Su cosa favorita es un gigantesco globo de nieve. En Navidad, se reúnen con otras Chicas Mágicas en ese lugar y tienen una fiesta.",
-		"cv":"Kanae Itou & Yuka Ozaki"
-	},
-	{
-		"id":11084,
-		"default":true,
-		"name":"Holy Alina",
-		"desc":"Una Chica Mágica vestida con su propio arte, basado en la naturaleza de la humanidad. Para reunir la energía que necesita, calienta los corazones helados de las personas a cambio de años de vida. También crea máscaras de muerte de sus objetivos, pero esto es solo algo artístico.",
-		"cv":"Ayana Taketatsu"
-	},
-	{
-		"id":25004,
-		"default":true,
-		"name":"Holy Mami",
-		"desc":"Una Chica Mágica de Mitakihara, y mentora de Madoka y sus amigas. Antes estaba orgullosa de cazar brujas y salvar a la gente, pero ahora se trasladó a Kamihama, donde trabaja para guiar a las Chicas Mágicas hacia la liberación.",
-		"cv":"Kaori Mizuhashi"
+		"name":"Madoka Kaname ver. Haregi",
+		"desc":"Una Chica Mágica que va en 2do año en la secundaria de Mitakihara. El poder de su deseo ha imbuido su kimono y ahora puede luchar vistiéndolo. Su arma ahora es una hagoita, que sirve para ataques a corta y larga distancia. Fíjate bien en su hagoita y podrás ver a alguien conocido...",
+		"cv":"Aoi Yuuki"
 	},
 	{
 		"id":10011,
