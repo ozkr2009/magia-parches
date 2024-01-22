@@ -1,52 +1,10 @@
 [
 	{
-		"id":11134,
+		"id":25034,
 		"default":true,
-		"name":"Asuka Tatsuki ver. Dios Dragón de Año nuevo",
-		"desc":"Una Chica Mágica que tomó la apariencia del dios dragón fundador de la familia Tatsuki. Busca alcanzar la \"claridad y serenidad\" por Año Nuevo, pero no tiene esperanzas de lograrlo. Tiene un mazo de la suerte, pero no concede sus deseos, así que intenta hacerlo por su cuenta.",
-		"cv":"Asami Seto"
-	},
-	{
-		"id":22034,
-		"default":true,
-		"name":"Homura Akemi ver. Haregi",
-		"desc":"Homura Akemi sufre un cambio de personalidad debido a los recuerdos de otra línea temporal. Deambula por un misterioso sueño situado en Kamihama, y junto a Madoka buscan la forma de salir. Aunque confundida por la situación, no renuncia a su deseo de salvar a Madoka.",
-		"cv":"Chiwa Saitou"
-	},
-	{
-		"id":11254,
-		"default":true,
-		"name":"Shizuka Tokime ver. Primer Amanecer del Año",
-		"desc":"Una Chica Mágica que busca guiar al Clan Tokime hacia un nuevo comienzo. Reza por la paz de su país y la de su familia en el primer amanecer del año. Aprendió que hay diversos tipos de ozoni, con mochi redondo o cuadrado, pollo o amberjack. Al entrar en su kotatsu, no vuelve a salir.",
-		"cv":"Shuu Uchida"
-	},
-	{
-		"id":14014,
-		"default":true,
-		"name":"Iroha & Ui ver. Miko",
-		"desc":"Dos Chicas Mágicas muy unidas que ayudan en el santuario durante el Año Nuevo vestidas de miko, ya sea guiando a la gente por el recinto o bailando la danza Kagura. Están ansiosas por aprender la terminología del santuario y poder encontrarse con sus compañeras.",
-		"cv":"Momo Asakura & Manaka Iwami"
-	},
-	{
-		"id":24004,
-		"default":true,
-		"name":"Sayaka Miki ver. Haregi",
-		"desc":"Una Chica Mágica que vive en Mitakihara. Su hermoso Haregi le ofrece una protección suprema y lucha blandiendo un pincel que se ajusta a sus manos como una espada. Tras sus audaces trazos y victorias, parece tener un crush propio de su edad.",
-		"cv":"Eri Kitamura"
-	},
-	{
-		"id":11174,
-		"default":true,
-		"name":"Mitama Yakumo ver. Haregi",
-		"desc":"Una Chica Mágica que trabaja duro y juega duro desde el primer día del año. Le tiene mucho cariño al kimono que le regaló Yachiyo, así que lo infundió con magia para poder llevarlo en la batalla. Con sus cartas como arma, ataca a los que no juegan su juego correctamente.",
-		"cv":"Yui Horie"
-	},
-	{
-		"id":21004,
-		"default":true,
-		"name":"Madoka Kaname ver. Haregi",
-		"desc":"Una Chica Mágica que va en 2do año en la secundaria de Mitakihara. El poder de su deseo ha imbuido su kimono y ahora puede luchar vistiéndolo. Su arma ahora es una hagoita, que sirve para ataques a corta y larga distancia. Fíjate bien en su hagoita y podrás ver a alguien conocido...",
-		"cv":"Aoi Yuuki"
+		"name":"Mami Tomoe ver. scene0",
+		"desc":"Una orgullosa Chica Mágica que está en medio de los bucles temporales. Está en 3er año en la Secundaria de Mitakihara. Es compañera de clase de Mabayu y es amigable. Es muy capaz, y su territorio es en Mitakihara, pero se ha visto obligada a operar en otra ciudad.",
+		"cv":"Kaori Mizuhashi"
 	},
 	{
 		"id":10011,
