@@ -1,10 +1,66 @@
 [
 	{
-		"id":25034,
+		"id":10454,
 		"default":true,
-		"name":"Mami Tomoe ver. scene0",
-		"desc":"Una orgullosa Chica Mágica que está en medio de los bucles temporales. Está en 3er año en la Secundaria de Mitakihara. Es compañera de clase de Mabayu y es amigable. Es muy capaz, y su territorio es en Mitakihara, pero se ha visto obligada a operar en otra ciudad.",
-		"cv":"Kaori Mizuhashi"
+		"name":"Tsuyu Mizuna",
+		"desc":"Chica Mágica e hija de Masatsuna Mizuna, ex-gobernante de Hokuyo en Soma. Fue llamada la Doncella de Guerra del Oeste. Es temida como guerrera, pero su feudo la trata con tal naturalidad que no parece una princesa. Aunque es seria, disfruta de cuentos y del Kowakamai.",
+		"cv":"Hina Youmiya"
+	},
+	{
+		"id":10464,
+		"default":true,
+		"name":"Chizuru",
+		"desc":"Chica Mágica e hija de San'emon Banshu, jefe de los bandidos \"Partido Tai\" de Soma. Fue llamada la Doncella de Guerra del Este. Robaba y compartía su riqueza con los necesitados. Criada en una aldea pequeña, anhela conocer a la gente de fuera, y ansía poder unirse con Mizuna.",
+		"cv":"Hina Tachibana"
+	},
+	{
+		"id":10484,
+		"default":true,
+		"name":"Ebony",
+		"desc":"Una Chica Mágica nacida en una familia que juró lealtad a los faraones. Desde muy pequeña, juró obediencia a la dinastía y fue obligada por los adultos a firmar un contrato de Chica Mágica. En secreto se pregunta si realmente nació para servir a los faraones.",
+		"cv":"Tomori Kusunoki"
+	},
+	{
+		"id":10494,
+		"default":true,
+		"name":"Olga",
+		"desc":"Una Chica Mágica que era hija del jefe de una tribu. Su familia fue destruida por una facción de la villa de los Isvik, ubicado en los fiordos, y ella junto a su hermana Gunhild fueron tomadas como esclavas, pero ella se mantiene alegre y hace todo lo posible por animar a su hermanita.",
+		"cv":"Chika Anzai"
+	},
+	{
+		"id":10504,
+		"default":true,
+		"name":"Gunhild",
+		"desc":"Una Chica Mágica y hermana menor de Olga. Aunque es básicamente tímida, es inteligente, valiente y posee una gran capacidad física. Por otra parte, piensa que el propósito de su vida es hacer feliz a su querida hermana, y planea aumentar su poder para hacerle realidad su sueño.",
+		"cv":"Miyu Tomita"
+	},
+	{
+		"id":10514,
+		"default":true,
+		"name":"Heruka",
+		"desc":"Una Chica Mágica que vive en el Tíbet. Después de que el ejército Mongol quemara su ciudad natal, ella y su amiga de la infancia Dolma se refugiaron en un convento. Sin embargo, no siente odio hacia el ejército Mongol y prefiere pasar sus días felizmente en lugar de vengarse.",
+		"cv":"Shion Wakayama"
+	},
+	{
+		"id":10524,
+		"default":true,
+		"name":"Toyo",
+		"desc":"Una Chica Mágica con talento para las Artes Espirituales. Llamada la \"Hija del Dios Maldito\", fue rechazada por ser una fuente de desastres. Siente gran respeto por Himiko, la Reina de Yamatai, y se dedica a entrenar para poder acercarse a ella. Le encantan los brotes de bambú.",
+		"cv":"Misaki Yamada"
+	},
+	{
+		"id":10534,
+		"default":true,
+		"name":"Amaryllis",
+		"desc":"Una antigua Chica Mágica romana que sirve como sirvienta para una distinguida familia en Pompeya. Tras la tragedia que destruyó la ciudad, renace tres años en el pasado, y en medio de la \"Paz de Roma\", se esforzará por salvar a su pueblo. Le encantan los juegos de mesa en secreto.",
+		"cv":"Sayumi Suzushiro"
+	},
+	{
+		"id": 15024,
+		"default": true,
+		"name": "Yachiyo Nanami ver. Historia",
+		"desc": "Una Chica Mágica que cambió su forma tras recolectar muchas esperanzas. La lanza que lleva refleja el color de las Chicas Mágicas dueñas de las esperanzas y emite intensos colores. Según dicen, la lanza es la responsable de romper las barreras del futuro y brindar esperanza.",
+		"cv": "Sora Amamiya"
 	},
 	{
 		"id":10011,
