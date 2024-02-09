@@ -1,66 +1,45 @@
 [
 	{
-		"id":10454,
+		"id":35054,
 		"default":true,
-		"name":"Tsuyu Mizuna",
-		"desc":"Chica Mágica e hija de Masatsuna Mizuna, ex-gobernante de Hokuyo en Soma. Fue llamada la Doncella de Guerra del Oeste. Es temida como guerrera, pero su feudo la trata con tal naturalidad que no parece una princesa. Aunque es seria, disfruta de cuentos y del Kowakamai.",
-		"cv":"Hina Youmiya"
+		"name":"Leila & Seika",
+		"desc":"Chicas Mágicas y amigas de la infancia que viven en el complejo residencial de Daitoa. Junto a Mito, viven su vida escolar y luchan contra las Brujas. La activa Leila suele liderarlas, la tranquila y serena Seika las apoya, y la gentil Mito mantiene el equilibrio entre las tres.",
+		"cv":"Marika Kouno & Azumi Waki"
 	},
 	{
-		"id":10464,
+		"id":11394,
 		"default":true,
-		"name":"Chizuru",
-		"desc":"Chica Mágica e hija de San'emon Banshu, jefe de los bandidos \"Partido Tai\" de Soma. Fue llamada la Doncella de Guerra del Este. Robaba y compartía su riqueza con los necesitados. Criada en una aldea pequeña, anhela conocer a la gente de fuera, y ansía poder unirse con Mizuna.",
-		"cv":"Hina Tachibana"
+		"name":"Sudachi Sawa ver. San Valentín",
+		"desc":"Una Chica Mágica ajustadora ambulante que llegó a Takarazaki en el Día de San Valentín. Para mejorar la imagen de la tienda de ajustes, se anuncia vestida de caramelo de San Valentín. En secreto le alegra que el arma de su disfraz sea un bastón como el de Yozuru.",
+		"cv":"Asuka Shioiri"
 	},
 	{
-		"id":10484,
+		"id":26024,
 		"default":true,
-		"name":"Ebony",
-		"desc":"Una Chica Mágica nacida en una familia que juró lealtad a los faraones. Desde muy pequeña, juró obediencia a la dinastía y fue obligada por los adultos a firmar un contrato de Chica Mágica. En secreto se pregunta si realmente nació para servir a los faraones.",
-		"cv":"Tomori Kusunoki"
+		"name":"Kyoko Sakura ver. Doppel",
+		"desc":"Una Chica Mágica de Kazamino. Nacida de un padre que predicaba una nueva religión, pero ahora es huérfana. Fue a Kamihama a conocer el nuevo potencial de los doppels, pero se encontró con un pasado del que no podía escapar. Solía especializarse en magia deslumbrante.",
+		"cv":"Ai Nonaka"
 	},
 	{
-		"id":10494,
+		"id":11044,
 		"default":true,
-		"name":"Olga",
-		"desc":"Una Chica Mágica que era hija del jefe de una tribu. Su familia fue destruida por una facción de la villa de los Isvik, ubicado en los fiordos, y ella junto a su hermana Gunhild fueron tomadas como esclavas, pero ella se mantiene alegre y hace todo lo posible por animar a su hermanita.",
-		"cv":"Chika Anzai"
+		"name":"Uwasa Sana",
+		"desc":"Una Chica Mágica que se fusionó con la Uwasa de la inteligencia artificial sin nombre (Ai). Busca acabar con la solitaria Uwasa que nació por accidente. Ser una Uwasa le desconcierta, ya que no necesita dormir ni comer, pero le reconforta saber que puede hablar con Ai en su mente.",
+		"cv":"Yui Ogura (AI: Hitomi Sasaki)"
 	},
 	{
-		"id":10504,
+		"id":30524,
 		"default":true,
-		"name":"Gunhild",
-		"desc":"Una Chica Mágica y hermana menor de Olga. Aunque es básicamente tímida, es inteligente, valiente y posee una gran capacidad física. Por otra parte, piensa que el propósito de su vida es hacer feliz a su querida hermana, y planea aumentar su poder para hacerle realidad su sueño.",
-		"cv":"Miyu Tomita"
+		"name":"Ashley Taylor",
+		"desc":"Una Chica mágica de California en busca de la cultura KAWAII japonesa. Le encanta todo lo KAWAII, desde la moda Harajuku hasta el anime y el manga. Incluso sube vídeos para difundirlo en su ciudad natal. Su tesoro es Kumanosuke, un osito de peluche que le regaló su papá.",
+		"cv":"Sally Amaki"
 	},
 	{
-		"id":10514,
+		"id":27004,
 		"default":true,
-		"name":"Heruka",
-		"desc":"Una Chica Mágica que vive en el Tíbet. Después de que el ejército Mongol quemara su ciudad natal, ella y su amiga de la infancia Dolma se refugiaron en un convento. Sin embargo, no siente odio hacia el ejército Mongol y prefiere pasar sus días felizmente en lugar de vengarse.",
-		"cv":"Shion Wakayama"
-	},
-	{
-		"id":10524,
-		"default":true,
-		"name":"Toyo",
-		"desc":"Una Chica Mágica con talento para las Artes Espirituales. Llamada la \"Hija del Dios Maldito\", fue rechazada por ser una fuente de desastres. Siente gran respeto por Himiko, la Reina de Yamatai, y se dedica a entrenar para poder acercarse a ella. Le encantan los brotes de bambú.",
-		"cv":"Misaki Yamada"
-	},
-	{
-		"id":10534,
-		"default":true,
-		"name":"Amaryllis",
-		"desc":"Una antigua Chica Mágica romana que sirve como sirvienta para una distinguida familia en Pompeya. Tras la tragedia que destruyó la ciudad, renace tres años en el pasado, y en medio de la \"Paz de Roma\", se esforzará por salvar a su pueblo. Le encantan los juegos de mesa en secreto.",
-		"cv":"Sayumi Suzushiro"
-	},
-	{
-		"id": 15024,
-		"default": true,
-		"name": "Yachiyo Nanami ver. Historia",
-		"desc": "Una Chica Mágica que cambió su forma tras recolectar muchas esperanzas. La lanza que lleva refleja el color de las Chicas Mágicas dueñas de las esperanzas y emite intensos colores. Según dicen, la lanza es la responsable de romper las barreras del futuro y brindar esperanza.",
-		"cv": "Sora Amamiya"
+		"name":"Nagisa Momoe ver. San Valentín",
+		"desc":"Una pequeña chocolatera que causa revuelo en Mitakihara. Ella es otra forma de Nagisa Momoe, la emisaria de la \"Ley de los Ciclos\". Solo piensa en hacer dulces o comérselos, y rara vez recuerda su misión original.",
+		"cv":"Kana Asumi"
 	},
 	{
 		"id":10011,
