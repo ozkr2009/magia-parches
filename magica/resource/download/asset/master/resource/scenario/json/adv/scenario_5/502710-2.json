@@ -31,7 +31,7 @@
         ],
         "nameRight": "Mel",
         "surround": "7009_night_townbuzz",
-        "textRight": "We're outside! It's dark out, but I feel so@refreshed!",
+        "textRight": "¡Estamos fuera! Está oscuro,@¡pero me siento tan renovada!",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -42,7 +42,7 @@
           }
         ],
         "nameLeft": "Tsuruno",
-        "textLeft": "Ahhh, the fresh air feels so good!"
+        "textLeft": "Ahhh, ¡qué bien se siente el aire fresco!"
       },
       {
         "autoTurnLast": 0.01,
@@ -76,7 +76,7 @@
           }
         ],
         "nameLeft": "Mifuyu",
-        "textLeft": "*Giggle* It does."
+        "textLeft": "*Risilla* Así es."
       },
       {
         "bgm": "bgm05_event07",
@@ -88,7 +88,7 @@
         ],
         "nameRight": "Momoko",
         "surround": "stop",
-        "textRight": "I can't believe it, though."
+        "textRight": "Aunque no puedo creerlo."
       },
       {
         "chara": [
@@ -96,7 +96,7 @@
             "id": 101001
           }
         ],
-        "textRight": "We couldn't get to the Witch even with this@all-star team... That doesn't bode well..."
+        "textRight": "No pudimos llegar a la Bruja ni con este super equipo...@Eso no presagia nada bueno..."
       },
       {
         "chara": [
@@ -109,7 +109,7 @@
           }
         ],
         "nameLeft": "Yachiyo",
-        "textLeft": "We'll have to take some time to investigate@the Labyrinth."
+        "textLeft": "Tendremos que tomarnos un tiempo@para investigar el Laberinto."
       },
       {
         "chara": [
@@ -117,7 +117,7 @@
             "id": 100204
           }
         ],
-        "textLeft": "Thankfully, it seems to be safe as long as@we don’t enter it."
+        "textLeft": "Afortunadamente, parece ser seguro@siempre que no entremos en él."
       },
       {
         "chara": [
@@ -130,7 +130,7 @@
           }
         ],
         "nameLeft": "Mifuyu",
-        "textLeft": "There's still work to do, but we accomplished@our top objective."
+        "textLeft": "Aún queda trabajo por hacer, pero hemos@cumplido nuestro principal objetivo."
       },
       {
         "chara": [
@@ -143,7 +143,7 @@
           }
         ],
         "nameRight": "Kanagi",
-        "textRight": "Yeah. We now know that a Witch is behind@the attacks."
+        "textRight": "Sí. Ahora sabemos que una Bruja@está detrás de los ataques."
       },
       {
         "chara": [
@@ -151,7 +151,7 @@
             "id": 100602
           }
         ],
-        "textRight": "Though it probably won't be easy to convince@the other Magical Girls..."
+        "textRight": "Aunque probablemente no será fácil@convencer a las otras Chicas Mágicas..."
       },
       {
         "chara": [
@@ -160,7 +160,7 @@
             "motion": 1
           }
         ],
-        "textLeft": "Yes, but let's be persistent with them."
+        "textLeft": "Sí, pero seamos persistentes con ellas."
       },
       {
         "chara": [
@@ -173,7 +173,7 @@
           }
         ],
         "nameLeft": "Yachiyo",
-        "textLeft": "All right...but resolving the underlying@problem will be challenging."
+        "textLeft": "De acuerdo... pero resolver el otro problema@será todo un reto."
       },
       {
         "chara": [
@@ -181,7 +181,7 @@
             "id": 100204
           }
         ],
-        "textLeft": "We're still running low on Witches and Grief@Seeds."
+        "textLeft": "Aún seguimos escasas de Brujas y Grief Seeds."
       },
       {
         "chara": [
@@ -190,7 +190,7 @@
             "motion": 300
           }
         ],
-        "textLeft": "We won't reach an internal agreement@unless something is done about that."
+        "textLeft": "No llegaremos a un acuerdo interno@a menos que se haga algo al respecto."
       },
       {
         "chara": [
@@ -200,7 +200,7 @@
           }
         ],
         "nameRight": "Kanagi",
-        "textRight": "There's dissent in the west?"
+        "textRight": "¿Hay disconformidades en el oeste?"
       },
       {
         "chara": [
@@ -209,7 +209,7 @@
             "motion": 0
           }
         ],
-        "textLeft": "I'm sure it's not much different in the east."
+        "textLeft": "Seguro que no es muy diferente en el este."
       },
       {
         "chara": [
@@ -220,7 +220,7 @@
             "motion": 300
           }
         ],
-        "textRight": "I can't deny that..."
+        "textRight": "No puedo negar eso..."
       },
       {
         "chara": [
@@ -233,7 +233,7 @@
           }
         ],
         "nameLeft": "Mifuyu",
-        "textLeft": "We can't just leave things as they are."
+        "textLeft": "No podemos dejar las cosas como están."
       },
       {
         "chara": [
@@ -241,7 +241,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "More Magical Girls will try to take Chuo@Ward on their own..."
+        "textLeft": "Más Chicas Mágicas intentarán tomar@el distrito de Chuo por su cuenta..."
       },
       {
         "chara": [
@@ -252,7 +252,7 @@
             "motion": 1
           }
         ],
-        "textLeft": "We can't cause any more problems for the@Chuo Ward girls."
+        "textLeft": "No podemos causar más problemas@a las chicas de Chuo."
       },
       {
         "chara": [
@@ -261,7 +261,7 @@
             "motion": 200
           }
         ],
-        "textRight": "No, we can't..."
+        "textRight": "No, no podemos..."
       },
       {
         "chara": [
@@ -274,7 +274,7 @@
           }
         ],
         "nameLeft": "Yachiyo",
-        "textLeft": "Not everyone will obey if we simply forbid@it, though..."
+        "textLeft": "Aunque no todas obedecerán si simplemente@lo prohibimos..."
       },
       {
         "bgm": "stop",
@@ -286,7 +286,7 @@
             "motion": 100
           }
         ],
-        "textRight": "What if we propose a condition?"
+        "textRight": "¿Y si proponemos una condición?"
       },
       {
         "chara": [
@@ -299,7 +299,7 @@
           }
         ],
         "nameLeft": "Mifuyu",
-        "textLeft": "A condition?"
+        "textLeft": "¿Una condición?"
       },
       {
         "bgm": "bgm03_story06",
@@ -308,7 +308,7 @@
             "id": 101601
           }
         ],
-        "textRight": "A condition to negotiate with Chuo Ward."
+        "textRight": "Una condición para negociar@con el distrito de Chuo."
       },
       {
         "chara": [
@@ -317,7 +317,7 @@
             "motion": 1
           }
         ],
-        "textRight": "One that anyone could attempt to fulfill, @but that wouldn't be easy to accomplish."
+        "textRight": "Una que cualquiera podría intentar cumplir,@pero que no será fácil de lograr."
       },
       {
         "chara": [
@@ -328,7 +328,7 @@
             "motion": 1
           }
         ],
-        "textLeft": "In that case, what about this?"
+        "textLeft": "En ese caso, ¿qué te parece esto?"
       },
       {
         "chara": [
@@ -336,7 +336,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "\"Defeat the Witch who caused all of this.\""
+        "textLeft": "\"Derrotar a la Bruja que causó todo esto\"."
       },
       {
         "chara": [
@@ -349,7 +349,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "The Witch?"
+        "textRight": "¿La Bruja?"
       },
       {
         "chara": [
@@ -360,7 +360,7 @@
             "motion": 301
           }
         ],
-        "textRight": "That certainly wouldn't be easy..."
+        "textRight": "Eso ciertamente no será fácil..."
       },
       {
         "chara": [
@@ -369,7 +369,7 @@
             "motion": 100
           }
         ],
-        "textLeft": "Yes, and since we'll declare that the Witch@was the [textRed:cause of the fighting]..."
+        "textLeft": "Sí, y ya que declararemos que@la Bruja fue [textRed:la causa de la lucha]..."
       },
       {
         "chara": [
@@ -382,7 +382,7 @@
           }
         ],
         "nameRight": "Kanagi",
-        "textRight": "Those who solve the root problem will@earn the right to negotiate."
+        "textRight": "Aquellas que resuelvan el problema de raíz@se ganarán el derecho a negociar."
       },
       {
         "chara": [
@@ -390,7 +390,7 @@
             "id": 101601
           }
         ],
-        "textRight": "It makes sense."
+        "textRight": "Tiene sentido."
       },
       {
         "chara": [
@@ -401,7 +401,7 @@
             "motion": 300
           }
         ],
-        "textLeft": "I only hope the girls in Chuo Ward will@agree..."
+        "textLeft": "Solo espero que las chicas de Chuo@estén de acuerdo..."
       },
       {
         "chara": [
@@ -412,7 +412,7 @@
             "motion": 100
           }
         ],
-        "textRight": "It's only the right to negotiate, not the@right to be put in charge."
+        "textRight": "Es solo el derecho a negociar,@no el derecho a que te pongan al mando."
       },
       {
         "chara": [
@@ -425,7 +425,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "We'll just have to talk to them and reach@a compromise."
+        "textRight": "Tendremos que hablar con ellas y@llegar a un acuerdo."
       },
       {
         "chara": [
@@ -436,7 +436,7 @@
             "motion": 1
           }
         ],
-        "textLeft": "Also... Until the Witch is defeated..."
+        "textLeft": "Además... Hasta que la Bruja sea derrotada..."
       },
       {
         "chara": [
@@ -444,7 +444,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "We should guarantee rights for the Magical@Girls in Chuo Ward..."
+        "textLeft": "Deberíamos garantizar los derechos de@las Chicas Mágicas en Chuo..."
       },
       {
         "chara": [
@@ -453,7 +453,7 @@
             "motion": 100
           }
         ],
-        "textLeft": "We'll have to decide how to compensate for@the damages they suffered during all this."
+        "textLeft": "Tendremos que decidir cómo compensar por@los daños que sufrieron durante todo esto."
       },
       {
         "chara": [
@@ -461,7 +461,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "We'll also have to make it clear what will@happen..."
+        "textLeft": "También tendremos que dejar claro que pasará..."
       },
       {
         "chara": [
@@ -469,7 +469,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "...to girls who break the agreement."
+        "textLeft": "... con las chicas que rompan el acuerdo."
       },
       {
         "chara": [
@@ -482,7 +482,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "You're being surprisingly proactive, Mifuyu."
+        "textRight": "Estás siendo sorprendentemente proactiva,@Mifuyu."
       },
       {
         "chara": [
@@ -493,7 +493,7 @@
             "motion": 300
           }
         ],
-        "textLeft": "I want to show those who feel betrayed@by us that we're working on a solution."
+        "textLeft": "Quiero demostrar a las que se sienten traicionadas@que estamos trabajando en una solución."
       },
       {
         "chara": [
@@ -506,7 +506,7 @@
           }
         ],
         "nameRight": "Kanagi",
-        "textRight": "I have no objections. Let's go with this@plan."
+        "textRight": "No tengo ninguna objeción.@Vayamos con este plan."
       },
       {
         "chara": [
@@ -519,7 +519,7 @@
           }
         ],
         "nameRight": "Yachiyo",
-        "textRight": "All right. There are still some finer details@we'll need to figure out."
+        "textRight": "De acuerdo. Aún quedan algunos@pequeños detalles por resolver."
       },
       {
         "chara": [
@@ -527,7 +527,7 @@
             "id": 100204
           }
         ],
-        "textRight": "We can sort them out later, when we talk to@the girls in Chuo Ward."
+        "textRight": "Pero podremos resolverlo después,@cuando hablemos con las chicas de Chuo."
       },
       {
         "chara": [
@@ -538,7 +538,7 @@
             "motion": 1
           }
         ],
-        "textLeft": "What we really need to do is reflect on@this whole situation."
+        "textLeft": "Lo que realmente tenemos que hacer es@reflexionar sobre toda esta situación."
       },
       {
         "chara": [
@@ -546,7 +546,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "How can we prevent this from ever happening@again?"
+        "textLeft": "¿Cómo podemos evitar que esto vuelva a ocurrir?"
       },
       {
         "chara": [
@@ -556,7 +556,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "And how are we supposed to behave, as@Magical Girls?"
+        "textLeft": "¿Y cómo se supone que debemos actuar@como Chicas Mágicas?"
       },
       {
         "chara": [
@@ -567,7 +567,7 @@
             "motion": 301
           }
         ],
-        "textRight": "Yes..."
+        "textRight": "Sí..."
       },
       {
         "chara": [
@@ -580,20 +580,20 @@
           }
         ],
         "nameRight": "Kanagi",
-        "textRight": "You're right... Let this be a warning for us."
+        "textRight": "Tienes razón...@Que esto sea una advertencia para nosotras."
       },
       {
         "bgm": "stop",
         "nameNarration": "",
-        "narration": "Days later, capitalizing on the Witch's@fascination with mirrors, it was lured to@an abandoned house on the east side.",
+        "narration": "Días después,@aprovechando la fascinación@de la Bruja por los espejos,@la atrajeron a una casa@abandonada en el lado este.",
         "narrationBg": "bg_adv_narration.jpg",
         "narrationEffect": "in"
       },
       {
-        "narration": "Someone was appointed to oversee the@area and keep the general public away."
+        "narration": "Se designó a alguien para vigilar la zona@y mantener alejado al público en general."
       },
       {
-        "narration": "And with that,@while everyone had residual mixed feelings,@the series of disturbances came to an end."
+        "narration": "Y con eso, mientras todas aún tenían@sentimientos encontrados residuales,@la serie de disturbios llegó a su fin."
       },
       {
         "autoTurnLast": 0.1,
@@ -624,7 +624,7 @@
         "nameRight": "Kanagi",
         "narrationEffect": "out",
         "surround": "7009_night_townbuzz",
-        "textRight": "Mifuyu, do you have a moment?",
+        "textRight": "Mifuyu, ¿tienes un momento?",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -635,7 +635,7 @@
             "id": 100602
           }
         ],
-        "textLeft": "What is it?"
+        "textLeft": "¿Qué pasa?"
       },
       {
         "autoTurnLast": 0.01,
@@ -653,7 +653,7 @@
       {
         "bgm": "bgm03_story18",
         "nameNarration": "Kanagi",
-        "narration": "— Kanagi —@You saved me in the Labyrinth.",
+        "narration": "— Kanagi —@Me salvaste en el Laberinto.",
         "narrationAnchor": "bottom",
         "narrationCoverOpacity": 150.0,
         "narrationEffect": "in",
@@ -663,51 +663,51 @@
         "turnChangeOut": "fadeOut"
       },
       {
-        "narration": "— Kanagi —@I'd like to thank you@again for what you did."
+        "narration": "— Kanagi —@Me gustaría agradecerte@de nuevo lo que hiciste."
       },
       {
         "nameNarration": "Mifuyu",
-        "narration": "— Mifuyu —@Oh, no. It's really fine."
+        "narration": "— Mifuyu —@Oh, no.@Realmente está bien."
       },
       {
         "nameNarration": "Kanagi",
-        "narration": "— Kanagi —@I owe you.@And I always return my debts."
+        "narration": "— Kanagi —@Te lo debo.@Y siempre devuelvo mis deudas."
       },
       {
-        "narration": "— Kanagi —@I'd like to repay you in some way,@is there anything you would like from me?"
+        "narration": "— Kanagi —@Me gustaría retribuirte de alguna manera,@¿hay algo que quieras de mí?"
       },
       {
         "nameNarration": "Mifuyu",
-        "narration": "— Mifuyu —@Er... You really don't have to..."
+        "narration": "— Mifuyu —@Er... Realmente no tienes que..."
       },
       {
-        "narration": "— Mifuyu —@Well, if it means that much to you..."
+        "narration": "— Mifuyu —@Bueno, si significa tanto para ti..."
       },
       {
         "nameNarration": "Kanagi",
-        "narration": "— Kanagi —@Yes. I said I would repay you, didn't I?"
+        "narration": "— Kanagi —@Sí. Dije que te devolvería el favor, ¿no?"
       },
       {
         "nameNarration": "Mifuyu",
         "narration": "— Mifuyu —@..."
       },
       {
-        "narration": "— Mifuyu —@All right. If Yachan needs help@from someone when I'm not around..."
+        "narration": "— Mifuyu —@De acuerdo. Si Yachan necesita ayuda@de alguien cuando yo no esté..."
       },
       {
-        "narration": "— Mifuyu —@Please help her."
+        "narration": "— Mifuyu —@Por favor, ayúdala."
       },
       {
         "nameNarration": "Kanagi",
-        "narration": "— Kanagi —@Help Yachiyo?"
+        "narration": "— Kanagi —@¿Ayudar a Yachiyo?"
       },
       {
         "nameNarration": "Mifuyu",
-        "narration": "— Mifuyu —@Yes. That is my request."
+        "narration": "— Mifuyu —@Sí. Esa es mi petición."
       },
       {
         "nameNarration": "Kanagi",
-        "narration": "— Kanagi —@Understood. I promise I will."
+        "narration": "— Kanagi —@Entendido. Prometo que lo haré."
       },
       {
         "autoTurnLast": 0.01,
@@ -739,12 +739,12 @@
       {
         "bgm": "bgm03_story12",
         "nameNarration": "Mifuyu",
-        "narration": "I don't want to accept it, but...@I really might be getting weaker.",
+        "narration": "No quiero aceptarlo, pero...@Realmente podría estar@volviéndome más débil.",
         "narrationBg": "bg_adv_narration.jpg",
         "narrationEffect": "in"
       },
       {
-        "narration": "If, someday, I can no longer fight,@and I can no longer be by Yachan's side..."
+        "narration": "Si algún día no puedo seguir luchando,@y no puedo estar al lado de Yachan..."
       },
       {
         "chara": [
@@ -757,7 +757,7 @@
           }
         ],
         "narrationEffect": "out",
-        "textCenter": "I want someone to be there for her..."
+        "textCenter": "Quiero que alguien esté ahí para ella..."
       },
       {
         "autoTurnLast": 2.0,
