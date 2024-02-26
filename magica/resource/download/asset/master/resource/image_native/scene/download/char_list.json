@@ -1,45 +1,31 @@
 [
 	{
-		"id":35054,
+		"id":10144,
 		"default":true,
-		"name":"Leila & Seika",
-		"desc":"Chicas Mágicas y amigas de la infancia que viven en el complejo residencial de Daito. Junto a Mito, viven su vida escolar y luchan contra las Brujas. La activa Leila suele liderarlas, la tranquila y serena Seika las apoya, y la gentil Mito mantiene el equilibrio entre las tres.",
-		"cv":"Marika Kouno & Azumi Waki"
+		"name":"Nemu Hiiragi",
+		"desc":"Una Chica Mágica que trabaja para crear un mundo sin Brujas. Nemu empezó a escribir historias solo para buscar algo de aprobación, hasta que las publicó en Internet, y se dio a conocer como una genia literaria. Su sueño es envolver el mundo en sus historias... literalmente.",
+		"cv":"Sumire Morohoshi"
 	},
 	{
-		"id":11394,
+		"id":10314,
 		"default":true,
-		"name":"Sudachi Sawa ver. San Valentín",
-		"desc":"Una Chica Mágica ajustadora ambulante que llegó a Takarazaki en el Día de San Valentín. Para mejorar la imagen de la tienda de ajustes, se anuncia vestida de caramelo de San Valentín. En secreto le alegra que el arma de su disfraz sea un bastón como el de Yozuru.",
-		"cv":"Asuka Shioiri"
+		"name":"San Kagura",
+		"desc":"Es la 2da al mando de Neo-Magius y se siente atraída por lo sagrado y lo fuerte. Entre las Neo-Magius es temida como la \"demonio instructora\", mientras que en la asociación juvenil a la que pertenece tiene una faceta en la que es querida como una hermana menor.",
+		"cv":"Ai Fairouz"
 	},
 	{
-		"id":26024,
+		"id":10334,
 		"default":true,
-		"name":"Kyoko Sakura ver. Doppel",
-		"desc":"Una Chica Mágica de Kazamino. Nacida de un padre que predicaba una nueva religión, pero ahora es huérfana. Fue a Kamihama a conocer el nuevo potencial de los Doppels, pero se encontró con un pasado del que no podía escapar. Solía especializarse en magia deslumbrante.",
-		"cv":"Ai Nonaka"
+		"name":"Ravi Himuro",
+		"desc":"Una Chica Mágica silenciosa que es sirvienta de Nayuta Satomi. Llegó a Kamihama junto a otras Chicas Mágicas que compartían la ideología de Tasuke Satomi. Parece carente de emociones y simpatía, pero tiene un lado dulce con los niños. Le gusta jugar con la tierra y leer.",
+		"cv":"Sashide Maria"
 	},
 	{
-		"id":11044,
+		"id":10204,
 		"default":true,
-		"name":"Uwasa Sana",
-		"desc":"Una Chica Mágica que se fusionó con la Uwasa de la inteligencia artificial sin nombre (Ai). Busca acabar con la solitaria Uwasa que nació por accidente. Ser una Uwasa le desconcierta, ya que no necesita dormir ni comer, pero le reconforta saber que puede hablar con Ai en su mente.",
-		"cv":"Yui Ogura (AI: Hitomi Sasaki)"
-	},
-	{
-		"id":30524,
-		"default":true,
-		"name":"Ashley Taylor",
-		"desc":"Una Chica mágica de California en busca de la cultura KAWAII japonesa. Le encanta todo lo KAWAII, desde la moda Harajuku hasta el anime y el manga. Incluso sube vídeos para difundirlo en su ciudad natal. Su tesoro es Kumanosuke, un osito de peluche que le regaló su papá.",
-		"cv":"Sally Amaki"
-	},
-	{
-		"id":27004,
-		"default":true,
-		"name":"Nagisa Momoe ver. San Valentín",
-		"desc":"Una pequeña chocolatera que causa revuelo en Mitakihara. Ella es otra forma de Nagisa Momoe, la emisaria de la \"Ley de los Ciclos\". Solo piensa en hacer dulces o comérselos, y rara vez recuerda su misión original.",
-		"cv":"Kana Asumi"
+		"name":"Kagome Satori",
+		"desc":"Una Chica Mágica que continúa con su trabajo de dar a conocer la existencia de las Chicas Mágicas. Junto a su amiga de la infancia, \"Aru-chan\", una mandrágora de peluche, recopilan información y memorias. Solía tener una gran ansiedad social y hablaba a través de su peluche.",
+		"cv":"Kanon Takao"
 	},
 	{
 		"id":10011,
