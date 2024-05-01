@@ -17,7 +17,7 @@
             },
             {
                 "nameNarration": "???",
-                "narration": "― ??? ―@What is...[textRed:the place where I belong]?",
+                "narration": "― ??? ―@¿Cuál es... [textRed:el lugar al que pertenezco]?",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -27,7 +27,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "― ??? ―@It's the place that will make our dream, which @we've kept alive with our love, come true."
+                "narration": "― ??? ―@Es el lugar que hará realidad nuestros sueños,@los cuales hemos mantenido vivos con nuestro amor."
             },
             {
                 "item": [
@@ -39,10 +39,10 @@
                     }
                 ],
                 "nameNarration": "???",
-                "narration": "― ??? ―@What is...[textRed:the place where I belong]?"
+                "narration": "― ??? ―@¿Cuál es... [textRed:el lugar al que pertenezco]?"
             },
             {
-                "narration": "― ??? ―@It's something that symbolizes fate and intent,@and when grasped, materializes them."
+                "narration": "― ??? ―@Es algo que simboliza el destino y la voluntad,@y que al tomarlo, los hace realidad."
             },
             {
                 "item": [
@@ -54,7 +54,7 @@
                     }
                 ],
                 "nameNarration": "Shizuku",
-                "narration": "― ??? ―@What is...[textRed:the place where I belong]?"
+                "narration": "― ??? ―@¿Cuál es... [textRed:el lugar al que pertenezco]?"
             },
             {
                 "item": [
@@ -70,7 +70,7 @@
                 "narration": "— Shizuku —@..."
             },
             {
-                "narration": "— Shizuku —@I..."
+                "narration": "— Shizuku —@Yo..."
             },
             {
                 "item": [
@@ -82,7 +82,7 @@
                 "narration": "— Shizuku —@..."
             },
             {
-                "narration": "— Shizuku —@I don't know the answer."
+                "narration": "— Shizuku —@No sé la respuesta..."
             },
             {
                 "autoTurnLast": 1,
@@ -93,19 +93,19 @@
             {
                 "bgm": "bgm03_story07",
                 "nameNarration": "Shizuku",
-                "narration": "My house, wrapped in the aroma of rich coffee.@A familiar classmate, calling my name.@A friend tugging my arm, inviting me along.",
+                "narration": "Mi casa, envuelta en el aroma de un rico café.@Un compañero de clase llamando mi nombre.@Un amigo tirando de mi brazo, invitándome a jugar.",
                 "narrationBg": "black",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I do have many close relationships."
+                "narration": "Tengo muchas relaciones cercanas."
             },
             {
-                "narration": "But once I think too hard about them,@my mind drifts further away, like a balloon.@Soon it's as though I'm gazing@at them from far, far away."
+                "narration": "Pero en cuanto pienso demasiado en ellas,@mi mente se va alejando, como un globo.@Pronto es como si las estuviera mirando@desde muy, muy lejos."
             },
             {
-                "narration": "Then I think. \"No, not here either,\"@and I drift away from those people."
+                "narration": "Entonces pienso,@\"No, aquí tampoco\",@y me alejo de esas personas."
             },
             {
                 "autoTurnLast": 0.01,
@@ -114,13 +114,13 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "That's why I set off on a journey@to find [textRed:the place where I belong].",
+                "narration": "Por eso emprendí un viaje para encontrar@[textRed:el lugar al que pertenezco].",
                 "narrationBg": "bg_adv_21173.jpg",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "One only lives so long, and one's life can come to@an abrupt end so easily. I've wholeheartedly been@searching for [textRed:a place to belong] since I realized@that. I want to find it before I become discarded."
+                "narration": "Desde que me di cuenta de que el@calendario de la vida puede acabarse tan brusca y fácilmente,@he estado buscando desesperadamente@[textRed:un lugar al que pertenecer] antes de ser@reducida a un simple trozo de papel."
             },
             {
                 "autoTurnLast": 0.01,
@@ -145,7 +145,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "(I think that's why...)",
+                "textCenter": "(Creo que es por eso que...)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -156,7 +156,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I haven't been able to forgive Ayaka ever@since that day.)"
+                "textCenter": "(No he podido perdonar a Ayaka@desde ese día.)"
             },
             {
                 "chara": [
@@ -166,7 +166,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "(I should have just played along, or cast it@off with a wry smile.)"
+                "textCenter": "(Debería haberle seguido el juego,@o haberla ignorado con una sonrisa irónica.)"
             },
             {
                 "chara": [
@@ -176,7 +176,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(But I couldn't hold back my boiling rage...)"
+                "textCenter": "(Pero no pude contener mi intensa rabia...)"
             },
             {
                 "autoTurnLast": 1,
@@ -200,7 +200,7 @@
                     }
                 ],
                 "nameCenter": "Ayaka",
-                "textCenter": "The wait is over! It's finally here!",
+                "textCenter": "¡Se acabó la espera!@¡Por fin está aquí!",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -210,7 +210,7 @@
                         "id": 301901
                     }
                 ],
-                "textCenter": "An event made for Shizuku, by Shizuku..."
+                "textCenter": "Un evento hecho para Shizuku, por Shizuku..."
             },
             {
                 "chara": [
@@ -222,7 +222,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "The Japanese Archipelago Survival Trip!"
+                "textCenter": "¡El Viaje de Supervivencia al Archipiélago Japonés!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -238,7 +238,7 @@
             },
             {
                 "nameNarration": "Ayaka",
-                "narration": "— Ayaka —@Let's see what the dart hit!",
+                "narration": "— Ayaka —@¡Veamos a qué le dio el dardo!",
                 "narrationAnchor": "bottom",
                 "narrationBg": "narration",
                 "narrationCoverOpacity": 110,
@@ -249,7 +249,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "— Ayaka —@The! Japan! Trench!"
+                "narration": "— Ayaka —@¡La - Fosa - de - Japón!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -268,7 +268,7 @@
             },
             {
                 "nameCenter": "Mitama",
-                "textCenter": "So that's that, Shizuku. You're taking@a trip to the depths of the sea this time.",
+                "textCenter": "Así son las cosas, Shizuku. Esta vez harás un viaje@a las profundidades del mar.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -311,7 +311,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "*Twitch*"
+                "textRight": "Tsk"
             },
             {
                 "autoTurnLast": 2,
@@ -336,7 +336,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "(I can't forgive her.)",
+                "textCenter": "(No puedo perdonarla.)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -347,7 +347,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I'm searching with all my heart, and she@just wants to joke around?)"
+                "textCenter": "(Estoy buscando con todo mi corazón,@¿y ella sólo quiere bromear?)"
             },
             {
                 "chara": [
@@ -369,12 +369,12 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "I haven't talked with Ayaka once@since that day.",
+                "narration": "No he hablado ni una sola vez@con Ayaka desde ese día.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "She sends texts, but I never reply.@I keep traveling using my [textRed:Space Fusion] magic."
+                "narration": "Me envía mensajes,@pero nunca le contesto.@Sigo viajando usando mi@magia de [textRed:Unión Espacial]."
             },
             {
                 "chara": [
@@ -393,7 +393,7 @@
                         "pos": 2
                     }
                 ],
-                "narration": "I've had occasional dealings with some@shady Magical Girls. They reward me in@exchange for use of my [textRed:Space Fusion] magic."
+                "narration": "He tenido tratos ocasionales con@algunas Chicas Mágicas sospechosas.@Me recompensan a cambio de usar@mi magia de [textRed:Unión Espacial]."
             },
             {
                 "autoTurnLast": 0.01,
@@ -419,7 +419,7 @@
                     }
                 ],
                 "surround": "7003_wind",
-                "textCenter": "(That still hasn't changed...)",
+                "textCenter": "(Eso aún no ha cambiado...)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -441,8 +441,8 @@
                     }
                 ],
                 "nameLeft": "Shizuku",
-                "nameRight": "White Feather",
-                "textRight": "Are you sure you can continue assisting us@like this?",
+                "nameRight": "Pluma Blanca",
+                "textRight": "¿Estás segura de que puedes@seguir ayudándonos así?",
                 "turnEffect": "stop"
             },
             {
@@ -451,7 +451,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "I'm sure. That's why I waited for your call."
+                "textLeft": "Estoy segura.@Es por eso que esperé tu llamada."
             },
             {
                 "chara": [
@@ -460,7 +460,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "That said I'd like to know what you're@trying to accomplish."
+                "textLeft": "Dicho eso, me gustaría saber@qué pretenden conseguir."
             },
             {
                 "chara": [
@@ -468,7 +468,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "Why do you need my [textRed:Space Fusion] magic to@connect Kamihama to other places?"
+                "textLeft": "¿Por qué necesitan mi magia de [textRed:Unión Espacial]@para conectar Kamihama con otros lugares?"
             },
             {
                 "chara": [
@@ -477,7 +477,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "We already agreed not to discuss that."
+                "textRight": "Ya acordamos no hablar de eso."
             },
             {
                 "chara": [
@@ -489,7 +489,7 @@
                     }
                 ],
                 "nameNarration": "???",
-                "narration": "Though... It would be another story if you@were to join the Wings of the Magius.",
+                "narration": "Aunque...@Sería otra historia si te unieras@a las Alas de Magius.",
                 "narrationBg": "narration",
                 "narrationEffect": "in"
             },
@@ -516,7 +516,7 @@
                 ],
                 "nameRight": "Mifuyu",
                 "surround": "stop",
-                "textRight": "I've heard about you, Shizuku Hozumi."
+                "textRight": "He oído hablar de ti, Shizuku Hozumi."
             },
             {
                 "chara": [
@@ -524,7 +524,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "You're an incredible Magical Girl who can@connect places using [textRed:Space Fusion]."
+                "textRight": "Eres una Chica Mágica increíble que puede@conectar lugares usando tu [textRed:Unión Espacial]."
             },
             {
                 "chara": [
@@ -533,7 +533,7 @@
                         "motion": 401
                     }
                 ],
-                "textLeft": "Are you... Mifuyu Azusa?"
+                "textLeft": "¿Eres... Mifuyu Azusa?"
             },
             {
                 "chara": [
@@ -544,7 +544,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "You've heard of me?"
+                "textRight": "¿Has oído de mí?"
             },
             {
                 "chara": [
@@ -555,7 +555,7 @@
                         "motion": 101
                     }
                 ],
-                "textLeft": "Yes. You're a veteran Magical Girl in@Kamihama..."
+                "textLeft": "Sí...@Eres una Chica Mágica veterana en Kamihama..."
             },
             {
                 "chara": [
@@ -566,7 +566,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Right now I organize this group of girls."
+                "textRight": "Actualmente dirijo a este grupo de chicas."
             },
             {
                 "chara": [
@@ -577,7 +577,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Oh... Sorry..."
+                "textLeft": "Oh... Disculpa..."
             },
             {
                 "chara": [
@@ -585,7 +585,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "I never imagined they had a veteran like@you keeping them in order..."
+                "textLeft": "Nunca imaginé que tuvieran a una veterana@como tú manteniéndolas en orden..."
             },
             {
                 "chara": [
@@ -596,7 +596,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "*Chuckle* Don't worry about it."
+                "textRight": "*Risilla* No te preocupes por eso."
             },
             {
                 "chara": [
@@ -606,7 +606,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "So what do you think? Want to join the@Wings of the Magius?"
+                "textRight": "¿Y qué te parece?@¿Quieres unirte a las Alas de Magius?"
             },
             {
                 "chara": [
@@ -617,7 +617,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "If someone as experienced as you is there,@yes."
+                "textLeft": "Si hay alguien tan experimentada como tú,@entonces sí."
             },
             {
                 "chara": [
@@ -626,7 +626,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Then we can tell you about our goals."
+                "textRight": "Entonces podremos hablarte@de nuestros objetivos."
             },
             {
                 "chara": [
@@ -636,7 +636,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "Though there is just one condition you need@to meet before joining."
+                "textRight": "Aunque solo hay una condición@que debes cumplir antes de unirte."
             },
             {
                 "chara": [
@@ -646,7 +646,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "A condition?"
+                "textLeft": "¿Una condición?"
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yes."
+                "textRight": "Así es."
             },
             {
                 "chara": [
@@ -664,7 +664,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "I want you to learn the truth about Magical@Girls. That's our requirement for entry."
+                "textRight": "Quiero que aprendas la verdad sobre las Chicas@Mágicas. Ese es nuestro requisito de entrada."
             },
             {
                 "autoTurnLast": 0.01,
@@ -728,7 +728,7 @@
                 ],
                 "nameLeft": "Mifuyu",
                 "nameRight": "Shizuku",
-                "textRight": "Where are we?",
+                "textRight": "¿Dónde estamos?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -737,7 +737,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "The archives room at the Memory Museum.@All memories are kept here for safekeeping."
+                "textLeft": "Es la sala de archivos del Museo de las Memorias.@Toda memoria se guarda aquí para su custodia."
             },
             {
                 "chara": [
@@ -748,7 +748,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "All...memories?"
+                "textRight": "¿Todas las... memorias?"
             },
             {
                 "chara": [
@@ -757,7 +757,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "That sounds like something out of a fairytale."
+                "textRight": "Parece sacado de un cuento de hadas."
             },
             {
                 "chara": [
@@ -768,7 +768,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "*Giggle* That's a fair reaction to have."
+                "textLeft": "*Risilla* Esa es una reacción normal."
             },
             {
                 "chara": [
@@ -778,7 +778,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "But I think you'll change your mind about that@that once you experience this for real."
+                "textLeft": "Pero creo que cambiarás de opinión@una vez que lo experimentes tú misma."
             },
             {
                 "chara": [
@@ -789,7 +789,7 @@
                         "motion": 101
                     }
                 ],
-                "textRight": "\"For real\"?"
+                "textRight": "¿\"Experimentar\"?"
             },
             {
                 "chara": [
@@ -798,7 +798,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Yes. You're going to look inside someone's@memories so you can learn the truth."
+                "textLeft": "Así es. Mirarás dentro de las memorias@de alguien para aprender la verdad."
             },
             {
                 "chara": [
@@ -806,7 +806,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "And the memories you'll look inside...@They're mine."
+                "textLeft": "Y las memorias que verás...@Son las mías."
             },
             {
                 "chara": [
@@ -825,7 +825,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "They're in this book."
+                "textLeft": "Están en este libro."
             },
             {
                 "chara": [
@@ -834,7 +834,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Everything I've experienced is recorded here@in these pages."
+                "textLeft": "Todo lo que he experimentado@está registrado en estas páginas."
             },
             {
                 "chara": [
@@ -842,7 +842,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "I'd like you to go ahead and experience it,@too. The truth about Magical Girls."
+                "textLeft": "Me gustaría que tú también lo experimentaras.@La verdad sobre las Chicas Mágicas."
             },
             {
                 "chara": [
@@ -851,7 +851,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Experience...the truth..."
+                "textRight": "Experimentar... la verdad..."
             },
             {
                 "chara": [
@@ -860,7 +860,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Yes. All you need to do is look inside this@book."
+                "textLeft": "Sí. Todo lo que tienes que hacer@es mirar dentro de este libro."
             },
             {
                 "chara": [
@@ -871,7 +871,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "...Okay."
+                "textRight": "... Okey."
             },
             {
                 "chara": [
@@ -882,7 +882,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "See you when you're done living out my@memories."
+                "textLeft": "Nos vemos cuando termines de vivir mis memorias."
             },
             {
                 "autoTurnLast": 0.5,

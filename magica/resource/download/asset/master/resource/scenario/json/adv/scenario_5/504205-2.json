@@ -16,7 +16,7 @@
             {
                 "bgm": "bgm05_event10",
                 "nameNarration": "Shizuku",
-                "narration": "— Shizuku —@*Pant*...*Pant*",
+                "narration": "— Shizuku —@*Jadeo*... *Jadeo*",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -26,46 +26,46 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "— Shizuku —@Ryo, Ikumi... I'm sorry."
+                "narration": "— Shizuku —@Ryo, Ikumi... Lo siento."
             },
             {
-                "narration": "— Shizuku —@I'll probably become exactly@what you expected me to."
+                "narration": "— Shizuku —@Probablemente me convertiré exactamente@en lo que pensaban que sería."
             },
             {
-                "narration": "— Shizuku —@I won't forgive the Magius for betraying@their allies while saying they'll save us."
+                "narration": "— Shizuku —@No perdonaré a las Magius por traicionar a sus aliadas@mientras decían que nos salvarían."
             },
             {
-                "narration": "— Shizuku —@I can't believe in the future that@those three have promised us."
+                "narration": "— Shizuku —@No puedo creer en el futuro@que esas tres nos han prometido."
             },
             {
-                "narration": "— Shizuku —@So I'm going to put a stop to whatever it is@that the Wings of the Magius are planning."
+                "narration": "— Shizuku —@Así que voy a poner fin a lo que sea que@estén planeando las Alas de Magius."
             },
             {
                 "nameNarration": "Ryo",
-                "narration": "― Ryo ―@I won't have any regrets about letting@you go. Not even if you stop us."
+                "narration": "― Ryo ―@No me arrepentiré de haberte dejado ir.@Ni siquiera si nos llegas a detener."
             },
             {
-                "narration": "― Ryo ―@But I might cry a little, or hold a grudge."
+                "narration": "― Ryo ―@Pero podría llorar un poco,@o guardarte rencor."
             },
             {
-                "narration": "― Ryo ―@I'm starting to hate myself, too. I want@to save you, but I still cling to liberation."
+                "narration": "― Ryo ―@Yo también empiezo a odiarme.@Quiero salvarte, pero aún me aferro a la liberación."
             },
             {
                 "nameNarration": "Ikumi",
-                "narration": "― Ikumi ―@I fully intend to bring about liberation, @even if it means using the Magius."
+                "narration": "― Ikumi ―@Tengo toda la intención de lograr la liberación,@incluso si eso significa usar a las Magius."
             },
             {
-                "narration": "― Ikumi ―@I feel the same as you, Ryo.@I might cry a little, too..."
+                "narration": "― Ikumi ―@Siento lo mismo que tú, Ryo.@Yo también podría llorar un poco..."
             },
             {
-                "narration": "― Ikumi ―@But, Shizuku, don't worry about us."
+                "narration": "― Ikumi ―@Pero, Shizuku,@no te preocupes por nosotras."
             },
             {
-                "narration": "― Ikumi ―@We still managed to keep from crossing a@line that no Magical Girl should cross."
+                "narration": "― Ikumi ―@Aún así nos las arreglamos para no cruzar una línea@que ninguna Chica Mágica debería cruzar."
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "— Shizuku —@I knew it...@You DID help me."
+                "narration": "— Shizuku —@Lo sabía...@Ustedes SÍ me ayudaron."
             },
             {
                 "nameNarration": "Ikumi",
@@ -73,10 +73,10 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "— Shizuku —@Thank you..."
+                "narration": "— Shizuku —@Gracias..."
             },
             {
-                "narration": "— Shizuku —@I hope...I can meet you two again someday,@under better circumstances."
+                "narration": "— Shizuku —@Espero... poder volver a verlas algún día,@bajo mejores circunstancias."
             },
             {
                 "autoTurnLast": 1,
@@ -119,7 +119,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "*Sniff* *Sob*"
+                "textRight": "*Llanto*"
             },
             {
                 "chara": [

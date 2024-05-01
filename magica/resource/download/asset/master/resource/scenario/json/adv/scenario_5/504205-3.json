@@ -25,7 +25,7 @@
                 ],
                 "nameCenter": "Shizuku",
                 "surround": "7007_evening_townbuzz",
-                "textCenter": "*Pant* *Wheeze*",
+                "textCenter": "*Jadeo* *Jadeo*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -44,7 +44,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "(I sense magic... The Feathers are already@in the streets...)",
+                "textCenter": "(Percibo magia...@Las Plumas ya están en las calles...)",
                 "turnEffect": "thinking"
             },
             {
@@ -83,7 +83,7 @@
             {
                 "bgm": "bgm01_anime02",
                 "nameNarration": "Shizuku",
-                "narration": "I would still be brainwashed@if it weren't for those two.",
+                "narration": "Seguiría con el cerebro lavado@si no fuera por ellas dos.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -105,16 +105,16 @@
                         "id": 305300
                     }
                 ],
-                "narration": "It made me remember Ayaka."
+                "narration": "Me hicieron recordar a Ayaka."
             },
             {
-                "narration": "I got so mad at her...@And I shunned her so much..."
+                "narration": "Me enojé mucho con ella...@Y la evité tanto..."
             },
             {
-                "narration": "But it's because she's someone who I can@get mad at, and even avoid if I need to.@That's why it was Ayaka who came to mind."
+                "narration": "Pero es porque es alguien@con quien puedo enfadarme,@e incluso evitarla si es necesario.@Por eso fue Ayaka quien me vino a la mente."
             },
             {
-                "narration": "There's no one else out there that I can be@that emotional with and still be friends."
+                "narration": "No hay nadie más con quien@pueda ser tan emocional@y seguir siendo amigas."
             },
             {
                 "chara": [
@@ -126,7 +126,7 @@
                         "pos": 1
                     }
                 ],
-                "narration": "My place, where I belong, is at Mr. R's@side, where I can feel safe and be myself."
+                "narration": "Mi lugar, a donde pertenecía,@estaba al lado de R-kun,@donde podía sentirme segura@y ser yo misma."
             },
             {
                 "autoTurnLast": 0.01,
@@ -143,7 +143,7 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "But now, I can be myself around Ayaka.@I know that for sure.",
+                "narration": "Pero ahora, puedo ser yo misma cerca de Ayaka.@De eso estoy segura.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -169,7 +169,7 @@
                         "id": 300700
                     }
                 ],
-                "textCenter": "I need to tell her...",
+                "textCenter": "Necesito decirle...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -179,7 +179,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(This will mean going against those two,@even though they saved me...)",
+                "textCenter": "(Esto significará ir contra ellas dos,@aunque me salvaron...)",
                 "turnEffect": "thinking"
             },
             {
@@ -193,7 +193,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "(But I can't just sit around and let them do@this!)"
+                "textCenter": "(¡Pero no puedo quedarme sentada@y dejar que hagan esto!)"
             },
             {
                 "autoTurnLast": 3,
@@ -220,7 +220,7 @@
                 ],
                 "nameLeft": "Shizuku",
                 "nameRight": "Ayaka",
-                "textRight": "Shizuku?!"
+                "textRight": "¿¡Shizuku!?"
             },
             {
                 "chara": [
@@ -241,7 +241,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Um... Is this really Shizuku?"
+                "textRight": "Um... ¿Es realmente Shizuku?"
             },
             {
                 "chara": [
@@ -252,7 +252,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Isn't my number saved in your phone?"
+                "textLeft": "¿No tienes mi número guardado en tu celular?"
             },
             {
                 "chara": [
@@ -261,7 +261,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Yeah, it said it was you when I got the call."
+                "textRight": "Sí, decía tú nombre cuando recibí la llamada."
             },
             {
                 "chara": [
@@ -269,7 +269,7 @@
                         "id": 301901
                     }
                 ],
-                "textRight": "But I thought you might be the kidnapper!"
+                "textRight": "¡Pero pensé que podría ser el secuestrador!"
             },
             {
                 "chara": [
@@ -280,7 +280,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "To be honest, you're not far off the mark@about the kidnapping thing."
+                "textLeft": "Para ser sincera,@no vas muy desencaminada con lo del secuestro."
             },
             {
                 "chara": [
@@ -291,7 +291,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Whaaat?!"
+                "textRight": "¿¡Quééé!?"
             },
             {
                 "chara": [
@@ -302,7 +302,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "But that doesn't matter right now. Listen...@There's something I need to tell you."
+                "textLeft": "Pero eso no importa ahora.@Escucha... Hay algo que necesito decirte."
             },
             {
                 "chara": [
@@ -311,7 +311,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Oh! Me too!"
+                "textRight": "¡Oh! ¡Yo también!"
             },
             {
                 "chara": [
@@ -329,7 +329,7 @@
                 ],
                 "nameCenter": "Shizuku & Ayaka",
                 "textBg": "shout",
-                "textCenter": "I'm sorry!"
+                "textCenter": "¡LO SIENTO!"
             },
             {
                 "chara": [
@@ -341,7 +341,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Huh?"
+                "textRight": "¿Eh?"
             },
             {
                 "chara": [
@@ -350,7 +350,7 @@
                         "motion": 101
                     }
                 ],
-                "textLeft": "You must've been worried..."
+                "textLeft": "Debes haber estado preocupada..."
             },
             {
                 "chara": [
@@ -359,7 +359,7 @@
                         "tear": 1
                     }
                 ],
-                "textLeft": "I got so dramatic, and pushed you away like@an idiot..."
+                "textLeft": "Me puse tan dramática,@y te alejé como una idiota..."
             },
             {
                 "chara": [
@@ -368,7 +368,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "I'm really sorry..."
+                "textLeft": "Realmente lo siento..."
             },
             {
                 "chara": [
@@ -379,7 +379,7 @@
                         "tear": 1
                     }
                 ],
-                "textRight": "But...I'm the one who should be sorry! I knew@that you were being serious..."
+                "textRight": "Pero... ¡Soy yo quien debería disculparse!@Sabía que estabas hablando en serio..."
             },
             {
                 "chara": [
@@ -388,7 +388,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "But I still kept clowning around..."
+                "textRight": "Pero yo seguía haciendo payasadas..."
             },
             {
                 "chara": [
@@ -399,7 +399,7 @@
                         "tear": 0
                     }
                 ],
-                "textLeft": "No, it's okay..."
+                "textLeft": "No, está bien..."
             },
             {
                 "bgm": "stop",
@@ -410,7 +410,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "But look, I have to tell you something even@more important."
+                "textLeft": "Pero mira, tengo que decirte algo@aún más importante."
             },
             {
                 "chara": [
@@ -420,7 +420,7 @@
                         "tear": 0
                     }
                 ],
-                "textRight": "Wh-what's that?"
+                "textRight": "¿Q-qué cosa?"
             },
             {
                 "bgm": "bgm03_story08",
@@ -432,7 +432,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "If you're outside right now, run.[chara:301901:cheek_2][chara:301901:face_mtn_ex_050.exp.json]"
+                "textLeft": "Si estás afuera en este momento, corre.[chara:301901:cheek_2][chara:301901:face_mtn_ex_050.exp.json]"
             },
             {
                 "chara": [
@@ -441,7 +441,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "I'm serious. There are some Magical Girls@coming who want us all dead."
+                "textLeft": "Lo digo en serio. Hay unas Chicas Mágicas@en camino que nos quieren a todas muertas."
             },
             {
                 "chara": [
@@ -449,7 +449,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "Evacuate to some place that's safe...maybe@your house."
+                "textLeft": "Evacua a algún lugar que sea seguro...@tal vez tu casa."
             },
             {
                 "chara": [
@@ -460,7 +460,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Whaaaaaat?!"
+                "textRight": "¿¡Quéééééé!?"
             },
             {
                 "chara": [
@@ -470,7 +470,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textRight": "H-h-hang on a second, are you for real right@now?!"
+                "textRight": "¡E-e-espera un segundo, ¿lo dices en serio?!"
             },
             {
                 "chara": [
@@ -479,7 +479,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I would never joke about something like@this."
+                "textLeft": "Nunca bromearía con algo así."
             },
             {
                 "chara": [
@@ -490,7 +490,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "That's true... Okay! I'll evacuate!"
+                "textRight": "Está bien... ¡Entiendo! ¡Evacuaré!"
             },
             {
                 "chara": [
@@ -500,7 +500,7 @@
                         "id": 301901
                     }
                 ],
-                "textRight": "How about you? Will you be okay?"
+                "textRight": "¿Qué hay de ti? ¿Estarás bien?"
             },
             {
                 "chara": [
@@ -511,7 +511,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Yes, I'll be fine. I'll see you later."
+                "textLeft": "Sí, estaré bien. Te veo después."
             },
             {
                 "chara": [
@@ -522,7 +522,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Got it! Later!"
+                "textRight": "¡Entendido! ¡Nos vemos!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -561,7 +561,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "(Here they come.)",
+                "textLeft": "(Aquí vienen.)",
                 "turnEffect": "thinking"
             },
             {
@@ -579,7 +579,7 @@
                         "motion": 401
                     }
                 ],
-                "textLeft": "Too slow!"
+                "textLeft": "¡Muy lento!"
             },
             {
                 "chara": [
@@ -590,7 +590,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:6252_hit_spike_01_s]Yaaargh!"
+                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:6252_hit_spike_01_s]¡Yaaargh!"
             },
             {
                 "chara": [
@@ -606,7 +606,7 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Black Feather",
+                "nameRight": "Pluma Negra",
                 "textRight": "Gaughhh..."
             },
             {
@@ -617,7 +617,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "(Ikumi and Ryo gave me one last thing to@use...)",
+                "textLeft": "(Ikumi y Ryo me dieron una@última cosa para usar...)",
                 "turnEffect": "thinking"
             },
             {
@@ -639,7 +639,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "I'll get away, no matter what it takes."
+                "textLeft": "Escaparé, cueste lo que cueste."
             },
             {
                 "autoTurnLast": 2,

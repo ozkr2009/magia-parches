@@ -32,7 +32,7 @@
                 ],
                 "nameLeft": "Ikumi",
                 "nameRight": "Shizuku",
-                "textLeft": "Oof... I'm telling you, you've got it wrong!",
+                "textLeft": "Eeek... ¡Te equivocas!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -41,7 +41,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "We don't want to take anything away from@you, we never wanted that!"
+                "textLeft": "¡No queremos quitarte nada,@nunca quisimos eso!"
             },
             {
                 "chara": [
@@ -52,7 +52,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Then why..."
+                "textRight": "Entonces por qué..."
             },
             {
                 "chara": [
@@ -60,7 +60,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Why am I the only one who you keep giving@all these things to?!"
+                "textRight": "¿¡Por qué soy la única a la que le siguen@dando todas estas cosas!?"
             },
             {
                 "chara": [
@@ -68,7 +68,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Why do you keep telling me about yourselves,@risking everyone getting suspicious of us?!"
+                "textRight": "¿¡Por qué siguen contándome sobre ustedes,@arriesgando que todas sospechen de nosotras!?"
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "W-well..."
+                "textLeft": "B-bueno..."
             },
             {
                 "chara": [
@@ -90,7 +90,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "You're trying to get me in trouble!"
+                "textRight": "¡Están intentando meterme en problemas!"
             },
             {
                 "chara": [
@@ -99,7 +99,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "No! No, that's not it!"
+                "textLeft": "¡No! ¡No es eso!"
             },
             {
                 "chara": [
@@ -112,7 +112,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "Yeah, that's totally wrong. We would never."
+                "textLeft": "Sí, te equivocas. Nunca haríamos eso."
             },
             {
                 "chara": [
@@ -120,7 +120,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Everything we've done, we did for your sake."
+                "textLeft": "Todo lo que hemos hecho,@lo hicimos por tu bien."
             },
             {
                 "chara": [
@@ -130,7 +130,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Is that so? Then explain... If it's all for@my sake, like you say, you can explain it."
+                "textRight": "¿En serio? Entonces explícame...@Si es por mi bien, como dices, puedes explicarlo."
             },
             {
                 "chara": [
@@ -149,7 +149,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "You can't, can you?"
+                "textRight": "No puedes, ¿verdad?"
             },
             {
                 "chara": [
@@ -159,7 +159,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "All right, then. That proves it..."
+                "textRight": "Muy bien. Eso lo prueba..."
             },
             {
                 "autoTurnLast": 2,
@@ -174,14 +174,14 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "I have no choice but to get rid of you both."
+                "textRight": "No tengo más opción que deshacerme de ambas."
             },
             {
                 "bgm": "stop",
-                "nameCenter": "White Feather",
+                "nameCenter": "Pluma Blanca",
                 "surround": "7003_wind",
                 "textBg": "shout",
-                "textCenter": "Hey!!!"
+                "textCenter": "¡¡¡Oigan!!!"
             },
             {
                 "chara": [
@@ -198,7 +198,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¿¡...!?"
             },
             {
                 "autoTurnLast": 0.02,
@@ -220,8 +220,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "White Feather",
-                "textRight": "What are you all doing over there?!"
+                "nameRight": "Pluma Blanca",
+                "textRight": "¿¡Qué están haciendo ahí!?"
             },
             {
                 "chara": [
@@ -247,7 +247,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "Um, we were just..."
+                "textLeft": "Um, emm..."
             },
             {
                 "chara": [
@@ -256,7 +256,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Doing one last spar as part of her Black@Feather training...using our full strength."
+                "textLeft": "Ah, solo es un último simulacro de batalla real@como parte de su entrenamiento de Pluma Negra."
             },
             {
                 "chara": [
@@ -265,7 +265,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Really?"
+                "textRight": "¿En serio?"
             },
             {
                 "chara": [
@@ -275,7 +275,7 @@
                         "id": 715100
                     }
                 ],
-                "textRight": "It didn't look like you were just training..."
+                "textRight": "No parecía que solo estuvieran entrenando..."
             },
             {
                 "chara": [
@@ -288,7 +288,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "Well yeah, that's because we were really@going at it with her."
+                "textLeft": "Bueno sí, eso es porque realmente@íbamos con todo."
             },
             {
                 "chara": [
@@ -299,7 +299,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Otherwise we wouldn't be able to test her@full abilities for real."
+                "textLeft": "De lo contrario, no seríamos capaces de@probar todas sus habilidades de verdad."
             },
             {
                 "chara": [
@@ -309,7 +309,7 @@
                         "id": 715100
                     }
                 ],
-                "textRight": "Is that so?"
+                "textRight": "¿Es así?"
             },
             {
                 "chara": [
@@ -322,7 +322,7 @@
                     }
                 ],
                 "nameLeft": "Shizuku",
-                "textLeft": "...Yeah."
+                "textLeft": "... Sí."
             },
             {
                 "chara": [
@@ -332,7 +332,7 @@
                         "id": 715100
                     }
                 ],
-                "textRight": "Well, all right."
+                "textRight": "Bueno, está bien."
             },
             {
                 "chara": [
@@ -343,7 +343,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "The Magius want to see you three. Go to each@of your supervisors."
+                "textRight": "Las Magius quieren verlas a las tres.@Cada una vaya con su superior."
             },
             {
                 "chara": [
@@ -354,7 +354,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "(Maybe the Magius found out that we broke the@rules...)",
+                "textLeft": "(Tal vez las Magius descubrieron@que rompimos las reglas...)",
                 "turnEffect": "thinking"
             },
             {
@@ -364,7 +364,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "They want to talk to you before they decide@where you will be assigned.",
+                "textRight": "Quieren hablar con ustedes antes de decidir@dónde serán asignadas.",
                 "turnEffect": "stop"
             },
             {
@@ -389,7 +389,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textLeft": "(Then it can't be that...)",
+                "textLeft": "(Entonces no puede ser eso...)",
                 "turnEffect": "thinking"
             },
             {
@@ -398,7 +398,7 @@
                         "id": 715100
                     }
                 ],
-                "textRight": "All right. I gave you the message. Now get@going.",
+                "textRight": "De acuerdo. Ya les di el mensaje.@Ahora andando.",
                 "turnEffect": "stop"
             },
             {
@@ -437,7 +437,7 @@
                     }
                 ],
                 "nameRight": "Ikumi",
-                "textRight": "I promise you've got the wrong idea."
+                "textRight": "Te prometo que te equivocas."
             },
             {
                 "chara": [
@@ -450,7 +450,7 @@
                     }
                 ],
                 "nameRight": "Ryo",
-                "textRight": "Yeah, I swear..."
+                "textRight": "Sí, lo juro..."
             },
             {
                 "chara": [
@@ -461,7 +461,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I'm going to go."
+                "textLeft": "Me voy."
             },
             {
                 "chara": [
@@ -475,7 +475,7 @@
                     }
                 ],
                 "nameRight": "Ikumi",
-                "textRight": "...[wait:1.5][chara:715005:lipSynch_1]Okay."
+                "textRight": "...[wait:1.5][chara:715005:lipSynch_1] Okey."
             },
             {
                 "autoTurnLast": 0.01,
@@ -519,7 +519,7 @@
                 ],
                 "nameLeft": "Alina",
                 "nameRight": "Shizuku",
-                "textLeft": "Have you gotten used to this place?",
+                "textLeft": "¿Te has acostumbrado a este lugar?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -531,7 +531,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yes. I'm fine."
+                "textRight": "Sí. Estoy bien."
             },
             {
                 "chara": [
@@ -541,7 +541,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "I got used to it over time by coming here a@lot, just like Mifuyu said I would."
+                "textRight": "Me acostumbré con el tiempo viniendo mucho@por aquí, tal y como dijo Mifuyu que haría."
             },
             {
                 "chara": [
@@ -551,7 +551,7 @@
                         "id": 100800
                     }
                 ],
-                "textLeft": "That's good."
+                "textLeft": "Eso es bueno."
             },
             {
                 "chara": [
@@ -559,7 +559,7 @@
                         "id": 100800
                     }
                 ],
-                "textLeft": "We've managed to gather many Witches from@other cities, thanks to you."
+                "textLeft": "Hemos conseguido reunir a muchas Brujas@de otras ciudades, gracias a ti."
             },
             {
                 "chara": [
@@ -568,7 +568,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Your current status is pretty good as far as@I, Alina, am concerned."
+                "textLeft": "Tu estatus actual es bastante bueno@en lo que a mí, Alina, respecta."
             },
             {
                 "chara": [
@@ -576,7 +576,7 @@
                         "id": 100800
                     }
                 ],
-                "textLeft": "You're the only one out there who can connect@spaces, after all."
+                "textLeft": "Al fin y al cabo, eres la única que@puede conectar espacios."
             },
             {
                 "chara": [
@@ -585,7 +585,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "I'm glad to hear that."
+                "textRight": "Me alegra oír eso."
             },
             {
                 "chara": [
@@ -596,7 +596,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "So, there is just one more thing I'd like@to ask."
+                "textLeft": "Así que, solo hay una cosa más@que me gustaría preguntar."
             },
             {
                 "chara": [
@@ -607,7 +607,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "What is it?"
+                "textRight": "¿De qué se trata?"
             },
             {
                 "chara": [
@@ -616,7 +616,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Where do your loyalties lie in this @organization?"
+                "textLeft": "¿Cuál es tu lealtad a esta organización?"
             },
             {
                 "chara": [
@@ -627,7 +627,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "What am I loyal to...?"
+                "textRight": "¿A qué soy leal...?"
             },
             {
                 "chara": [
@@ -635,7 +635,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "I'm loyal to the Magius. You're the ones@who can make liberation a reality."
+                "textRight": "Soy leal a las Magius. Ustedes son las que@pueden hacer realidad la liberación."
             },
             {
                 "chara": [
@@ -646,7 +646,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I see. Grazie."
+                "textLeft": "Ya veo. Thank you."
             },
             {
                 "chara": [
@@ -654,7 +654,7 @@
                         "id": 100800
                     }
                 ],
-                "textLeft": "All right. Come here again, tomorrow. The@other Feathers will be here too."
+                "textLeft": "Muy bien. Ven aquí de nuevo mañana.@Las demás Plumas también estarán aquí."
             },
             {
                 "chara": [
@@ -665,7 +665,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "A-are you recognizing me as a Feather?"
+                "textRight": "¿M-me reconoces como una Pluma?"
             },
             {
                 "chara": [
@@ -676,7 +676,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I wouldn't have called you here for this@otherwise."
+                "textLeft": "No te habría llamado aquí para esto@si no fuera así."
             },
             {
                 "chara": [
@@ -687,7 +687,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Thank you."
+                "textRight": "Gracias."
             },
             {
                 "chara": [
@@ -696,7 +696,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Oh, wait."
+                "textLeft": "Ah, stop."
             },
             {
                 "chara": [
@@ -707,7 +707,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yes?"
+                "textRight": "¿Sí?"
             },
             {
                 "chara": [
@@ -716,7 +716,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "You must not forget to wear your robe and@pendant."
+                "textLeft": "No te olvides de llevar puesta@tu túnica y tu colgante."
             },
             {
                 "chara": [
@@ -727,7 +727,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Naturally, they're our symbols."
+                "textRight": "Naturalmente, son nuestros símbolos."
             },
             {
                 "autoTurnLast": 2,
@@ -752,13 +752,13 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "(Now I'm a real Black Feather...)",
+                "textCenter": "(Ahora soy una verdadera Pluma Negra...)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
             {
                 "nameRight": "Ikumi",
-                "textRight": "Hey, wait up...",
+                "textRight": "Oye, espera...",
                 "turnEffect": "stop"
             },
             {
@@ -771,7 +771,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "...?!"
+                "textCenter": "¿¡...!?"
             },
             {
                 "bgm": "bgm03_story06",
@@ -790,7 +790,7 @@
                 ],
                 "nameLeft": "Shizuku",
                 "nameRight": "Ikumi",
-                "textRight": "How'd it go?"
+                "textRight": "¿Cómo te fue?"
             },
             {
                 "chara": [
@@ -798,7 +798,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "The Magius wanted to speak with you, didn't@they?"
+                "textRight": "Las Magius querían hablar contigo, ¿no?"
             },
             {
                 "chara": [
@@ -809,7 +809,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I'm not sure what my assignment is yet, but@I believe I've been recognized as a Feather."
+                "textLeft": "Aún no estoy segura de cuál será mi tarea,@pero creo que me han reconocido como Pluma."
             },
             {
                 "chara": [
@@ -817,7 +817,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "She told me to come to the chapel tomorrow."
+                "textLeft": "Me dijo que viniera a la capilla mañana."
             },
             {
                 "chara": [
@@ -826,7 +826,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "She did?"
+                "textRight": "¿En serio?"
             },
             {
                 "chara": [
@@ -834,7 +834,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "Yes."
+                "textLeft": "Sí."
             },
             {
                 "chara": [
@@ -843,7 +843,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "So this is the end."
+                "textLeft": "Así que este es el final."
             },
             {
                 "chara": [
@@ -856,7 +856,7 @@
                     }
                 ],
                 "nameRight": "Ryo",
-                "textRight": "The end? What do you mean?"
+                "textRight": "¿El final? ¿A qué te refieres?"
             },
             {
                 "chara": [
@@ -865,7 +865,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I'm becoming a full-fledged Feather, so now@you have nothing to do with me."
+                "textLeft": "Me voy a convertir en una Pluma por completo,@así que ahora no tienen nada que ver conmigo."
             },
             {
                 "chara": [
@@ -873,7 +873,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "I think that's for the best...for all of us."
+                "textLeft": "Creo que es lo mejor... para todas nosotras."
             },
             {
                 "autoTurnLast": 1,
@@ -895,7 +895,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Just let me say one thing!"
+                "textRight": "¡Solo déjame decir una cosa!"
             },
             {
                 "chara": [
@@ -917,7 +917,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "You shouldn't wear your pendant tomorrow.@For your own good."
+                "textRight": "No debes usar tu colgante mañana.@Por tu propio bien."
             },
             {
                 "chara": [
@@ -990,7 +990,7 @@
             },
             {
                 "nameNarration": "???",
-                "narration": "\"Where precisely do your loyalties@lie within this organization?\"",
+                "narration": "\"¿Cuál es exactamente tu lealtad@dentro de esta organización?\"",
                 "narrationEffect": "in"
             },
             {
@@ -1014,7 +1014,7 @@
             },
             {
                 "nameNarration": "???",
-                "narration": "\"Tell me, where do your loyalties@lie in this organization?\"",
+                "narration": "\"Dime, ¿dónde reside tu lealtad@en esta organización?\"",
                 "narrationEffect": "in"
             },
             {
@@ -1039,7 +1039,7 @@
                     }
                 ],
                 "nameCenter": "Ikumi",
-                "textCenter": "In liberation.",
+                "textCenter": "En la liberación.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -1063,7 +1063,7 @@
                     }
                 ],
                 "nameCenter": "Ryo",
-                "textCenter": "In liberation.",
+                "textCenter": "En la liberación.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -1083,7 +1083,7 @@
                     }
                 ],
                 "nameNarration": "???",
-                "narration": "\"Then you can wait for further@instructions inside the headquarters.\"",
+                "narration": "\"Entonces puedes esperar más instrucciones@dentro del cuartel general.\"",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -1097,7 +1097,7 @@
                         "pos": 1
                     }
                 ],
-                "narration": "\"Make sure that you leave your pendant off,@okay?\""
+                "narration": "\"Asegúrate de no llevar tu colgante,@¿de acuerdo?\""
             },
             {
                 "chara": [
@@ -1110,7 +1110,7 @@
                         "id": 715005
                     }
                 ],
-                "narration": "\"'I don't think we'll have any use for those@who swore fealty to the Magius after this.'\""
+                "narration": "\"'Porque puede que las que juraron@lealtad a las Magius no estén@disponibles después.'\""
             },
             {
                 "autoTurnLast": 2,

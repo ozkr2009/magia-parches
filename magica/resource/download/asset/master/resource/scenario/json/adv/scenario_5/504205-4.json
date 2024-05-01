@@ -30,8 +30,8 @@
                     }
                 ],
                 "nameLeft": "Shizuku",
-                "nameRight": "Black Feather",
-                "textLeft": "*Gasp* *Wheeze*",
+                "nameRight": "Pluma Negra",
+                "textLeft": "Ugh... Uhh...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -41,7 +41,7 @@
                         "motion": 101
                     }
                 ],
-                "textLeft": "*Pant* *Pant*"
+                "textLeft": "*Jadeo* *Jadeo*"
             },
             {
                 "chara": [
@@ -50,7 +50,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "(They're even coming from other wards.@There's way too many...)",
+                "textLeft": "(Incluso vienen de otros distritos. Hay demasiadas...)",
                 "turnEffect": "thinking"
             },
             {
@@ -62,7 +62,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "*Huff*",
+                "textLeft": "Ugh...",
                 "turnEffect": "stop"
             },
             {
@@ -73,7 +73,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4061_landing_jump5]It's over!"
+                "textLeft": "[flashEffect:flashWhite2][bgEffect:shakeLarge][se:4061_landing_jump5]¡Toma esto!"
             },
             {
                 "autoTurnLast": 1,
@@ -105,7 +105,7 @@
                         "motion": 101
                     }
                 ],
-                "textLeft": "Just...a bit further..."
+                "textLeft": "Solo... un poco más..."
             },
             {
                 "autoTurnLast": 0.5,
@@ -121,7 +121,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "Huh?"
+                "textLeft": "¿Eh?"
             },
             {
                 "autoTurnLast": 0.5,
@@ -154,9 +154,9 @@
                         "motion": 200
                     }
                 ],
-                "nameRight": "White Feather",
+                "nameRight": "Pluma Blanca",
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:7151A01]Waaaaaah!!!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:7151A01]¡¡¡Waaaaaah!!!"
             },
             {
                 "autoTurnLast": 1,
@@ -171,7 +171,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "[flashEffect:flashRed2][surround:7151A02][bgEffect:shakeLarge][chara:300700:effect_shake]Ahhhhhh!!!"
+                "textLeft": "[flashEffect:flashRed2][surround:7151A02][bgEffect:shakeLarge][chara:300700:effect_shake]¡¡¡Ahhhhhh!!!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -193,14 +193,14 @@
             {
                 "bgm": "bgm03_story12",
                 "nameNarration": "Shizuku",
-                "narration": "Ugh... What...@What happened to me?",
+                "narration": "Ugh... Qué...@¿Qué me pasó?",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut",
                 "turnChangeOutTime": 4
             },
             {
-                "narration": "My body hurts so badly, but I can't speak..."
+                "narration": "Me duele mucho el cuerpo,@pero no puedo hablar..."
             },
             {
                 "narration": "..."
@@ -255,7 +255,7 @@
                     }
                 ],
                 "nameNarration": "Felicia",
-                "narration": "\"All clear!\"",
+                "narration": "\"¡Despejado!\"",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOutTime": 4
@@ -270,17 +270,17 @@
                     }
                 ],
                 "nameNarration": "Tsuruno",
-                "narration": "\"Thanks, Felicia!\""
+                "narration": "\"¡Gracias, Felicia!\""
             },
             {
                 "nameNarration": "Shizuku",
                 "narration": "Felicia..."
             },
             {
-                "narration": "Felicia?"
+                "narration": "¿Felicia?"
             },
             {
-                "narration": "I heard Tsuruno, too..."
+                "narration": "También escuché a Tsuruno..."
             },
             {
                 "chara": [
@@ -319,7 +319,7 @@
             },
             {
                 "nameNarration": "Ayaka",
-                "narration": "\"Shizuku?!@What terrible wounds!\"",
+                "narration": "\"¿¡Shizuku!?@¡Qué heridas tan terribles!\"",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOutTime": 4
@@ -333,11 +333,11 @@
                         "motion": 300
                     }
                 ],
-                "narration": "\"Did this happen after you called me?\""
+                "narration": "\"¿Esto pasó después de que me llamaste?\""
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Thank goodness... You managed to evacuate,@Ayaka."
+                "narration": "Gracias a Dios...@Lograste evacuar, Ayaka."
             },
             {
                 "chara": [
@@ -378,7 +378,7 @@
                     }
                 ],
                 "nameNarration": "Ayaka",
-                "narration": "\"Shizuku... I'm so sorry I couldn't keep you@safe.\"",
+                "narration": "\"Shizuku...@Siento mucho no haber podido@mantenerte a salvo.\"",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOutTime": 4
@@ -389,7 +389,7 @@
                         "id": 301901
                     }
                 ],
-                "narration": "\"Get better soon, okay?\""
+                "narration": "\"Mejórate pronto, ¿sí?\""
             },
             {
                 "chara": [
@@ -398,17 +398,17 @@
                         "motion": 200
                     }
                 ],
-                "narration": "\"You're the only one around who ever laughs@at my jokes...\""
+                "narration": "\"Tú eres la única que se ríe de mis chistes...\""
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "I'm really sorry, Ayaka. I didn't mean for@our reunion to end up like this..."
+                "narration": "Lo siento mucho, Ayaka.@No quería que nuestro reencuentro@terminara así..."
             },
             {
-                "narration": "Honestly, I never get any of your jokes@or even your sense of humor, so I'm not@sure how much I'll be able to laugh for you."
+                "narration": "Sinceramente,@nunca entiendo ninguno de tus chistes,@ni siquiera tu sentido del humor,@así que no estoy segura de cuánto@podré reírme por ti."
             },
             {
-                "narration": "But I'm happy just to be by your side. I'm not@sure why, but the idea doesn't bother me at all."
+                "narration": "Pero me alegra estar a tu lado.@No sé por qué,@pero la idea no me molesta en absoluto."
             },
             {
                 "chara": [
@@ -436,16 +436,16 @@
                         "pos": 2
                     }
                 ],
-                "narration": "Ikumi, Ryo...@I got away somehow, thanks to you.@I owe everything to you."
+                "narration": "Ikumi, Ryo...@Logré escapar de alguna manera,@gracias a ustedes. Les debo todo."
             },
             {
-                "narration": "The next time we meet, though,@we won't be allies anymore.@We'll be enemies with different mindsets."
+                "narration": "Sin embargo, la próxima vez@que nos encontremos,@ya no seremos aliadas.@Seremos enemigas con@mentalidades diferentes."
             },
             {
-                "narration": "All I can do is apologize for that."
+                "narration": "Todo lo que puedo hacer@es disculparme por eso."
             },
             {
-                "narration": "Still, someday... I'd love to go somewhere@with you and have dinner, once again."
+                "narration": "Aún así, algún día...@Me encantaría ir a algún lugar con ustedes@y cenar juntas, una vez más."
             },
             {
                 "autoTurnLast": 2,

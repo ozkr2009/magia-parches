@@ -30,8 +30,8 @@
                     }
                 ],
                 "nameLeft": "Shizuku",
-                "nameRight": "Ikumi",
-                "textLeft": "I'm becoming a full-fledged Feather, so now@you have nothing to do with me.",
+                "nameRight": "Shizuku",
+                "textLeft": "Me voy a convertir en una Pluma por completo,@así que ahora no tienen nada que ver conmigo.",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -41,7 +41,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "I think that's for the best...for all of us."
+                "textLeft": "Creo que es lo mejor... para todas nosotras."
             },
             {
                 "autoTurnLast": 0.01,
@@ -51,12 +51,12 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Were Ryo and Ikumi really@trying to drive me out of here?",
+                "narration": "¿Realmente Ryo e Ikumi@intentaban echarme de aquí?",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I don't know why they would...@But, maybe they had a reason.@They were always talking about belonging..."
+                "narration": "No sé por qué lo harían...@Pero, tal vez tenían una razón.@Siempre hablaban de pertenecer..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -73,7 +73,7 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Ikumi belongs on the stage, where she can@make her dream with her friend come true.",
+                "narration": "Ikumi pertenece al escenario,@donde puede hacer realidad@el sueño que tiene con su amiga.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -86,7 +86,7 @@
                         "visible": "appear"
                     }
                 ],
-                "narration": "Ryo belongs behind the symbol of her fate@and intent."
+                "narration": "Ryo pertenece tras el símbolo@de su destino y su voluntad."
             },
             {
                 "item": [
@@ -97,13 +97,13 @@
                         "visible": "appear"
                     }
                 ],
-                "narration": "And I belong wherever I can just be myself@without thinking things over too hard."
+                "narration": "Y yo pertenezco a cualquier lugar@donde pueda ser yo misma@sin pensar demasiado las cosas."
             },
             {
-                "narration": "I belong with the Wings of the Magius."
+                "narration": "Pertenezco a las Alas de Magius."
             },
             {
-                "narration": "But is that really true?"
+                "narration": "Pero, ¿es eso realmente cierto?"
             },
             {
                 "autoTurnLast": 1,
@@ -129,7 +129,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "(Lately I've been thinking way too much.)",
+                "textCenter": "(Últimamente he estado pensando demasiado.)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
@@ -140,7 +140,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I'm constantly feeling scared of being@kicked out...)"
+                "textCenter": "(Constantemente tengo miedo@de ser expulsada...)"
             },
             {
                 "chara": [
@@ -149,23 +149,23 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Can I really call that the place I belong?)"
+                "textCenter": "(¿Realmente puedo decir que ése es el lugar@al que pertenezco?)"
             },
             {
                 "nameNarration": "???",
-                "narration": "\"Attention, everyone!@The day of our freedom is at hand.\"",
+                "narration": "\"¡Atención a todas!@Se acerca el día de nuestra liberación.\"",
                 "narrationBg": "bg_adv_19111.jpg",
                 "narrationEffect": "in",
                 "turnEffect": "stop"
             },
             {
-                "narration": "\"All we need to do now@is to gather more energy.\""
+                "narration": "\"Todo lo que tenemos que hacer ahora@es reunir más energía.\""
             },
             {
-                "narration": "\"Let's spread this miracle of@Kamihama across the entire world!\""
+                "narration": "\"¡Expandamos este milagro de Kamihama@por todo el mundo!\""
             },
             {
-                "narration": "\"And then, let's keep it that way forever!\""
+                "narration": "\"¡Y luego, que siga siendo así para siempre!\""
             },
             {
                 "chara": [
@@ -175,12 +175,12 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textCenter": "(Can I really belong where I'm just another@cog in a machine?)",
+                "textCenter": "(¿De verdad puedo pertenecer a un lugar donde@solo soy un engranaje más de una máquina?)",
                 "turnEffect": "thinking"
             },
             {
                 "nameNarration": "???",
-                "narration": "\"We want you to kill all the Magical Girls@of Kamihama, without any mercy at all.@They are standing in the way of our future.\"",
+                "narration": "\"Queremos que maten a todas las@Chicas Mágicas de Kamihama,@sin piedad alguna.@Se están interponiendo en el@camino de nuestro futuro.\"",
                 "narrationBg": "bg_adv_19111.jpg",
                 "narrationEffect": "in",
                 "turnEffect": "stop"
@@ -193,7 +193,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textCenter": "No..."
+                "textCenter": "No es eso..."
             },
             {
                 "chara": [
@@ -202,7 +202,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I see now...this is a checkpoint on the way@to the future, not a place to belong...)",
+                "textCenter": "(Ahora lo veo... esto es una parada en el camino@hacia el futuro, no un lugar al que pertenecer...)",
                 "turnEffect": "thinking"
             },
             {
@@ -235,7 +235,7 @@
                 ],
                 "nameLeft": "Ikumi",
                 "nameRight": "Shizuku",
-                "textRight": "Here with the Wings of the Magius is where I@belong.",
+                "textRight": "Las Alas de Magius es donde pertenezco.",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -247,7 +247,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "Huh? Where you belong?"
+                "textLeft": "¿Eh? ¿A dónde perteneces?"
             },
             {
                 "chara": [
@@ -260,7 +260,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "That's unusual, too."
+                "textLeft": "Eso también es inusual."
             },
             {
                 "chara": [
@@ -268,7 +268,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Both your skill level and your reasons for@joining up are super unheard of..."
+                "textLeft": "Tanto tus habilidades como tus razones@para unirte son súper inusuales..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -278,7 +278,7 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "They all belong elsewhere. They only joined@up to protect those places.",
+                "narration": "Todas ellas pertenecen a otro lugar.@Solo se unieron para proteger esos lugares.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -297,12 +297,12 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "So... Where does that leave me?@Where's the place I want to be?",
+                "narration": "Entonces... ¿Dónde me deja eso?@¿Cuál es el lugar en el que quiero estar?",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "Mr. R is already gone."
+                "narration": "R-kun se ha ido."
             },
             {
                 "armatureList": [
@@ -345,8 +345,8 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "nameRight": "Shizuku",
-                "textLeft": "Good. Rest assured, you are safe here.",
+                "nameRight": "Ryo",
+                "textLeft": "Bien. Ten por seguro de que@en este lugar estarás a salvo.",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -380,15 +380,15 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "No, I'm in pain now because I'm thinking too@much. I know this is where I belong. I need to@stop overthinking. I'll lose this place if I don't.@Leave enough alone. Don't look at it objectively.",
+                "narration": "No, ahora estoy sufriendo porque estoy@pensando demasiado. Sé que aquí es@donde debo estar. Necesito dejar de pensar@demasiado. Perderé este lugar si no lo hago.@Estoy bien como estoy. No lo mires objetivamente.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I can't... I can't take this..."
+                "narration": "No puedo... No puedo soportarlo..."
             },
             {
-                "narration": "Someone, please...Keep me so occupied I can't@overthink. Don't give me a second to breathe."
+                "narration": "Alguien, por favor...@Alguien que me mantenga tan ocupada@que no pueda pensar demasiado.@Que no me dé ni un segundo para pensar."
             },
             {
                 "autoTurnLast": 0.01,
@@ -410,7 +410,7 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "Of course. You never give me a second@to think to myself, because you're always@pulling me from one thing to the next."
+                "narration": "Por supuesto.@Tú nunca me das un segundo para pensar,@porque siempre estás arrastrándome@de una cosa a otra."
             },
             {
                 "autoTurnLast": 1,
@@ -429,7 +429,7 @@
             },
             {
                 "nameNarration": "",
-                "narration": "*Brrrt* *Brrrt*",
+                "narration": "*Brrr* *Brrr*",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -445,7 +445,7 @@
                 ],
                 "nameCenter": "Shizuku",
                 "narrationEffect": "out",
-                "textCenter": "...?!"
+                "textCenter": "¿¡...!?"
             },
             {
                 "chara": [
@@ -465,7 +465,7 @@
                     }
                 ],
                 "nameNarration": "Ayaka",
-                "narration": "Shizuku, I'm so sorry... I know it's@annoying to keep getting these, so this@is my last text. Please call if you can.",
+                "narration": "Shizuku, lo siento mucho...@Sé que es molesto seguir recibiendo@estos mensajes, así que este es el último.@Por favor llama si puedes.",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "narrationHAlignment": "left",
@@ -480,7 +480,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textCenter": "(I'm sorry too, Ayaka...)",
+                "textCenter": "(Yo también lo siento, Ayaka...)",
                 "turnEffect": "thinking"
             },
             {
@@ -490,7 +490,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I think you might be the closest thing I@have to a place where I belong.)"
+                "textCenter": "(Creo que tú eres lo más parecido que tengo@a un lugar al que pertenezco.)"
             },
             {
                 "chara": [
@@ -499,7 +499,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(And Ikumi and Ryo noticed that fact long@before I did...)"
+                "textCenter": "(Y Ryo e Ikumi se dieron cuenta de ese hecho@mucho antes que yo...)"
             },
             {
                 "autoTurnLast": 0.01,
@@ -529,9 +529,9 @@
                         "id": 715104
                     }
                 ],
-                "nameLeft": "Shizuku",
+                "nameLeft": "Mifuyu",
                 "nameRight": "Ryo",
-                "textRight": "You shouldn't wear your pendant tomorrow.@For your own good.",
+                "textRight": "No debes usar tu colgante mañana.@Por tu propio bien.",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -559,7 +559,7 @@
                 ],
                 "nameCenter": "Shizuku",
                 "surround": "7003_wind",
-                "textCenter": "Right...",
+                "textCenter": "Cierto...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -586,14 +586,14 @@
                     }
                 ],
                 "nameNarration": "???",
-                "narration": "\"Commit yourselves to us, and I will grant@you the powers you'll need for the task.\"",
+                "narration": "\"Entréguense a nosotras,@y les concederé los poderes que@necesitarán para esta tarea.\"",
                 "narrationBg": "bg_adv_19111.jpg"
             },
             {
-                "narration": "\"You won't have one drop of doubt,@or any clouded judgment.@I shall grant you the pure power@to massacre all Magical Girls.\""
+                "narration": "\"No tendrán ni una gota de duda,@ni ningún juicio nublado.@Les concederé el poder puro para@masacrar a todas las Chicas Mágicas.\""
             },
             {
-                "narration": "\"So, do as we ask and fulfill your duties.@Move us one step closer towards our freedom.\""
+                "narration": "\"Así que hagan lo que les pedimos@y cumplan con sus deberes.@Acérquennos un paso más@hacia nuestra liberación.\""
             },
             {
                 "autoTurnLast": 0.01,
@@ -623,8 +623,8 @@
                         "lipSynch": 0
                     }
                 ],
-                "nameCenter": "Black Feather",
-                "textCenter": "...[wait:1.5][chara:715000:lipSynch_1][chara:715000:mouthOpen_1]Ah...a...",
+                "nameCenter": "Pluma Negra",
+                "textCenter": "...[wait:1.5][chara:715000:lipSynch_1][chara:715000:mouthOpen_1]Ah... a...",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -642,7 +642,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "What..."
+                "textCenter": "¿Qué...?"
             },
             {
                 "chara": [
@@ -650,7 +650,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "What's going on?"
+                "textCenter": "¿Qué está pasando?"
             },
             {
                 "chara": [
@@ -659,7 +659,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "What's happening to them?"
+                "textCenter": "¿Qué les está pasando?"
             },
             {
                 "bgm": "bgm03_story17",
@@ -672,7 +672,7 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Black Feather",
+                "nameCenter": "Pluma Negra",
                 "surround": "stop",
                 "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]Vvvaaaaaa...aaagh..."
             },
@@ -692,7 +692,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]*Gasp*"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge]¡Ah...!"
             },
             {
                 "chara": [
@@ -702,7 +702,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textCenter": "(They're acting strange...)",
+                "textCenter": "(Están actuando extraño...)",
                 "turnEffect": "thinking"
             },
             {
@@ -715,7 +715,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "(Did the Magius do something to them?)"
+                "textCenter": "(¿Las Magius les hicieron algo?)"
             },
             {
                 "chara": [
@@ -724,7 +724,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Did they use an [textBlue:Uwasa] on us...to control our@minds?)"
+                "textCenter": "(¿Usaron una [textBlue:Uwasa] en nosotras...@para controlar nuestras mentes?)"
             },
             {
                 "chara": [
@@ -749,7 +749,7 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Black Feather",
+                "nameCenter": "Pluma Negra",
                 "textCenter": "Aaagh..."
             },
             {
@@ -796,7 +796,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]Agh...vvvaaaaaah!!!",
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]¡¡¡Agh... vvvaaaaaah!!!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -814,7 +814,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "They'll hunt me down if I stay here.@I have to get out, fast!"
+                "textCenter": "Me cazarán si me quedo aquí.@¡Tengo que salir, rápido!"
             },
             {
                 "autoTurnLast": 2,

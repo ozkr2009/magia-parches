@@ -23,9 +23,9 @@
                         "motion": 200
                     }
                 ],
-                "nameCenter": "Black Feather",
+                "nameCenter": "Pluma Negra",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]Vvvaaaaaa!!!",
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]¡¡¡Vvvaaaaaa!!!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -44,7 +44,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "(Labyrinths are always such a pain...)",
+                "textCenter": "(Los Laberintos son siempre una molestia...)",
                 "turnEffect": "thinking"
             },
             {
@@ -54,7 +54,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(This isn't good... At this rate, the@other Feathers are going to catch up.)"
+                "textCenter": "(Esto no es bueno...@A este ritmo, las otras Plumas me alcanzarán.)"
             },
             {
                 "autoTurnLast": 0.01,
@@ -90,7 +90,7 @@
                 "nameLeft": "Ryo",
                 "nameRight": "Shizuku",
                 "questTurnChangeOut": "fadeOut",
-                "textLeft": "Here, take this.",
+                "textLeft": "Toma, ten esto.",
                 "turnEffect": "blackFrame"
             },
             {
@@ -113,7 +113,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "But this doesn't contain any magic..."
+                "textRight": "¿Hm? No contiene nada de magia..."
             },
             {
                 "chara": [
@@ -124,7 +124,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "You'll just have to take the time every day@to fill it with your own magic, then."
+                "textLeft": "Correcto. Así que vas a tener que@imbuirlo con la tuya, poco a poco."
             },
             {
                 "autoTurnLast": 0.01,
@@ -162,7 +162,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "My magic in physical form..."
+                "textCenter": "Mi magia en forma física..."
             },
             {
                 "chara": [
@@ -170,7 +170,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "I can use this to disguise where I am..."
+                "textCenter": "Puedo usar esto para disimular mi ubicación..."
             },
             {
                 "autoTurnLast": 2,

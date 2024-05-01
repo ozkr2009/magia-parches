@@ -48,7 +48,7 @@
                 "nameLeft": "Ryo",
                 "nameRight": "Shizuku",
                 "se": "7205_magic_girl",
-                "textLeft": "Ha ha!"
+                "textLeft": "¡Ja ja!"
             },
             {
                 "autoTurnLast": 1,
@@ -72,7 +72,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Hey, don't laugh..."
+                "textRight": "Oye, no te rías..."
             },
             {
                 "chara": [
@@ -83,7 +83,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textLeft": "I just didn't expect you to fight Black@Feather-style in there!"
+                "textLeft": "¡Es solo que no esperaba que lucharas@al estilo Pluma Negra ahí dentro!"
             },
             {
                 "chara": [
@@ -92,7 +92,7 @@
                         "id": 300701
                     }
                 ],
-                "textRight": "W-well... I guess I got used to it because@of all of my training."
+                "textRight": "B-bueno... Supongo que me acostumbré@debido a todo mi entrenamiento."
             },
             {
                 "chara": [
@@ -101,7 +101,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "That's great, though, isn't it? And hey, you@passed with flying colors."
+                "textLeft": "Pero eso es genial, ¿no?@Y oye, has aprobado con honores."
             },
             {
                 "chara": [
@@ -113,7 +113,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Thank you."
+                "textRight": "Gracias."
             },
             {
                 "chara": [
@@ -122,12 +122,12 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "All right! Time to take that perfect @snapshot, if you don't mind."
+                "textLeft": "¡Muy bien! Hora de tomar esa@instantánea perfecta, si no te importa."
             },
             {
                 "autoTurnLast": 0.01,
                 "nameNarration": "",
-                "narration": "Meow!",
+                "narration": "¡Miau!",
                 "narrationEffect": "in"
             },
             {
@@ -144,7 +144,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textRight": "(Oh... There are kittens here too...)",
+                "textRight": "(Oh... También hay gatitos aquí...)",
                 "turnEffect": "thinking"
             },
             {
@@ -156,7 +156,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Ryo... If you rush too close to them they'll@run away.",
+                "textRight": "Ryo... Si te acercas demasiado a ellos, huirán.",
                 "turnEffect": "stop"
             },
             {
@@ -166,7 +166,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That's no problem for me."
+                "textLeft": "Eso no es problema para mí."
             },
             {
                 "chara": [
@@ -176,7 +176,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "I never miss a shot. That's just who I am."
+                "textLeft": "Nunca fallo una foto. Así soy yo."
             },
             {
                 "chara": [
@@ -200,7 +200,7 @@
             {
                 "flashEffect": "flashWhite1",
                 "nameNarration": "",
-                "narration": "Click-click!",
+                "narration": "¡Click-click!",
                 "narrationEffect": "in"
             },
             {
@@ -213,7 +213,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textLeft": "Here, look!"
+                "textLeft": "¡Mira!"
             },
             {
                 "chara": [
@@ -224,7 +224,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "W-wow... It's like they weren't even aware@of you."
+                "textRight": "W-wow... Es como si ni siquiera@se hubieran dado cuenta de ti."
             },
             {
                 "chara": [
@@ -233,7 +233,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Right?"
+                "textLeft": "¿Cierto?"
             },
             {
                 "chara": [
@@ -243,7 +243,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "There's nothing out there that I can't take a@perfect photograph of..."
+                "textLeft": "No hay nada que no pueda@fotografiar perfectamente..."
             },
             {
                 "bgm": "stop",
@@ -256,7 +256,7 @@
                     }
                 ],
                 "surround": "7003_wind",
-                "textLeft": "And to be honest..."
+                "textLeft": "Y para ser honesta..."
             },
             {
                 "chara": [
@@ -264,7 +264,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "The moment where I press the shutter is still@what I think of as \"where I belong\"."
+                "textLeft": "El momento en el que pulso el obturador es lo@que considero \"el lugar al que pertenezco\"."
             },
             {
                 "chara": [
@@ -275,7 +275,7 @@
                         "motion": 101
                     }
                 ],
-                "textRight": "What do you mean?"
+                "textRight": "¿Qué quieres decir?"
             },
             {
                 "bgm": "bgm03_story03",
@@ -288,7 +288,7 @@
                     }
                 ],
                 "surround": "stop",
-                "textLeft": "You already heard Ikumi talk about it... So@you probably get what I'm saying, yeah?"
+                "textLeft": "Ya lo oíste de Ikumi... Así que probablemente@entiendas lo que estoy diciendo, ¿no?"
             },
             {
                 "chara": [
@@ -299,7 +299,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I...kind of."
+                "textRight": "Yo... más o menos."
             },
             {
                 "chara": [
@@ -307,7 +307,7 @@
                         "id": 300701
                     }
                 ],
-                "textRight": "I don't really get it completely."
+                "textRight": "Realmente no lo entiendo del todo."
             },
             {
                 "chara": [
@@ -316,7 +316,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Where I belong isn't really tied to one@specific place."
+                "textLeft": "El lugar al que pertenezco no está ligado@a un sitio concreto."
             },
             {
                 "chara": [
@@ -325,7 +325,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Oh, that I get."
+                "textRight": "Oh, eso lo entiendo."
             },
             {
                 "chara": [
@@ -333,7 +333,7 @@
                         "id": 300701
                     }
                 ],
-                "textRight": "I mean, I was where someone who was really@important to me belonged..."
+                "textRight": "Porque yo también fui una vez el lugar de alguien@que me importaba..."
             },
             {
                 "chara": [
@@ -342,7 +342,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "And I'm pretty sure he was where I belonged, @too..."
+                "textRight": "Y estoy segura de que él también era mi lugar."
             },
             {
                 "chara": [
@@ -352,7 +352,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "He must've been a great guy."
+                "textLeft": "Debe haber sido un gran tipo."
             },
             {
                 "chara": [
@@ -361,7 +361,7 @@
                         "id": 300701
                     }
                 ],
-                "textRight": "Yeah...he was."
+                "textRight": "Sí... lo fue."
             },
             {
                 "chara": [
@@ -370,7 +370,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "For me, I belong right behind this little guy@here."
+                "textLeft": "Para mí, mi lugar está justo@detrás de este pequeñín."
             },
             {
                 "chara": [
@@ -382,7 +382,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Your camera?"
+                "textRight": "¿Tu cámara?"
             },
             {
                 "chara": [
@@ -392,7 +392,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "Yep."
+                "textLeft": "Síp."
             },
             {
                 "chara": [
@@ -401,7 +401,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "I'm bound to my camera...and in return it@helped me work out who I really am."
+                "textLeft": "Estoy atada a mi cámara... y a cambio me ha@ayudado a descubrir quién soy realmente."
             },
             {
                 "chara": [
@@ -409,7 +409,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "Those kittens we saw earlier wouldn't be able@to survive without their parents."
+                "textLeft": "Esos gatitos que vimos antes no podrían@sobrevivir sin sus padres."
             },
             {
                 "chara": [
@@ -419,7 +419,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "It's a similar deal with me. If I didn't have@my camera, I wouldn't last long."
+                "textLeft": "A mí me pasa algo parecido.@Si no tuviera mi cámara, no duraría mucho."
             },
             {
                 "chara": [
@@ -428,7 +428,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "It's part of my identity...but at the same@time, something I can't turn my back on."
+                "textLeft": "Es parte de mi identidad... pero, al mismo tiempo,@algo a lo que no puedo dar la espalda."
             },
             {
                 "chara": [
@@ -439,7 +439,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I wonder why it sounds so negative when you@put it like that..."
+                "textRight": "Me pregunto por qué suena tan negativo@cuando lo dices así..."
             },
             {
                 "chara": [
@@ -448,7 +448,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "It IS negative, sometimes."
+                "textLeft": "ES negativo... a veces."
             },
             {
                 "chara": [
@@ -457,7 +457,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Isn't that hard to bear?"
+                "textRight": "¿No es difícil de soportar?"
             },
             {
                 "chara": [
@@ -466,7 +466,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "I've accepted it as part of my fate."
+                "textLeft": "Lo he aceptado como parte de mi destino."
             },
             {
                 "chara": [
@@ -476,7 +476,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "But you know, the suffering I was born into@was already tying me down enough."
+                "textLeft": "Pero, sabes, el sufrimiento en el que nací@ya me ataba lo suficiente."
             },
             {
                 "chara": [
@@ -484,7 +484,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "I don't need anything else with power over@me."
+                "textLeft": "No necesito que nada más tenga control sobre mí."
             },
             {
                 "chara": [
@@ -493,7 +493,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "That's why I joined the Wings of the Magius."
+                "textLeft": "Es por eso que me uní a las Alas de Magius."
             },
             {
                 "chara": [
@@ -501,7 +501,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "To escape the fate I got stuck with as a@Magical Girl."
+                "textLeft": "Para escapar del destino que@me tocó como Chica Mágica."
             },
             {
                 "chara": [
@@ -512,7 +512,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "I won't be able to feel safe until I manage@to do that."
+                "textLeft": "No podré sentirme segura hasta que lo consiga."
             },
             {
                 "chara": [
@@ -530,13 +530,13 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Being controlled...",
+                "narration": "Ser controlada...",
                 "narrationBg": "black",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "Feeling safe..."
+                "narration": "Sentirse segura..."
             },
             {
                 "armatureList": [
@@ -580,7 +580,7 @@
                 ],
                 "nameLeft": "Mifuyu",
                 "nameRight": "Shizuku",
-                "textLeft": "Good. Rest assured, you are safe here.",
+                "textLeft": "Bien. Ten por seguro de que@en este lugar estarás a salvo.",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -592,7 +592,7 @@
                         "id": 300700
                     }
                 ],
-                "textRight": "What?"
+                "textRight": "¿Qué...?"
             },
             {
                 "chara": [
@@ -601,7 +601,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "You're meant to be here. Here, you can@be yourself without fear of retribution."
+                "textLeft": "Es donde perteneces. Aquí puedes ser tú misma@sin temor a represalias."
             },
             {
                 "chara": [
@@ -612,7 +612,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Oh, but I..."
+                "textRight": "Oh, pero yo..."
             },
             {
                 "chara": [
@@ -621,7 +621,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "The Wings of the Magius can be the place @you belong, wanderer."
+                "textLeft": "Las Alas de Magius puede ser el lugar@al que perteneces, chica errante."
             },
             {
                 "chara": [
@@ -632,7 +632,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "This could..."
+                "textRight": "Este podría ser..."
             },
             {
                 "chara": [
@@ -640,7 +640,7 @@
                         "id": 300700
                     }
                 ],
-                "textRight": "Be where I belong?"
+                "textRight": "¿El lugar al que pertenezco?"
             },
             {
                 "chara": [
@@ -651,7 +651,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Yes. It IS where you belong."
+                "textLeft": "Sí. Este ES el lugar al que perteneces."
             },
             {
                 "autoTurnLast": 2,
@@ -687,9 +687,9 @@
                         "id": 715002
                     }
                 ],
-                "nameLeft": "Black Feather",
+                "nameLeft": "Pluma Negra",
                 "nameRight": "Shizuku",
-                "textLeft": "That's not right...",
+                "textLeft": "Eso no está bien...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -700,7 +700,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Huh? But that's what the two of them told me,@to help me feel at ease."
+                "textRight": "¿Eh? Pero eso me dijeron las dos,@para hacerme sentir mejor."
             },
             {
                 "chara": [
@@ -710,7 +710,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "They told me all about themselves..."
+                "textRight": "Me contaron todo sobre ellas..."
             },
             {
                 "chara": [
@@ -719,7 +719,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "You should think this through..."
+                "textLeft": "Deberías pensarlo bien..."
             },
             {
                 "chara": [
@@ -727,7 +727,7 @@
                         "id": 715002
                     }
                 ],
-                "textLeft": "Telling you that much about themselves is@going way too far."
+                "textLeft": "Que te hayan contado tanto sobre ellas@es ir demasiado lejos."
             },
             {
                 "chara": [
@@ -736,7 +736,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Especially when you're making so much@progress as a Black Feather."
+                "textLeft": "Especialmente cuando estás progresando tanto@como Pluma Negra."
             },
             {
                 "chara": [
@@ -744,7 +744,7 @@
                         "id": 715002
                     }
                 ],
-                "textLeft": "It could destroy everything you've@accomplished so far... "
+                "textLeft": "Podría destruir todo lo que@has logrado hasta ahora..."
             },
             {
                 "chara": [
@@ -754,7 +754,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Right, because we aren't supposed to tell one@another about ourselves."
+                "textRight": "Claro, porque se supone que@no debemos hablar sobre nosotras mismas."
             },
             {
                 "chara": [
@@ -763,7 +763,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Yeah. It's off-limits."
+                "textLeft": "Sí. Está prohibido."
             },
             {
                 "chara": [
@@ -773,7 +773,7 @@
                         "id": 715002
                     }
                 ],
-                "textLeft": "They're going way too far, no matter how you@look at it. There's no up side to it."
+                "textLeft": "Ellas están yendo demasiado lejos, no importa@cómo se mire. No hay nada positivo en ello."
             },
             {
                 "chara": [
@@ -784,7 +784,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Oh, but...please! Don't tell anyone else!"
+                "textRight": "Oh, pero... ¡por favor!@¡No se lo digas a nadie más!"
             },
             {
                 "chara": [
@@ -795,7 +795,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I want to stay out of this..."
+                "textLeft": "Quiero mantenerme fuera de esto..."
             },
             {
                 "chara": [
@@ -803,7 +803,7 @@
                         "id": 715002
                     }
                 ],
-                "textLeft": "So I won't say anything. I'll keep it secret."
+                "textLeft": "Así que no diré nada.@Lo mantendré en secreto."
             },
             {
                 "chara": [
@@ -814,7 +814,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Be careful, though."
+                "textLeft": "Pero ten cuidado."
             },
             {
                 "chara": [
@@ -822,7 +822,7 @@
                         "id": 715002
                     }
                 ],
-                "textLeft": "You might get kicked out at this rate."
+                "textLeft": "A este paso podrían expulsarte."
             },
             {
                 "chara": [
@@ -834,7 +834,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "...?!"
+                "textRight": "¿¡...!?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -858,7 +858,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "I'm going to get kicked out...",
+                "textCenter": "¿Seré expulsada...?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -880,10 +880,10 @@
                 "narration": "No..."
             },
             {
-                "narration": "No...no!"
+                "narration": "No... ¡no!"
             },
             {
-                "narration": "I finally found somewhere to belong!"
+                "narration": "¡Por fin encontré un lugar al que pertenezco!"
             },
             {
                 "chara": [
@@ -902,7 +902,7 @@
                         "pos": 2
                     }
                 ],
-                "narration": "How could they be so cruel?"
+                "narration": "¿Cómo pueden ser tan crueles?"
             },
             {
                 "autoTurnLast": 2,

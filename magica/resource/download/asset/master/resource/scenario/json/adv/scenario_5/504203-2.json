@@ -10,7 +10,7 @@
                 "autoTurnLast": 0.01,
                 "bgm": "bgm03_story20",
                 "nameNarration": "",
-                "narration": "Wooo!!!",
+                "narration": "¡¡¡Wooo!!!",
                 "narrationEffect": "in",
                 "narrationFontSize": 35,
                 "turnChangeOut": "fadeOut"
@@ -20,13 +20,13 @@
             },
             {
                 "nameNarration": "Ikumi",
-                "narration": "Who's the extra-cutest, spunky@angel winking at yooou?",
+                "narration": "¿Quién es la ángel super-linda y valiente@que te hace guiños?",
                 "narrationFontSize": 30
             },
             {
                 "autoTurnLast": 0.01,
                 "nameNarration": "",
-                "narration": "Ikumiii!",
+                "narration": "¡Ikumiii!",
                 "narrationFontSize": 35
             },
             {
@@ -34,13 +34,13 @@
             },
             {
                 "nameNarration": "Ikumi",
-                "narration": "Who'll purify all your ouchie aches and pains?",
+                "narration": "¿Quién purificará su tristeza y dolores?",
                 "narrationFontSize": 30
             },
             {
                 "autoTurnLast": 0.01,
                 "nameNarration": "",
-                "narration": "Ikumiii!",
+                "narration": "¡Ikumiii!",
                 "narrationFontSize": 37
             },
             {
@@ -48,13 +48,13 @@
             },
             {
                 "nameNarration": "Ikumi",
-                "narration": "She's heeere to help you all,@and just what is her name?",
+                "narration": "Ella está aquí para ayudarlos a todos,@y ¿cómo se llama?",
                 "narrationFontSize": 30
             },
             {
                 "autoTurnLast": 0.01,
                 "nameNarration": "",
-                "narration": "Ikumiii!",
+                "narration": "¡Ikumiii!",
                 "narrationFontSize": 40
             },
             {
@@ -62,7 +62,7 @@
             },
             {
                 "autoTurnLast": 0.01,
-                "narration": "The old maid! Retro maid! Yay!",
+                "narration": "¡Retro maid! ¡Retro maid! ¡Retro maid!",
                 "narrationFontSize": 45
             },
             {
@@ -85,7 +85,7 @@
             },
             {
                 "nameNarration": "Ikumi",
-                "narration": "Muurrgh... Hey, now, I'm telling you I'm not@old-fashioned or anything!",
+                "narration": "Muurrgh...@¡Eh, oigan, ya les he dicho que@no soy anticuada ni nada por el estilo!",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -102,7 +102,7 @@
             },
             {
                 "nameNarration": "Ikumi",
-                "narration": "I'm still a tender and young blossom! I'm@here to be a shining angel for you guys!",
+                "narration": "¡Todavía soy una tierna y joven flor!@¡Estoy aquí para ser un ángel brillante@para todos ustedes!",
                 "narrationEffect": "in"
             },
             {
@@ -144,7 +144,7 @@
                 ],
                 "nameLeft": "Shizuku",
                 "nameRight": "Ikumi",
-                "textRight": "Aww, I'm super sorry you had to wait so long!@I forgot it was my turn on the stage, oops.",
+                "textRight": "¡Aww, siento que hayas tenido que esperar tanto!@Olvidé que era mi turno en el escenario, uups.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -153,7 +153,7 @@
                         "id": 300701
                     }
                 ],
-                "textLeft": "N-no problem... You were really something."
+                "textLeft": "N-no hay problema... Fue increíble."
             },
             {
                 "chara": [
@@ -161,7 +161,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "Everyone is such a meanie to me. Just because@I'm the oldest girl here!"
+                "textRight": "Todo el mundo es tan malo conmigo.@¡Solo porque soy la mayor aquí!"
             },
             {
                 "chara": [
@@ -172,7 +172,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "I get sooo grumpy when people just accept@what the other maids say about me as fact!"
+                "textRight": "¡Me pone de muuuy mal humor que la gente acepte@lo que las otras maids dicen de mí como un hecho!"
             },
             {
                 "chara": [
@@ -183,7 +183,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Still, everyone seemed to enjoy it. All the@singing and dancing..."
+                "textLeft": "Aun así, todo el mundo parecía disfrutarlo.@Todo el canto y el baile..."
             },
             {
                 "chara": [
@@ -194,7 +194,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "[chara:305302:effect_emotion_joy_0][se:7222_happy]Tee hee! Aww, that's extra nice of you to@say."
+                "textRight": "[chara:305302:effect_emotion_joy_0][se:7222_happy]¡je je! Aww, eso es muy amable de tu parte."
             },
             {
                 "chara": [
@@ -205,7 +205,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "So this is what you meant by \"maid cafe\"."
+                "textLeft": "Así que esto es a lo que te referías con \"maid café\"."
             },
             {
                 "chara": [
@@ -213,7 +213,7 @@
                         "id": 300701
                     }
                 ],
-                "textLeft": "I had pictured it more like a regular@cafe, since you talked about coffee..."
+                "textLeft": "Me lo imaginaba más como una cafetería normal,@ya que hablaste de café..."
             },
             {
                 "chara": [
@@ -224,7 +224,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Oh, we don't slouch on the food and drinks!@That's an important part of this place too."
+                "textRight": "¡Oh, no descuidamos la comida y la bebida!@También es una parte importante de este lugar."
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "If I'm gonna be the world's most comforting@angel, I can't skip a single detail!"
+                "textRight": "¡Si voy a ser la ángel más reconfortante del mundo,@no puedo saltarme ni un detalle!"
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "That's what it takes to be a pro, I guess."
+                "textLeft": "Eso es lo que se necesita para ser una profesional,@supongo."
             },
             {
                 "chara": [
@@ -256,7 +256,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Ding ding, you got it!"
+                "textRight": "¡Ding ding, correcto!"
             },
             {
                 "chara": [
@@ -266,7 +266,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "I gotta make sure everyone is at their@happiest!"
+                "textRight": "¡Tengo que asegurarme de que todo el mundo@esté lo más feliz posible!"
             },
             {
                 "chara": [
@@ -275,7 +275,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Otherwise, what am I even doing trying to be@an idol?"
+                "textRight": "De lo contrario,@¿qué hago intentando ser una idol?"
             },
             {
                 "chara": [
@@ -286,7 +286,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Is it really okay for you to be here talking@to me now?"
+                "textLeft": "¿De verdad está bien que estés aquí@hablando conmigo ahora?"
             },
             {
                 "chara": [
@@ -297,7 +297,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "It's suuuper no worries! I'm on my break."
+                "textRight": "¡No te preocupes! Estoy en mi descanso."
             },
             {
                 "chara": [
@@ -306,7 +306,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "How was the coffee, hmm?"
+                "textRight": "¿Cómo estuvo el café?"
             },
             {
                 "chara": [
@@ -314,7 +314,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "I used the beans I got from yooour cafe!"
+                "textRight": "¡Usé los granos que compré en tu café!"
             },
             {
                 "chara": [
@@ -325,7 +325,7 @@
                         "motion": 101
                     }
                 ],
-                "textLeft": "O-oh, sorry."
+                "textLeft": "O-oh, lo siento."
             },
             {
                 "chara": [
@@ -333,7 +333,7 @@
                         "id": 300701
                     }
                 ],
-                "textLeft": "I was so transfixed by your performance I @don't even remember what it tasted like."
+                "textLeft": "Estaba tan fascinada por tu actuación@que ni siquiera recuerdo el sabor."
             },
             {
                 "chara": [
@@ -344,7 +344,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Tee hee! You must've had such a blast!"
+                "textRight": "¡Je je! ¡Seguro te lo pasaste genial!"
             },
             {
                 "chara": [
@@ -355,7 +355,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I think I was just overwhelmed..."
+                "textLeft": "Creo que solo estaba impactada..."
             },
             {
                 "chara": [
@@ -366,7 +366,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "[chara:305302:effect_emotion_sad_0][se:7224_fall_into]Overwhelmed, huh..."
+                "textRight": "[chara:305302:effect_emotion_sad_0][se:7224_fall_into]Impactada, eh..."
             },
             {
                 "chara": [
@@ -377,7 +377,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I did have fun though! I'm glad I saw it."
+                "textLeft": "¡Pero me divertí!@Me alegro de haberlo visto."
             },
             {
                 "chara": [
@@ -387,7 +387,7 @@
                         "id": 300701
                     }
                 ],
-                "textLeft": "How do I put this..."
+                "textLeft": "Cómo decirlo..."
             },
             {
                 "chara": [
@@ -398,7 +398,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I feel like now I know more how your@everyday life goes."
+                "textLeft": "Siento que ahora sé más cómo es tu día a día."
             },
             {
                 "chara": [
@@ -408,7 +408,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "Yep! It really is like this!"
+                "textRight": "¡Sí! ¡Realmente es así!"
             },
             {
                 "chara": [
@@ -418,7 +418,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "I spend a looot of my time here... And@it's also where my dream'll come true."
+                "textRight": "Paso muuucho tiempo aquí...@Y también es donde mi sueño se hará realidad."
             },
             {
                 "chara": [
@@ -429,7 +429,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Your dream?"
+                "textLeft": "¿Tu sueño?"
             },
             {
                 "bgm": "stop",
@@ -443,7 +443,7 @@
                     }
                 ],
                 "surround": "7006_cafe",
-                "textRight": "Yeah!"
+                "textRight": "¡Sí!"
             },
             {
                 "chara": [
@@ -452,7 +452,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I promised my friend I'd make it come true,@so I have to keep on going."
+                "textRight": "Le prometí a mi amiga que lo haría realidad,@así que tengo que seguir adelante."
             },
             {
                 "chara": [
@@ -460,7 +460,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "If I die, it'll all be gone, like dust in the@wind... My dreams, hopes, even the cafe."
+                "textRight": "Si muero, todo se habrá ido, como polvo en el@viento... Mis sueños, esperanzas, incluso el café."
             },
             {
                 "chara": [
@@ -469,7 +469,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "That's why I joined the Wings of the Magius."
+                "textRight": "Por eso me uní a las Alas de Magius."
             },
             {
                 "chara": [
@@ -481,7 +481,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "[chara:300701:effect_emotion_surprise_0][se:7226_shock]...?!"
+                "textLeft": "[chara:300701:effect_emotion_surprise_0][se:7226_shock]¿¡...!?"
             },
             {
                 "bgm": "bgm03_story07",
@@ -493,7 +493,7 @@
                     }
                 ],
                 "surround": "stop",
-                "textLeft": "That was a drastic change in subject."
+                "textLeft": "Eso fue un cambio drástico de tema."
             },
             {
                 "chara": [
@@ -502,7 +502,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Wait... Is that why you invited me here?"
+                "textLeft": "Espera... ¿Es por eso que me invitaste aquí?"
             },
             {
                 "chara": [
@@ -512,7 +512,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "I told you the basics yesterday."
+                "textRight": "Ayer te conté lo básico."
             },
             {
                 "chara": [
@@ -520,7 +520,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "It was enough to explain my motivations, but @I felt like I left lots of parts out..."
+                "textRight": "Fue suficiente para explicar mis motivaciones,@pero sentí que dejé muchas partes fuera..."
             },
             {
                 "chara": [
@@ -529,7 +529,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Especially since we know you, and where@the place you feel you belong is."
+                "textRight": "Sobre todo porque te conocemos y sabemos@cuál es el lugar al que sientes que perteneces."
             },
             {
                 "chara": [
@@ -537,7 +537,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "This is where I belong, so I wanted to show@it to you properly!"
+                "textRight": "Este es mi lugar,@¡así que quería mostrártelo como es debido!"
             },
             {
                 "chara": [
@@ -546,7 +546,7 @@
                         "motion": 101
                     }
                 ],
-                "textLeft": "Thank you..."
+                "textLeft": "Gracias..."
             },
             {
                 "chara": [
@@ -554,7 +554,7 @@
                         "id": 300701
                     }
                 ],
-                "textLeft": "You didn't need to do all that for me..."
+                "textLeft": "No necesitabas hacer todo eso por mí..."
             },
             {
                 "chara": [
@@ -564,7 +564,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "No... See, the Wings of the Magius is a@comforting place for you, right?"
+                "textRight": "No... Verás, las Alas de Magius es un lugar@reconfortante para ti, ¿verdad?"
             },
             {
                 "chara": [
@@ -572,7 +572,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "And we made it feel less safe, or at least@that's what it felt like."
+                "textRight": "Y lo hicimos sentir menos seguro,@o al menos eso es lo que nos pareció."
             },
             {
                 "chara": [
@@ -581,7 +581,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I'm sorry. I didn't mean to worry you..."
+                "textLeft": "Lo siento. No quería preocuparlas..."
             },
             {
                 "bgm": "stop",
@@ -594,7 +594,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Of course we worried, silly! That's just what@mentors do. [chara:305302:lipSynch_0][wait:1.0][chara:305302:cheek_0][chara:305302:face_mtn_ex_011.exp.json][chara:305302:lipSynch_1][chara:305302:effect_emotion_joy_0][se:7222_happy][bgm:bgm03_story02]Tee hee!"
+                "textRight": "Claro que nos preocupamos, ¡tontita!@Eso es lo que hacen las mentoras. [chara:305302:lipSynch_0][wait:1.0][chara:305302:cheek_0][chara:305302:face_mtn_ex_011.exp.json][chara:305302:lipSynch_1][chara:305302:effect_emotion_joy_0][se:7222_happy][bgm:bgm03_story02]¡Je je!"
             },
             {
                 "chara": [
@@ -605,7 +605,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Could I have another cup of coffee?"
+                "textLeft": "¿Podría tomar otra taza de café?"
             },
             {
                 "chara": [
@@ -616,7 +616,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "But of couuurse! I'll brew it the bestest@I can!"
+                "textRight": "¡Pero por supuesto!@¡Lo prepararé lo mejor que pueda!"
             },
             {
                 "chara": [
@@ -627,7 +627,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I promise I'll tell you exactly what I think@of it this time."
+                "textLeft": "Te prometo que esta vez te diré@exactamente lo que pienso."
             },
             {
                 "autoTurnLast": 1,
@@ -641,7 +641,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Oh! Ryo messaged me!"
+                "textRight": "¡Oh! ¡Ryo me envió un mensaje!"
             },
             {
                 "chara": [
@@ -652,7 +652,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Ryo?"
+                "textLeft": "¿Ryo?"
             },
             {
                 "chara": [
@@ -661,7 +661,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "She saaaid to tell you to drop by her place@after you're all done here."
+                "textRight": "Me dijo que te dijera que fueras donde ella@cuando terminaras aquí."
             },
             {
                 "chara": [
@@ -669,7 +669,7 @@
                         "id": 305302
                     }
                 ],
-                "textRight": "I bet you she had the same great idea as@me."
+                "textRight": "Apuesto a que tuvo la misma gran idea que yo."
             },
             {
                 "chara": [
@@ -680,7 +680,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Okay."
+                "textLeft": "Okey."
             },
             {
                 "chara": [
@@ -688,7 +688,7 @@
                         "id": 300701
                     }
                 ],
-                "textLeft": "I'll go there as soon as I finish my coffee."
+                "textLeft": "Iré allí en cuanto termine mi café."
             },
             {
                 "autoTurnLast": 2,

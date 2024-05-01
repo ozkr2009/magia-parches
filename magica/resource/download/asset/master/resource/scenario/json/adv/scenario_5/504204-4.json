@@ -34,7 +34,7 @@
                 ],
                 "nameLeft": "",
                 "nameRight": "Shizuku",
-                "textRight": "*Pant* *Pant*",
+                "textRight": "*Jadeo* *Jadeo*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -44,7 +44,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(What is a Witch doing in our base?)",
+                "textRight": "(¿Qué hace una Bruja en nuestra base?)",
                 "turnEffect": "thinking"
             },
             {
@@ -56,11 +56,11 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(Did they prepare this just in case there@were Feathers like me still here?!)"
+                "textRight": "(¿¡Habrán preparado esto por si acaso@quedaban Plumas como yo!?)"
             },
             {
                 "textBg": "shout",
-                "textLeft": "菫ｗｐ＊斬翫Лｑ!!!",
+                "textLeft": "¡¡¡菫ｗｐ＊斬翫Лｑ!!!",
                 "turnEffect": "stop"
             },
             {
@@ -73,7 +73,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "(The other Feathers are gonna catch me if@I'm stuck fighting this.)",
+                "textRight": "(Las otras Plumas me atraparán@si me quedo luchando contra esto.)",
                 "turnEffect": "thinking"
             },
             {
@@ -83,7 +83,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(I need to find a way to escape quickly...)"
+                "textRight": "(Necesito encontrar una@forma de escapar rápido...)"
             },
             {
                 "chara": [
@@ -95,7 +95,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "...?!",
+                "textRight": "¿¡...!?",
                 "turnEffect": "stop"
             },
             {
@@ -128,7 +128,7 @@
                 ],
                 "nameLeft": "Ryo",
                 "questTurnChangeOut": "fadeOut",
-                "textLeft": "Oh, I almost forgot! Here's your cut of@today's spoils.",
+                "textLeft": "¡Oh, casi lo olvido!@Aquí está tu parte del botín de hoy.",
                 "turnEffect": "blackFrame"
             },
             {
@@ -152,7 +152,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Did a Familiar drop this?"
+                "textRight": "¿Un Familiar dejó caer esto?"
             },
             {
                 "chara": [
@@ -165,7 +165,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "Yeah. You can hang on to it."
+                "textLeft": "Sí. Puedes quedártelo."
             },
             {
                 "autoTurnLast": 0.01,
@@ -195,7 +195,7 @@
                 ],
                 "nameCenter": "Shizuku",
                 "questTurnChangeOut": "fadeOut",
-                "textCenter": "The Rooftop Key they gave me... I can use it@to get out of here!"
+                "textCenter": "La Llave de la Azotea que me dieron...@¡Puedo usarla para salir de aquí!"
             },
             {
                 "autoTurnLast": 2,

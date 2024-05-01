@@ -24,15 +24,15 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Ikumi... Ryo...@What do you have planned for me?",
+                "narration": "Ikumi... Ryo...@¿Qué tienen planeado para mí?",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "You were thinking of my best interests when@you gave me all those farewell gifts, right?"
+                "narration": "Pensaban en lo mejor para mí@cuando me dieron todos esos@regalos de despedida, ¿verdad?"
             },
             {
-                "narration": "You told me all about yourselves because@you wanted to reassure me, didn't you?"
+                "narration": "Me contaron todo sobre ustedes@porque querían tranquilizarme, ¿no?"
             },
             {
                 "autoTurnLast": 0.02,
@@ -57,7 +57,7 @@
                         "pos": 1
                     }
                 ],
-                "narration": "Or was it all because you wanted to@tear this place I'd found away from me?"
+                "narration": "¿O fue todo porque querían arrebatarme@este lugar que había encontrado?"
             },
             {
                 "chara": [
@@ -67,7 +67,7 @@
                         "id": 300700
                     }
                 ],
-                "narration": "Did I get in your way somehow?@Did you put on an act to drive me away?"
+                "narration": "¿Me interpuse en su camino de alguna manera?@¿Todo fue un acto para deshacerse de mí?"
             },
             {
                 "autoTurnLast": 1,
@@ -93,7 +93,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "*Pant* *Pant*",
+                "textCenter": "*jadeo* *Jadeo*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -103,7 +103,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I'm...going nuts...)",
+                "textCenter": "(Estoy... perdiendo la cabeza...)",
                 "turnEffect": "thinking"
             },
             {
@@ -113,7 +113,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I don't think my heart has ever been in such@a mess...)"
+                "textCenter": "(Creo que mi corazón nunca ha estado@tan alterado...)"
             },
             {
                 "chara": [
@@ -124,7 +124,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(What happened to me?)"
+                "textCenter": "(¿Qué me pasó?)"
             },
             {
                 "chara": [
@@ -134,7 +134,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "No... I don't want to think about it.",
+                "textCenter": "No... no quiero pensar en ello.",
                 "turnEffect": "stop"
             },
             {
@@ -144,7 +144,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I hate having time to think things over.)",
+                "textCenter": "(Odio tener tiempo para pensar las cosas.)",
                 "turnEffect": "thinking"
             },
             {
@@ -155,7 +155,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I just end up feeling vaguely like I'm@looking at myself from a distance...)"
+                "textCenter": "(Solo acabo sintiéndome como si@me viera a mí misma desde la distancia...)"
             },
             {
                 "chara": [
@@ -164,7 +164,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Like the world, which is so precious @to me, is drifting away...)"
+                "textCenter": "(Como si el mundo que es tan precioso para mí,@se alejara lentamente...)"
             },
             {
                 "chara": [
@@ -173,7 +173,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "I can't stand that thought.",
+                "textCenter": "No soporto ese pensamiento.",
                 "turnEffect": "stop"
             },
             {
@@ -183,7 +183,7 @@
                         "id": 300700
                     }
                 ],
-                "textCenter": "And yet..."
+                "textCenter": "Y aún así..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -192,19 +192,19 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Help me, Mr. R.",
+                "narration": "Ayúdame, R-kun.",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "You found a place to belong with me...@And you were a place like that for me, too."
+                "narration": "Encontraste un lugar al que@pertenecer a mi lado...@Y tú también fuiste un lugar así para mí."
             },
             {
-                "narration": "I just wanted to be by your side.@If I was with you I could be myself...@I could relax and feel safe."
+                "narration": "Solo quería estar a tu lado.@Si estaba contigo podía ser yo misma...@Podría relajarme y sentirme segura."
             },
             {
-                "narration": "I could just...be.@Without overthinking things."
+                "narration": "Podría simplemente... ser.@Sin pensar demasiado las cosas."
             },
             {
                 "autoTurnLast": 0.01,
@@ -230,7 +230,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "But you're gone now...",
+                "textCenter": "Pero ya te has ido...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -239,7 +239,7 @@
                         "id": 300700
                     }
                 ],
-                "textCenter": "That's why I found a place to belong with@the Wings of the Magius. One last place..."
+                "textCenter": "Por eso encontré un lugar al que pertenecer con@las Alas de Magius. Un último lugar..."
             },
             {
                 "bgm": "stop",
@@ -252,7 +252,7 @@
                     }
                 ],
                 "surround": "7009_night_townbuzz",
-                "textCenter": "Yes..."
+                "textCenter": "Sí..."
             },
             {
                 "chara": [
@@ -262,7 +262,7 @@
                         "id": 300700
                     }
                 ],
-                "textCenter": "That's why I..."
+                "textCenter": "Es por eso que yo..."
             },
             {
                 "chara": [
@@ -271,7 +271,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "I have to protect it."
+                "textCenter": "Tengo que protegerlo."
             },
             {
                 "autoTurnLast": 0.01,
@@ -297,7 +297,7 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "I have to protect it from them. Or I'll lose@this special place, where I can be myself.",
+                "narration": "Tengo que protegerlo de ellas.@O perderé este lugar especial,@donde puedo ser yo misma.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -332,7 +332,7 @@
                 ],
                 "nameLeft": "Ryo",
                 "nameRight": "Ikumi",
-                "textLeft": "Everyone's new assignments should be set@by today or tomorrow.",
+                "textLeft": "Las nuevas tareas de cada una deberían@estar definidas entre hoy y mañana.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -341,7 +341,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "This time it's not just the new recruits...@Many will be assigned to new posts too."
+                "textLeft": "Esta vez no son solo las nuevas reclutas... Muchas@también serán asignadas a nuevos puestos."
             },
             {
                 "autoTurnLast": 0.2,
@@ -368,7 +368,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "The other new recruits said something@similar."
+                "textCenter": "Las otras nuevas reclutas dijeron algo parecido."
             },
             {
                 "chara": [
@@ -376,7 +376,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "We're getting our new assignments soon."
+                "textCenter": "Pronto recibiremos nuestras nuevas tareas."
             },
             {
                 "autoTurnLast": 0.2,
@@ -405,7 +405,7 @@
                         "pos": 2
                     }
                 ],
-                "textRight": "Ooo, I see. But, Shizu... [chara:715005:lipSynch_0][wait:1.0][chara:715005:cheek_0][chara:715005:face_mtn_ex_000.exp.json][chara:715005:lipSynch_1]*Cough*"
+                "textRight": "Oooh, ya veo. Pero, Shizu... [chara:715005:lipSynch_0][wait:1.0][chara:715005:cheek_0][chara:715005:face_mtn_ex_000.exp.json][chara:715005:lipSynch_1]*Toser*"
             },
             {
                 "chara": [
@@ -415,7 +415,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "I bet you absolutely positively won't need to@worry about any of all that!"
+                "textRight": "Apuesto a que no tendrás que@preocuparte por nada de eso."
             },
             {
                 "chara": [
@@ -423,7 +423,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "I've heard you're already an expert at@fighting like a Black Feather."
+                "textRight": "He oído que ya eres una experta@en luchar como una Pluma Negra."
             },
             {
                 "chara": [
@@ -434,7 +434,7 @@
                         "motion": 301
                     }
                 ],
-                "textRight": "I think this is the perfect timing for you.@Though I'll be sad to see you go..."
+                "textRight": "Creo que este es el momento perfecto para ti.@Aunque me entristecerá verte partir..."
             },
             {
                 "chara": [
@@ -443,7 +443,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "It's a bit early to be getting all soppy.@Besides, we'll probably still bump into her."
+                "textLeft": "Es un poco pronto para ponerse sentimental.@Además, probablemente nos topemos con ella."
             },
             {
                 "autoTurnLast": 0.2,
@@ -478,7 +478,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "I wouldn't be so sure..."
+                "textCenter": "No estaría tan segura..."
             },
             {
                 "autoTurnLast": 1,
@@ -524,7 +524,7 @@
                         "pos": 2
                     }
                 ],
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]...?!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]¿¡...!?"
             },
             {
                 "chara": [
@@ -535,7 +535,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "textRight": "Huh?"
+                "textRight": "¿Eh?"
             },
             {
                 "chara": [
@@ -546,7 +546,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Wh-what're you doing?"
+                "textLeft": "¿Q-qué estás haciendo?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -572,7 +572,7 @@
                         "pos": 1
                     }
                 ],
-                "textCenter": "You two have been trying to get rid of me@this whole time."
+                "textCenter": "Ustedes dos han estado tratando de@deshacerse de mí todo este tiempo."
             },
             {
                 "chara": [
@@ -580,7 +580,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "No more. I won't let you get away with it."
+                "textCenter": "No más. No dejaré que se salgan con la suya."
             },
             {
                 "autoTurnLast": 0.2,
@@ -609,7 +609,7 @@
                         "pos": 2
                     }
                 ],
-                "textRight": "What are you talking about?"
+                "textRight": "¿De qué estás hablando?"
             },
             {
                 "chara": [
@@ -620,7 +620,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "This is a misunderstanding."
+                "textLeft": "Esto es un malentendido."
             },
             {
                 "autoTurnLast": 0.2,
@@ -648,7 +648,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]Haaah!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A04]¡Jaaaa!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -677,7 +677,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "Damn it. She's really coming for us..."
+                "textLeft": "Maldición. Realmente viene por nosotras..."
             },
             {
                 "chara": [
@@ -686,7 +686,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Hey! Stop this! We're friends, aren't we?!"
+                "textRight": "¡Oye! ¡Detente! ¡Somos amigas, ¿no?!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -712,7 +712,7 @@
                         "pos": 1
                     }
                 ],
-                "textCenter": "Stop lying. It's obvious you are."
+                "textCenter": "Dejen de mentir. Es obvio que lo hacen."
             },
             {
                 "chara": [
@@ -720,7 +720,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "If you're trying to drive me out, I'll never@forgive you!"
+                "textCenter": "¡Si están tratando de deshacerse de mí,@nunca las perdonaré!"
             },
             {
                 "autoTurnLast": 2,

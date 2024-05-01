@@ -28,7 +28,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "*Pant* *Pant*",
+                "textCenter": "*Jadeo* *Jadeo*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -38,7 +38,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I've lost most of them...)",
+                "textCenter": "(He perdido a la mayoría...)",
                 "turnEffect": "thinking"
             },
             {
@@ -50,7 +50,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I need to slip out quickly so I can get the@word out to everyone in Kamihama.)"
+                "textCenter": "(Tengo que escabullirme rápidamente para@poder correr la voz a todas en Kamihama.)"
             },
             {
                 "chara": [
@@ -59,7 +59,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(Otherwise, there's no saving them...from@whatever the Feathers might do...)"
+                "textCenter": "(De lo contrario, no habrá forma de salvarlas...@de lo que las Plumas podrían hacer...)"
             },
             {
                 "chara": [
@@ -79,7 +79,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(All entrances and exits to and from HQ have@been sealed off...except one.)",
+                "textCenter": "(Todas las entradas y salidas del cuartel general@han sido selladas... excepto una.)",
                 "turnEffect": "thinking"
             },
             {
@@ -89,7 +89,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(They said it should be around the southern@side of the base...)"
+                "textCenter": "(Dijeron que debería estar alrededor@del lado sur de la base...)"
             },
             {
                 "chara": [
@@ -97,7 +97,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "But which way even is that?",
+                "textCenter": "Pero, ¿qué dirección es esa?",
                 "turnEffect": "stop"
             },
             {
@@ -140,7 +140,7 @@
                 "nameLeft": "Ikumi",
                 "nameRight": "Shizuku",
                 "questTurnChangeOut": "fadeOut",
-                "textRight": "This is...a compass?"
+                "textRight": "¿Esto es... una brújula?"
             },
             {
                 "chara": [
@@ -151,7 +151,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Yeah! Ryo and I chaaarged it all up super@good with our magic."
+                "textLeft": "¡Sí! Ryo y yo la hemos imbuido muuuy bien@con nuestra magia."
             },
             {
                 "chara": [
@@ -182,7 +182,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "As for when and what you'll need to use it@for... That's a secret!"
+                "textLeft": "En cuanto a cuándo y para qué tendrás@que utilizarla... ¡Eso es un secreto!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -211,7 +211,7 @@
                     }
                 ],
                 "questTurnChangeOut": "fadeOut",
-                "textCenter": "What does this all mean? Why did they..."
+                "textCenter": "¿Qué significa todo esto?@¿Por qué ellas...?"
             },
             {
                 "chara": [
@@ -219,7 +219,7 @@
                         "id": 300702
                     }
                 ],
-                "textCenter": "Ikumi...Ryo... What is all this..."
+                "textCenter": "Ikumi... Ryo... ¿Qué es todo esto...?"
             },
             {
                 "chara": [
@@ -230,7 +230,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "What did you want from me?!"
+                "textCenter": "¿¡Qué querían de mí!?"
             },
             {
                 "autoTurnLast": 1,
@@ -248,7 +248,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "[flashEffect:flashRed2][surround:715000A03][bgEffect:shakeLarge][chara:300702:effect_shake]*Gasp* Ngh...!"
+                "textCenter": "[flashEffect:flashRed2][surround:715000A03][bgEffect:shakeLarge][chara:300702:effect_shake]¡Ugh...!"
             },
             {
                 "autoTurnLast": 1,
@@ -276,7 +276,7 @@
                     }
                 ],
                 "nameRight": "Shizuku",
-                "textRight": "I'm getting out of here... I have to get out@so I can help everyone."
+                "textRight": "Me voy de aquí...@Tengo que salir para poder ayudar a todas."
             },
             {
                 "autoTurnLast": 2,

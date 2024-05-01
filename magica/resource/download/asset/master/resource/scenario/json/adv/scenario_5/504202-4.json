@@ -44,7 +44,7 @@
                 ],
                 "nameLeft": "Ikumi",
                 "nameRight": "Shizuku",
-                "textRight": "This is...a compass?"
+                "textRight": "¿Esto es... una brújula?"
             },
             {
                 "chara": [
@@ -55,7 +55,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Yeah! Ryo and I chaaarged it all up super@good with our magic."
+                "textLeft": "¡Sí! Ryo y yo la hemos imbuido muuuy bien@con nuestra magia."
             },
             {
                 "chara": [
@@ -86,7 +86,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "As for when and what you'll need to use it@for... That's a secret!"
+                "textLeft": "En cuanto a cuándo y para qué tendrás@que utilizarlo... ¡Eso es un secreto!"
             },
             {
                 "chara": [
@@ -97,7 +97,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Well, okay..."
+                "textRight": "Bueno, está bien..."
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                         "id": 300701
                     }
                 ],
-                "textRight": "But why are you two giving me these kinds of@tools, though?"
+                "textRight": "Pero, ¿por qué me están dando@este tipo de herramientas?"
             },
             {
                 "chara": [
@@ -114,7 +114,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "The other recruits didn't get anything."
+                "textRight": "Las otras reclutas no recibieron nada."
             },
             {
                 "chara": [
@@ -127,7 +127,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "Well, of course they didn't!"
+                "textLeft": "¡Pues claro que no!"
             },
             {
                 "chara": [
@@ -135,7 +135,7 @@
                         "id": 305301
                     }
                 ],
-                "textLeft": "We said that as a Black Feather you'd need@them when you leave the nest."
+                "textLeft": "Dijimos que como Pluma Negra@los necesitarías cuando dejaras el nido."
             },
             {
                 "chara": [
@@ -144,7 +144,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "But what we meant was it's YOU who will need@them, Shizuku."
+                "textLeft": "Pero a lo que nos referíamos era a que@eres TÚ quien los necesitará, Shizuku."
             },
             {
                 "chara": [
@@ -155,7 +155,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Me?"
+                "textRight": "¿Yo?"
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "Yeah!"
+                "textLeft": "¡Sí!"
             },
             {
                 "chara": [
@@ -176,7 +176,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "I promise, we're not handing you the@detonator to a bomb or anything."
+                "textLeft": "Te lo prometo, no te estamos dando@el detonador de una bomba ni nada."
             },
             {
                 "chara": [
@@ -185,7 +185,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "It's more of a gift from both of us to see@you off on your journey."
+                "textLeft": "Son más bien regalos de despedida de ambas@para despedirte en tu viaje."
             },
             {
                 "chara": [
@@ -196,7 +196,7 @@
                         "motion": 101
                     }
                 ],
-                "textRight": "See me off?"
+                "textRight": "Regalos de despedida..."
             },
             {
                 "chara": [
@@ -209,7 +209,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "[chara:305301:effect_emotion_joy_0][se:7222_happy]Just think of it as an extra-special love@letter from your favoritest mentors!"
+                "textLeft": "[chara:305301:effect_emotion_joy_0][se:7222_happy]¡Considéralo una carta de amor extra-especial@de tus mentoras favoritos!"
             },
             {
                 "chara": [
@@ -218,7 +218,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Okay..."
+                "textRight": "Está bien..."
             },
             {
                 "chara": [
@@ -230,7 +230,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I'm super-duper happy you accepted our gifts!"
+                "textLeft": "¡Estoy súper-duper feliz de que@hayas aceptado nuestros regalos!"
             },
             {
                 "chara": [
@@ -242,7 +242,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "(Could all that really be true?)",
+                "textRight": "(¿Podría ser cierto todo eso?)",
                 "turnEffect": "thinking"
             },
             {
@@ -254,7 +254,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(It's not that I don't trust them...)"
+                "textRight": "(No es que no confíe en ellas...)"
             },
             {
                 "chara": [
@@ -266,7 +266,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "(But they're definitely hiding something.)"
+                "textRight": "(Pero definitivamente ocultan algo.)"
             },
             {
                 "chara": [
@@ -276,7 +276,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(And they keep coming to my house and@trying to learn more about me.)"
+                "textRight": "(Y siguen viniendo a mi casa@intentando averiguar más de mí.)"
             },
             {
                 "autoTurnLast": 1,
@@ -286,7 +286,7 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Even though it's taboo for people to know @about you in this organization...",
+                "narration": "Incluso cuando es un tabú que la gente@sepa de ti en esta organización...",
                 "narrationBg": "black",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
@@ -323,7 +323,7 @@
                 "nameLeft": "Ryo",
                 "nameRight": "Shizuku",
                 "surround": "7006_cafe",
-                "textLeft": "All we want is for you to be happy.",
+                "textLeft": "Lo único que queremos es que seas feliz.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -334,7 +334,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Really...?"
+                "textRight": "¿En serio...?"
             },
             {
                 "chara": [
@@ -342,7 +342,7 @@
                         "id": 300701
                     }
                 ],
-                "textRight": "From here it looks more like you're putting@me at a disadvantage so I'll get kicked out."
+                "textRight": "Desde aquí parece más bien que me están@poniendo en desventaja para que me echen."
             },
             {
                 "chara": [
@@ -353,7 +353,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Haha! Nooo way. We'd never do that."
+                "textLeft": "¡Jaja! De ninguna manera.@Nunca haríamos eso."
             },
             {
                 "chara": [
@@ -363,7 +363,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "Not even if I had the authority!"
+                "textLeft": "¡Ni aunque tuviera la autoridad!"
             },
             {
                 "chara": [
@@ -376,7 +376,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I was thinking though, it's kinda unfair,@right?"
+                "textLeft": "Y estaba pensando que es un poco injusto, ¿no?"
             },
             {
                 "chara": [
@@ -384,7 +384,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "We know why you joined the Wings of the@Magius..."
+                "textLeft": "Sabemos la razón por la que@te uniste a las Alas de Magius..."
             },
             {
                 "bgm": "bgm03_story06",
@@ -395,7 +395,7 @@
                     }
                 ],
                 "surround": "stop",
-                "textLeft": "That's why I'm gonna tell you the reason I@joined."
+                "textLeft": "Es por eso que te diré la razón por la que me uní."
             },
             {
                 "chara": [
@@ -406,7 +406,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "Wh..."
+                "textRight": "¿Qué...?"
             },
             {
                 "chara": [
@@ -417,7 +417,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "It's really not that big a deal."
+                "textLeft": "Realmente no es para tanto."
             },
             {
                 "chara": [
@@ -427,7 +427,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "I joined for the same reason a bunch of the@other Feathers did."
+                "textLeft": "Me uní por la misma razón@que muchas otras Plumas."
             },
             {
                 "chara": [
@@ -438,7 +438,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "So you'd be free from all the suffering that@comes from turning into a Witch?"
+                "textRight": "¿Para librarte de todo el sufrimiento@que conlleva convertirte en Bruja?"
             },
             {
                 "chara": [
@@ -449,7 +449,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That's the gist of it, but the background@behind it is a bit different."
+                "textLeft": "Eso es lo esencial,@pero el trasfondo es un poco distinto."
             },
             {
                 "chara": [
@@ -458,7 +458,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "See, I already had to suffer a whole lot, and@this put more suffering on my plate."
+                "textLeft": "Mira, yo ya tenía que sufrir mucho,@y esto solo puso más sufrimiento en mi plato."
             },
             {
                 "chara": [
@@ -466,7 +466,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "I wanted to at least go back to my base level@of suffering, you know?"
+                "textLeft": "Quería al menos volver a mi nivel base@de sufrimiento, ¿sabes?"
             },
             {
                 "chara": [
@@ -479,7 +479,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "A-as for me, Shizuku... I had a dream I@wanted to make sure could come true."
+                "textLeft": "E-en cuanto a mí, Shizuku... Tuve un sueño que@quería asegurarme de que se hiciera realidad."
             },
             {
                 "chara": [
@@ -487,7 +487,7 @@
                         "id": 305301
                     }
                 ],
-                "textLeft": "There's another girl who's a Black Feather@like me, working in another department."
+                "textLeft": "Hay otra chica que es una Pluma Negra como yo,@que trabaja en otro departamento."
             },
             {
                 "chara": [
@@ -498,7 +498,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "She and I have a shared dream together that@I didn't want to lose, at any cost..."
+                "textLeft": "Ella y yo compartimos un sueño que@no quiero perder, cueste lo que cueste..."
             },
             {
                 "chara": [
@@ -511,7 +511,7 @@
                     }
                 ],
                 "nameRight": "Ryo",
-                "textRight": "You're slipping out of character again."
+                "textRight": "Te estás saliendo del personaje otra vez."
             },
             {
                 "chara": [
@@ -523,7 +523,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "[chara:305301:effect_emotion_surprise_0][se:7226_shock]...?!"
+                "textLeft": "[chara:305301:effect_emotion_surprise_0][se:7226_shock]¿¡...!?"
             },
             {
                 "chara": [
@@ -534,7 +534,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Wh-what do you mean, \"character\"? This is how@I really talk! Grr! So meeean, Ryo!"
+                "textLeft": "¿Qué quieres decir con \"personaje\"? ¡Así es como@hablo realmente! ¡Grrr! ¡Qué mala eres, Ryo!"
             },
             {
                 "chara": [
@@ -558,7 +558,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Shizukuuu! Now YOU'RE being a meanie!"
+                "textLeft": "¡Shizukuuu! ¡Ahora TÚ estás siendo mala!"
             },
             {
                 "chara": [
@@ -569,7 +569,7 @@
                         "motion": 101
                     }
                 ],
-                "textRight": "S-sorry... I didn't mean to laugh when you@were being serious..."
+                "textRight": "L-lo siento... No quería reírme cuando@estabas hablando en serio..."
             },
             {
                 "chara": [
@@ -580,7 +580,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Remember, this bubbly girl is the reeeal me!@The serious version's the character, 'kay?"
+                "textLeft": "¡Recuerda, esta chica alegre es mi verdadero yo!@La versión seria es el personaje, ¿okey?"
             },
             {
                 "chara": [
@@ -591,7 +591,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Of course. Sorry."
+                "textRight": "Por supuesto. Lo siento."
             },
             {
                 "chara": [
@@ -602,7 +602,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I felt the same way at the start... I wanted@to be freed from the suffering."
+                "textRight": "Yo sentía lo mismo al principio...@Quería liberarme del sufrimiento."
             },
             {
                 "chara": [
@@ -616,7 +616,7 @@
                         "id": 300701
                     }
                 ],
-                "textRight": "If I couldn't get free then it made my life@seem just way too fleeting..."
+                "textRight": "Si no pudiera liberarme,@mi vida me parecería demasiado efímera..."
             },
             {
                 "chara": [
@@ -625,7 +625,7 @@
                         "motion": 101
                     }
                 ],
-                "textRight": "I guess we all want to be liberated from that@kind of pain."
+                "textRight": "Supongo que todas queremos@liberarnos de ese tipo de dolor."
             },
             {
                 "chara": [
@@ -636,7 +636,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "That's right! Even if our circumstances are@different, our core motivations match!"
+                "textLeft": "Así es. Aunque nuestras circunstancias varíen,@¡nuestras motivaciones principales coinciden!"
             },
             {
                 "chara": [
@@ -644,7 +644,7 @@
                         "id": 305301
                     }
                 ],
-                "textLeft": "Which! Is! Why! We would never, ever, ever,@do anything to sabotage each other! Never!"
+                "textLeft": "¡Es-por-eso que nunca, nunca, nunca, haríamos@nada para sabotearnos unas a otras! ¡Nunca!"
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Not when we aaall think the same thoughts and@feel the same feelings about this!"
+                "textLeft": "¡No cuando todas pensamos lo mismo@y sentimos lo mismo al respecto!"
             },
             {
                 "chara": [
@@ -669,7 +669,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "All we're doing is charging you up with all@our loviest-doviest affection!"
+                "textLeft": "¡Lo único que hacemos es@darte todo nuestro cariño!"
             },
             {
                 "chara": [
@@ -678,7 +678,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "I'll show you with my Cute Ikumi Love Beam!@[chara:305301:lipSynch_0][wait:1.5][chara:305301:effect_emotion_joy_0][se:7222_happy][chara:305301:cheek_0][chara:305301:face_mtn_ex_011.exp.json][chara:305301:lipSynch_1]Hyaaah!"
+                "textLeft": "¡Te lo mostraré con el Rayo de Amor de Ikumi!@[chara:305301:lipSynch_0][wait:1.5][chara:305301:effect_emotion_joy_0][se:7222_happy][chara:305301:cheek_0][chara:305301:face_mtn_ex_011.exp.json][chara:305301:lipSynch_1]¡Yeeey!"
             },
             {
                 "chara": [
@@ -707,7 +707,7 @@
                     }
                 ],
                 "nameRight": "Ryo",
-                "textRight": "Look, she doesn't even know how to respond."
+                "textRight": "Mira, ni siquiera sabe cómo responder."
             },
             {
                 "chara": [
@@ -716,7 +716,7 @@
                         "id": 304601
                     }
                 ],
-                "textRight": "Don't double-down on your act to make up for@slipping up on it."
+                "textRight": "No trates de repetir tu actuación@para compensar tu fallo."
             },
             {
                 "chara": [
@@ -727,7 +727,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "It's not an aaaaaact!"
+                "textLeft": "¡No es una actuacióóóón!"
             },
             {
                 "chara": [
@@ -739,7 +739,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Sure, okay."
+                "textRight": "Sí, claro."
             },
             {
                 "autoTurnLast": 0.2,
@@ -767,7 +767,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "[chara:300701:cheek_0][chara:300701:face_mtn_ex_110.exp.json][chara:300701:lipSynch_1]*Giggle*"
+                "textCenter": "[chara:300701:cheek_0][chara:300701:face_mtn_ex_110.exp.json][chara:300701:lipSynch_1]*Risilla*"
             },
             {
                 "chara": [
@@ -777,7 +777,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "(I need to stop doubting them.)",
+                "textCenter": "(Tengo que dejar de dudar de ellas.)",
                 "turnEffect": "thinking"
             },
             {
@@ -789,7 +789,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I feel like I'm getting extra paranoid @lately...)"
+                "textCenter": "(Siento que me estoy volviendo@extra paranoica últimamente...)"
             },
             {
                 "chara": [
@@ -801,7 +801,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(...because I'm feeling so safe.)"
+                "textCenter": "(... porque me siento muy segura.)"
             },
             {
                 "autoTurnLast": 2,

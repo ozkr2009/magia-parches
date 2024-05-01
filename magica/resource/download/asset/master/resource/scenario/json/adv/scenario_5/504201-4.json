@@ -30,9 +30,9 @@
                         "id": 300702
                     }
                 ],
-                "nameLeft": "Black Feather",
+                "nameLeft": "Pluma Negra",
                 "nameRight": "Shizuku",
-                "textRight": "So I charge my magic like this...",
+                "textRight": "Así que cargo mi magia de esta manera...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -49,7 +49,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A02]And then unleash it through this chain!"
+                "textRight": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:715000A02]¡Y luego la libero a través de esta cadena!"
             },
             {
                 "chara": [
@@ -60,7 +60,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "[flashEffect:flashRed2][surround:715000A05][bgEffect:shakeLarge][chara:715001:effect_shake]Ack!"
+                "textLeft": "[flashEffect:flashRed2][surround:715000A05][bgEffect:shakeLarge][chara:715001:effect_shake]¡Ack!"
             },
             {
                 "chara": [
@@ -71,7 +71,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Are you all right?!"
+                "textRight": "¿¡Estás bien!?"
             },
             {
                 "chara": [
@@ -82,7 +82,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Y-yeah..."
+                "textLeft": "S-sí..."
             },
             {
                 "chara": [
@@ -90,7 +90,7 @@
                         "id": 715001
                     }
                 ],
-                "textLeft": "It's just a little scratch, it'll heal in no@time."
+                "textLeft": "Es solo un pequeño rasguño, sanará enseguida."
             },
             {
                 "chara": [
@@ -101,7 +101,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Thank goodness..."
+                "textRight": "Gracias a Dios..."
             },
             {
                 "chara": [
@@ -119,7 +119,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "(I think I'm getting the hang of it, bit by@bit...)",
+                "textRight": "(Creo que ya le estoy entendiendo,@poco a poco...)",
                 "turnEffect": "thinking"
             },
             {
@@ -150,9 +150,9 @@
                         "motion": 200
                     }
                 ],
-                "nameLeft": "Black Feather",
-                "nameRight": "Black Feather",
-                "textLeft": "*Pant* *Wheeze*",
+                "nameLeft": "Pluma Negra",
+                "nameRight": "Pluma Negra",
+                "textLeft": "*Jadeo* *Jadeo*",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -162,7 +162,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Damn, I can't rein it in..."
+                "textRight": "Maldición, no puedo retenerlo..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -186,9 +186,9 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "nameLeft": "White Feather",
+                "nameLeft": "Pluma Blanca",
                 "nameRight": "Shizuku",
-                "textCenter": "(It looks like the others are having a rough@time of it, though.)",
+                "textCenter": "(Aunque parece que las demás@la están teniendo difícil.)",
                 "turnChangeOut": "rollOutFast",
                 "turnEffect": "thinking"
             },
@@ -208,7 +208,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "Okay, that's enough sparring for today.",
+                "textLeft": "Bien, es suficiente entrenamiento por hoy.",
                 "turnEffect": "stop"
             },
             {
@@ -218,7 +218,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Report to your supervisors for feedback."
+                "textLeft": "Repórtense a sus supervisoras@para recibir comentarios."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                         "id": 715100
                     }
                 ],
-                "textLeft": "Tomorrow I'd like to start mixing real@combat into your training."
+                "textLeft": "Mañana me gustaría empezar a mezclar@combate real en su entrenamiento."
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Got it."
+                "textRight": "Entendido."
             },
             {
                 "autoTurnLast": 1,
@@ -267,7 +267,7 @@
                 ],
                 "nameLeft": "???",
                 "nameRight": "Shizuku",
-                "textLeft": "You did awesome for your first time!",
+                "textLeft": "¡Lo hiciste genial para ser tu primera vez!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -278,7 +278,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Me?"
+                "textRight": "¿Yo?"
             },
             {
                 "chara": [
@@ -287,7 +287,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Yes!"
+                "textLeft": "¡Sí!"
             },
             {
                 "chara": [
@@ -297,7 +297,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "Your technique was solid. I was really @surprised!"
+                "textLeft": "Tu técnica era muy buena.@¡Me sorprendió mucho!"
             },
             {
                 "chara": [
@@ -310,7 +310,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "I agree. I felt the same way."
+                "textLeft": "Estoy de acuerdo. Opino lo mismo."
             },
             {
                 "chara": [
@@ -320,7 +320,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "I did notice, though, that there were times@where you used your unique magic..."
+                "textLeft": "Sin embargo, noté que hubo momentos@en los que usaste tu magia única..."
             },
             {
                 "chara": [
@@ -329,7 +329,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "That's not allowed. It'll give you away."
+                "textLeft": "Eso no está permitido. Te delatará."
             },
             {
                 "chara": [
@@ -340,7 +340,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "A-all right. I'll be careful."
+                "textRight": "E-está bien. Tendré cuidado."
             },
             {
                 "chara": [
@@ -353,7 +353,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "Still, it's only your first day of training."
+                "textLeft": "Aun así, solo es tu primer día de entrenamiento."
             },
             {
                 "chara": [
@@ -363,7 +363,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "It's really unusual for a new recruit to@become so adept so quickly."
+                "textLeft": "Es realmente inusual que una nueva recluta@se vuelva tan hábil tan rápidamente."
             },
             {
                 "chara": [
@@ -371,7 +371,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "You must be a really powerful Magical Girl@if you're this in tune with your magic."
+                "textLeft": "Debes de ser una Chica Mágica muy fuerte@si estás tan en armonía con tu magia."
             },
             {
                 "chara": [
@@ -382,7 +382,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "N-no way!"
+                "textRight": "¡D-de ninguna manera!"
             },
             {
                 "chara": [
@@ -395,7 +395,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "No need to act all humble about it."
+                "textLeft": "No tienes por qué ser tan modesta."
             },
             {
                 "chara": [
@@ -408,7 +408,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "Right! I bet if it were the old Kamihama..."
+                "textLeft": "¡Así es! Apuesto a que si fuera@la antigua Kamihama..."
             },
             {
                 "chara": [
@@ -417,7 +417,7 @@
                         "motion": 301
                     }
                 ],
-                "textLeft": "You could kill a Witch or two without anyone@else's help."
+                "textLeft": "Podrías acabar con una Bruja o dos@sin la ayuda de nadie."
             },
             {
                 "chara": [
@@ -428,7 +428,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I figured that was pretty normal..."
+                "textRight": "Pensé que eso era bastante normal..."
             },
             {
                 "chara": [
@@ -441,7 +441,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "It's pretty unusual among Black Feathers."
+                "textLeft": "Es bastante inusual entre las Pluma Negras."
             },
             {
                 "chara": [
@@ -452,7 +452,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "What?"
+                "textRight": "¿Qué?"
             },
             {
                 "chara": [
@@ -462,7 +462,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "You're saying they couldn't beat a Witch on@their own?"
+                "textRight": "¿Estás diciendo que no podrían vencer@a una Bruja por sí mismas?"
             },
             {
                 "chara": [
@@ -471,7 +471,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "There's lots of girls like that out there.@That's the main reason why..."
+                "textLeft": "Hay muchas chicas así ahí fuera.@Esa es la razón principal por la que..."
             },
             {
                 "chara": [
@@ -479,7 +479,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "They can't take it when we tell them what's@in store for them."
+                "textLeft": "No pueden soportar cuando les decimos@lo que les espera."
             },
             {
                 "chara": [
@@ -490,7 +490,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "So you're a really rare case."
+                "textLeft": "Así que eres un caso muy raro."
             },
             {
                 "chara": [
@@ -498,7 +498,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "It's not every day we recruit a Magical Girl@as strong as you."
+                "textLeft": "No todos los días reclutamos a una@Chica Mágica tan fuerte como tú."
             },
             {
                 "chara": [
@@ -507,7 +507,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I didn't notice at all..."
+                "textRight": "No me di cuenta en absoluto..."
             },
             {
                 "chara": [
@@ -520,7 +520,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "Hey... You don't have to answer this if you@don't want to, but..."
+                "textLeft": "Hey... No tienes que responder@a esto si no quieres, pero..."
             },
             {
                 "chara": [
@@ -528,7 +528,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "Why did you join the Wings of the Magius,@anyway?"
+                "textLeft": "¿Por qué te uniste a las Alas de Magius?"
             },
             {
                 "chara": [
@@ -539,7 +539,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "I..."
+                "textRight": "Yo..."
             },
             {
                 "chara": [
@@ -549,7 +549,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "I joined because..."
+                "textRight": "Me uní porque..."
             },
             {
                 "autoTurnLast": 0.5,
@@ -597,7 +597,7 @@
                 ],
                 "nameLeft": "Mifuyu",
                 "nameRight": "Shizuku",
-                "textLeft": "Good. Rest assured, you are safe here.",
+                "textLeft": "Bien. Ten por seguro de que@en este lugar estarás a salvo.",
                 "turnChangeOut": "whiteOut",
                 "turnEffect": "blackFrame"
             },
@@ -609,7 +609,7 @@
                         "id": 300700
                     }
                 ],
-                "textRight": "What?"
+                "textRight": "¿Qué...?"
             },
             {
                 "chara": [
@@ -618,7 +618,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "You're meant to be here. Here, you can@be yourself without fear of retribution."
+                "textLeft": "Es donde perteneces. Aquí puedes ser tú misma@sin temor a represalias."
             },
             {
                 "chara": [
@@ -629,7 +629,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Oh, but I..."
+                "textRight": "Oh, pero yo..."
             },
             {
                 "chara": [
@@ -638,7 +638,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "The Wings of the Magius can be the place @you belong, wanderer."
+                "textLeft": "Las Alas de Magius puede ser el lugar@al que perteneces, chica errante."
             },
             {
                 "chara": [
@@ -649,7 +649,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "This could..."
+                "textRight": "Este podría ser..."
             },
             {
                 "chara": [
@@ -657,7 +657,7 @@
                         "id": 300700
                     }
                 ],
-                "textRight": "Be where I belong?"
+                "textRight": "¿El lugar al que pertenezco?"
             },
             {
                 "chara": [
@@ -668,7 +668,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Yes. It IS where you belong."
+                "textLeft": "Sí. Este ES el lugar al que perteneces."
             },
             {
                 "autoTurnLast": 0.01,
@@ -704,7 +704,7 @@
                 ],
                 "nameLeft": "???",
                 "nameRight": "Shizuku",
-                "textRight": "Because...",
+                "textRight": "Porque...",
                 "turnChangeOut": "whiteOut"
             },
             {
@@ -713,7 +713,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "The Wings of the Magius is where I belong."
+                "textRight": "Las Alas de Magius es donde pertenezco."
             },
             {
                 "chara": [
@@ -723,7 +723,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "Huh? Where you belong?"
+                "textLeft": "¿Eh? ¿A dónde perteneces?"
             },
             {
                 "chara": [
@@ -736,7 +736,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "That's unusual, too."
+                "textLeft": "Eso también es inusual."
             },
             {
                 "chara": [
@@ -744,7 +744,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Both your skill level and your reasons for@joining up are super unheard of..."
+                "textLeft": "Tanto tus habilidades como tus razones@para unirte son súper inusuales..."
             },
             {
                 "chara": [
@@ -753,7 +753,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "What do you mean?"
+                "textRight": "¿A qué te refieres?"
             },
             {
                 "chara": [
@@ -764,7 +764,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I think you're the only Magical Girl around@who feels like she belongs here."
+                "textLeft": "Creo que eres la única Chica Mágica de por aquí@que siente que pertenece a este lugar."
             },
             {
                 "chara": [
@@ -772,7 +772,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Everyone else thinks of this as something@they have to do to protect what matters."
+                "textLeft": "Todas las demás ven esto como algo que tienen@que hacer para proteger lo que les importa."
             },
             {
                 "chara": [
@@ -785,7 +785,7 @@
                     }
                 ],
                 "nameRight": "???",
-                "textRight": "Hey! That sounds like you're taking issue@with what she said."
+                "textRight": "¡Oye! Eso suena como si estuvieras@en desacuerdo con lo que dijo."
             },
             {
                 "chara": [
@@ -795,7 +795,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "Everyone has their own reasons to join!"
+                "textRight": "¡Cada una tiene sus propias razones para unirse!"
             },
             {
                 "chara": [
@@ -806,7 +806,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That's true. Sorry, of course everyone's @reasons are their own."
+                "textLeft": "Es verdad. Lo siento, por supuesto que@cada una tiene sus razones."
             },
             {
                 "chara": [
@@ -814,7 +814,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "I didn't mean anything bad by it. Sorry."
+                "textLeft": "No era mi intención decir nada malo. Disculpa."
             },
             {
                 "chara": [
@@ -831,7 +831,7 @@
                     }
                 ],
                 "nameRight": "Shizuku",
-                "textRight": "No... I know you just mean it's unusual."
+                "textRight": "No... Sé que solo quieres decir que es inusual."
             },
             {
                 "chara": [
@@ -842,7 +842,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "I do feel like the Wings of the Magius is the@place I was searching for."
+                "textRight": "Siento que las Alas de Magius es el lugar@que estaba buscando."
             },
             {
                 "chara": [
@@ -850,7 +850,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "That's enough for me, really."
+                "textRight": "En realidad, con eso me basta."
             },
             {
                 "chara": [
@@ -861,7 +861,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Even if you did tell me my reasons for@joining were wrong, I'd still feel the same."
+                "textRight": "Incluso si me dijeras que mis razones para unirme@eran erróneas, seguiría pensando lo mismo."
             },
             {
                 "chara": [
@@ -871,7 +871,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "That's what matters most."
+                "textLeft": "Eso es lo que más importa."
             },
             {
                 "chara": [
@@ -879,7 +879,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Anyway..."
+                "textLeft": "En fin..."
             },
             {
                 "chara": [
@@ -890,7 +890,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yes?"
+                "textRight": "¿Sí?"
             },
             {
                 "chara": [
@@ -901,7 +901,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Here, have this."
+                "textLeft": "Toma, ten esto."
             },
             {
                 "autoTurnLast": 1,
@@ -923,7 +923,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Hm? It doesn't contain any magic..."
+                "textRight": "¿Hm? No contiene nada de magia..."
             },
             {
                 "chara": [
@@ -934,7 +934,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Yeah. So you're going to to have to imbue it@with your own, little by little."
+                "textLeft": "Correcto. Así que vas a tener que@imbuirlo con la tuya, poco a poco."
             },
             {
                 "chara": [
@@ -945,7 +945,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "What for?"
+                "textRight": "¿Para qué?"
             },
             {
                 "chara": [
@@ -956,7 +956,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "That's a secret."
+                "textLeft": "Es un secreto."
             },
             {
                 "autoTurnLast": 2,

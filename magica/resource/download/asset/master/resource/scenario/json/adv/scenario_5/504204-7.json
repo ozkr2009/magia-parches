@@ -29,7 +29,7 @@
                 ],
                 "nameCenter": "Shizuku",
                 "surround": "7003_wind",
-                "textCenter": "*Pant* *Pant*",
+                "textCenter": "*Jadeo* *Jadeo*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -61,7 +61,7 @@
                 ],
                 "nameLeft": "Ryo",
                 "nameRight": "Ikumi",
-                "textLeft": "You finally made it, Shizuku."
+                "textLeft": "Finalmente lo lograste, Shizuku."
             },
             {
                 "chara": [
@@ -69,7 +69,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "It looks like you're back to your normal@self."
+                "textRight": "Parece que vuelves a ser la de siempre."
             },
             {
                 "autoTurnLast": 0.02,
@@ -105,7 +105,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "We knew you'd make a break for it once you@came to your senses."
+                "textLeft": "Sabíamos que huirías una vez@que entraras en razón."
             },
             {
                 "chara": [
@@ -113,7 +113,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "So that's why you gave me all those things.@You planned this from the start?"
+                "textRight": "Así que por eso me dieron todas esas cosas.@¿Planearon esto desde el principio?"
             },
             {
                 "chara": [
@@ -121,7 +121,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "You said you'd see me off on my journey as a@Black Feather...you were helping me escape."
+                "textRight": "Dijeron que me despedirían en mi viaje como@Pluma Negra... que me ayudarían a escapar."
             },
             {
                 "chara": [
@@ -132,7 +132,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "No, of course we never meant to let you@escape. Then you'd stand as our enemy."
+                "textLeft": "No, nunca quisimos dejarte escapar. Estoy segura@de que te convertirás en una enemiga."
             },
             {
                 "chara": [
@@ -145,7 +145,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "Right. If we let you go, it'd be a huge@disadvantage for us."
+                "textLeft": "Cierto. Si te dejamos ir, sería una@gran desventaja para nosotras."
             },
             {
                 "chara": [
@@ -153,7 +153,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Why would we do that?"
+                "textLeft": "¿Por qué lo haríamos?"
             },
             {
                 "chara": [
@@ -166,7 +166,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "But that doesn't make any sense..."
+                "textRight": "Pero eso no tiene ningún sentido..."
             },
             {
                 "chara": [
@@ -174,7 +174,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "...Let's all escape together."
+                "textRight": "... Escapemos todas juntas."
             },
             {
                 "chara": [
@@ -186,7 +186,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "The Magius...they're just using us, and the@Feathers, and everyone else!"
+                "textRight": "Las Magius... ¡nos están utilizando,@a las Plumas, y a todas las demás!"
             },
             {
                 "chara": [
@@ -199,7 +199,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "Do you understand why we didn't meet the same@end as you and those Feathers?"
+                "textLeft": "¿Entiendes por qué no terminamos igual@que tú y esas Plumas?"
             },
             {
                 "chara": [
@@ -210,7 +210,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Wh..."
+                "textRight": "¿Qué...?"
             },
             {
                 "chara": [
@@ -218,7 +218,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "You and the other Black Feathers..."
+                "textLeft": "Tú y las otras Plumas Negras..."
             },
             {
                 "chara": [
@@ -227,7 +227,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "You all swore fealty to the Magius."
+                "textLeft": "Todas juraron lealtad a las Magius."
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "But we're different. We're loyal to the@concept of \"liberation\", instead..."
+                "textLeft": "Pero nosotras somos diferentes. En su lugar,@somos leales al concepto de \"liberación\"..."
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "What're you saying?"
+                "textRight": "¿Qué están diciendo?"
             },
             {
                 "chara": [
@@ -258,7 +258,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "It doesn't matter to us if the Magius betray@us."
+                "textLeft": "No nos importa si las Magius nos traicionan."
             },
             {
                 "chara": [
@@ -266,7 +266,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "We can keep on going so long as we still have@a hope of being freed."
+                "textLeft": "Podemos seguir adelante mientras@tengamos la esperanza de ser liberadas."
             },
             {
                 "chara": [
@@ -275,7 +275,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "So we're not like the other Feathers, who run@the risk of turning traitor."
+                "textLeft": "Así que no somos como las otras Plumas,@que corren el riesgo de convertirse en traidoras."
             },
             {
                 "chara": [
@@ -283,7 +283,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "We'll stay stationed at the base."
+                "textLeft": "Nos quedaremos aquí en la base."
             },
             {
                 "chara": [
@@ -296,7 +296,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "Like we have been, and will keep doing..."
+                "textLeft": "Como hemos hecho y seguiremos haciendo..."
             },
             {
                 "chara": [
@@ -304,7 +304,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "So you're really going to fight me?"
+                "textRight": "¿Así que realmente van a pelear conmigo?"
             },
             {
                 "chara": [
@@ -313,7 +313,7 @@
                         "motion": 201
                     }
                 ],
-                "textLeft": "Of course. We won't let you escape."
+                "textLeft": "Por supuesto. No te dejaremos escapar."
             },
             {
                 "chara": [
@@ -322,7 +322,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "You're contradicting yourselves."
+                "textRight": "Se están contradiciendo ustedes mismas."
             },
             {
                 "chara": [
@@ -333,7 +333,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Why did you try to help me get this far,@then?!"
+                "textRight": "¿¡Por qué intentaron ayudarme@a llegar hasta aquí, entonces!?"
             },
             {
                 "chara": [
@@ -344,7 +344,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Because we wanted to."
+                "textLeft": "Porque quisimos."
             },
             {
                 "autoTurnLast": 2,

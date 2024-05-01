@@ -9,18 +9,18 @@
             {
                 "bgm": "bgm03_story07",
                 "nameNarration": "Shizuku",
-                "narration": "I got another text from Ayaka today.",
+                "narration": "Hoy recibí otro mensaje de Ayaka.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "Her texts were always very polite,@which is unusual for someone like her.@It almost made me feel bad for making@her do something she normally wouldn't."
+                "narration": "Sus mensajes eran siempre muy educados,@lo que no es habitual en alguien como ella.@Casi me hacía sentir mal por hacerla hacer@algo que normalmente no haría."
             },
             {
-                "narration": "But I knew if I replied to her I'd just@go back to being dragged around by@her whims again, and I'd be torn away@from the Wings of the Magius."
+                "narration": "Pero si le respondo,@sé que volveré a ser arrastrada@por sus caprichos y me separaré@de las Alas de Magius."
             },
             {
-                "narration": "I was scared of being hauled around by@her and losing my time to think..."
+                "narration": "Tengo miedo de ser arrastrada por ella@y no tener tiempo para pensar..."
             },
             {
                 "chara": [
@@ -39,10 +39,10 @@
                         "pos": 2
                     }
                 ],
-                "narration": "Though to be honest, I wasn't exactly@in a calm state of mind here, either. Even@with these two kind girls looking after me."
+                "narration": "Aunque para ser honesta, tampoco@estaba exactamente tranquila aquí.@Incluso con estas dos amables chicas@cuidando de mí."
             },
             {
-                "narration": "I can't help but suspect there was@some motive behind their kindness."
+                "narration": "No puedo evitar sospechar que hay@algún motivo detrás de su amabilidad."
             },
             {
                 "chara": [
@@ -55,10 +55,10 @@
                         "id": 305301
                     }
                 ],
-                "narration": "How selfish of me."
+                "narration": "Qué egoísta de mi parte."
             },
             {
-                "narration": "Even with all this time to think things@through, I was doubting other people@and trying to put distance between us."
+                "narration": "Siento que aunque tenga@tiempo para pensarlo,@tiendo a dudar de los demás y@distanciarme por mi cuenta."
             },
             {
                 "autoTurnLast": 1,
@@ -90,9 +90,9 @@
                         "id": 715001
                     }
                 ],
-                "nameLeft": "Black Feather",
-                "nameRight": "Black Feather",
-                "textLeft": "Are you used to fighting like a Black @Feather?",
+                "nameLeft": "Pluma Negra",
+                "nameRight": "Pluma Negra",
+                "textLeft": "¿Te has acostumbrado a luchar@como una Pluma Negra?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -103,7 +103,7 @@
                         "id": 715002
                     }
                 ],
-                "textRight": "Not really... I'm still training by sparring@with the girls who've been here longer."
+                "textRight": "La verdad es que no... Sigo entrenando con@las chicas que llevan más tiempo aquí."
             },
             {
                 "chara": [
@@ -114,7 +114,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Same here."
+                "textLeft": "Yo también."
             },
             {
                 "chara": [
@@ -122,7 +122,7 @@
                         "id": 715001
                     }
                 ],
-                "textLeft": "I train out in the field sometimes, but I@only manage to take out Familiars."
+                "textLeft": "A veces entreno en el campo,@pero solo consigo eliminar Familiares."
             },
             {
                 "chara": [
@@ -131,7 +131,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "I accidently used my unique magic once@and they told me not to do that."
+                "textLeft": "En una ocasión utilicé accidentalmente@mi magia única y me dijeron que no lo hiciera."
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                         "id": 715002
                     }
                 ],
-                "textRight": "How about you?"
+                "textRight": "¿Y qué hay de ti?"
             },
             {
                 "chara": [
@@ -154,7 +154,7 @@
                     }
                 ],
                 "nameLeft": "Shizuku",
-                "textLeft": "I managed to beat a Witch the other day..."
+                "textLeft": "El otro día conseguí derrotar a una Bruja..."
             },
             {
                 "chara": [
@@ -162,7 +162,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "Though obviously I had my mentors helping me@the whole time."
+                "textLeft": "Aunque, obviamente, tuve a mis mentoras@apoyándome todo el tiempo."
             },
             {
                 "chara": [
@@ -172,7 +172,7 @@
                         "id": 715002
                     }
                 ],
-                "textRight": "Man, wish I could say that..."
+                "textRight": "Vaya, ojalá pudiera decir eso..."
             },
             {
                 "chara": [
@@ -184,8 +184,8 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Black Feather",
-                "textLeft": "I could tell from the start they were made of@tougher stuff than us, so no wonder."
+                "nameLeft": "Pluma Negra",
+                "textLeft": "Desde el principio noté que eras más fuerte@que nosotras, así que no es de extrañar."
             },
             {
                 "chara": [
@@ -193,7 +193,7 @@
                         "id": 715002
                     }
                 ],
-                "textRight": "Yeah, I'm so jealous..."
+                "textRight": "Sí, estoy tan celosa..."
             },
             {
                 "chara": [
@@ -206,7 +206,7 @@
                     }
                 ],
                 "nameLeft": "Shizuku",
-                "textLeft": "But you're getting used to it, right?"
+                "textLeft": "Pero se están acostumbrando, ¿verdad?"
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "Just because I learned the basics fast@doesn't mean you guys won't catch up."
+                "textLeft": "Solo aprendí rápido lo básico, seguro que@ustedes eventualmente me alcanzarán."
             },
             {
                 "chara": [
@@ -225,7 +225,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I have a hard enough time beating Witches@when I'm not using Black Feather moves..."
+                "textRight": "Ya de por sí me cuesta vencer Brujas cuando@no uso movimientos de Pluma Negra..."
             },
             {
                 "chara": [
@@ -237,7 +237,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "[chara:300702:effect_emotion_surprise_0][se:7226_shock]...!"
+                "textLeft": "[chara:300702:effect_emotion_surprise_0][se:7226_shock]¡...!"
             },
             {
                 "chara": [
@@ -248,7 +248,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "It's all fine as long as the rest of the@Wings of the Magius are around, though."
+                "textRight": "Aunque todo estará bien mientras el@resto de las Alas de Magius estén cerca."
             },
             {
                 "chara": [
@@ -256,7 +256,7 @@
                         "id": 715002
                     }
                 ],
-                "textRight": "I bet they'll make you a White Feather one@of these days. Maybe you can lead us."
+                "textRight": "Apuesto a que te harán Pluma Blanca uno de@estos días. Tal vez puedas llegar a guiarnos."
             },
             {
                 "chara": [
@@ -267,7 +267,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That'd depend on my assignments..."
+                "textLeft": "Eso dependería de mis tareas..."
             },
             {
                 "chara": [
@@ -276,7 +276,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Yeah. No telling at this stage..."
+                "textRight": "Sí. No se sabe a estas alturas..."
             },
             {
                 "chara": [
@@ -288,8 +288,8 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Black Feather",
-                "textLeft": "I wanna handle something besides Witches..."
+                "nameLeft": "Pluma Negra",
+                "textLeft": "Quiero ocuparme de algo más que Brujas..."
             },
             {
                 "chara": [
@@ -298,7 +298,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yeah I mean, if you're assigned to an Uwasa,@an outpost, or the base it's mainly defense."
+                "textRight": "Si te asignan a una Uwasa, un puesto de avanzada@o la base, sería principalmente defensa."
             },
             {
                 "chara": [
@@ -307,7 +307,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I'd rather do something like that. As long as@I don't need to fight."
+                "textLeft": "Preferiría hacer algo así,@mientras no tenga que luchar."
             },
             {
                 "chara": [
@@ -315,7 +315,7 @@
                         "id": 715001
                     }
                 ],
-                "textLeft": "Although they might get mad if they hear me@say that..."
+                "textLeft": "Aunque podrían enfadarse@si me oyeran decir eso..."
             },
             {
                 "chara": [
@@ -335,8 +335,8 @@
                     }
                 ],
                 "nameLeft": "Shizuku",
-                "nameRight": "Black Feather",
-                "textLeft": "Oh! I need to figure out where we're eating@dinner today."
+                "nameRight": "Pluma Negra",
+                "textLeft": "¡Oh! También tengo que averiguar@dónde cenaremos hoy."
             },
             {
                 "chara": [
@@ -346,7 +346,7 @@
                         "id": 715000
                     }
                 ],
-                "textRight": "You're eating with someone?"
+                "textRight": "¿Cenarás con alguien?"
             },
             {
                 "chara": [
@@ -356,7 +356,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "Yeah, I've been going out to eat with my@mentors. Today's my turn to find a place."
+                "textLeft": "Sí, he estado saliendo a comer con mis mentoras.@Hoy es mi turno para encontrar un lugar."
             },
             {
                 "chara": [
@@ -367,7 +367,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Ah!"
+                "textLeft": "¡Ah!"
             },
             {
                 "chara": [
@@ -378,7 +378,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "(I probably shouldn't have let that slip.)",
+                "textLeft": "(Creo que no debería haber dicho eso.)",
                 "turnEffect": "thinking"
             },
             {
@@ -390,7 +390,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "*Giggle* I eat with my mentor all the time@too, it's no big deal.",
+                "textRight": "*Risilla* Yo también salgo a comer con mi@mentora todo el tiempo, no es para tanto.",
                 "turnEffect": "stop"
             },
             {
@@ -400,7 +400,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "You do?!"
+                "textLeft": "¿¡En serio!?"
             },
             {
                 "chara": [
@@ -409,7 +409,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "We aren't supposed to, but it seems@everyone's still doing it."
+                "textRight": "No se supone que lo hagamos, pero parece@que todo el mundo sigue haciéndolo."
             },
             {
                 "chara": [
@@ -420,7 +420,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I see... Well, that's a relief..."
+                "textLeft": "Ya veo... Bueno, eso es un alivio..."
             },
             {
                 "chara": [
@@ -428,7 +428,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "I just thought the rules were really strict@about not giving away your identity."
+                "textLeft": "Creía que las normas eran muy estrictas@en cuanto a no revelar tu identidad."
             },
             {
                 "chara": [
@@ -436,7 +436,7 @@
                         "id": 715000
                     }
                 ],
-                "textRight": "Yeah, I get you."
+                "textRight": "Sí, te entiendo."
             },
             {
                 "chara": [
@@ -447,7 +447,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That must mean all of you got that thing from@your mentors too, right?"
+                "textLeft": "Eso debe significar que ustedes también@recibieron eso de sus mentoras, ¿verdad?"
             },
             {
                 "chara": [
@@ -457,7 +457,7 @@
                         "id": 715000
                     }
                 ],
-                "textRight": "What thing?"
+                "textRight": "¿Qué cosa?"
             },
             {
                 "chara": [
@@ -465,7 +465,7 @@
                         "id": 300702
                     }
                 ],
-                "textLeft": "You know, that thing that all Black Feathers@need once they join."
+                "textLeft": "Ya saben, eso que todas las Plumas Negras@necesitan una vez que se unen."
             },
             {
                 "chara": [
@@ -476,7 +476,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I don't know what you're talking about..."
+                "textRight": "No sé de qué estás hablando..."
             },
             {
                 "chara": [
@@ -488,8 +488,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Black Feather",
-                "textRight": "I never got anything like that, either."
+                "nameRight": "Pluma Negra",
+                "textRight": "Yo tampoco he recibido nada de eso."
             },
             {
                 "chara": [
@@ -500,7 +500,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "(Huh?)",
+                "textLeft": "(¿Eh?)",
                 "turnEffect": "thinking"
             },
             {
@@ -513,8 +513,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Black Feather",
-                "textRight": "What did they give to you?",
+                "nameRight": "Pluma Negra",
+                "textRight": "¿Qué te dieron?",
                 "turnEffect": "stop"
             },
             {
@@ -526,7 +526,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Um, you know...! A Grief Seed...?"
+                "textLeft": "Um, ya sabes... ¿Una Grief Seed...?"
             },
             {
                 "chara": [
@@ -537,7 +537,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "That proves it! Your mentors are spoiling you@rotten!"
+                "textRight": "¡Eso lo confirma!@¡Tus mentoras te están mimando bastante!"
             },
             {
                 "chara": [
@@ -548,7 +548,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Y-yeah, I guess they are."
+                "textLeft": "S-sí, supongo que sí."
             },
             {
                 "autoTurnLast": 2,

@@ -51,7 +51,7 @@
                 ],
                 "nameLeft": "Ryo",
                 "nameRight": "Ikumi",
-                "textRight": "We're supervising a new Black Feather?",
+                "textRight": "¿Estaremos supervisando@a una nueva Pluma Negra?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -62,7 +62,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "I don't mind. I've done it before."
+                "textLeft": "No hay problema. Ya lo he hecho antes."
             },
             {
                 "chara": [
@@ -72,7 +72,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "This is the first time anyone's called us in@for a special meeting about it, though."
+                "textRight": "Sin embargo, es la primera vez que alguien@nos llama para una reunión especial al respecto."
             },
             {
                 "chara": [
@@ -80,7 +80,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "What makes this one different?"
+                "textLeft": "¿Qué hace que esta vez sea diferente?"
             },
             {
                 "chara": [
@@ -93,7 +93,7 @@
                     }
                 ],
                 "nameRight": "Mifuyu",
-                "textRight": "Well..."
+                "textRight": "Bueno..."
             },
             {
                 "chara": [
@@ -101,7 +101,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "We've had the two of you oversee training@for Black Feathers before, yes."
+                "textRight": "Ya hemos hecho que las dos supervisen@el entrenamiento de Plumas Negras, es cierto."
             },
             {
                 "chara": [
@@ -109,7 +109,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "But this time there's something else I'd@like you to take care of as well."
+                "textRight": "Pero esta vez hay algo más de lo que@me gustaría que se ocuparan también."
             },
             {
                 "chara": [
@@ -119,7 +119,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "What's that?"
+                "textLeft": "¿Y qué es?"
             },
             {
                 "chara": [
@@ -128,7 +128,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "I want you to free our newest Black Feather,@Shizuku Hozumi, from her brainwashing."
+                "textRight": "Quiero que liberen a nuestra nueva Pluma Negra,@Shizuku Hozumi, de su lavado de cerebro."
             },
             {
                 "chara": [
@@ -138,7 +138,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Did you just say she's...brainwashed?"
+                "textLeft": "¿Acabas de decir que... le lavaron el cerebro?"
             },
             {
                 "chara": [
@@ -149,7 +149,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Yes. I used the Memory Museum under the@Magius's orders."
+                "textRight": "Sí. Usé el Museo de las Memorias@bajo las órdenes de las Magius."
             },
             {
                 "chara": [
@@ -157,7 +157,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "Ordinarily we wouldn't resort to such@desperate measures."
+                "textRight": "Normalmente no recurriríamos@a medidas tan desesperadas."
             },
             {
                 "chara": [
@@ -165,7 +165,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "But since she has the power to fuse space,@the Magius have taken a liking to her."
+                "textRight": "Pero como tiene el poder de unificar el espacio,@las Magius se han interesado por ella."
             },
             {
                 "chara": [
@@ -174,7 +174,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "It seems they don't want to chance giving@her up."
+                "textRight": "Parece que no quieren arriesgarse a perderla."
             },
             {
                 "chara": [
@@ -187,7 +187,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "That's going way too far..."
+                "textLeft": "Eso es ir demasiado lejos..."
             },
             {
                 "chara": [
@@ -198,7 +198,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Yes, they've been quite rash as of late. They@can't bear to wait for anything."
+                "textRight": "Sí, se han precipitado bastante últimamente.@No toleran esperar por nada."
             },
             {
                 "chara": [
@@ -206,7 +206,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "And since we have no choice but to obey@their orders..."
+                "textRight": "Y como no tenemos más remedio@que obedecer sus órdenes..."
             },
             {
                 "chara": [
@@ -214,7 +214,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "There will be more girls who will end up@like Shizuku."
+                "textRight": "Habrá más chicas que acaben como Shizuku."
             },
             {
                 "chara": [
@@ -227,7 +227,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "I want to minimize the chances of that@happening, as much as I can."
+                "textRight": "Quiero minimizar las posibilidades@de que eso ocurra, tanto como pueda."
             },
             {
                 "chara": [
@@ -237,7 +237,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "So please..."
+                "textRight": "Así que por favor..."
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I'll handle the other brainwashed girls,@but if you two could wake Shizuku..."
+                "textRight": "Yo me encargaré de las otras chicas, pero si@ustedes dos pudieran despertar a Shizuku..."
             },
             {
                 "chara": [
@@ -256,7 +256,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "I want you to help her get free, while@maintaining the appearance of obedience."
+                "textRight": "Quiero que la ayuden a liberarse,@manteniendo la apariencia de obediencia."
             },
             {
                 "chara": [
@@ -265,7 +265,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "But...why us?"
+                "textLeft": "Pero... ¿por qué nosotras?"
             },
             {
                 "chara": [
@@ -276,7 +276,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Do you think I could ask this of anyone who@is loyal to the Magius?"
+                "textRight": "¿Crees que podría pedírselo@a alguien leal a las Magius?"
             },
             {
                 "chara": [
@@ -286,7 +286,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "So you were looking for people who could,@theoretically, stand against what they say?"
+                "textLeft": "¿Así que buscabas gente que, en teoría,@pudiera oponerse a lo que dicen?"
             },
             {
                 "chara": [
@@ -295,7 +295,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Yes."
+                "textRight": "Sí."
             },
             {
                 "chara": [
@@ -304,7 +304,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "That makes sense. All right, I'll do it!"
+                "textLeft": "Eso tiene sentido. ¡Muy bien, lo haré!"
             },
             {
                 "chara": [
@@ -317,7 +317,7 @@
                     }
                 ],
                 "nameLeft": "Ryo",
-                "textLeft": "And I'll help you. I can't ignore something@like this."
+                "textLeft": "Y yo te ayudaré. No puedo ignorar algo así."
             },
             {
                 "chara": [
@@ -326,7 +326,7 @@
                         "id": 100600
                     }
                 ],
-                "textRight": "Thank you both."
+                "textRight": "Gracias a las dos."
             },
             {
                 "autoTurnLast": 0.01,
@@ -358,7 +358,7 @@
                 ],
                 "nameLeft": "Ryo",
                 "nameRight": "Ikumi",
-                "textLeft": "How come you agreed to it, Ikumi?",
+                "textLeft": "¿Por qué aceptaste, Ikumi?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -369,7 +369,7 @@
                         "id": 305301
                     }
                 ],
-                "textRight": "Well..."
+                "textRight": "Bueno..."
             },
             {
                 "chara": [
@@ -378,7 +378,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "If she only joined the Wings of the Magius@after they brainwashed her..."
+                "textRight": "Si solo se unió a las Alas de Magius@después de que le lavaran el cerebro..."
             },
             {
                 "chara": [
@@ -386,7 +386,7 @@
                         "id": 305301
                     }
                 ],
-                "textRight": "That would mean she's betraying her own@feelings, right?"
+                "textRight": "Eso significaría que está traicionando@sus propios sentimientos, ¿no?"
             },
             {
                 "chara": [
@@ -399,7 +399,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I think it's really dangerous for a Magical@Girl to do something like that."
+                "textRight": "Creo que es muy peligroso para@una Chica Mágica hacer algo así."
             },
             {
                 "chara": [
@@ -407,7 +407,7 @@
                         "id": 305301
                     }
                 ],
-                "textRight": "How about you, Ryo?"
+                "textRight": "¿Tú qué opinas, Ryo?"
             },
             {
                 "chara": [
@@ -418,7 +418,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "I feel the same way."
+                "textLeft": "Yo pienso lo mismo."
             },
             {
                 "chara": [
@@ -426,7 +426,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "The more time goes by, the more it'll hurt@when she comes to her senses."
+                "textLeft": "Cuanto más pase el tiempo,@más le dolerá cuando recupere la razón."
             },
             {
                 "chara": [
@@ -439,7 +439,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "It's bad enough that this Shizuku Hozumi girl@might turn into a Witch..."
+                "textLeft": "Ya es bastante malo que esta chica Shizuku Hozumi@pueda llegar a convertirse en una Bruja..."
             },
             {
                 "chara": [
@@ -447,7 +447,7 @@
                         "id": 304601
                     }
                 ],
-                "textLeft": "Though I guess it's Doppels nowadays."
+                "textLeft": "Aunque supongo que hoy en día son Doppels."
             },
             {
                 "chara": [
@@ -463,7 +463,7 @@
                         "id": 305301
                     }
                 ],
-                "textRight": "I know what you mean."
+                "textRight": "Sé lo que quieres decir."
             },
             {
                 "chara": [
@@ -472,7 +472,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "We're aiming for the same future, but I can't@agree with that way of going about it."
+                "textRight": "Aspiramos al mismo futuro, pero no puedo estar@de acuerdo con esa forma de hacer las cosas."
             },
             {
                 "chara": [
@@ -481,7 +481,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "As Magical Girls who seek freedom, we can't@let people hurt others like that."
+                "textLeft": "Como Chicas Mágicas que buscan la libertad,@no podemos dejar que más sufran de esa manera."
             },
             {
                 "chara": [
@@ -490,7 +490,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Yes. It'd be the same as trying to turn@her into a Witch."
+                "textRight": "Sí. Sería lo mismo que intentar@convertirla en una Bruja."
             },
             {
                 "autoTurnLast": 2,
@@ -527,7 +527,7 @@
                 ],
                 "nameLeft": "Ryo",
                 "nameRight": "Shizuku",
-                "textLeft": "You aren't getting away, Shizuku.",
+                "textLeft": "No vas a escapar, Shizuku.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -537,7 +537,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "We have no idea what you might get up to@once you make it outside."
+                "textLeft": "No tenemos ni idea de lo que@podrías llegar a hacer cuando salgas."
             },
             {
                 "chara": [
@@ -550,7 +550,7 @@
                     }
                 ],
                 "nameLeft": "Ikumi",
-                "textLeft": "If you really want to get out of here, you@have to beat us."
+                "textLeft": "Si realmente quieres salir de aquí,@tendrás que vencernos."
             },
             {
                 "chara": [
@@ -559,7 +559,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "But why?"
+                "textRight": "Pero, ¿por qué?"
             },
             {
                 "autoTurnLast": 2,

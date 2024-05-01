@@ -17,12 +17,12 @@
                 "turnEffect": "blackFrame"
             },
             {
-                "nameCenter": "Mr. R",
-                "textCenter": "I've finally found it. My place.",
+                "nameCenter": "R-kun",
+                "textCenter": "Por fin lo he encontrado.@Mi lugar.",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "textCenter": "Thank you, Shizuku. Now I can go to sleep@in peace."
+                "textCenter": "Gracias, Shizuku.@Ahora puedo descansar en paz."
             },
             {
                 "autoTurnLast": 0.01,
@@ -31,16 +31,16 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "I found mine too, Mr. R.",
+                "narration": "Yo también encontré el mío, R-kun.",
                 "narrationBg": "black",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "I found my place, before the last pages of@my calendar were snipped away..."
+                "narration": "Encontré mi lugar, antes de que@las últimas hojas de mi calendario@fueran arrancadas..."
             },
             {
-                "narration": "I think the Wings of the Magius is that@place I've been searching for all this time."
+                "narration": "Creo que las Alas de Magius@es ese lugar que he estado@buscando todo este tiempo."
             },
             {
                 "autoTurnLast": 2,
@@ -79,10 +79,10 @@
                         "motion": 200
                     }
                 ],
-                "nameCenter": "Black Feather",
-                "nameLeft": "Black Feather",
+                "nameCenter": "Pluma Negra",
+                "nameLeft": "Pluma Negra",
                 "nameRight": "Shizuku",
-                "textLeft": "Guh... *Pant* *Wheeze*",
+                "textLeft": "Guh... *Jadeo* *Jadeo*",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -91,7 +91,7 @@
                         "id": 715002
                     }
                 ],
-                "textCenter": "S-sorry, I just can't take this anymore...@My legs are giving out..."
+                "textCenter": "L-lo siento, no puedo soportarlo más...@Mis piernas están cediendo..."
             },
             {
                 "chara": [
@@ -104,7 +104,7 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "textLeft": "Don't push yourself too hard."
+                "textLeft": "No te presiones demasiado."
             },
             {
                 "chara": [
@@ -112,7 +112,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "If it's hard to stand, you can sit."
+                "textLeft": "Si te cuesta estar de pie, puedes sentarte."
             },
             {
                 "chara": [
@@ -121,7 +121,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "O-okay."
+                "textCenter": "O-okey."
             },
             {
                 "autoTurnLast": 0.2,
@@ -142,7 +142,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Are you holding up all right?"
+                "textLeft": "¿Puedes soportarlo bien?"
             },
             {
                 "chara": [
@@ -151,7 +151,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I-I think...I can keep going..."
+                "textRight": "C-creo... que puedo seguir..."
             },
             {
                 "chara": [
@@ -160,7 +160,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Try not to worry, all of you. You'll get used@to it once you've come here enough times."
+                "textLeft": "Traten de no preocuparse. Se acostumbrarán una vez@que hayan venido aquí suficientes veces."
             },
             {
                 "chara": [
@@ -169,7 +169,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "B-but why does it hurt so much?"
+                "textRight": "P-pero, ¿por qué duele tanto?"
             },
             {
                 "chara": [
@@ -179,7 +179,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "I'm sorry to make you suffer."
+                "textLeft": "Lamento hacerlas sufrir."
             },
             {
                 "chara": [
@@ -190,7 +190,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "We can't do anything about the fact that@the chapel gets filled with impurities."
+                "textLeft": "No podemos hacer nada para evitar@que la capilla se llene de impurezas."
             },
             {
                 "chara": [
@@ -200,7 +200,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "Still, you were able to witness it here for@yourselves."
+                "textLeft": "Aun así, pudieron presenciarlo aquí@por ustedes mismas."
             },
             {
                 "chara": [
@@ -209,7 +209,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "How our revered Eve makes our salvation a@reality..."
+                "textLeft": "Cómo nuestra venerada Eve hace realidad@nuestra salvación..."
             },
             {
                 "chara": [
@@ -217,7 +217,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Though our work is still only halfway done."
+                "textLeft": "Aunque nuestro trabajo aún está a la mitad."
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "Do you understand why that is?"
+                "textLeft": "¿Entiendes por qué?"
             },
             {
                 "chara": [
@@ -245,7 +245,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Kamihama's miracle...must reach everywhere."
+                "textRight": "El milagro de Kamihama...@debe llegar a todas partes."
             },
             {
                 "chara": [
@@ -253,7 +253,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "We have to liberate all Magical Girls,@including the ones in the future..."
+                "textRight": "Tenemos que liberar a todas las Chicas Mágicas,@incluso a las del futuro..."
             },
             {
                 "chara": [
@@ -262,7 +262,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "That's right. Our goal is to extend this@miracle to the rest of the world."
+                "textLeft": "Así es. Nuestro objetivo es extender@este milagro al resto del mundo."
             },
             {
                 "chara": [
@@ -270,7 +270,7 @@
                         "id": 100600
                     }
                 ],
-                "textLeft": "That's why once your training is complete,@you'll be given your assignments..."
+                "textLeft": "Por eso, una vez terminado su entrenamiento,@se les asignarán sus tareas..."
             },
             {
                 "chara": [
@@ -279,7 +279,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "And you'll use both Witches and Uwasa@to secure the energy we need."
+                "textLeft": "Y usarán tanto a las Brujas como a las Uwasas@para obtener la energía que necesitamos."
             },
             {
                 "autoTurnLast": 1,
@@ -311,7 +311,7 @@
                 ],
                 "nameLeft": "???",
                 "nameRight": "Shizuku",
-                "textLeft": "Are you feeling better, now?",
+                "textLeft": "¿Te sientes mejor ahora?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -321,7 +321,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Yeah..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -334,7 +334,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "It feels like altitude sickness, right? You@just gotta focus on getting used to it."
+                "textLeft": "Se siente como el mal de altura, ¿verdad?@Solo tienes que intentar acostumbrarte."
             },
             {
                 "chara": [
@@ -343,7 +343,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "I've got a ways to go before then... I want@to stop before I even get inside."
+                "textRight": "Me falta todavía para llegar a ese punto...@Quiero parar antes de siquiera entrar."
             },
             {
                 "chara": [
@@ -352,7 +352,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Heh! That's how it goes for everyone."
+                "textLeft": "¡Je! Así le pasa a todo el mundo."
             },
             {
                 "chara": [
@@ -362,7 +362,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Yeah, you're right."
+                "textRight": "Sí, tienes razón."
             },
             {
                 "chara": [
@@ -372,7 +372,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "Where are we going, by the way?"
+                "textRight": "Por cierto, ¿adónde vamos?"
             },
             {
                 "chara": [
@@ -380,7 +380,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "The sparring grounds outside."
+                "textLeft": "El campo de entrenamiento en el exterior."
             },
             {
                 "chara": [
@@ -389,7 +389,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "I want you to watch the Black Feathers and@memorize their techniques."
+                "textLeft": "Quiero que veas a las Plumas Negras@y memorices sus técnicas."
             },
             {
                 "chara": [
@@ -397,7 +397,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "So I need to change how I fight?"
+                "textRight": "¿Así que tengo que cambiar mi forma de luchar?"
             },
             {
                 "chara": [
@@ -410,7 +410,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "We don't want you to be recognized."
+                "textLeft": "No queremos que te reconozcan."
             },
             {
                 "chara": [
@@ -418,7 +418,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "That's why we all wear these robes."
+                "textLeft": "Es por eso que todas llevamos estas túnicas."
             },
             {
                 "chara": [
@@ -429,7 +429,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "But we're helping people... Why should we@have to hide our identities?"
+                "textRight": "Pero estamos ayudando a la gente... ¿Por qué@tenemos que ocultar nuestras identidades?"
             },
             {
                 "chara": [
@@ -438,7 +438,7 @@
                         "motion": 301
                     }
                 ],
-                "textLeft": "You can only say that because you know the@truth, like we do."
+                "textLeft": "Solo dices eso porque sabes la verdad,@como nosotras."
             },
             {
                 "chara": [
@@ -455,7 +455,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "Right, because you're one of us."
+                "textLeft": "Cierto, porque eres una de las nuestras."
             },
             {
                 "chara": [
@@ -463,7 +463,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "If Magical Girls who didn't know the truth@heard we were using Witches..."
+                "textLeft": "Si las Chicas Mágicas que no saben la verdad@oyeran que estamos usando Brujas..."
             },
             {
                 "chara": [
@@ -472,7 +472,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "They'd just see us as a menace to society."
+                "textLeft": "Simplemente nos verían como@una amenaza para la sociedad."
             },
             {
                 "chara": [
@@ -480,7 +480,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "We understand all too well why they might@think that, too."
+                "textLeft": "Nosotras también entendemos muy bien@el por qué pueden llegar a pensar eso."
             },
             {
                 "chara": [
@@ -489,7 +489,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "So we keep ourselves hidden."
+                "textLeft": "Así que nos mantenemos ocultas."
             },
             {
                 "chara": [
@@ -497,7 +497,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "If we slip up and fight with one, and our @cover gets blown, we'll be in real danger."
+                "textLeft": "Si metemos la pata y terminamos peleando con una,@descrubrirían nuestra coartada y estaríamos en peligro."
             },
             {
                 "chara": [
@@ -505,7 +505,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "That's why we try to kill off any verbal tics@or habits we have."
+                "textLeft": "Por eso intentamos suprimir cualquier@tic verbal o hábito que tengamos."
             },
             {
                 "chara": [
@@ -515,7 +515,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "I see..."
+                "textRight": "Ya veo..."
             },
             {
                 "chara": [
@@ -526,7 +526,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Mmhm."
+                "textLeft": "Mmm."
             },
             {
                 "autoTurnLast": 0.01,
@@ -596,7 +596,7 @@
                 ],
                 "nameLeft": "???",
                 "nameRight": "???",
-                "textLeft": "Anyway, we'll start today at the sparring@grounds."
+                "textLeft": "En fin, empezaremos hoy en@el campo de entrenamiento."
             },
             {
                 "chara": [
@@ -605,7 +605,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "Okay!"
+                "textRight": "¡Okey!"
             },
             {
                 "chara": [
@@ -613,7 +613,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "Practice the Black Feather techniques you@see with the other new recruits, all right?"
+                "textRight": "Practica las técnicas de las Plumas Negras que veas@junto a las otras nuevas reclutas, ¿de acuerdo?"
             },
             {
                 "chara": [
@@ -640,7 +640,7 @@
                     }
                 ],
                 "nameRight": "Shizuku",
-                "textRight": "Y-yeah, I will."
+                "textRight": "S-sí, lo haré."
             },
             {
                 "autoTurnLast": 2,

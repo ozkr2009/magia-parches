@@ -64,7 +64,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "(They told me to imbue this with my magic...)",
+                "textLeft": "(Me dijeron que imbuyera esto con mi magia...)",
                 "turnEffect": "thinking"
             },
             {
@@ -73,7 +73,7 @@
                         "id": 300700
                     }
                 ],
-                "textLeft": "But I still don't have any idea why.",
+                "textLeft": "Pero sigo sin tener ni idea de por qué.",
                 "turnEffect": "stop"
             },
             {
@@ -104,7 +104,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "...?!"
+                "textCenter": "¿¡...!?"
             },
             {
                 "chara": [
@@ -114,7 +114,7 @@
                         "id": 300700
                     }
                 ],
-                "textCenter": "My phone..."
+                "textCenter": "Mi celular..."
             },
             {
                 "bgm": "bgm03_story07",
@@ -125,7 +125,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "(It's probably Ayaka.)",
+                "textCenter": "(Probablemente sea Ayaka.)",
                 "turnEffect": "thinking"
             },
             {
@@ -147,7 +147,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I knew it.)",
+                "textCenter": "(Lo sabía.)",
                 "turnEffect": "thinking"
             },
             {
@@ -173,7 +173,7 @@
                     }
                 ],
                 "nameNarration": "Ayaka",
-                "narration": "Heyyy, Shizuku! C'mon, send me a reply!@You still mad about the darts thing?@I really didn't mean to upset youuu!@But I get that I did,@so I'm really, really sorry!",
+                "narration": "¡Oyeee, Shizuku! ¡Vamos, respóndeme!@¿Sigues molesta por lo de los dardos?@¡En serio que no quería hacerte enojaaaaar!@Pero entiendo que lo hice,@¡así que lo siento mucho, muchísimo!",
                 "narrationBg": "",
                 "narrationEffect": "in",
                 "narrationHAlignment": "left",
@@ -219,7 +219,7 @@
             },
             {
                 "nameNarration": "Ayaka",
-                "narration": "— Ayaka —@Let's see what the dart hit!",
+                "narration": "— Ayaka —@¡Veamos a que le dio el dardo!",
                 "narrationAnchor": "bottom",
                 "narrationBg": "narration",
                 "narrationCoverOpacity": 110,
@@ -231,7 +231,7 @@
                 "turnEffect": "blackFrame"
             },
             {
-                "narration": "— Ayaka —@The! Japan! Trench!"
+                "narration": "— Ayaka —@¡La - Fosa - de - Japón!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -250,7 +250,7 @@
             },
             {
                 "nameCenter": "Mitama",
-                "textCenter": "So that's that, Shizuku. You're taking a trip@to the depths of the sea this time.",
+                "textCenter": "Así son las cosas, Shizuku. Esta vez harás un viaje@a las profundidades del mar.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -293,7 +293,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textRight": "*Twitch*"
+                "textRight": "Tsk"
             },
             {
                 "autoTurnLast": 0.01,
@@ -317,7 +317,7 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "She knew I was traveling to find somewhere@to belong...",
+                "textCenter": "Sabía que estaba viajando para encontrar@un lugar al que pertenecer...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -327,7 +327,7 @@
                         "motion": 101
                     }
                 ],
-                "textCenter": "How insensitive can you be?"
+                "textCenter": "Eso fue muy insensible."
             },
             {
                 "autoTurnLast": 0.01,
@@ -343,21 +343,21 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Ayaka's always like that...@She never considers other people's feelings.@She's just always cheerful...",
+                "narration": "Ayaka siempre es así...@No se da cuenta de los@sentimientos de los demás.@Y siempre está alegre...",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "She's so naive."
+                "narration": "Es muy ingenua."
             },
             {
-                "narration": "So enthusiastic, ready to do anything,@that she has no consideration for others.@But...she's always worried about her friends."
+                "narration": "Siempre tiene un brillo en sus ojos,@y actua sin tener en cuenta@la situación de los demás.@Pero... en realidad se@preocupa por sus amigos."
             },
             {
-                "narration": "Ayaka Mariko, the directionless pixie...@I was always completely overwhelmed @just trying to keep up with her."
+                "narration": "Y yo, simplemente me dejaba llevar,@siguiendo a esta hada llamada Ayaka@por un camino sin dirección."
             },
             {
-                "narration": "I didn't have the time to think@about what mattered most for me."
+                "narration": "Y no tuve tiempo de pensar en mí misma."
             },
             {
                 "autoTurnLast": 0.01,
@@ -382,12 +382,12 @@
                     }
                 ],
                 "nameNarration": "Shizuku",
-                "narration": "I'm actually glad this happened.",
+                "narration": "De hecho me alegro que esto pasara.",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "The moment I really got mad at her was@the perfect time for us to put a little distance@between each other. I've been okay with that."
+                "narration": "Cuando me enfadé con Ayaka,@fue el momento perfecto para distanciarnos,@y me alegro de haberlo hecho."
             },
             {
                 "autoTurnLast": 0.01,
@@ -396,7 +396,7 @@
             },
             {
                 "nameNarration": "Shizuku",
-                "narration": "Because at last...@I finally found a place that's precious to me.",
+                "narration": "Porque...@Finalmente encontré un lugar@que es preciado para mí.",
                 "narrationBg": "bg_adv_19081.jpg",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
@@ -426,7 +426,7 @@
                 ],
                 "nameCenter": "Ayaka",
                 "textBg": "shout",
-                "textCenter": "Shizuku! Where are you? Come on, already!@Shizukuuuuuu!",
+                "textCenter": "¡Shizuku! ¿¡Dónde estás!?@¡Vamos, ya! ¡Shizukuuuuuu!",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "promist"
             },
@@ -455,21 +455,21 @@
                     }
                 ],
                 "nameCenter": "Shizuku",
-                "textCenter": "(I can imagine it so easily.)",
+                "textCenter": "(Es tan fácil imaginar...)",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "thinking"
             },
             {
                 "bgm": "stop",
                 "nameNarration": "",
-                "narration": "*Click*",
+                "narration": "*Clic*",
                 "narrationEffect": "in",
                 "turnEffect": "stop"
             },
             {
                 "nameRight": "???",
                 "narrationEffect": "out",
-                "textRight": "Hello! Ready for today's training?"
+                "textRight": "¡Hola! ¿Lista para otro día de entrenamiento?"
             },
             {
                 "chara": [
@@ -487,7 +487,7 @@
                 ],
                 "nameLeft": "Shizuku",
                 "nameRight": "???",
-                "textRight": "We'll be doing some actual fighting out on@the field, so we'll come with—"
+                "textRight": "Estaremos haciendo un poco de combate real@en el campo, así que vamos a—"
             },
             {
                 "chara": [
@@ -499,7 +499,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "[chara:715005:effect_emotion_surprise_0][se:7226_shock]—?!"
+                "textRight": "[chara:715005:effect_emotion_surprise_0][se:7226_shock]¿¡—!?"
             },
             {
                 "chara": [
@@ -520,7 +520,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "S-sorry! You don't have your robes on yet!"
+                "textRight": "¡L-lo siento! ¡Todavía no te has puesto la túnica!"
             },
             {
                 "chara": [
@@ -531,7 +531,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textLeft": "It just covers us a little bit. It's not @like you didn't see me when we met."
+                "textLeft": "Solo nos cubre un poco. No es como si no me@hubieras visto cuando nos conocimos."
             },
             {
                 "chara": [
@@ -544,7 +544,7 @@
                     }
                 ],
                 "nameRight": "???",
-                "textRight": "True, but keeping our identities hidden is@one of our base rules."
+                "textRight": "Cierto, pero mantener nuestras identidades@ocultas es una de nuestras principales reglas."
             },
             {
                 "chara": [
@@ -555,7 +555,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Well, okay..."
+                "textLeft": "Bueno, okey..."
             },
             {
                 "autoTurnLast": 1,
@@ -596,7 +596,7 @@
                 ],
                 "nameLeft": "???",
                 "nameRight": "???",
-                "textRight": "Today we're fighting out in the field!",
+                "textRight": "¡Hoy lucharemos en el campo!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -605,7 +605,7 @@
                         "id": 715005
                     }
                 ],
-                "textRight": "You practiced new techniques with the other@newbies yesterday..."
+                "textRight": "Ayer practicaste nuevas técnicas@junto a las otras novatas..."
             },
             {
                 "chara": [
@@ -614,7 +614,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "But this time you'll be taking on a Witch@using your Black Feather techniques."
+                "textRight": "Pero esta vez te enfrentarás a una Bruja@usando tus técnicas de Pluma Negra."
             },
             {
                 "chara": [
@@ -622,7 +622,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "We know it's a lot to ask when you're still@in training, so we're here as support."
+                "textLeft": "Sabemos que es mucho pedir cuando aún estás@en formación, así que estamos aquí como apoyo."
             },
             {
                 "chara": [
@@ -631,7 +631,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "So don't worry and do your best."
+                "textLeft": "Así que no te preocupes y@hazlo lo mejor que puedas."
             },
             {
                 "chara": [
@@ -644,7 +644,7 @@
                     }
                 ],
                 "nameRight": "Shizuku",
-                "textRight": "O-okay!"
+                "textRight": "¡O-okey!"
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Any questions before we start?"
+                "textLeft": "¿Alguna pregunta antes de empezar?"
             },
             {
                 "chara": [
@@ -666,7 +666,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Um, yes, but not about the field training."
+                "textRight": "Sí, pero no sobre el entrenamiento de campo."
             },
             {
                 "chara": [
@@ -676,7 +676,7 @@
                         "id": 715104
                     }
                 ],
-                "textLeft": "Oh yeah?"
+                "textLeft": "¿Ah sí?"
             },
             {
                 "chara": [
@@ -684,7 +684,7 @@
                         "id": 300702
                     }
                 ],
-                "textRight": "It's about that gem you gave me..."
+                "textRight": "Es sobre esa gema que me diste..."
             },
             {
                 "chara": [
@@ -695,7 +695,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "That's a secret. I told you."
+                "textLeft": "Es un secreto. Ya te lo dije."
             },
             {
                 "chara": [
@@ -704,7 +704,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Okay..."
+                "textRight": "Okey..."
             },
             {
                 "chara": [
@@ -717,7 +717,7 @@
                     }
                 ],
                 "nameLeft": "???",
-                "textLeft": "Yeah! You'll find out soon enough."
+                "textLeft": "¡Sí! Pronto lo sabrás."
             },
             {
                 "chara": [
@@ -725,7 +725,7 @@
                         "id": 715005
                     }
                 ],
-                "textLeft": "It's something the Black Feathers will need."
+                "textLeft": "Es algo que las Plumas Negras necesitarán."
             },
             {
                 "chara": [
@@ -734,7 +734,7 @@
                         "motion": 201
                     }
                 ],
-                "textLeft": "And we've got another present to give you,@if this training goes well."
+                "textLeft": "Y tenemos otro regalo que darte,@si este entrenamiento va bien."
             },
             {
                 "autoTurnLast": 2,
