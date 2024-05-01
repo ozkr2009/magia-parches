@@ -197,15 +197,15 @@
 			<key>adv_eve_1042_cut01_tx04.png</key>
 			<dict>
 				<key>width</key>
-				<integer>845</integer>
+				<integer>966</integer>
 				<key>height</key>
 				<integer>138</integer>
 				<key>originalWidth</key>
-				<integer>845</integer>
+				<integer>966</integer>
 				<key>originalHeight</key>
 				<integer>138</integer>
 				<key>x</key>
-				<integer>666</integer>
+				<integer>783</integer>
 				<key>y</key>
 				<integer>67</integer>
 				<key>offsetX</key>
@@ -224,7 +224,7 @@
 				<key>originalHeight</key>
 				<integer>137</integer>
 				<key>x</key>
-				<integer>666</integer>
+				<integer>783</integer>
 				<key>y</key>
 				<integer>207</integer>
 				<key>offsetX</key>
@@ -254,11 +254,11 @@
 			<key>adv_eve_1042_cut01_tx01.png</key>
 			<dict>
 				<key>width</key>
-				<integer>1015</integer>
+				<integer>966</integer>
 				<key>height</key>
 				<integer>136</integer>
 				<key>originalWidth</key>
-				<integer>1015</integer>
+				<integer>966</integer>
 				<key>originalHeight</key>
 				<integer>136</integer>
 				<key>x</key>
