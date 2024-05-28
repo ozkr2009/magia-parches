@@ -1,31 +1,80 @@
 [
 	{
-		"id":10144,
+		"id":23004,
 		"default":true,
-		"name":"Nemu Hiiragi",
-		"desc":"Una Chica Mágica que trabaja para crear un mundo sin Brujas. Nemu empezó a escribir historias solo para buscar algo de aprobación, hasta que las publicó en Internet, y se dio a conocer como una genia literaria. Su sueño es envolver el mundo en sus historias... literalmente.",
-		"cv":"Sumire Morohoshi"
+		"name":"Homura Akemi (ver. Traje de Baño)",
+		"desc":"Una Chica Mágica que disfruta de las vacaciones de verano con sus amigas. Su traje de baño parece normal, pero es un traje de Chica Mágica y su caña de pescar es su arma. No sabe mucho de pesca, pero es capaz de pescar hasta el pez más grande si es por sus amigas.",
+		"cv":"Chiwa Saitou"
 	},
 	{
-		"id":10314,
+		"id":11014,
 		"default":true,
-		"name":"San Kagura",
-		"desc":"Es la 2da al mando de Neo-Magius y se siente atraída por lo sagrado y lo fuerte. Entre las Neo-Magius es temida como la \"demonio instructora\", mientras que en la asociación juvenil a la que pertenece tiene una faceta en la que es querida como una hermana menor.",
-		"cv":"Ai Fairouz"
+		"name":"Iroha Tamaki (ver. Traje de Baño)",
+		"desc":"Una Chica Mágica que disfruta del verano con sus amigas. Su traje de baño también es su traje de combate, lista para luchar en cualquier momento. No es buena nadadora, así que usa un flotador como arma. En emergencias, puede girar su flotador como un tornillo para escapar.",
+		"cv":"Momo Asakura"
 	},
 	{
-		"id":10334,
+		"id":11184,
 		"default":true,
-		"name":"Ravi Himuro",
-		"desc":"Una Chica Mágica silenciosa que es sirvienta de Nayuta Satomi. Llegó a Kamihama junto a otras Chicas Mágicas que compartían la ideología de Tasuke Satomi. Parece carente de emociones y simpatía, pero tiene un lado dulce con los niños. Le gusta jugar con la tierra y leer.",
-		"cv":"Sashide Maria"
+		"name":"Hermanas Amane (ver. Traje de Baño)",
+		"desc":"Dos Chicas Mágicas que disfrutan de sus vacaciones de verano. Usando su bote-banana y su pistola de agua, hacen una combinación perfecta. Ya que están tomando un descanso de sus hogares y las Alas de Magius, sus vacaciones en la playa son un secreto para los demás.",
+		"cv":"Maaya Uchida & Aya Uchida"
 	},
 	{
-		"id":10204,
+		"id":26004,
 		"default":true,
-		"name":"Kagome Satori",
-		"desc":"Una Chica Mágica que continúa con su trabajo de dar a conocer la existencia de las Chicas Mágicas. Junto a su amiga de la infancia, \"Aru-chan\", una mandrágora de peluche, recopilan información y memorias. Solía tener una gran ansiedad social y hablaba a través de su peluche.",
-		"cv":"Kanon Takao"
+		"name":"Kyoko Sakura (ver. Traje de Baño)",
+		"desc":"Una Chica Mágica que disfruta del mar en verano. Aunque normalmente no sabe nadar, en esta forma lo hace sin dificultad y hasta puede atrapar peces. Tan fuerte como siempre, usa su balón de playa cubierto de llamas para quemar a sus enemigos. Su enemiga natural es Mitama.",
+		"cv":"Ai Nonaka"
+	},
+	{
+		"id":12094,
+		"default":true,
+		"name":"Rena & Kaede (ver. Traje de Baño)",
+		"desc":"Buenas amigas y Chicas Mágicas que adoran jugar en el mar en verano. Con sus trajes de baño listos, buscan disfrutar al máximo, aunque siempre terminan en problemas y Momoko las rescata. Son buenas en ataques lentos y rápidos usando su pelota de playa y su sombrilla.",
+		"cv":"Kaori Ishihara & Ayaka Oohashi"
+	},
+	{
+		"id":25014,
+		"default":true,
+		"name":"Mami Tomoe (ver. Traje de Baño)",
+		"desc":"Una Chica Mágica que ha adquirido un nuevo aspecto gracias a la magia del verano. Su arma, que parece un lanzacohetes, genera fuegos artificiales mágicamente. Ella continua creciendo como Chica Mágica siendo un modelo a seguir para sus kouhais, que la admiran.",
+		"cv":"Kaori Mizuhashi"
+	},
+	{
+		"id":35024,
+		"default":true,
+		"name":"Sakura Eterna (ver. Traje de Baño)",
+		"desc":"Una Uwasa que ha creado el Acuario Uwasa y un Ryugu-jo para sus seres queridos. Aprende sobre las emociones a través de su hospitalidad, aunque no comprende por qué las personas le temen las historias de fantasmas. Cuando lucha, lo hace junto a sus amigos del mar.",
+		"cv":"Minori Suzuki"
+	},
+	{
+		"id":12104,
+		"default":true,
+		"name":"Momoko & Mitama (ver. Sirenas)",
+		"desc":"Chicas Mágicas que adquirieron el poder de las sirenas investigando la leyenda de las miko. A Mitama le encanta su forma de sirena, mientras que Momoko se siente avergonzada. Mitama le promete que cuando se transformen en sirenas, será en un mar tranquilo y vacío.",
+		"cv":"Mikako Komatsu & Yui Horie"
+	},
+	{
+		"id":24014,
+		"default":true,
+		"name":"Sayaka Miki (ver. Surfing)",
+		"desc":"Una Chica Mágica disfrutando sus vacaciones junto al mar. Con magia, surca las olas audazmente sobre una tabla de surf que también es un arma. Aunque es novata, inconscientemente ha ejecutado técnicas avanzadas como \"switch stance\" y \"off-the-lip\".",
+		"cv":"Eri Kitamura"
+	},
+	{
+		"id":11434,
+		"default":true,
+		"name":"Kuroe (ver. Traje de Baño)",
+		"desc":"Una Chica Mágica en el mar de verano. Prefiere quedarse en casa durante el calor, pero aceptó ir a la playa con su hermano. Ahora hace surf de remo, y como ex-miembro del club de gimnasia rítmica, hace yoga sobre tabla bastante bien, aunque nadar no es su fuerte.",
+		"cv":"Kana Hanazawa"
+	},
+	{
+		"id":21064,
+		"default":true,
+		"name":"Madoka Kaname (ver. Traje de Baño)",
+		"desc":"Una Chica Mágica que brilla bajo el sol del verano. Ha cambiado su habitual arco por uno con forma de pistola de agua, pero no te confíes, no es un juguete. Mientras disfruta del verano, busca algo único que solo ella puede hacer. Su inusual coleta es su favorita en secreto.",
+		"cv":"Aoi Yuuki"
 	},
 	{
 		"id":10011,
