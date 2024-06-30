@@ -7,13 +7,13 @@
             },
             {
                 "nameNarration": "Hazuki",
-                "narration": "I found out after I heard what happened.",
+                "narration": "Me enteré después de escuchar lo que pasó.",
                 "narrationBg": "black",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "We stepped in not long after Leila's group..."
+                "narration": "Nosotras entramos poco después@del grupo de Leila..."
             },
             {
                 "chara": [
@@ -25,7 +25,7 @@
                         "pos": 1
                     }
                 ],
-                "narration": "Into Endless Mirrors."
+                "narration": "En los Espejos Infinitos."
             },
             {
                 "bg": "bg_adv_21181.jpg",
@@ -62,7 +62,7 @@
                     }
                 ],
                 "nameRight": "Ayame",
-                "textRight": "Can't find 'em..."
+                "textRight": "No las encuentro..."
             },
             {
                 "chara": [
@@ -74,7 +74,7 @@
                     }
                 ],
                 "nameLeft": "Konoha",
-                "textLeft": "Nope..."
+                "textLeft": "Nop..."
             },
             {
                 "chara": [
@@ -88,7 +88,7 @@
                     }
                 ],
                 "nameRight": "Hazuki",
-                "textRight": "...Um, [wait:0.8][chara:302700:lipSynch_1]hey."
+                "textRight": "... Um, [wait:0.8][chara:302700:lipSynch_1]oigan."
             },
             {
                 "chara": [
@@ -99,7 +99,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Do you want to try going in a little farther?"
+                "textRight": "¿Quieren intentar ir un poco más adentro?"
             },
             {
                 "chara": [
@@ -120,7 +120,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Hey, I get it! You're against it, but..."
+                "textRight": "¡Oye, lo entiendo! Estás en contra, pero..."
             },
             {
                 "chara": [
@@ -130,7 +130,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "But...you know..."
+                "textRight": "Pero... sabes..."
             },
             {
                 "chara": [
@@ -141,7 +141,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Listen. This place..."
+                "textLeft": "Escucha. Este lugar..."
             },
             {
                 "chara": [
@@ -154,7 +154,7 @@
                     }
                 ],
                 "nameRight": "Ayame",
-                "textRight": "Don't worry! I'm fine with it!"
+                "textRight": "¡No te preocupes! ¡Por mí no hay problema!"
             },
             {
                 "chara": [
@@ -175,7 +175,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Oh! S-sorry..."
+                "textRight": "¡Oh! P-Perdón..."
             },
             {
                 "chara": [
@@ -186,7 +186,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "It's not safe to stay here long."
+                "textLeft": "No es seguro quedarse aquí mucho tiempo."
             },
             {
                 "chara": [
@@ -195,7 +195,7 @@
                         "id": 302600
                     }
                 ],
-                "textLeft": "That's what I realized when I first came@here."
+                "textLeft": "De eso me di cuenta la primera vez@que vine aquí."
             },
             {
                 "chara": [
@@ -220,7 +220,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "You agreed with me, right, Hazuki?"
+                "textLeft": "Estuviste de acuerdo conmigo,@¿verdad, Hazuki?"
             },
             {
                 "chara": [
@@ -230,7 +230,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Uh, yeah, I did."
+                "textRight": "Uh, sí, lo estuve."
             },
             {
                 "chara": [
@@ -241,7 +241,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "And we've been searching for a while but@still haven't found them."
+                "textLeft": "Y hemos estado buscando durante un tiempo@pero aún no las hemos encontrado."
             },
             {
                 "chara": [
@@ -250,7 +250,7 @@
                         "id": 302600
                     }
                 ],
-                "textLeft": "So...they might not be here. Don't you think?"
+                "textLeft": "Así que... puede que no estén aquí.@¿No crees?"
             },
             {
                 "chara": [
@@ -260,7 +260,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Well, that is a possibility..."
+                "textRight": "Bueno, es una posibilidad..."
             },
             {
                 "chara": [
@@ -271,7 +271,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "In that case..."
+                "textLeft": "En ese caso..."
             },
             {
                 "chara": [
@@ -282,7 +282,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "But!"
+                "textRight": "¡Pero!"
             },
             {
                 "chara": [
@@ -293,7 +293,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "That's just a possibility."
+                "textRight": "Es solo una posibilidad."
             },
             {
                 "chara": [
@@ -315,7 +315,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Don't forget that we can't get in touch with@them!"
+                "textRight": "¡No olvides que no podemos ponernos@en contacto con ellas!"
             },
             {
                 "chara": [
@@ -326,7 +326,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Exactly."
+                "textLeft": "Exacto."
             },
             {
                 "chara": [
@@ -336,7 +336,7 @@
                         "id": 302600
                     }
                 ],
-                "textLeft": "They might just be too busy to answer@our calls or text back..."
+                "textLeft": "Puede que estén demasiado ocupadas para@responder a nuestras llamadas o mensajes..."
             },
             {
                 "chara": [
@@ -346,7 +346,7 @@
                         "id": 302600
                     }
                 ],
-                "textLeft": "I get how you're feeling... But maybe@they're just busy."
+                "textLeft": "Entiendo cómo te sientes...@Pero tal vez solo están ocupadas."
             },
             {
                 "chara": [
@@ -368,7 +368,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Aren't you maybe worrying too much?"
+                "textLeft": "¿No te estás preocupando demasiado?"
             },
             {
                 "chara": [
@@ -381,7 +381,7 @@
                     }
                 ],
                 "nameRight": "Ayame",
-                "textRight": "You know...I understand too, Hazuki."
+                "textRight": "Sabes... yo también te entiendo, Hazuki."
             },
             {
                 "chara": [
@@ -391,7 +391,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I'd get all fidgety if I couldn't get in touch@with you two..."
+                "textRight": "Yo estaría muy preocupada si no pudiera@ponerme en contacto con ustedes dos..."
             },
             {
                 "chara": [
@@ -427,7 +427,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I was really careless."
+                "textRight": "Fui muy descuidada."
             },
             {
                 "chara": [
@@ -436,7 +436,7 @@
                         "id": 302700
                     }
                 ],
-                "textRight": "I was talking about all that's been going on@with Mitama and I slipped up..."
+                "textRight": "Estaba hablando de todo lo que estaba@pasando con Mitama y hablé de más..."
             },
             {
                 "chara": [
@@ -446,7 +446,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "It hasn't been very long since they became@Magical Girls."
+                "textRight": "No ha pasado mucho tiempo desde que ellas@se convirtieron en Chicas Mágicas."
             },
             {
                 "chara": [
@@ -455,7 +455,7 @@
                         "id": 302700
                     }
                 ],
-                "textRight": "I was like, \"Oh crap!\" and tried to warn@them, but I just ended up tempting them."
+                "textRight": "Pensé, \" ¡Oh, rayos!\" e intenté advertirles,@pero solo acabé tentándolas."
             },
             {
                 "chara": [
@@ -466,7 +466,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "I'm such an idiot."
+                "textRight": "Soy una idiota."
             },
             {
                 "chara": [
@@ -505,7 +505,7 @@
                     }
                 ],
                 "nameRight": "Hazuki",
-                "textRight": "Fine... I'll stay here."
+                "textRight": "Está bien... Me quedaré aquí."
             },
             {
                 "chara": [
@@ -514,7 +514,7 @@
                         "id": 302700
                     }
                 ],
-                "textRight": "You two―"
+                "textRight": "Ustedes dos―"
             },
             {
                 "chara": [
@@ -526,7 +526,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "Hazuki!"
+                "textLeft": "¡Hazuki!"
             },
             {
                 "chara": [
@@ -537,7 +537,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Uh?!"
+                "textRight": "¿¡Uh!?"
             },
             {
                 "chara": [
@@ -547,7 +547,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "You think we would ever leave you here?"
+                "textLeft": "¿Crees que te dejaríamos aquí?"
             },
             {
                 "chara": [
@@ -560,7 +560,7 @@
                     }
                 ],
                 "nameRight": "Ayame",
-                "textRight": "Yeah, yeah, yeah!"
+                "textRight": "¡Así es!"
             },
             {
                 "chara": [
@@ -573,7 +573,7 @@
                     }
                 ],
                 "nameRight": "Hazuki",
-                "textRight": "Sorry..."
+                "textRight": "Lo siento..."
             },
             {
                 "chara": [
@@ -597,7 +597,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "*Sigh* I guess we don't have a choice."
+                "textLeft": "*Suspiro*@Supongo que no tenemos otra opción."
             },
             {
                 "chara": [
@@ -608,7 +608,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "What? Then! You mean!"
+                "textRight": "¿Qué? ¡Entonces! ¡Quieres decir!"
             },
             {
                 "chara": [
@@ -618,7 +618,7 @@
                         "id": 302600
                     }
                 ],
-                "textLeft": "Just a little longer."
+                "textLeft": "Solo un rato más."
             },
             {
                 "chara": [
@@ -628,7 +628,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Konoha!"
+                "textRight": "¡Konoha!"
             },
             {
                 "chara": [
@@ -637,7 +637,7 @@
                         "id": 302600
                     }
                 ],
-                "textLeft": "But if we feel anything even the least bit@amiss, we'll get straight out of here."
+                "textLeft": "Pero si sentimos que algo raro, aunque sea lo@más mínimo, nos iremos de inmediato de aquí."
             },
             {
                 "chara": [
@@ -648,7 +648,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Agreed?"
+                "textLeft": "¿De acuerdo?"
             },
             {
                 "chara": [
@@ -659,7 +659,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Agreed! Thank you!"
+                "textRight": "¡De acuerdo! ¡Gracias!"
             },
             {
                 "chara": [
@@ -672,7 +672,7 @@
                     }
                 ],
                 "nameLeft": "Ayame",
-                "textLeft": "All riiight! I'm gonna try real hard to look@this time!"
+                "textLeft": "¡Muy bieeen! ¡Voy a esforzarme mucho para@buscar esta vez!"
             },
             {
                 "chara": [
@@ -683,7 +683,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Thanks, Ayame!"
+                "textRight": "¡Gracias, Ayame!"
             },
             {
                 "chara": [
@@ -694,7 +694,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Hee hee![chara:302800:effect_emotion_joy_0][se:7222_happy]"
+                "textLeft": "¡Jee jee![chara:302800:effect_emotion_joy_0][se:7222_happy]"
             },
             {
                 "autoTurnLast": 0.1,
@@ -730,7 +730,7 @@
                     }
                 ],
                 "nameCenter": "Konoha",
-                "textCenter": "*Giggle*"
+                "textCenter": "*Risilla*"
             },
             {
                 "bgm": "bgm03_story12",
@@ -743,7 +743,7 @@
                         "motion": 1
                     }
                 ],
-                "textCenter": "(Still though...)",
+                "textCenter": "(Sin embargo...)",
                 "turnEffect": "thinking"
             },
             {
@@ -754,7 +754,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(This started when we lost track of Mitama.)"
+                "textCenter": "(Esto empezó cuando perdimos el rastro@de Mitama.)"
             },
             {
                 "chara": [
@@ -764,7 +764,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I see dark clouds on the horizon...)"
+                "textCenter": "(Veo nubes oscuras en el horizonte...)"
             },
             {
                 "chara": [
@@ -776,7 +776,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "(Hazuki's misstep feels like an indication@of how poorly things are looking.)"
+                "textCenter": "(El descuido de Hazuki parece un indicio de@lo mal que pintan las cosas.)"
             },
             {
                 "chara": [
@@ -787,7 +787,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "(I'm sure you feel the same...)"
+                "textCenter": "(Estoy segura de que tú sientes lo mismo...)"
             },
             {
                 "nameNarration": "Konoha",

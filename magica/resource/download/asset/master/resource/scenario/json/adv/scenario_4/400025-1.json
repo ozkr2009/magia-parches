@@ -1,1 +1,1712 @@
-{"story":{"group_1":[{"autoTurnLast":0.01,"bgm":"bgm03_story10","chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":0,"pos":0},{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301300,"motion":100,"pos":2}],"nameRight":"Leila","turnChangeIn":"fadeIn"},{"bg":"bg_adv_21181.jpg","chara":[{"cheek":-1,"id":301300}],"nameRight":"Leila","textRight":"Okay, close your eyes.","turnChangeOut":"fadeOut"},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301400,"motion":100,"pos":2}],"nameRight":"Seika","textRight":"It'll be over quickly."},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":0}],"nameLeft":"Mito","textLeft":"Okay..."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":0,"pos":2}],"nameRight":"Leila","textRight":"I'll go first... Are you ready?"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"lipSynch":0,"motion":0}],"textLeft":"..."},{"chara":[{"cheek":-1,"eyeClose":1,"face":"mtn_ex_030.exp.json","id":301500,"motion":300,"pos":0}],"textLeft":"Yeah..."},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301300,"lipSynch":0,"motion":1}],"nameRight":"Leila","textRight":"..."},{"autoTurnLast":1.0,"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"lipSynch":1,"motion":200}],"flashEffect":"flashWhite1","nameRight":"Leila","surround":"3013A05","textRight":"Hah!"},{"autoTurnLast":0.8,"bgm":"stop","chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":0,"pos":2},{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0,"pos":0}],"turnChangeIn":"whiteIn"},{"chara":[{"cheek":-1,"effect":"shake","face":"mtn_ex_030.exp.json","id":301300,"motion":400}],"flashEffect":"flashRed1","nameRight":"Leila","surround":"3013A02","textRight":"Agh!","turnChangeOut":"whiteOut"},{"bgm":"bgm05_event03","chara":[{"cheek":-1,"id":301500,"lipSynch":0}],"surround":"stop","textLeft":"..."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":200}],"textRight":"Mito?!"},{"chara":[{"cheek":-1,"eyeClose":1,"id":301500}],"textLeft":"\"If the three of us argue about somethin',@we each get punished.\""},{"chara":[{"cheek":-1,"eyeClose":0,"id":301500,"motion":200}],"textBg":"shout","textLeft":"...Like we'd ever make a promise like that!"},{"chara":[{"cheek":-1,"id":301300,"lipSynch":0,"motion":1}],"textRight":"..."},{"chara":[{"cheek":-1,"id":301500,"motion":300}],"textLeft":"Neither of you would've agreed to that@in the first place!"},{"chara":[{"cheek":-1,"id":301300,"motion":200}],"nameRight":"Leila?","textRight":"...Tch."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":200,"pos":2}],"nameRight":"Seika?","textRight":"So you tricked us."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":100,"pos":2}],"nameRight":"Leila?","textRight":"You're pretty sharp for someone who looks@like a dimwit."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0}],"textLeft":"You... You're both copies, aren't you?"},{"chara":[{"cheek":-1,"face":"mtn_ex_001.exp.json","id":301400,"motion":0,"pos":2}],"nameRight":"Seika?","textRight":"...Yeah, so?"},{"chara":[{"cheek":0,"id":301500}],"textLeft":"Well, you're not perfect copies, are ya!"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":1,"pos":2}],"nameRight":"Leila?","textRight":"Right, that's why we got caught."},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301400,"motion":0,"pos":2}],"nameRight":"Seika?","textRight":"But it doesn't matter now."},{"chara":[{"cheek":-1,"id":301400,"motion":200,"pos":2}],"textRight":"Messing with you is already getting boring."},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":300}],"textLeft":"What did you do with the real Seika and@Leila?!"},{"chara":[{"cheek":-1,"face":"mtn_ex_011.exp.json","id":301300,"motion":1,"pos":2}],"nameRight":"Leila?","textRight":"Who knows?"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":200}],"textLeft":"Y-you dirty―!"},{"bgm":"stop","chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301300,"motion":0,"pos":0},{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0,"pos":2}],"nameNarration":"???","narration":"I'm over here!","narrationBg":"black","narrationEffect":"in","narrationFontSize":40.0},{"chara":[{"cheek":0,"face":"mtn_ex_050.exp.json","id":301500,"motion":400}],"nameRight":"Mito","narrationEffect":"out","textRight":"Wha?!"},{"bgm":"bgm05_event04","chara":[{"cheek":-1,"id":301500}],"textRight":"Leila!"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":0}],"textRight":"Wait, is that the real you?"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301300,"motion":200}],"nameLeft":"Leila","textLeft":"Of course I'm real! That one's the fake!"},{"autoTurnLast":0.1,"chara":[{"cheek":0,"face":"mtn_ex_020.exp.json","id":301400,"motion":0,"pos":0},{"cheek":0,"face":"mtn_ex_020.exp.json","id":301500,"motion":0,"pos":2}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":-1,"id":301400,"lipSynch":0}],"nameLeft":"Seika?","textLeft":"...","turnChangeOut":"rollOutFast"},{"chara":[{"cheek":-1,"id":301500,"lipSynch":0}],"nameRight":"Mito?","textRight":"..."},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":0,"pos":2},{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301300,"motion":0,"pos":0}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":300,"pos":2}],"nameRight":"Mito","textRight":"Holy smokes! There's another me!","turnChangeOut":"rollOut"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301300,"motion":1,"pos":0}],"nameLeft":"Leila","textLeft":"Waaah! And that's me there!"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":0,"pos":1}],"nameCenter":"Seika","textCenter":"I'm there too..."},{"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":400}],"textRight":"Seika!"},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":0,"pos":0},{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0,"pos":2}],"turnChangeIn":"rollIn"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"lipSynch":0,"motion":0,"pos":0}],"nameLeft":"Leila?","textLeft":"...","turnChangeOut":"rollOut"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"lipSynch":0,"motion":0,"pos":2}],"nameRight":"Mito?","textRight":"..."},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301300,"motion":0,"pos":2},{"cheek":0,"face":"mtn_ex_050.exp.json","id":301500,"motion":0,"pos":0}],"turnChangeIn":"rollIn"},{"chara":[{"cheek":-1,"id":301300,"motion":400}],"nameRight":"Leila","textRight":"Whoa!","turnChangeOut":"rollOut"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":300}],"nameLeft":"Mito","textLeft":"Now there's another one of me!"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":200,"pos":2}],"nameRight":"Seika","textRight":"You two... You're real, right?"},{"chara":[{"cheek":0,"face":"mtn_ex_020.exp.json","id":301500,"motion":200}],"textLeft":"Uh, yeah!"},{"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301300,"motion":100,"pos":2}],"nameRight":"Leila","textRight":"We're real! Really real!"},{"chara":[{"cheek":0,"face":"mtn_ex_020.exp.json","id":301400,"motion":0,"pos":1}],"nameCenter":"Seika","textCenter":"Then what's the promise we made when we@were little to solve our arguments?"},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301300,"motion":0,"pos":2}],"textRight":"All three of us would..."},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301500,"motion":0}],"textLeft":"Apologize!"},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301400,"motion":100}],"textCenter":"You're the real ones, all right!"},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301300,"motion":0,"pos":2},{"cheek":-1,"face":"mtn_ex_001.exp.json","id":301400,"motion":0,"pos":1},{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":0,"pos":0}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":-1,"id":301500,"motion":300}],"nameLeft":"Mito?","textLeft":"Aw, come on...","turnChangeOut":"rollOutFast"},{"chara":[{"cheek":-1,"id":301300}],"nameRight":"Leila?","textRight":"That's such a stupid answer."},{"chara":[{"cheek":-1,"id":301400,"motion":400}],"nameCenter":"Seika?","textCenter":"They're so lame."},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":0,"pos":0},{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301300,"motion":0,"pos":2}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":200}],"nameLeft":"Mito","textLeft":"What'd you saaay?!","turnChangeOut":"rollOutFast"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301300,"motion":300,"pos":2}],"nameRight":"Leila","textRight":"Hey, um, when do you think the copies @swapped with us?"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":300,"pos":0}],"nameLeft":"Seika","textLeft":"Yeah, about that..."},{"chara":[{"cheek":-1,"id":301400,"motion":0}],"textLeft":"It must've been right after we came here."},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":300,"pos":2}],"nameRight":"Mito","textRight":"Ah, you're right. That means..."},{"nameNarration":"Mito","narration":"We were split up from the beginning!","narrationEffect":"in"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301300,"motion":0,"pos":0}],"nameLeft":"Leila","narrationEffect":"out","textLeft":"I was with another Mito and Seika..."},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301400,"motion":300,"pos":2}],"nameRight":"Seika","textRight":"I was with another Leila and Mito..."},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":0,"pos":0}],"nameLeft":"Mito","textLeft":"I was with another Seika and Leila..."},{"chara":[{"cheek":-1,"id":301500,"motion":300}],"textLeft":"All the copies were on us from the start."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":200}],"textRight":"Goodness... They use some strange tactics!"},{"chara":[{"cheek":0,"face":"mtn_ex_011.exp.json","id":301300,"motion":0,"pos":0}],"nameLeft":"Leila?","textLeft":"Maybe that's all part of the Endless@Mirrors experience."},{"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":400,"pos":0}],"nameLeft":"Mito","textLeft":"But still, you did pretty good to know where@we were!"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301300,"motion":300,"pos":2}],"nameRight":"Leila","textRight":"The fake Seika and Mito got really mad at@me and pushed me around..."},{"chara":[{"cheek":-1,"id":301300}],"textRight":"I didn't know what to do... I just thought it@was so weird..."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":100}],"textRight":"And when I questioned them, they seemed@really suspicious!"},{"chara":[{"cheek":0,"face":"mtn_ex_010.exp.json","id":301300}],"textRight":"That was when I sensed that someone was@using magic!"},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301400,"motion":100,"pos":2}],"nameRight":"Seika","textRight":"That's pretty much what happened to me."},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301300,"motion":0,"pos":2},{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301400,"motion":0,"pos":1},{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":0,"pos":0}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":-1,"id":301500,"motion":300}],"nameLeft":"Mito?","textLeft":"Say what? You got caught like that too?","turnChangeOut":"rollOutFast"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":1}],"nameRight":"Leila?","textRight":"Yeah? So did you."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":200}],"nameCenter":"Seika?","textCenter":"And you."},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0,"pos":1}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":1,"id":301500}],"nameCenter":"Mito","textCenter":"Sh-sh-sh...","turnChangeOut":"rollOutFast"},{"bgEffect":"shakeLarge","chara":[{"cheek":2,"face":"mtn_ex_020.exp.json","id":301500,"motion":200}],"textBg":"shout","textCenter":"Shut up already!"},{"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301300,"motion":400,"pos":2},{"cheek":2,"id":301500,"pos":0}],"nameRight":"Leila","textRight":"Uh, Mito?!"},{"chara":[{"cheek":-1,"face":"mtn_ex_030.exp.json","id":301500,"motion":100}],"nameLeft":"Mito","textLeft":"I'm an idiot for gettin' duped by these@copies..."},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0}],"textLeft":"And I'm not...gonna let 'em get away with it!"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":0,"pos":2}],"nameRight":"Seika","textRight":"Yeah, that's right."},{"chara":[{"cheek":-1,"id":301400,"motion":200}],"textRight":"That was in incredibly...poor taste!"},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":0,"pos":1}],"nameCenter":"Leila","textCenter":"Yeah!"},{"chara":[{"cheek":-1,"id":301300,"motion":200}],"textCenter":"We need to set things straight!"},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":0,"pos":1},{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":0,"pos":2},{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0,"pos":0}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":-1,"id":301500,"motion":100}],"nameLeft":"Mito?","textLeft":"Whatever...","turnChangeOut":"rollOutFast"},{"chara":[{"cheek":-1,"id":301400,"motion":200}],"nameRight":"Seika?","textRight":"Even this outcome..."},{"chara":[{"cheek":-1,"id":301300,"motion":1}],"nameCenter":"Leila?","textCenter":"It's not unexpected."},{"autoTurnLast":0.1,"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301500,"motion":0,"pos":0},{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301400,"motion":0,"pos":2},{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"motion":0,"pos":1}],"turnChangeIn":"rollInFast"},{"chara":[{"cheek":-1,"id":301400,"motion":1}],"nameRight":"Seika","textRight":"Are we okay with each fighting our own copy?","turnChangeOut":"rollOutFast"},{"chara":[{"cheek":-1,"id":301500,"motion":200}],"nameLeft":"Mito","textLeft":"Yeah! That'll make things simple!"},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301300,"motion":100}],"nameCenter":"Leila","textCenter":"Yes!"},{"autoTurnLast":0.2,"chara":[{"effect":"fadeout","id":301500},{"effect":"fadeout","id":301300},{"effect":"fadeout","id":301400}],"textClear":1},{"chara":[{"cheek":-1,"face":"mtn_ex_020.exp.json","id":301300,"live2dName":"live2d_0","motion":0,"pos":0},{"cheek":0,"face":"mtn_ex_020.exp.json","id":301300,"live2dName":"live2d_1","motion":1,"pos":2}],"nameRight":"Leila?","textRight":"...You ready, \"real\" Leila?"},{"chara":[{"cheek":2,"face":"mtn_ex_020.exp.json","id":301300,"live2dName":"live2d_0","motion":200}],"nameLeft":"Leila","textBg":"shout","textLeft":"Like I'd lose to a faaake![flashEffect:flashWhite1]"},{"autoTurnLast":3.0,"bgm":"stop","surround":"3013A05","textClear":1,"turnChangeIn":"whiteIn"},{"nameNarration":"???","narration":"*Huff* *Huff* *Wheeze*","narrationBg":"black","narrationEffect":"in","surround":"stop","turnChangeOut":"whiteOut"},{"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":0,"pos":1}],"narration":"Ah, there! That must be the exit!"},{"bg":"bg_adv_19051.jpg","bgm":"bgm03_story09","chara":[{"cheek":-1,"id":301500,"motion":400}],"nameCenter":"Mito","narrationEffect":"out","textCenter":"Gah!"},{"chara":[{"cheek":-1,"eyeClose":1,"face":"mtn_ex_030.exp.json","id":301400,"motion":300,"pos":2}],"nameRight":"Seika","textRight":"*Sigh*"},{"chara":[{"cheek":-1,"face":"mtn_ex_011.exp.json","id":301300,"motion":100,"pos":0}],"nameLeft":"Leila","textLeft":"We made it back!"},{"chara":[{"cheek":0,"face":"mtn_ex_030.exp.json","id":301300,"motion":400}],"textLeft":"Wait, it IS you guys, right? You're real?"},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":301500,"motion":300}],"textCenter":"Y-yes, we are!"},{"chara":[{"cheek":-1,"eyeClose":0,"face":"mtn_ex_010.exp.json","id":301400,"motion":200}],"textRight":"We defeated them, all right."},{"chara":[{"cheek":-1,"eyeClose":1,"face":"mtn_ex_030.exp.json","id":301300,"motion":300}],"textLeft":"*Sigh* ...I feel like I won't be able to @trust anyone anymore..."},{"bgm":"stop","chara":[{"cheek":-1,"eyeClose":0,"face":"mtn_ex_050.exp.json","id":301300,"motion":0},{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301400,"motion":0},{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301500,"motion":0}],"nameNarration":"???","narration":"What's this?@You came out in rather a hurry.","narrationEffect":"in"},{"bgm":"bgm05_event08","chara":[{"cheek":-1,"id":301300,"motion":400}],"narrationEffect":"out","textLeft":"Huh?! Who...who's there?!"},{"narration":"Over here, everyone.","narrationEffect":"in"},{"chara":[{"cheek":-1,"id":301500,"motion":300}],"narrationEffect":"out","textCenter":"Here?"},{"autoTurnLast":0.3,"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301100,"motion":0,"pos":1}],"turnChangeIn":"rollIn"},{"bgm":"stop","chara":[{"cheek":-1,"id":301100}],"nameCenter":"Kako","textCenter":"...Hm?","turnChangeOut":"rollOut"},{"autoTurnLast":0.1,"chara":[{"effect":"fadeout","id":301100}],"textClear":1},{"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301400,"motion":100,"pos":2},{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301100,"motion":0,"pos":0}],"textRight":"Um, who are you?"},{"chara":[{"cheek":-1,"id":301100,"lipSynch":0}],"nameLeft":"Kako","textLeft":"..."},{"chara":[{"cheek":1,"face":"mtn_ex_030.exp.json","id":301100,"motion":400}],"textLeft":"Ah, aah! No, no!"},{"chara":[{"cheek":1,"face":"mtn_ex_050.exp.json","id":301100}],"textLeft":"Not me! Her!"},{"chara":[{"cheek":-1,"face":"mtn_ex_050.exp.json","id":301300,"motion":0,"pos":2}],"nameRight":"Leila","textRight":"Her?"},{"autoTurnLast":0.1,"bgm":"bgm03_story13","chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":300500,"motion":0,"pos":1}],"turnChangeIn":"rollIn"},{"chara":[{"cheek":-1,"face":"mtn_ex_011.exp.json","id":300500,"motion":100}],"nameCenter":"Nanaka","textCenter":"Greetings.","turnChangeOut":"rollOut"},{"chara":[{"cheek":-1,"face":"mtn_ex_010.exp.json","id":300500}],"textCenter":"Thank you, Kako. It is I..."},{"chara":[{"cheek":-1,"face":"mtn_ex_011.exp.json","id":300500,"motion":1}],"textCenter":"Nanaka Tokiwa!"},{"autoTurnLast":2.0,"turnChangeIn":"fadeIn"}]},"version":3}
+{
+    "story": {
+        "group_1": [
+            {
+                "autoTurnLast": 0.01,
+                "bgm": "bgm03_story10",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301300,
+                        "motion": 100,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Leila",
+                "turnChangeIn": "fadeIn"
+            },
+            {
+                "bg": "bg_adv_21181.jpg",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "Bien, cierra los ojos.",
+                "turnChangeOut": "fadeOut"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301400,
+                        "motion": 100,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Seika",
+                "textRight":"Será rápido."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 0
+                    }
+                ],
+                "nameLeft": "Mito",
+                "textLeft": "De acuerdo..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "Yo iré primero... ¿Estás lista?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "lipSynch": 0,
+                        "motion": 0
+                    }
+                ],
+                "textLeft": "..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "eyeClose": 1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 300,
+                        "pos": 0
+                    }
+                ],
+                "textLeft": "Sí..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301300,
+                        "lipSynch": 0,
+                        "motion": 1
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "..."
+            },
+            {
+                "autoTurnLast": 1.0,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "lipSynch": 1,
+                        "motion": 200
+                    }
+                ],
+                "flashEffect": "flashWhite1",
+                "nameRight": "Leila",
+                "surround": "3013A05",
+                "textRight": "¡Hah!"
+            },
+            {
+                "autoTurnLast": 0.8,
+                "bgm": "stop",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "turnChangeIn": "whiteIn"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "effect": "shake",
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 400
+                    }
+                ],
+                "flashEffect": "flashRed1",
+                "nameRight": "Leila",
+                "surround": "3013A02",
+                "textRight": "¡Agh!",
+                "turnChangeOut": "whiteOut"
+            },
+            {
+                "bgm": "bgm05_event03",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "lipSynch": 0
+                    }
+                ],
+                "surround": "stop",
+                "textLeft": "..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 200
+                    }
+                ],
+                "textRight": "¿¡Mito!?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "eyeClose": 1,
+                        "id": 301500
+                    }
+                ],
+                "textLeft": "\"Si las tres discutimos por algo,@cada una será castigada.\""
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "eyeClose": 0,
+                        "id": 301500,
+                        "motion": 200
+                    }
+                ],
+                "textBg": "shout",
+                "textLeft": "... ¡Como si fuéramos a hacer una promesa así!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300,
+                        "lipSynch": 0,
+                        "motion": 1
+                    }
+                ],
+                "textRight": "..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "textLeft": "¡Ninguna de las dos habría aceptado eso@en primer lugar!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300,
+                        "motion": 200
+                    }
+                ],
+                "nameRight": "¿Leila?",
+                "textRight": "... Tch."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 200,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Seika?",
+                "textRight": "Así que nos engañaste."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 100,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Leila?",
+                "textRight": "Eres muy lista para alguien que parece@una idiota."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0
+                    }
+                ],
+                "textLeft": "Ustedes... Ustedes dos son copias, ¿no?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_001.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Seika?",
+                "textRight": "... Sí, ¿y?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "id": 301500
+                    }
+                ],
+                "textLeft": "Bueno, ¡no son copias perfectas, ¿cierto?!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 1,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Leila?",
+                "textRight": "Así es, por eso nos descubrieron."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Seika?",
+                "textRight": "Pero eso ya no importa."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301400,
+                        "motion": 200,
+                        "pos": 2
+                    }
+                ],
+                "textRight": "Jugar contigo ya se está volviendo aburrido."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "textLeft": "¿¡Qué hicieron con las verdaderas@Seika y Leila!?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_011.exp.json",
+                        "id": 301300,
+                        "motion": 1,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Leila?",
+                "textRight": "¿Quién sabe?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 200
+                    }
+                ],
+                "textLeft": "¡U-Ustedes sucias―!"
+            },
+            {
+                "bgm": "stop",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 0
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "nameNarration": "???",
+                "narration": "¡Estoy aquí!",
+                "narrationBg": "black",
+                "narrationEffect": "in",
+                "narrationFontSize": 40.0
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 400
+                    }
+                ],
+                "nameRight": "Mito",
+                "narrationEffect": "out",
+                "textRight": "¿¡Qué!?"
+            },
+            {
+                "bgm": "bgm05_event04",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500
+                    }
+                ],
+                "textRight": "¡Leila!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 0
+                    }
+                ],
+                "textRight": "Espera, ¿eres tú de verdad?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 200
+                    }
+                ],
+                "nameLeft": "Leila",
+                "textLeft": "¡Claro que soy real! ¡Esa es la falsa!"
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 0
+                    },
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301400,
+                        "lipSynch": 0
+                    }
+                ],
+                "nameLeft": "¿Seika?",
+                "textLeft": "...",
+                "turnChangeOut": "rollOutFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "lipSynch": 0
+                    }
+                ],
+                "nameRight": "¿Mito?",
+                "textRight": "..."
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 300,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Mito",
+                "textRight": "¡Santo cielo! ¡Hay otra yo!",
+                "turnChangeOut": "rollOut"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 1,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "Leila",
+                "textLeft": "¡Waaah! ¡Y esa de ahí soy yo!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "nameCenter": "Seika",
+                "textCenter": "Yo también estoy ahí..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 400
+                    }
+                ],
+                "textRight": "¡Seika!"
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 0
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "turnChangeIn": "rollIn"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "lipSynch": 0,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "¿Leila?",
+                "textLeft": "...",
+                "turnChangeOut": "rollOut"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "lipSynch": 0,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Mito?",
+                "textRight": "..."
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "turnChangeIn": "rollIn"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300,
+                        "motion": 400
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "¡Wow!",
+                "turnChangeOut": "rollOut"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "nameLeft": "Mito",
+                "textLeft": "¡Ahora hay otra yo!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 200,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Seika",
+                "textRight": "Ustedes dos... Son las reales, ¿verdad?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 200
+                    }
+                ],
+                "textLeft": "¡Uh, sí!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301300,
+                        "motion": 100,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "¡Somos reales! ¡Realmente reales!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "nameCenter": "Seika",
+                "textCenter": "Entonces, ¿cuál es la promesa que hicimos de@pequeñas para resolver nuestras discusiones?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "textRight": "Nosotras tres..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301500,
+                        "motion": 0
+                    }
+                ],
+                "textLeft": "¡Nos disculparíamos!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301400,
+                        "motion": 100
+                    }
+                ],
+                "textCenter": "¡Ustedes son las reales, sin duda!"
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_001.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 1
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "nameLeft": "¿Mito?",
+                "textLeft": "Aw, venga ya...",
+                "turnChangeOut": "rollOutFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300
+                    }
+                ],
+                "nameRight": "¿Leila?",
+                "textRight": "Qué respuesta tan estúpida."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301400,
+                        "motion": 400
+                    }
+                ],
+                "nameCenter": "¿Seika?",
+                "textCenter": "Qué patéticas son."
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 200
+                    }
+                ],
+                "nameLeft": "Mito",
+                "textLeft": "¿¡Qué has dichooo!?",
+                "turnChangeOut": "rollOutFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 300,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "Oye, um, ¿cuándo crees que las copias@intercambiaron con nosotras?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 300,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "Seika",
+                "textLeft": "Sí, sobre eso..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301400,
+                        "motion": 0
+                    }
+                ],
+                "textLeft": "Debió ser justo después de venir aquí."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 300,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Mito",
+                "textRight": "Ah, tienes razón. Eso significa..."
+            },
+            {
+                "nameNarration": "Mito",
+                "narration": "¡Estuvimos separadas desde el principio!",
+                "narrationEffect": "in"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "Leila",
+                "narrationEffect": "out",
+                "textLeft": "Yo estaba con otra Mito y Seika..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301400,
+                        "motion": 300,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Seika",
+                "textRight": "Yo estaba con otra Leila y Mito..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "Mito",
+                "textLeft": "Yo estaba con otra Seika y Leila..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "textLeft": "Todas las copias nos estaban siguiendo@desde el principio."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 200
+                    }
+                ],
+                "textRight": "Cielos... ¡Usan unas tácticas muy extrañas!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_011.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "¿Leila?",
+                "textLeft": "Tal vez todo eso es parte de la experiencia de@los Espejos Infinitos."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 400,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "Mito",
+                "textLeft": "Pero aun así, ¡hiciste muy bien en saber@dónde estábamos!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 300,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "Las falsas Seika y Mito se enfadaron mucho@conmigo y me trataron mal..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300
+                    }
+                ],
+                "textRight": "No sabía qué hacer...@Solo pensé que era muy raro..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 100
+                    }
+                ],
+                "textRight": "Y cuando les interrogué,@¡parecían muy sospechosas!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301300
+                    }
+                ],
+                "textRight": "¡En ese momento sentí que alguien estaba@usando magia!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301400,
+                        "motion": 100,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Seika",
+                "textRight": "Eso es más o menos lo que me pasó a mí."
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 1
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "nameLeft": "¿Mito?",
+                "textLeft": "¿Cómo? ¿A ti también te descubrieron así?",
+                "turnChangeOut": "rollOutFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 1
+                    }
+                ],
+                "nameRight": "¿Leila?",
+                "textRight": "¿Sí? A ti también."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 200
+                    }
+                ],
+                "nameCenter": "¿Seika?",
+                "textCenter": "Y a ti."
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 1,
+                        "id": 301500
+                    }
+                ],
+                "nameCenter": "Mito",
+                "textCenter": "C-c-c...",
+                "turnChangeOut": "rollOutFast"
+            },
+            {
+                "bgEffect": "shakeLarge",
+                "chara": [
+                    {
+                        "cheek": 2,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 200
+                    }
+                ],
+                "textBg": "shout",
+                "textCenter": "¡Cállense de una vez!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301300,
+                        "motion": 400,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": 2,
+                        "id": 301500,
+                        "pos": 0
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "¿¡Eh, Mito!?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301500,
+                        "motion": 100
+                    }
+                ],
+                "nameLeft": "Mito",
+                "textLeft": "Soy un idiota por dejarme engañar por@estas copias..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0
+                    }
+                ],
+                "textLeft": "Y yo... ¡no voy a dejar que se salgan@con la suya!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Seika",
+                "textRight": "Sí, así es."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301400,
+                        "motion": 200
+                    }
+                ],
+                "textRight": "¡Eso fue de muy... mal gusto!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "nameCenter": "Leila",
+                "textCenter": "¡Sí!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300,
+                        "motion": 200
+                    }
+                ],
+                "textCenter": "¡Tenemos que poner las cosas en su lugar!"
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 1
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 100
+                    }
+                ],
+                "nameLeft": "¿Mito?",
+                "textLeft": "Lo que sea...",
+                "turnChangeOut": "rollOutFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301400,
+                        "motion": 200
+                    }
+                ],
+                "nameRight": "¿Seika?",
+                "textRight": "Incluso este resultado..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300,
+                        "motion": 1
+                    }
+                ],
+                "nameCenter": "¿Leila?",
+                "textCenter": "No es nada inesperado."
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 0
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301400,
+                        "motion": 0,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "turnChangeIn": "rollInFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301400,
+                        "motion": 1
+                    }
+                ],
+                "nameRight": "Seika",
+                "textRight": "¿Estamos de acuerdo con que cada una@luche contra su propia copia?",
+                "turnChangeOut": "rollOutFast"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 200
+                    }
+                ],
+                "nameLeft": "Mito",
+                "textLeft": "¡Sí! ¡Eso hará las cosas más sencillas!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301300,
+                        "motion": 100
+                    }
+                ],
+                "nameCenter": "Leila",
+                "textCenter": "¡Sí!"
+            },
+            {
+                "autoTurnLast": 0.2,
+                "chara": [
+                    {
+                        "effect": "fadeout",
+                        "id": 301500
+                    },
+                    {
+                        "effect": "fadeout",
+                        "id": 301300
+                    },
+                    {
+                        "effect": "fadeout",
+                        "id": 301400
+                    }
+                ],
+                "textClear": 1
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "live2dName": "live2d_0",
+                        "motion": 0,
+                        "pos": 0
+                    },
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "live2dName": "live2d_1",
+                        "motion": 1,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "¿Leila?",
+                "textRight": "... ¿Estás lista, \"verdadera\" Leila?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 2,
+                        "face": "mtn_ex_020.exp.json",
+                        "id": 301300,
+                        "live2dName": "live2d_0",
+                        "motion": 200
+                    }
+                ],
+                "nameLeft": "Leila",
+                "textBg": "shout",
+                "textLeft": "¡Como si fuera a perder contra una faaarsante!v[flashEffect:flashWhite1]"
+            },
+            {
+                "autoTurnLast": 3.0,
+                "bgm": "stop",
+                "surround": "3013A05",
+                "textClear": 1,
+                "turnChangeIn": "whiteIn"
+            },
+            {
+                "nameNarration": "???",
+                "narration": "*Uff* *Uff* *Jadeo*",
+                "narrationBg": "black",
+                "narrationEffect": "in",
+                "surround": "stop",
+                "turnChangeOut": "whiteOut"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "narration": "¡Ah, ahí! ¡Esa debe ser la salida!"
+            },
+            {
+                "bg": "bg_adv_19051.jpg",
+                "bgm": "bgm03_story09",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 400
+                    }
+                ],
+                "nameCenter": "Mito",
+                "narrationEffect": "out",
+                "textCenter": "¡Gah!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "eyeClose": 1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301400,
+                        "motion": 300,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Seika",
+                "textRight": "*Suspiro*"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_011.exp.json",
+                        "id": 301300,
+                        "motion": 100,
+                        "pos": 0
+                    }
+                ],
+                "nameLeft": "Leila",
+                "textLeft": "¡Lo conseguimos!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 0,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 400
+                    }
+                ],
+                "textLeft": "Esperen, son USTEDES, ¿verdad? ¿Son reales?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "textCenter": "¡S-Sí, lo somos!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 301400,
+                        "motion": 200
+                    }
+                ],
+                "textRight": "Las derrotamos, sin duda."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "eyeClose": 1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301300,
+                        "motion": 300
+                    }
+                ],
+                "textLeft": "*Suspiro*@... Siento que ya no podré confiar en nadie..."
+            },
+            {
+                "bgm": "stop",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "eyeClose": 0,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301300,
+                        "motion": 0
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301400,
+                        "motion": 0
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301500,
+                        "motion": 0
+                    }
+                ],
+                "nameNarration": "???",
+                "narration": "¿Qué es esto? Han salido con bastante prisa.",
+                "narrationEffect": "in"
+            },
+            {
+                "bgm": "bgm05_event08",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301300,
+                        "motion": 400
+                    }
+                ],
+                "narrationEffect": "out",
+                "textLeft": "¿¡Eh!? Quién... ¿¡Quién está ahí!?"
+            },
+            {
+                "narration": "Por aquí, chicas.",
+                "narrationEffect": "in"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301500,
+                        "motion": 300
+                    }
+                ],
+                "narrationEffect": "out",
+                "textCenter": "¿Aquí?"
+            },
+            {
+                "autoTurnLast": 0.3,
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301100,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "turnChangeIn": "rollIn"
+            },
+            {
+                "bgm": "stop",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301100
+                    }
+                ],
+                "nameCenter": "Kako",
+                "textCenter": "... ¿Hm?",
+                "turnChangeOut": "rollOut"
+            },
+            {
+                "autoTurnLast": 0.1,
+                "chara": [
+                    {
+                        "effect": "fadeout",
+                        "id": 301100
+                    }
+                ],
+                "textClear": 1
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301400,
+                        "motion": 100,
+                        "pos": 2
+                    },
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301100,
+                        "motion": 0,
+                        "pos": 0
+                    }
+                ],
+                "textRight": "Um, ¿Quién eres tú?"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "id": 301100,
+                        "lipSynch": 0
+                    }
+                ],
+                "nameLeft": "Kako",
+                "textLeft": "..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 1,
+                        "face": "mtn_ex_030.exp.json",
+                        "id": 301100,
+                        "motion": 400
+                    }
+                ],
+                "textLeft": "¡Ah, aah! ¡No, no!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": 1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301100
+                    }
+                ],
+                "textLeft": "¡Yo no! ¡Ella!"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_050.exp.json",
+                        "id": 301300,
+                        "motion": 0,
+                        "pos": 2
+                    }
+                ],
+                "nameRight": "Leila",
+                "textRight": "¿Ella?"
+            },
+            {
+                "autoTurnLast": 0.1,
+                "bgm": "bgm03_story13",
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 300500,
+                        "motion": 0,
+                        "pos": 1
+                    }
+                ],
+                "turnChangeIn": "rollIn"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_011.exp.json",
+                        "id": 300500,
+                        "motion": 100
+                    }
+                ],
+                "nameCenter": "Nanaka",
+                "textCenter": "Saludos.",
+                "turnChangeOut": "rollOut"
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_010.exp.json",
+                        "id": 300500
+                    }
+                ],
+                "textCenter": "Gracias, Kako. Soy yo..."
+            },
+            {
+                "chara": [
+                    {
+                        "cheek": -1,
+                        "face": "mtn_ex_011.exp.json",
+                        "id": 300500,
+                        "motion": 1
+                    }
+                ],
+                "textCenter": "¡Nanaka Tokiwa!"
+            },
+            {
+                "autoTurnLast": 2.0,
+                "turnChangeIn": "fadeIn"
+            }
+        ]
+    },
+    "version": 3
+}
