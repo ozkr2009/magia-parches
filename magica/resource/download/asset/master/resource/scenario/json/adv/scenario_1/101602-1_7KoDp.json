@@ -31,7 +31,7 @@
           }
         ],
         "nameNarration": "Madoka",
-        "narration": "\"¿Así que todavía no has podido darle los posavasos?\""
+        "narration": "\"¿Así que todavía no has podido darle los@portavasos?\""
       },
       {
         "chara": [
@@ -82,7 +82,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-3"
           }
         ],
-        "narration": "\"Estoy segura de que se alegrará cuando se las des.@Solo tienes que encontrar el momento adecuado.\""
+        "narration": "\"Estoy segura de que se alegrará cuando se@los des. Solo tienes que encontrar el@momento adecuado.\""
       },
       {
         "chara": [
@@ -114,7 +114,7 @@
           }
         ],
         "nameNarration": "Iroha",
-        "narration": "\"No te preocupes.@Gracias, Madoka.\""
+        "narration": "\"No te preocupes.@Gracias, Madoka-chan.\""
       },
       {
         "chara": [
@@ -139,7 +139,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-7"
           }
         ],
-        "narration": "\"De todas formas, ya tengo suficientes cosas en mente@como para preocuparme ahora mismo...\""
+        "narration": "\"De todas formas, ya tengo suficientes@cosas en mente como para preocuparme ahora@mismo...\""
       },
       {
         "chara": [
@@ -177,7 +177,7 @@
           }
         ],
         "nameNarration": "Iroha",
-        "narration": "\"¿Recuerdas a los tipas de Alas de Magius@con los que luchamos y que estaban con Ai-chan?\""
+        "narration": "\"¿Recuerdas a las tipas de Alas de Magius@con las que luchamos y que estaban con Ai-chan?\""
       },
       {
         "chara": [
@@ -190,7 +190,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-10"
           }
         ],
-        "narration": "\"Mañana voy a escuchar@lo que tienen que decir sobre este asunto de@liberar a las Chicas Mágicas.\""
+        "narration": "\"Mañana voy a escuchar lo que tienen que@decir sobre este asunto de@liberar a las Chicas Mágicas.\""
       },
       {
         "autoTurnLast": 0.01,
@@ -241,7 +241,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-12"
           }
         ],
-        "textLeft": "Así que Mifuyu te invitó a este [textRed:Museo de la Memoria]?"
+        "textLeft": "Así que Mifuyu te invitó a este [textRed:Museo de los Recuerdos]?"
       },
       {
         "chara": [
@@ -380,7 +380,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-22"
           }
         ],
-        "textRight": "¡Voy a ir BAM y podemos salir sin problema!"
+        "textRight": "¡Les voy a hacer BAM y podemos@salir sin problema!"
       },
       {
         "chara": [
@@ -393,7 +393,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-23"
           }
         ],
-        "textLeft": "¡Además, Tsuruno Yui, la Chica Mágica más Poderosa, estará a tu lado!"
+        "textLeft": "¡Además, Tsuruno Yui, la Chica Mágica@Más Poderosa, estará a tu lado!"
       },
       {
         "chara": [
@@ -481,7 +481,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-29"
           }
         ],
-        "textRight": "¿Has oído hablar del [textRed:Museo de la Memoria]?"
+        "textRight": "¿Has oído hablar del [textRed:Museo de los Recuerdos]?"
       },
       {
         "chara": [
@@ -506,7 +506,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-31"
           }
         ],
-        "textLeft": "Tampoco recuerdo haber escrito nada al respecto en@los Archivos de Rumores de Kamihama..."
+        "textLeft": "Tampoco recuerdo haber escrito nada al@respecto en el Archivo de Rumores de Kamihama..."
       },
       {
         "chara": [
@@ -558,7 +558,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-35"
           }
         ],
-        "textLeft": "A partir de hoy saldré más temprano, así que@no podremos ir juntas."
+        "textLeft": "A partir de hoy me estaré yendo más temprano,@así que no podremos ir juntas."
       },
       {
         "chara": [
@@ -570,7 +570,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-36"
           }
         ],
-        "textLeft": "Además, tengo una sesión de fotos que no terminará@hasta la noche. Cenen sin mí."
+        "textLeft": "Además, tengo una sesión de fotos que no@terminará hasta la noche. Cenen sin mí."
       },
       {
         "chara": [
@@ -824,7 +824,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-54"
           }
         ],
-        "textLeft": "Sabes cómo es eso, ¿Verdad, Iroha?"
+        "textLeft": "Sabes cómo es eso, ¿verdad, Iroha-chan?"
       },
       {
         "chara": [
@@ -849,7 +849,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-56"
           }
         ],
-        "textRight": "¿Y tú, Tsuruno?"
+        "textRight": "¿Y tú, Tsuruno-chan?"
       },
       {
         "chara": [
@@ -891,7 +891,7 @@
           }
         ],
         "nameLeft": "Sana",
-        "textLeft": "I-iroha... ¿De verdad vas a ir?"
+        "textLeft": "I-Iroha... ¿De verdad vas a ir?"
       },
       {
         "chara": [
@@ -903,7 +903,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-60"
           }
         ],
-        "textLeft": "Las alas de Magius... Sabes que@Alina es una de ellas, ¿Verdad?"
+        "textLeft": "Las Alas de Magius... sabes que@Alina es una de ellas, ¿verdad?"
       },
       {
         "chara": [
@@ -916,7 +916,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-61"
           }
         ],
-        "textLeft": "Protegen a las brujas y nos hacen pasar@por tantas cosas terribles..."
+        "textLeft": "Protegen a las Brujas y nos hacen pasar@por tantas cosas terribles..."
       },
       {
         "chara": [
@@ -942,7 +942,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-63"
           }
         ],
-        "textLeft": "¿Es así?..."
+        "textLeft": "Ya veo..."
       },
       {
         "chara": [
@@ -982,7 +982,7 @@
           }
         ],
         "nameRight": "Felicia",
-        "textRight": "Será mejor que empecemos a investigar,@Iroha, ¡No tenemos tanto tiempo!"
+        "textRight": "Será mejor que empecemos a investigar,@Iroha, ¡no tenemos tanto tiempo!"
       },
       {
         "autoTurnLast": 0.5,
@@ -1020,7 +1020,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-1-68"
           }
         ],
-        "textLeft": "El hecho de que Yachiyo ya se haya ido@no significa que faltaras a clase."
+        "textLeft": "El hecho de que Yachiyo ya se haya ido@no significa que faltarás a clase."
       },
       {
         "chara": [

@@ -107,7 +107,7 @@
           }
         ],
         "nameCenter": "Mifuyu",
-        "textCenter": "Por favor, ve la verdad por ti misma.@"
+        "textCenter": "Por favor, ve la verdad por ti misma."
       },
       {
         "chara": [
@@ -163,7 +163,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-1-6"
           }
         ],
-        "textLeft": "¡¿Yachiyo?!"
+        "textLeft": "¡¿Yachan?!"
       },
       {
         "chara": [
@@ -225,7 +225,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-1-11"
           }
         ],
-        "textLeft": "En aquel entonces...?"
+        "textLeft": "en aquel entonces...?"
       },
       {
         "chara": [
@@ -560,7 +560,7 @@
       {
         "bg": "black",
         "nameNarration": "Touka",
-        "narration": "Había una vez tres chicas mágicas.@A, B y C. Eran buenas amigas.@Cazaban brujas juntas.",
+        "narration": "Había una vez tres chicas mágicas.@A, B y C. Eran buenas amigas.@Cazaban Brujas juntas.",
         "narrationAnchor": "bottom",
         "narrationBg": "narration",
         "narrationCoverOpacity": 110.0,
@@ -614,7 +614,7 @@
         ],
         "nameLeft": "Iroha",
         "nameRight": "Mifuyu",
-        "textLeft": "*Tragar*",
+        "textLeft": "*Jadea*",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -627,7 +627,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-1-35"
           }
         ],
-        "textRight": "Buenos días, Iroha."
+        "textRight": "Buenos días, Iroha-san."
       },
       {
         "chara": [
@@ -653,7 +653,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-1-37"
           }
         ],
-        "textRight": "Te has vuelto a quedar dormida. *Risas*@Todo el mundo está esperando abajo, ya sabes."
+        "textRight": "Te volviste a quedar dormida. *Risas*@Todo el mundo está esperando abajo, ya sabes."
       },
       {
         "chara": [
@@ -699,7 +699,7 @@
         ],
         "nameLeft": "Yachiyo",
         "nameRight": "Mifuyu",
-        "textRight": "De todas formas, ¿qué vamos a hacer con@esa bruja que se escapó?",
+        "textRight": "De todas formas, ¿qué vamos a hacer con@esa Bruja que se escapó?",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -713,7 +713,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-1-40"
           }
         ],
-        "textLeft": "Todavía puedo sentir su magia cerca, así que me@gustaría ocuparme de ella tan pronto como podamos."
+        "textLeft": "Todavía puedo sentir su magia cerca, así que@me gustaría ocuparme de ella tan pronto@como podamos."
       },
       {
         "chara": [
@@ -845,7 +845,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-1-50"
           }
         ],
-        "textRight": "Bien, entonces sobre la caza de brujas. ¿Podemos@reunirnos después de la escuela y buscar pistas?"
+        "textRight": "Bien, entonces sobre la caza de Brujas.@¿Podemos reunirnos después de la escuela@y buscar pistas?"
       },
       {
         "chara": [
@@ -858,7 +858,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-1-51"
           }
         ],
-        "textRight": "Probablemente no sea seguro intentar hacerlo@sola."
+        "textRight": "Probablemente no sea seguro intentar@hacerlo sola."
       },
       {
         "chara": [
@@ -873,7 +873,7 @@
           }
         ],
         "nameLeft": "Yachiyo",
-        "textLeft": "Sí, estoy de acuerdo con Iroha.@Hagámoslo así."
+        "textLeft": "Sí, estoy de acuerdo con Tamaki-san.@Hagámoslo así."
       },
       {
         "chara": [

@@ -171,7 +171,7 @@
           }
         ],
         "nameRight": "Mifuyu",
-        "textRight": "Iroha..."
+        "textRight": "Iroha-san..."
       },
       {
         "chara": [
@@ -210,7 +210,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-10"
           }
         ],
-        "textLeft": "¿Quieres... qué?"
+        "textLeft": "¿Consideraría... qué?"
       },
       {
         "chara": [
@@ -223,7 +223,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-11"
           }
         ],
-        "textRight": "Perdóname. Ha sido una pregunta un@poco repentina, ¿No?"
+        "textRight": "Perdóname. Ha sido una pregunta un@poco repentina, ¿no?"
       },
       {
         "chara": [
@@ -235,7 +235,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-12"
           }
         ],
-        "textRight": "Hoy he venido aquí para escuchar cuál@sería sus respuestas."
+        "textRight": "Hoy he venido aquí para escuchar cuál@sería tu respuesta."
       },
       {
         "chara": [
@@ -248,7 +248,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-13"
           }
         ],
-        "textRight": "Aunque admito que esperaba poder@preguntar a todas a la vez."
+        "textRight": "Aunque admito que esperaba poder@preguntarle a todas a la vez."
       },
       {
         "chara": [
@@ -273,7 +273,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-15"
           }
         ],
-        "textLeft": "Pero... ¿Por qué de repente?"
+        "textLeft": "Pero... ¿por qué tan de repente?"
       },
       {
         "chara": [
@@ -299,7 +299,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-17"
           }
         ],
-        "textLeft": "¿Cómo es eso?"
+        "textLeft": "¿A qué te refieres?"
       },
       {
         "chara": [
@@ -324,7 +324,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-19"
           }
         ],
-        "textRight": "Si te convirtieras en una de las Alas de@Magius..."
+        "textRight": "Si te convirtieras en una de las Alas de Magius..."
       },
       {
         "chara": [
@@ -464,7 +464,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-30"
           }
         ],
-        "textLeft": "No puedo tratar a las Brujas y los Uwasa@como si fueran dignos de protección."
+        "textLeft": "No puedo tratar a las Brujas y las Uwasa@como si fueran dignas de protección."
       },
       {
         "chara": [
@@ -476,7 +476,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-31"
           }
         ],
-        "textLeft": "Y nunca podría usar a alguien como Alina@usó a Sana."
+        "textLeft": "Y nunca podría usar a alguien como Alina-san@usó a Sana-chan."
       },
       {
         "chara": [
@@ -526,7 +526,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-35"
           }
         ],
-        "textRight": "Lamento pedirle algo tan@irrazonable para ti."
+        "textRight": "Lamento pedirte algo tan@irracional para ti."
       },
       {
         "chara": [
@@ -613,7 +613,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-42"
           }
         ],
-        "textLeft": "Una... conferencia... Eso es repentino como@la pregunta que me acabas de hacer..."
+        "textLeft": "Una... conferencia... Eso es tan repentino como@la pregunta que me acabas de hacer..."
       },
       {
         "chara": [
@@ -650,7 +650,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-45"
           }
         ],
-        "textRight": "Tienes que entender de qué es lo que queremos@liberarles."
+        "textRight": "Tienes que entender de qué es lo que queremos@liberarlas."
       },
       {
         "chara": [
@@ -714,7 +714,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-50"
           }
         ],
-        "textRight": "Antes de que decidas seguir luchando,@¿Podrías escuchar lo que tenemos que decir?"
+        "textRight": "Antes de que decidas seguir luchando,@¿podrías escuchar lo que tenemos que decir?"
       },
       {
         "chara": [
@@ -879,7 +879,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-63"
           }
         ],
-        "textLeft": "¿Dónde y cuándo se celebrará?@"
+        "textLeft": "¿Dónde y cuándo se celebrará?"
       },
       {
         "chara": [
@@ -892,7 +892,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-64"
           }
         ],
-        "textRight": "¿Qué tal pasado mañana? Al mediodía,@En el [textRed:Museo de la Memoria]?"
+        "textRight": "¿Qué tal pasado mañana? Al mediodía,@En el [textRed:Museo de los Recuerdos]?"
       },
       {
         "chara": [
@@ -905,7 +905,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-6-65"
           }
         ],
-        "textLeft": "¿[textRed:Museo de la Memoria]?"
+        "textLeft": "¿[textRed:Museo de los Recuerdos]?"
       },
       {
         "chara": [

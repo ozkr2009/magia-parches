@@ -49,7 +49,7 @@
         ],
         "nameLeft": "Mifuyu",
         "nameRight": "Alina",
-        "textRight": "Ya veo..."
+        "textRight": "I see..."
       },
       {
         "chara": [
@@ -72,7 +72,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-4"
           }
         ],
-        "textRight": "No tienen la intención de luchar contra mí, Alina,@or my friends?"
+        "textRight": "No tienen la intención de luchar contra mí,@Alina, o las demás?"
       },
       {
         "chara": [
@@ -97,7 +97,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-6"
           }
         ],
-        "textLeft": "Pensaron que podrían encontrar a su hermana@o a mí a través del Uwasa..."
+        "textLeft": "Pensaron que podrían encontrar a su hermana@o a mí a través de la Uwasa..."
       },
       {
         "chara": [
@@ -109,7 +109,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-7"
           }
         ],
-        "textLeft": "Por eso acabaron luchando con las@Alas de los Magius."
+        "textLeft": "Por eso acabaron luchando con las@Alas de Magius."
       },
       {
         "chara": [
@@ -122,7 +122,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-8"
           }
         ],
-        "textLeft": "Solo desconfían de nosotras después de haber@conocido nuestro objetivo..."
+        "textLeft": "Solo desconfían de nosotras después de haberse@enterado de nuestro objetivo..."
       },
       {
         "chara": [
@@ -197,7 +197,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-14"
           }
         ],
-        "textRight": "Ahora entiendo por qué quiere dar esa@\"[textRed:conferencia]\" para ellas, too."
+        "textRight": "Ahora entiendo por qué quiere dar esa@\"[textRed:conferencia]\" para ellas."
       },
       {
         "chara": [
@@ -258,7 +258,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-19"
           }
         ],
-        "textRight": "Los Magius han llegado a un consenso sobre@ese punto."
+        "textRight": "Las Magius han llegado a un consenso sobre@ese asunto."
       },
       {
         "chara": [
@@ -307,7 +307,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-23"
           }
         ],
-        "textRight": "Los demás miembros del grupo pueden cambiar@de opinión cuando sepan la verdad."
+        "textRight": "Las demás miembros del grupo podrían@cambiar de opinión cuando sepan la verdad."
       },
       {
         "chara": [
@@ -319,7 +319,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-24"
           }
         ],
-        "textRight": "Pero ella ya lo sabe todo, y sigue luchando@contra nosotras, ¿No?"
+        "textRight": "Pero ella ya lo sabe todo, y sigue luchando@contra nosotras, ¿no?"
       },
       {
         "chara": [
@@ -332,7 +332,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-25"
           }
         ],
-        "textLeft": "Ya he pensado en una forma de manejarla."
+        "textLeft": "Ya pensé en una forma de encargarme de ella."
       },
       {
         "chara": [
@@ -388,11 +388,11 @@
         "turnChangeOut": "whiteOut"
       },
       {
-        "narration": "Nos encontramos con las Alas de Magius@mientras buscábamos a Ui y Mifuyu.",
+        "narration": "Nos encontramos con las Alas de Magius@mientras buscábamos a Ui y Mifuyu-san.",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-1-29"
       },
       {
-        "narration": "Son un grupo que pretende liberar a las chicas@mágicas, protegiendo a los peligrosos Uwasa y@a las brujas que lanzan maldiciones.",
+        "narration": "Son un grupo que pretende liberar a las chicas@mágicas, protegiendo a las peligrosas Uwasa y@a las Brujas que lanzan maldiciones.",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-1-30",
         "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-29"
       },
@@ -471,7 +471,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-36"
           }
         ],
-        "textCenter": "Dentro del laberinto de Ai."
+        "textCenter": "Dentro del laberinto de Ai-chan."
       },
       {
         "chara": [
@@ -501,7 +501,7 @@
           }
         ],
         "nameCenter": "Ai",
-        "textCenter": ">｜SI T3 Ref13Res 4 Un UWas4｜@>｜3NT0Nc3S Si1 CON0Zc0 4a U1 TAMAK1...｜",
+        "textCenter": ">｜SI T3 Ref13Res 4 Un4 UWas4｜@>｜3NT0Nc3S Si1 CON0Zc0 4a U1 TAMAK1...｜",
         "turnChangeOut": "fadeOut",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-1-39"
       },
@@ -538,7 +538,7 @@
         ],
         "nameLeft": "Mifuyu",
         "nameRight": "Yachiyo",
-        "textRight": "Así que realmente no tienes intención de volver@ a nosotros.",
+        "textRight": "Así que realmente no tienes intención de@volver con nosotras.",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -564,7 +564,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-41"
           }
         ],
-        "textLeft": "Sigo creyendo en el potencial de esas chicas."
+        "textLeft": "Sigo creyendo en el potencial de esas@chicas."
       },
       {
         "autoTurnLast": 0.01,
@@ -579,11 +579,11 @@
       },
       {
         "nameNarration": "Iroha",
-        "narration": "Nemu...@Ui...@Mifuyu...",
+        "narration": "Nemu-chan...@Ui...@Mifuyu-san...",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-1-43"
       },
       {
-        "narration": "Todo conduce a las Alas del Magius,@así que no creo que pueda evitarlas...",
+        "narration": "Todo conduce a las Alas de Magius,@así que no creo que pueda evitarlas...",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-1-44",
         "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-43"
       },
@@ -663,7 +663,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-1-47"
           }
         ],
-        "textLeft": "Tienes razón. Es más que probable que nos@encontremos de nuevo con Alina si las perseguimos."
+        "textLeft": "Es verdad. Es más probable que nos volvamos@a encontrar con Alina si las perseguimos."
       },
       {
         "chara": [
@@ -694,7 +694,7 @@
           }
         ],
         "nameRight": "Sana",
-        "textRight": "Creo que... realmente tendrás que estar en@guardia cerca de ella."
+        "textRight": "Creo que... realmente tendrás que estar@en guardia cerca de ella."
       },
       {
         "chara": [
@@ -773,7 +773,7 @@
           }
         ],
         "nameRight": "Iroha",
-        "textRight": "No estoy segura de eso, Yachiyo..."
+        "textRight": "No estoy segura de eso, Yachiyo-san..."
       },
       {
         "chara": [

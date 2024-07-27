@@ -48,7 +48,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-11-1"
           }
         ],
-        "textRight": "Tío, este lugar es un vertedero."
+        "textRight": "Joder, este lugar es un vertedero."
       },
       {
         "chara": [
@@ -104,7 +104,7 @@
           }
         ],
         "nameLeft": "Tsuruno",
-        "textLeft": "Parece que lo han dejado como estaba@en lugar de derribarlo."
+        "textLeft": "Parece que lo dejaron como estaba@en lugar de derribarlo."
       },
       {
         "chara": [
@@ -145,7 +145,7 @@
             "voiceFull": "fullvoice/section_101602/vo_full_101602-11-8"
           }
         ],
-        "textRight": "¡Ah! ¡Lo es!"
+        "textRight": "¡Ah! ¡Sí es!"
       },
       {
         "chara": [
@@ -188,7 +188,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-11-10"
           }
         ],
-        "textRight": "¡Debe ser un Uwasa!"
+        "textRight": "¡Debe ser una Uwasa!"
       },
       {
         "chara": [
@@ -200,7 +200,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-11-11"
           }
         ],
-        "textLeft": "Aun así, no siento a Mifuyu por ningún lado."
+        "textLeft": "Aun así, no siento a Mifuyu-san@por ningún lado."
       },
       {
         "autoTurnLast": 0.5,
@@ -369,7 +369,7 @@
           }
         ],
         "nameRight": "Felicia",
-        "textRight": "¡Tampoco es la de esos locas de la flauta!"
+        "textRight": "¡Tampoco es la de esas locas de la flauta!"
       },
       {
         "chara": [
@@ -384,7 +384,7 @@
           }
         ],
         "nameLeft": "Iroha",
-        "textLeft": "Entonces, ¿quién está dando la conferencia?"
+        "textLeft": "Entonces, ¿quién dará la conferencia?"
       },
       {
         "chara": [
@@ -489,7 +489,7 @@
         "voiceFull": "fullvoice/section_101602/vo_full_101602-11-27"
       },
       {
-        "narration": "―???―@Bueno, supongo que eso significa que vale la pena@celebrar esta conferencia después de todo.",
+        "narration": "―???―@*Risilla*Bueno, supongo que eso significa que vale la pena@celebrar esta conferencia después de todo.",
         "voiceFull": "fullvoice/section_101602/vo_full_101602-11-28",
         "voiceFullStop": "fullvoice/section_101602/vo_full_101602-11-27"
       },
@@ -555,7 +555,7 @@
           }
         ],
         "nameCenter": "Touka",
-        "textCenter": "Así que el hecho de que estemos todos aquí@discutiendo esto...",
+        "textCenter": "Así que el hecho de que estemos todas aquí@discutiendo esto...",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -569,7 +569,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-11-30"
           }
         ],
-        "textCenter": "Eso en sí mismo es una hazaña astronómica@de probabilidad, ¿no crees?"
+        "textCenter": "Eso en sí mismo es una hazaña de probabilidades@astronómicas, ¿no crees?"
       },
       {
         "autoTurnLast": 0.01,
@@ -597,7 +597,7 @@
           }
         ],
         "nameCenter": "Iroha",
-        "textCenter": "Touka...",
+        "textCenter": "Touka-chan...",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -753,7 +753,7 @@
         "turnChangeOut": "fadeOut"
       },
       {
-        "narration": "Lo siento mucho, Iroha...",
+        "narration": "Lo siento mucho, Tamaki-san...",
         "voiceFull": "fullvoice/section_101602/vo_full_101602-11-40"
       },
       {

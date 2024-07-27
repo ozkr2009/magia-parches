@@ -33,7 +33,7 @@
         ],
         "nameLeft": "Iroha",
         "nameRight": "Sana",
-        "textLeft": "¿Ya es tan tarde? Tengo que empezar a@hacer la cena pronto...",
+        "textLeft": "¿Ya es tan tarde? Tengo que empezar@a hacer la cena pronto...",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -47,7 +47,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-1"
           }
         ],
-        "textRight": "Ah, Iroha... Yo también ayudaré..."
+        "textRight": "Ah, Iroha-san... Yo te ayudo también..."
       },
       {
         "chara": [
@@ -72,12 +72,12 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-3"
           }
         ],
-        "textLeft": "Gracias, Sana."
+        "textLeft": "Gracias, Sana-chan."
       },
       {
         "bgEffect": "shakeSmall",
         "nameNarration": "",
-        "narration": "*SMASH* ",
+        "narration": "*SMASH*",
         "narrationBg": "narration",
         "narrationEffect": "in",
         "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-4"
@@ -117,7 +117,7 @@
         "bgEffect": "shakeSmall",
         "nameCenter": "Felicia",
         "textBg": "shout",
-        "textCenter": "¡Oh, cállate! ¡No lo hice a propósito!",
+        "textCenter": "¡Ay, cállate! ¡No lo hice a propósito!",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-2-9",
         "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-8"
       },
@@ -184,7 +184,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-12"
           }
         ],
-        "textLeft": "¡Abra la puerta con SUAVIDAD,@por favor!"
+        "textLeft": "¡Abran la puerta SILENCIOSAMENTE,@por favor!"
       },
       {
         "chara": [
@@ -210,7 +210,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-14"
           }
         ],
-        "textLeft": "¿A qué se debe todo este alboroto?@ "
+        "textLeft": "¿A qué se debe todo este alboroto?"
       },
       {
         "chara": [
@@ -235,7 +235,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-16"
           }
         ],
-        "textRight": "Hemos traído un montón de verduras de@Banbanzai."
+        "textRight": "Trajimos un montón de verduras de@Banbanzai."
       },
       {
         "chara": [
@@ -278,7 +278,7 @@
           }
         ],
         "enableSkipAutoTurn": 1,
-        "textLeft": "[chara:100101:effect_emotion_surprise_0][se:7226_shock]¡¿Qué?! Iba a usar esos esta noche..."
+        "textLeft": "[chara:100101:effect_emotion_surprise_0][se:7226_shock]¡¿Qué?! Iba a usar esos para la cena de hoy..."
       },
       {
         "chara": [
@@ -303,7 +303,7 @@
         ],
         "enableSkipAutoTurn": 0,
         "nameLeft": "Felicia",
-        "textLeft": "¿Qué esperabas que hiciera?@¡Había una bruja!"
+        "textLeft": "¿Qué esperabas que hiciera?@¡Había una Bruja!"
       },
       {
         "chara": [
@@ -316,7 +316,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-21"
           }
         ],
-        "textRight": "Por eso te dije que los pusieras en algún sitio@obvio antes de que te lanzaras a pelear."
+        "textRight": "Por eso te dije que los pusieras en algún@sitio antes de que te lanzaras a pelear."
       },
       {
         "chara": [
@@ -329,7 +329,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-22"
           }
         ],
-        "textRight": "Cómo se supone que ibamos a saber dónde estaban@si las tiraste por todos lados."
+        "textRight": "¿Cómo se supone que íbamos a saber dónde estaban@si las tiraste por todos lados?"
       },
       {
         "autoTurnFirst": 2.3,
@@ -344,7 +344,7 @@
           }
         ],
         "enableSkipAutoTurn": 1,
-        "textLeft": "Sí, Pero... Pero... había una BRUJA, así que@no podía NO cazarla, ¿verdad?"
+        "textLeft": "Sí, Pero... Pero... había una BRUJA, así@que no podía NO cazarla, ¿verdad?"
       },
       {
         "chara": [
@@ -437,7 +437,7 @@
           }
         ],
         "nameRight": "Tsuruno",
-        "textRight": "No es que solo lo haya hecho una o dos veces."
+        "textRight": "No es que solo lo haya hecho una o@dos veces."
       },
       {
         "chara": [
@@ -498,7 +498,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-32"
           }
         ],
-        "textRight": "Esto... Todas... Por favor,@¡Piensen en los vecinos!"
+        "textRight": "Eh... Todas... Por favor,@¡Piensen en los vecinos!"
       },
       {
         "chara": [
@@ -511,7 +511,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-33"
           }
         ],
-        "textLeft": "Sana tiene razón."
+        "textLeft": "Futaba-san tiene razón."
       },
       {
         "chara": [
@@ -547,7 +547,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-35"
           }
         ],
-        "textRight": "Bien. Lo que sea... Puedes estudiar por tu@cuenta esta noche, entonces..."
+        "textRight": "Bien. Como sea... Puedes estudiar por tu@cuenta esta noche, entonces..."
       },
       {
         "chara": [
@@ -560,7 +560,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-2-36"
           }
         ],
-        "textLeft": "¡Como si me importara! ¡Iroha me va a ayudar a estudiar!"
+        "textLeft": "¡Como si me importara!@¡Iroha me va a ayudar a estudiar!"
       },
       {
         "chara": [

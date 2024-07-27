@@ -43,7 +43,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-9-1"
           }
         ],
-        "textLeft": "Yachiyo, ¿Estás bien?"
+        "textLeft": "Yachiyo-san, ¿Estás bien?"
       },
       {
         "chara": [
@@ -151,7 +151,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-9-9"
           }
         ],
-        "textRight": "Gracias, Iroha."
+        "textRight": "Gracias, Tamaki-san."
       },
       {
         "autoTurnLast": 1.0,
@@ -217,7 +217,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-9-13"
           }
         ],
-        "textRight": "¡Nos olvidamos de darle los posavasos!"
+        "textRight": "¡Nos olvidamos de darle los portavasos!"
       },
       {
         "chara": [
@@ -232,7 +232,7 @@
           }
         ],
         "nameLeft": "Sana",
-        "textLeft": "Ah, sí, pero... Creo que deberíamos dejarlo@para otra ocasión."
+        "textLeft": "Ah, sí, pero... creo que deberíamos dejarlo@para otra ocasión."
       },
       {
         "chara": [
@@ -286,7 +286,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-9-18"
           }
         ],
-        "textLeft": "Yachiyo compró muchas croquetas de carne@para nosotras."
+        "textLeft": "Yachiyo-san compró muchas croquetas de@carne para nosotras."
       },
       {
         "chara": [
@@ -379,11 +379,11 @@
       },
       {
         "nameNarration": "Iroha",
-        "narration": "Hay muchas cosas sobre esta casa,@sobre Yachiyo, que aún no conozco.@Como esas tazas escondidas.",
+        "narration": "Hay muchas cosas sobre esta casa,@sobre Yachiyo-san, que aún no conozco.@Como esas tazas escondidas.",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-9-26"
       },
       {
-        "narration": "Ella dijo que Mifuyu solo trató de@convencerla de unirse, pero me pregunto...@¿Es todo lo que realmente le dijo?",
+        "narration": "Ella dijo que Mifuyu-san solo trató de@convencerla de unirse, pero me pregunto...@¿Es realmente todo lo que le dijo?",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-9-27",
         "voiceFullStop": "fullvoice/section_101601/vo_full_101601-9-26"
       },
@@ -411,7 +411,7 @@
         "voiceFull": "fullvoice/section_101601/vo_full_101601-9-28"
       },
       {
-        "narration": "Yachiyo-senpai...",
+        "narration": "Nanami-senpai...",
         "voiceFull": "fullvoice/section_101601/vo_full_101601-9-29",
         "voiceFullStop": "fullvoice/section_101601/vo_full_101601-9-28"
       },
@@ -455,7 +455,7 @@
         ],
         "nameCenter": "Yachiyo",
         "narrationEffect": "out",
-        "textCenter": "*Jadear*...*Agitarse* *Agitarse*..."
+        "textCenter": "*Jadear*... *Agitarse* *Agitarse*..."
       },
       {
         "chara": [
@@ -505,7 +505,7 @@
             "voiceFullStop": "fullvoice/section_101601/vo_full_101601-9-34"
           }
         ],
-        "textCenter": "*suspirar*",
+        "textCenter": "*Suspirar*",
         "turnEffect": "stop"
       },
       {

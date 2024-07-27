@@ -107,7 +107,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-7",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-6"
             }],
-            "textLeft": "Me puse a llorar hablando de lo que nos pasó a@nosotras..."
+            "textLeft": "Me puse a llorar hablando de lo que nos pasó@a nosotras..."
         },
         {
             "chara": [
@@ -145,7 +145,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-10",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-9"
             }],
-            "textLeft": "¿Entonces qué vas a hacer ahora?"
+            "textLeft": "¿Entonces qué van a hacer ahora?"
         },
         {
             "chara": [
@@ -159,7 +159,7 @@
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-10"
             }],
             "nameRight": "Iroha",
-            "textRight": "Yachiyo y yo estamos pensando en eso ahora."
+            "textRight": "Yachiyo-san y yo estamos pensando en eso ahora."
         },
         {
             "chara": [
@@ -252,7 +252,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-19",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-18"
             }],
-            "textLeft": "Tendremos que prepararnos para una larga batalla@si vamos contra esas."
+            "textLeft": "Tendremos que prepararnos para una larga@batalla si vamos contra esas."
         },
         {
             "chara": [
@@ -325,7 +325,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-25",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-24"
             }],
-            "textLeft": "Lo que estoy diciendo es que@las voy a ayudar."
+            "textLeft": "Lo que estoy diciendo es que@les voy a ayudar."
         },
         {
             "chara": [
@@ -385,7 +385,7 @@
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-29"
             }],
             "nameRight": "Iroha",
-            "textRight": "Gracias, Momoko."
+            "textRight": "Gracias, Momoko-san."
         },
         {
             "chara": [
@@ -528,7 +528,7 @@
                 "motion": 200,
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-41"
             }],
-            "textLeft": "Ah, me llegó un mensaje de Madoka..."
+            "textLeft": "Ah, me llegó un mensaje de Madoka-chan..."
         },
         {
             "autoTurnLast": 0.01,
@@ -553,7 +553,7 @@
                 "pos": 1,
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-42"
             }],
-            "narration": "\"¡Perdona por contactarte tan tarde!@Escuché todo de Sayaka@Y tenía que hacer algo.\""
+            "narration": "\"¡Perdona por contactarte tan tarde!@Escuché todo de Sayaka-chan@Y tenía que hacer algo.\""
         },
         {
             "chara": [
@@ -600,7 +600,7 @@
             }],
             "nameLeft": "Iroha",
             "nameRight": "Yachiyo",
-            "textLeft": "Yachiyo...",
+            "textLeft": "Yachiyo-san...",
             "turnChangeOut": "fadeOut"
         },
         {
@@ -623,7 +623,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-46",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-45"
             }],
-            "textLeft": "Tenemos a Momoko..."
+            "textLeft": "Tenemos a Momoko-san..."
         },
         {
             "chara": [
@@ -634,7 +634,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-47",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-46"
             }],
-            "textLeft": "Y a Rena y Kaede..."
+            "textLeft": "Y a Rena-chan y Kaede-chan..."
         },
         {
             "chara": [
@@ -645,7 +645,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-48",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-47"
             }],
-            "textLeft": "Hasta tenemos a Madoka y las demás."
+            "textLeft": "Hasta tenemos a Madoka-chan y las demás."
         },
         {
             "chara": [
@@ -669,7 +669,7 @@
                 "voiceFull": "fullvoice/section_101607/vo_full_101607-4-50",
                 "voiceFullStop": "fullvoice/section_101607/vo_full_101607-4-49"
             }],
-            "textLeft": "Sí... ¡Todavía tenemos mucha esperanza que@nos ayude a avanzar!"
+            "textLeft": "Sí... ¡Todavía tenemos mucha esperanza para@ayudarnos a avanzar!"
         },
         {
             "autoTurnLast": 0.01,

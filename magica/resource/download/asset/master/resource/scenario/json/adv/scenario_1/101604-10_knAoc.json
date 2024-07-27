@@ -17,7 +17,7 @@
         "voiceFull": "fullvoice/section_101604/vo_full_101604-10-1"
       },
       {
-        "narration": "La bruja escapó, poniendo fin@a la lucha, pero F estaba en mal estado.@Peor aún, no tenían Grief Seeds.",
+        "narration": "La Bruja escapó, poniendo fin@a la lucha, pero F estaba en mal estado.@Peor aún, no tenían Grief Seeds.",
         "voiceFull": "fullvoice/section_101604/vo_full_101604-10-2",
         "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-1"
       },
@@ -77,7 +77,7 @@
         ],
         "nameLeft": "Mifuyu",
         "nameRight": "Mel",
-        "textLeft": "Mel...",
+        "textLeft": "Mel-san...",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -105,7 +105,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-5"
           }
         ],
-        "textRight": "Lo siento mucho... Yachiyo... senp..."
+        "textRight": "Lo siento mucho... Nanami... senp..."
       },
       {
         "chara": [
@@ -173,7 +173,7 @@
           }
         ],
         "nameLeft": "Momoko",
-        "textLeft": "Y no derrotamos a la bruja, así que no@conseguimos su Grief Seed..."
+        "textLeft": "Y no derrotamos a la Bruja, así que no@conseguimos su Grief Seed..."
       },
       {
         "chara": [
@@ -201,7 +201,7 @@
           }
         ],
         "nameLeft": "Yachiyo",
-        "textLeft": "No, esto fue mi culpa.@Esto es porque me resbalé..."
+        "textLeft": "No, esto fue mi culpa.@Esto es porque me equivoqué..."
       },
       {
         "chara": [
@@ -226,7 +226,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-14"
           }
         ],
-        "textLeft": "¡Tenemos que ir a cazar otra bruja! ¡Todavía hay tiempo!"
+        "textLeft": "¡Tenemos que ir a cazar otra Bruja! ¡Todavía hay tiempo!"
       },
       {
         "chara": [
@@ -379,7 +379,7 @@
         ],
         "nameLeft": "Mifuyu",
         "textBg": "shout",
-        "textLeft": "¡¡¡Mel!!!"
+        "textLeft": "¡¡¡Mel-san!!!"
       },
       {
         "chara": [
@@ -450,7 +450,7 @@
         ],
         "nameLeft": "Momoko",
         "nameRight": "Iroha",
-        "textLeft": "¿Qué... en el mundo?",
+        "textLeft": "¿Qué... carajos?",
         "turnChangeOut": "whiteOut"
       },
       {
@@ -493,7 +493,7 @@
           }
         ],
         "nameLeft": "Mifuyu",
-        "textLeft": "Una bruja salió de ella..."
+        "textLeft": "Una Bruja salió de ella..."
       },
       {
         "chara": [
@@ -506,7 +506,7 @@
             "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-32"
           }
         ],
-        "textRight": "¡Mifuyu!"
+        "textRight": "¡Mifuyu-san!"
       },
       {
         "chara": [
@@ -676,7 +676,7 @@
         ],
         "nameLeft": "Mifuyu",
         "textBg": "shout",
-        "textLeft": "¡No digas eso, Momoko!"
+        "textLeft": "¡No digas eso, Momoko-san!"
       },
       {
         "chara": [
@@ -722,7 +722,7 @@
           }
         ],
         "nameNarration": "",
-        "narration": "*Slap*",
+        "narration": "*Cachetada*",
         "narrationEffect": "in",
         "voiceFullStop": "fullvoice/section_101604/vo_full_101604-10-45"
       },
@@ -790,7 +790,7 @@
           }
         ],
         "nameRight": "Iroha",
-        "textRight": "Pero Yachiyo... Tarde o temprano,@¿no vamos a terminar como Mel?"
+        "textRight": "Pero Yachiyo-san... Tarde o temprano,@¿no vamos a terminar como Mel-chan?"
       },
       {
         "chara": [

@@ -12,7 +12,7 @@
         "turnChangeOut": "fadeOut"
       },
       {
-        "narration": "Tema 2: Brujas.",
+        "narration": "Artículo 2: Brujas.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-5-1"
       },
       {
@@ -23,7 +23,7 @@
       },
       {
         "bg": "black",
-        "narration": "Una vez que A y B aceptaron que sus@Soul Gems eran realmente sus propias almas,@formaron un equipo con otros amigos.",
+        "narration": "Una vez que A y B aceptaron que sus@Soul Gems eran realmente sus propias almas,@formaron un equipo con otras amigas.",
         "narrationAnchor": "bottom",
         "narrationBg": "narration",
         "narrationCoverOpacity": 110.0,
@@ -48,7 +48,7 @@
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-2"
       },
       {
-        "narration": "Siguieron luchando contra las brujas,@apoyándose mutuamente en todo lo que podían.",
+        "narration": "Siguieron luchando contra las Brujas,@apoyándose mutuamente en todo lo que podían.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-5-4",
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-3"
       },
@@ -72,12 +72,12 @@
             "visible": "appear"
           }
         ],
-        "narration": "D no pudo hacerlo, así que lucharon 4.",
+        "narration": "D no pudo atender, así que solo lucharon 4.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-5-6",
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-5"
       },
       {
-        "narration": "Planeaban vencer a la Bruja con su trabajo@en equipo habitual, pero era fuerte y había superado@muchos conflictos. Fue una batalla amarga.",
+        "narration": "Planeaban vencer a la Bruja con su trabajo en@equipo habitual, pero era fuerte y había superado@muchos conflictos. Fue una batalla amarga.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-5-7",
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-6"
       },
@@ -93,7 +93,7 @@
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-7"
       },
       {
-        "narration": "La bruja escapó, poniendo fin@a la lucha, pero F estaba en mal estado.@Peor aún, no tenían Grief Seeds.",
+        "narration": "La Bruja escapó, poniendo fin@a la lucha, pero F estaba en mal estado.@Peor aún, no tenían Grief Seeds.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-5-9",
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-8"
       },
@@ -232,7 +232,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-16"
           }
         ],
-        "textRight": "¿Nos vas a preguntar qué pasó con F, eh?"
+        "textRight": "Nos vas a preguntar qué pasó con F, ¿eh?"
       },
       {
         "chara": [
@@ -272,7 +272,7 @@
           }
         ],
         "enableSkipAutoTurn": 1,
-        "textRight": "¿En qué se convirtió?@¿Cómo demonios se supone que vamos a saber eso?"
+        "textRight": "¿En qué se convirtió? ¿Cómo demonios se@supone que vamos a saber eso?"
       },
       {
         "chara": [
@@ -413,7 +413,7 @@
           }
         ],
         "nameRight": "Iroha",
-        "textRight": "No... No hay manera..."
+        "textRight": "No... No puede ser..."
       },
       {
         "chara": [
@@ -574,7 +574,7 @@
         "enableSkipAutoTurn": 1,
         "nameLeft": "Touka",
         "nameRight": "Felicia",
-        "textRight": "Las chicas mágicas... ¿se convierten en brujas?@No hay forma de que eso sea cierto...",
+        "textRight": "Las Chicas Mágicas... ¿se convierten en Brujas?@No hay forma de que eso sea cierto...",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -611,7 +611,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-40"
           }
         ],
-        "textRight": "¡Eso también nos convertiría en brujas!"
+        "textRight": "¡Eso también nos convertiría en Brujas!"
       },
       {
         "chara": [
@@ -692,10 +692,10 @@
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-44"
       },
       {
-        "nameCenter": "El padre de Felicia",
+        "nameCenter": "Padre de Felicia",
         "nameLeft": "",
-        "nameRight": "La madre de Felicia",
-        "textLeft": "¡[flashEffect:flashWhite2]liжxヮ亦試緒㈹!",
+        "nameRight": "Madre de Felicia",
+        "textLeft": "[flashEffect:flashWhite2]¡liжxヮ亦試緒㈹!",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -998,7 +998,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-57"
           }
         ],
-        "textLeft": "Eso es cierto. Y, efectivamente, has matado a un@gran número de ellas."
+        "textLeft": "Eso es cierto. Y, efectivamente, has matado a@un gran número de ellas."
       },
       {
         "chara": [
@@ -1011,7 +1011,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-5-58"
           }
         ],
-        "textRight": "Y... ¿Yo también me voy a convertir en bruja?"
+        "textRight": "Y... ¿Yo también me voy a convertir en Bruja?"
       },
       {
         "chara": [
@@ -1086,7 +1086,7 @@
           }
         ],
         "nameRight": "Iroha",
-        "textRight": "A mí también me cuesta creerlo, Touka."
+        "textRight": "A mí también me cuesta creerlo, Touka-chan."
       },
       {
         "chara": [

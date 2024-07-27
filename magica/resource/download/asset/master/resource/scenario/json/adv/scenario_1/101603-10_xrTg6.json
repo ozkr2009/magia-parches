@@ -114,7 +114,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-6"
           }
         ],
-        "textRight": "Touka Satomi... ¿La que Iroha ha estado buscando?"
+        "textRight": "Touka Satomi...@¿La que Iroha ha estado buscando?"
       },
       {
         "chara": [
@@ -139,7 +139,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-8"
           }
         ],
-        "textRight": "Si eres uno de las Magius, entonces este debe@haber sido el lugar de la conferencia, ¡¿no?!"
+        "textRight": "Si eres una de las Magius, entonces este debe@haber sido el lugar de la conferencia, ¡¿no?!"
       },
       {
         "chara": [
@@ -330,7 +330,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-22"
           }
         ],
-        "textRight": "No me importa el truco que estés intentando@jugar..."
+        "textRight": "No me importa el truco que estés@intentando jugar..."
       },
       {
         "chara": [
@@ -464,7 +464,7 @@
         ],
         "nameLeft": "Kaede",
         "nameRight": "Rena",
-        "textLeft": "Momoko, ¿A dónde vamos?",
+        "textLeft": "Momoko, ¿a dónde vamos?",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -520,7 +520,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-34"
           }
         ],
-        "textLeft": "Estoy intentando armarme de valor para hacerlo."
+        "textLeft": "Estoy intentando armarme de valor@para hacerlo."
       },
       {
         "chara": [
@@ -532,7 +532,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-35"
           }
         ],
-        "textLeft": "Sería muy malo si pasa algo@después de que te lo diga."
+        "textLeft": "Sería muy malo si pasa algo@después de que se los diga."
       },
       {
         "chara": [
@@ -545,7 +545,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-36"
           }
         ],
-        "textLeft": "Por eso vamos a ir a un sitio donde no haya@tanta gente."
+        "textLeft": "Por eso vamos a ir a un sitio donde no@haya tanta gente."
       },
       {
         "chara": [
@@ -571,7 +571,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-38"
           }
         ],
-        "textLeft": "Voy a contarte... ese secreto que les@he estado ocultando a las dos..."
+        "textLeft": "Voy a contarles... ese secreto que les@he estado ocultando a las dos..."
       },
       {
         "chara": [
@@ -584,7 +584,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-10-39"
           }
         ],
-        "textLeft": "Créeme, da miedo..."
+        "textLeft": "Créanme, da miedo..."
       },
       {
         "autoTurnLast": 2.0,

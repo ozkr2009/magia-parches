@@ -60,7 +60,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-2"
           }
         ],
-        "textLeft": "Haciéndote la tonta, ¿No?"
+        "textLeft": "Haciéndote la tonta, ¿no?"
       },
       {
         "chara": [
@@ -73,7 +73,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-3"
           }
         ],
-        "textLeft": "[chara:101700:effect_emotion_joy_0][se:7222_happy]Hay una linda pareja con osos, y otra@con gatitos-."
+        "textLeft": "[chara:101700:effect_emotion_joy_0][se:7222_happy]Hay un lindo par con osos, y otro@con gatitos-."
       },
       {
         "chara": [
@@ -113,7 +113,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-6"
           }
         ],
-        "textRight": "[chara:101001:effect_emotion_surprise_0][se:7226_shock]...¡¿?!"
+        "textRight": "[chara:101001:effect_emotion_surprise_0][se:7226_shock]... ¡¿?!"
       },
       {
         "bgm": "bgm03_story07",
@@ -216,7 +216,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-14"
           }
         ],
-        "textLeft": "Rena y Kaede merecen saberlo."
+        "textLeft": "Rena-chan y Kaede-chan merecen saberlo."
       },
       {
         "chara": [
@@ -241,7 +241,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-16"
           }
         ],
-        "textRight": "Sabes lo que me preocupa, así que deberías@entender por qué es difícil, ¿Verdad?"
+        "textRight": "Sabes lo que me preocupa, así que debes@entender por qué es difícil, ¿verdad?"
       },
       {
         "chara": [
@@ -279,7 +279,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-19"
           }
         ],
-        "textLeft": "Dudo que alguna vez dejes de tener miedo @de eso."
+        "textLeft": "Dudo que alguna vez dejes de tener miedo@de eso."
       },
       {
         "chara": [
@@ -355,7 +355,7 @@
             "voiceFullStop": "fullvoice/section_101602/vo_full_101602-5-25"
           }
         ],
-        "textLeft": "Realmente creo que sería mejor que se enteraran@por ti, Momoko."
+        "textLeft": "Realmente creo que sería mejor que se@enteraran por ti, Momoko."
       },
       {
         "chara": [

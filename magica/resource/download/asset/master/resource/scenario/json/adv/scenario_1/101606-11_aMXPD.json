@@ -58,7 +58,7 @@
                 "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-2"
             }],
             "nameLeft": "Mami",
-            "textLeft": "Ahora bien, ¿ponemos fin a esto?"
+            "textLeft": "Ahora bien, ¿le ponemos fin a esto?"
         },
         {
             "chara": [
@@ -77,7 +77,7 @@
                 "voiceFull": "fullvoice/section_101606/vo_full_101606-11-5",
                 "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-4"
             }],
-            "textRight": "¡Justo cuando Yachiyo y yo estábamos@a punto de ir a salvar a las demás!"
+            "textRight": "¡Justo cuando Yachiyo-san y yo estábamos@a punto de ir a salvar a las demás!"
         },
         {
             "chara": [
@@ -138,7 +138,7 @@
                 "voiceFull": "fullvoice/section_101606/vo_full_101606-11-10",
                 "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-9"
             }],
-            "textLeft": "No debes luchar... Ven... Únete a nosotras."
+            "textLeft": "No deben luchar... Vengan... Únanse a nosotras."
         },
         {
             "chara": [
@@ -150,7 +150,7 @@
                 "voiceFull": "fullvoice/section_101606/vo_full_101606-11-11",
                 "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-10"
             }],
-            "textRight": "Ya estoy harto de que me inviten a@unirme a tu pequeña secta."
+            "textRight": "Ya estoy harta de que me inviten a@unirme a tu pequeña secta."
         },
         {
             "chara": [
@@ -162,7 +162,7 @@
                 "voiceFull": "fullvoice/section_101606/vo_full_101606-11-12",
                 "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-11"
             }],
-            "textLeft": "Entonces debo hacer lo que Magius me ha ordenado."
+            "textLeft": "Entonces debo hacer lo que Magius me ha encomendado."
         },
         {
             "chara": [
@@ -173,7 +173,7 @@
                 "voiceFull": "fullvoice/section_101606/vo_full_101606-11-13",
                 "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-12"
             }],
-            "textLeft": "Muy bien. Te lo enseñaré."
+            "textLeft": "Muy bien. Te la enseñaré."
         },
         {
             "chara": [
@@ -241,22 +241,22 @@
             "voiceFull": "fullvoice/section_101606/vo_full_101606-11-15"
         },
         {
-            "narration": "Acabo de decirle a Yachiyo que no moriría...",
+            "narration": "Acabo de decirle a Yachiyo-san que no moriría...",
             "voiceFull": "fullvoice/section_101606/vo_full_101606-11-16",
             "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-15"
         },
         {
-            "narration": "Fui lo suficientemente arrogante como para decirle@que se diera otra oportunidad,@y luego pasa esto...",
+            "narration": "Fui lo suficientemente arrogante como para@decirle que se diera otra oportunidad,@y luego pasa esto...",
             "voiceFull": "fullvoice/section_101606/vo_full_101606-11-17",
             "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-16"
         },
         {
-            "narration": "No podremos salvar a los demás...",
+            "narration": "No podremos salvar a las demás...",
             "voiceFull": "fullvoice/section_101606/vo_full_101606-11-18",
             "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-17"
         },
         {
-            "narration": "Finalmente encontré amigos en los que podía confiar.@Quería presentárselos a Ui.",
+            "narration": "Finalmente encontré amigas en las que podía@confiar. Quería presentárselas a Ui.",
             "voiceFull": "fullvoice/section_101606/vo_full_101606-11-19",
             "voiceFullStop": "fullvoice/section_101606/vo_full_101606-11-18"
         },

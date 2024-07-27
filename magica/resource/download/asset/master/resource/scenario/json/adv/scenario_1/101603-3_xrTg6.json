@@ -25,7 +25,7 @@
         ],
         "nameCenter": "Touka",
         "nameLeft": "Iroha",
-        "textCenter": "Bien, ¿Se sienten un poco más tranquilas?",
+        "textCenter": "Bien, ¿se sienten un poco más tranquilas?",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -39,7 +39,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-1"
           }
         ],
-        "textCenter": "Cuanto más ansiosas estén, más difícil@será para mí hacer la conferencia."
+        "textCenter": "Cuanto más ansiosas estén, más difícil@será para mí dar la conferencia."
       },
       {
         "autoTurnLast": 0.2,
@@ -72,7 +72,7 @@
         ],
         "nameLeft": "Iroha",
         "nameRight": "Tsuruno",
-        "textRight": "Iroha... ¿Estás bien?"
+        "textRight": "Iroha-chan... ¿Estás bien?"
       },
       {
         "chara": [
@@ -97,7 +97,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-4"
           }
         ],
-        "textLeft": "He aceptado que ella podría no ser la@Touka que conozco..."
+        "textLeft": "He aceptado que ella podría no ser la@Touka-chan que conozco..."
       },
       {
         "chara": [
@@ -134,7 +134,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-7"
           }
         ],
-        "textLeft": "Sería demasiado conveniente que Touka@fuese la única que la recordara..."
+        "textLeft": "Sería demasiado conveniente que Touka-chan@fuese la única que la recordara..."
       },
       {
         "chara": [
@@ -174,7 +174,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-10"
           }
         ],
-        "textRight": "Supongo que podemos empezar entonces.@¿Están todos de acuerdo con eso?"
+        "textRight": "Supongo que podemos empezar entonces.@¿Están todas de acuerdo con eso?"
       },
       {
         "chara": [
@@ -244,7 +244,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-15"
           }
         ],
-        "textRight": "El tema de nuestra conferencia de hoy es simple...@¡\"La verdad detrás de las chicas mágicas\"!"
+        "textRight": "El tema de nuestra conferencia de hoy es simple...@¡\"La Verdad Detrás de las Chicas Mágicas\"!"
       },
       {
         "chara": [
@@ -282,7 +282,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-18"
           }
         ],
-        "textRight": "Ahora escucha con atención, voy a empezar con@una historia."
+        "textRight": "Ahora escuchen con atención, voy a empezar@con una historia."
       },
       {
         "chara": [
@@ -354,7 +354,7 @@
             "visible": "hide"
           }
         ],
-        "narration": "Pero un día, dejaron escapar a una bruja@porque era demasiado difícil de derrotar.@Pero luego, se encontraron con esa misma bruja otra vez.",
+        "narration": "Pero un día, dejaron escapar a una Bruja@porque era demasiado difícil de derrotar.@Pero luego, se volvieron a encontrar con esa Bruja.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-3-23",
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-22"
       },
@@ -388,7 +388,7 @@
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-25"
       },
       {
-        "narration": "Gracias a ella, el punto débil de la bruja@quedó al descubierto, y A pudo acabar con ella.",
+        "narration": "Gracias a ella, el punto débil de la Bruja@quedó al descubierto, y A pudo acabar con ella.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-3-27",
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-26"
       },
@@ -446,7 +446,7 @@
         ],
         "nameLeft": "Touka",
         "nameRight": "Iroha",
-        "textLeft": "Ahora, ¿cómo crees que sucedió esto?",
+        "textLeft": "Ahora, ¿cómo creen que sucedió esto?",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -473,7 +473,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-30"
           }
         ],
-        "textLeft": "Me gustaría que al menos intentaras pensar."
+        "textLeft": "Me gustaría que al menos intentaran pensarlo."
       },
       {
         "chara": [
@@ -645,7 +645,7 @@
         "voiceFull": "fullvoice/section_101603/vo_full_101603-3-42"
       },
       {
-        "narration": "Fue entonces cuando A y B se dieron cuenta de que una@Soul Gem es, tal y como su nombre indica,@la vida de una Chica Mágica.",
+        "narration": "Fue entonces cuando A y B se dieron cuenta de@que una Soul Gem es, tal y como su nombre@indica, la vida de una Chica Mágica.",
         "voiceFull": "fullvoice/section_101603/vo_full_101603-3-43",
         "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-42"
       },
@@ -754,7 +754,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-48"
           }
         ],
-        "textRight": "Um, vale..."
+        "textRight": "Um, bueno..."
       },
       {
         "autoTurnLast": 0.2,
@@ -796,7 +796,7 @@
           }
         ],
         "nameLeft": "Iroha",
-        "textLeft": "¡Sana!"
+        "textLeft": "¡Sana-chan!"
       },
       {
         "chara": [
@@ -823,7 +823,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-52"
           }
         ],
-        "textLeft": "Incluso si te golpean con un pequeño ataque mágico@como ese..."
+        "textLeft": "Incluso si te golpean con un pequeño ataque@mágico como ese..."
       },
       {
         "chara": [
@@ -873,7 +873,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-56"
           }
         ],
-        "textRight": "Eso significa que cuando usas la magia..."
+        "textRight": "Eso significa que cuando usas magia..."
       },
       {
         "chara": [
@@ -988,7 +988,7 @@
         ],
         "nameLeft": "Touka",
         "nameRight": "Yachiyo",
-        "textRight": "¡¡Iroha!!",
+        "textRight": "¡¡Tamaki-san!!",
         "turnChangeOut": "fadeOut"
       },
       {
@@ -1002,7 +1002,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-64"
           }
         ],
-        "textRight": "¡Quédate con nosotros!"
+        "textRight": "¡Quédate con nosotras!"
       },
       {
         "autoTurnLast": 0.01,
@@ -1079,7 +1079,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-68"
           }
         ],
-        "textLeft": "Quiero decir, solo estoy diciendo las cosas como son."
+        "textLeft": "Quiero decir, solo estoy diciendo las@cosas como son."
       },
       {
         "chara": [
@@ -1131,7 +1131,7 @@
           }
         ],
         "nameRight": "Sana",
-        "textRight": "En ese caso, ¿las Grief Seed son...@como cargadores de bateria?"
+        "textRight": "En ese caso, ¿las Grief Seed son...@como cargadores de batería?"
       },
       {
         "chara": [
@@ -1156,7 +1156,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-74"
           }
         ],
-        "textLeft": "Las baterías pueden usarse una y otra vez simplemente@mediante la oxidación y la reducción."
+        "textLeft": "Las baterías pueden usarse una y otra vez@simplemente mediante la oxidación y la reducción."
       },
       {
         "chara": [
@@ -1194,7 +1194,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-77"
           }
         ],
-        "textLeft": "Pero si la cargas de nuevo, su estructura química@vuelve a su estado original."
+        "textLeft": "Pero si la cargas de nuevo, su estructura@química vuelve a su estado original."
       },
       {
         "chara": [
@@ -1206,7 +1206,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-78"
           }
         ],
-        "textLeft": "Si usas una Soul Gem, cambia la magia@interior y la hace impura."
+        "textLeft": "Si usas una Soul Gem, cambia la magia@en su interior y la hace impura."
       },
       {
         "chara": [
@@ -1281,7 +1281,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-84"
           }
         ],
-        "textLeft": "Bueno, un humano moriría si luchara contra una@bruja. Tú no lo harías, ¿verdad?"
+        "textLeft": "Bueno, un humano moriría si luchara contra una@Bruja. No es así en tu caso, ¿verdad?"
       },
       {
         "chara": [
@@ -1368,7 +1368,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-91"
           }
         ],
-        "textLeft": "Luego usamos esa tecnología para modificar nuestros@propios cuerpos, ¿no es así?"
+        "textLeft": "Luego usamos esa tecnología para modificar@nuestros propios cuerpos, ¿no es así?"
       },
       {
         "chara": [
@@ -1393,7 +1393,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-93"
           }
         ],
-        "textLeft": "La gente modifica sus cuerpos todo el tiempo,@y tú estás dispuesta a aceptarlo."
+        "textLeft": "La gente modifica sus cuerpos todo el tiempo,@y estás dispuesta a aceptar eso."
       },
       {
         "chara": [
@@ -1405,7 +1405,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-94"
           }
         ],
-        "textLeft": "¿Y sin embargo no aceptas lo que te estoy diciendo?@Eso es raro."
+        "textLeft": "¿Y sin embargo no aceptas lo que te estoy@diciendo? Eso es raro."
       },
       {
         "chara": [
@@ -1444,7 +1444,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-97"
           }
         ],
-        "textLeft": "Después de todo, si ninguno de nosotros es humano.@¿En qué se convierte una chica invisible como tú?"
+        "textLeft": "Después de todo, si ninguna de nosotras es@humana. ¿En qué se convierte una chica invisible@como tú?"
       },
       {
         "chara": [
@@ -1485,7 +1485,7 @@
           }
         ],
         "nameRight": "Iroha",
-        "textRight": "Si lo que dices es cierto, Touka, entonces eso@significa que... casi muero en ese entonces."
+        "textRight": "Si lo que dices es cierto, Touka-chan, entonces eso@significa que... casi muero en ese entonces."
       },
       {
         "chara": [
@@ -1497,7 +1497,7 @@
             "voiceFullStop": "fullvoice/section_101603/vo_full_101603-3-101"
           }
         ],
-        "textRight": "Esa debió ser la razón por la que Yachiyo@estaba tan aterrorizada..."
+        "textRight": "Esa debió ser la razón por la que Yachiyo-san@estaba tan aterrorizada..."
       },
       {
         "chara": [
