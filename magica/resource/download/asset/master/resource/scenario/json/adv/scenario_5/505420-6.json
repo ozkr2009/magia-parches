@@ -35,16 +35,16 @@
             },
             {
                 "nameNarration": "",
-                "narration": "3 ",
+                "narration": "3",
                 "narrationBg": "black",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "2 "
+                "narration": "2"
             },
             {
-                "narration": "1 "
+                "narration": "1"
             },
             {
                 "narration": "0"
@@ -55,10 +55,10 @@
                         "id": 304300
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
+                "nameCenter": "Sakura Eterna",
                 "narrationEffect": "out",
                 "surround": "7003_wind",
-                "textCenter": "| Touka Satomi and Nemu Hiiragi. |"
+                "textCenter": "| Touka Satomi y Nemu Hiiragi. |"
             },
             {
                 "chara": [
@@ -67,7 +67,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "| It's time to exact your punishment. |"
+                "textCenter": "| Es hora de cumplir su ejecución. |"
             },
             {
                 "autoTurnLast": 0.5,
@@ -110,7 +110,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "She's so fast!",
+                "textLeft": "¡Es muy rápida!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -123,7 +123,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Sis!"
+                "textRight": "¡Hermana!"
             },
             {
                 "chara": [
@@ -134,7 +134,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Get ready, Ui! We'll have to keep the Eternal@Sakura away from Touka and Nemu!"
+                "textLeft": "¡Prepárate, Ui! ¡Tendremos que mantener@a la Sakura Eterna lejos de Touka y Nemu!"
             },
             {
                 "chara": [
@@ -145,7 +145,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Okay!"
+                "textRight": "¡Okey!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -171,8 +171,8 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
-                "textCenter": "[flashEffect:flashWhite2][surround:3043A01]| Get out of my way. |"
+                "nameCenter": "Sakura Eterna",
+                "textCenter": "[flashEffect:flashWhite2][surround:3043A01]| Fuera de mi camino. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -202,7 +202,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "[flashEffect:flashRed1][surround:3043A03][chara:100100:effect_shake]Ugh!"
+                "textLeft": "[flashEffect:flashRed1][surround:3043A03][chara:100100:effect_shake]¡Ugh!"
             },
             {
                 "chara": [
@@ -214,7 +214,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "[flashEffect:flashRed1][surround:3043A03][chara:101500:effect_shake]Oww!"
+                "textRight": "[flashEffect:flashRed1][surround:3043A03][chara:101500:effect_shake]¡Oww!"
             },
             {
                 "chara": [
@@ -224,7 +224,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Where are Touka and Nemu...?"
+                "textLeft": "¿Dónde están Touka y Nemu...?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -296,7 +296,7 @@
                 ],
                 "nameRight": "Iroha",
                 "textBg": "shout",
-                "textRight": "Run, you two!",
+                "textRight": "¡Huyan, las dos!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -306,7 +306,7 @@
                         "motion": 200
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textBg": "shout",
                 "textLeft": "[flashEffect:flashWhite2][surround:3043A01]| Hmph. |"
             },
@@ -322,7 +322,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "[flashEffect:flashWhite2][chara:101500:effect_shake]Ahhh!"
+                "textCenter": "[flashEffect:flashWhite2][chara:101500:effect_shake]¡Ahhh!"
             },
             {
                 "chara": [
@@ -333,7 +333,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "Ui!"
+                "textRight": "¡Ui!"
             },
             {
                 "chara": [
@@ -345,7 +345,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "I'm okay!"
+                "textCenter": "¡Estoy bien!"
             },
             {
                 "chara": [
@@ -356,7 +356,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Ugh...[chara:100100:lipSynch_0][wait:1.0][chara:100100:motion_400][chara:100100:lipSynch_1][flashEffect:flashWhite1][se:6000_hit_shooting_01_s] We'll have to create...a diversion!"
+                "textRight": "Ugh...[chara:100100:lipSynch_0][wait:1.0][chara:100100:motion_400][chara:100100:lipSynch_1][flashEffect:flashWhite1][se:6000_hit_shooting_01_s] Tendremos que crear... ¡una distracción!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -378,7 +378,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "Eternal Sakura!"
+                "textCenter": "¡Sakura Eterna!"
             },
             {
                 "chara": [
@@ -389,7 +389,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "Please! Wait a little longer!"
+                "textRight": "¡Por favor! ¡Espera un poco más!"
             },
             {
                 "chara": [
@@ -397,7 +397,7 @@
                         "id": 100100
                     }
                 ],
-                "textRight": "Everyone is on their way with the surveys!"
+                "textRight": "¡Todas están en camino con las encuestas!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -424,7 +424,7 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
+                "nameCenter": "Sakura Eterna",
                 "textCenter": "| ... |"
             },
             {
@@ -455,7 +455,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Her behavior... It's like that time with Ai."
+                "textRight": "Su comportamiento...@Es como aquella vez con Ai."
             },
             {
                 "autoTurnLast": 0.5,
@@ -481,8 +481,8 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
-                "textCenter": "| It is time for their execution. |"
+                "nameCenter": "Sakura Eterna",
+                "textCenter": "| Es hora de su ejecución. |"
             },
             {
                 "autoTurnLast": 0.5,
@@ -508,8 +508,8 @@
                         "motion": 100
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| Out of my way. |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| Fuera de mi camino. |"
             },
             {
                 "chara": [
@@ -520,7 +520,7 @@
                 ],
                 "nameRight": "Iroha",
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][se:6000_hit_shooting_01_s]We won't let you!"
+                "textRight": "[flashEffect:flashWhite2][se:6000_hit_shooting_01_s]¡No te dejaremos!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -579,7 +579,7 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "textLeft": "Iroha! We'll help you!"
+                "textLeft": "¡Iroha! ¡Te ayudaremos!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -604,7 +604,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "I know I'm a defendant, but I can't stand@back and watch this happen."
+                "textRight": "Sé que soy un acusada, pero no puedo quedarme@de brazos cruzados y ver cómo pasa esto."
             },
             {
                 "autoTurnLast": 0.2,
@@ -638,7 +638,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "[flashEffect:flashWhite2][chara:100100:effect_shake]N-no, you can't!"
+                "textRight": "[flashEffect:flashWhite2][chara:100100:effect_shake]¡N-no, no pueden!"
             },
             {
                 "chara": [
@@ -646,7 +646,7 @@
                         "id": 100100
                     }
                 ],
-                "textRight": "[flashEffect:flashWhite2][chara:100100:effect_shake]You already received a harsh ruling.@Don't make it any worse..."
+                "textRight": "[flashEffect:flashWhite2][chara:100100:effect_shake]Ya han recibido una sentencia severa.@No lo empeoren..."
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                         "motion": 200
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| Ugh... |"
             },
             {
@@ -669,7 +669,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashWhite2][se:6000_hit_shooting_01_s]Yaaaaaah!!!"
+                "textRight": "[flashEffect:flashWhite2][se:6000_hit_shooting_01_s]¡¡¡Yaaaaaah!!!"
             },
             {
                 "chara": [
@@ -694,7 +694,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Ui! Get them out of here, quickly!"
+                "textRight": "¡Ui! ¡Sácalas de aquí, rápido!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -731,7 +731,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "We've got to escape...",
+                "textLeft": "Tenemos que escapar...",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -742,7 +742,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "It's okay, Ui..."
+                "textCenter": "Está bien, Ui..."
             },
             {
                 "chara": [
@@ -751,7 +751,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Don't worry about us anymore. You go live@a life of peace."
+                "textRight": "No te preocupes más por nosotras.@Ve a vivir una vida de paz."
             },
             {
                 "chara": [
@@ -761,7 +761,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I don't want to be alone..."
+                "textLeft": "No quiero estar sola..."
             },
             {
                 "chara": [
@@ -769,7 +769,7 @@
                         "id": 101500
                     }
                 ],
-                "textLeft": "We went through everything together. I want@to stay with you."
+                "textLeft": "Hemos pasado por todo juntas.@Quiero estar con ustedes."
             },
             {
                 "chara": [
@@ -779,7 +779,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "And besides, I can tell that you're both@lying."
+                "textLeft": "Y además, puedo ver que@ambas están mintiendo."
             },
             {
                 "chara": [
@@ -788,7 +788,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "We're not lying..."
+                "textCenter": "No estamos mintiendo..."
             },
             {
                 "chara": [
@@ -799,7 +799,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "You both became Magius for your own goals,@didn't you?!"
+                "textLeft": "¡Las dos se volvieron Magius@por sus propios objetivos, ¿no?!"
             },
             {
                 "chara": [
@@ -807,7 +807,7 @@
                         "id": 101500
                     }
                 ],
-                "textLeft": "You want to learn about the universe! And@you want the world to be your manuscript!"
+                "textLeft": "¡Tú quieres aprender sobre el universo!@¡Y tú quieres que el mundo sea tu manuscrito!"
             },
             {
                 "chara": [
@@ -816,7 +816,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "There's no way anyone with big dreams like@that would want to die!"
+                "textLeft": "¡Es imposible que alguien con grandes sueños@como esos quiera morir!"
             },
             {
                 "chara": [
@@ -835,7 +835,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "...?!"
+                "textCenter": "¿¡...!?"
             },
             {
                 "chara": [
@@ -846,7 +846,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "You have dreams, don't you?!"
+                "textLeft": "¿¡Tienen sueños, no!?"
             },
             {
                 "chara": [
@@ -854,7 +854,7 @@
                         "id": 101500
                     }
                 ],
-                "textLeft": "Then live!"
+                "textLeft": "¡Entonces vivan!"
             },
             {
                 "chara": [
@@ -863,7 +863,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Live, and make your dreams come true!"
+                "textLeft": "¡Vivan y hagan realidad sus sueños!"
             },
             {
                 "chara": [
@@ -887,7 +887,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I..."
+                "textRight": "Yo..."
             },
             {
                 "chara": [
@@ -898,7 +898,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "I want to live! I want to live, so I can@achieve my dreams!"
+                "textLeft": "¡Yo también quiero vivir!@¡Quiero vivir para poder cumplir mis sueños!"
             },
             {
                 "chara": [
@@ -906,7 +906,7 @@
                         "id": 101500
                     }
                 ],
-                "textLeft": "I want to live, together with you, Touka@and Nemu!"
+                "textLeft": "¡Quiero vivir, junto a ustedes, Touka y Nemu!"
             },
             {
                 "chara": [
@@ -917,7 +917,7 @@
                         "motion": 201
                     }
                 ],
-                "textCenter": "I do too...!"
+                "textCenter": "¡Yo también...!"
             },
             {
                 "chara": [
@@ -929,7 +929,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "textCenter": "If I know you'll be safe, I want to live too,@Ui!"
+                "textCenter": "¡Si sé que estarás a salvo,@yo también quiero vivir, Ui!"
             },
             {
                 "bgm": "stop",
@@ -946,7 +946,7 @@
                 ],
                 "surround": "7003_wind",
                 "textBg": "shout",
-                "textCenter": "*Gasp* Aaaaaaaaah!!!",
+                "textCenter": "*Jadeo* ¡¡¡Aaaaaaaaah!!!",
                 "turnEffect": "blackPromist"
             },
             {
@@ -968,7 +968,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Touka?!"
+                "textLeft": "¿¡Touka!?"
             },
             {
                 "autoTurnLast": 1,
@@ -993,7 +993,7 @@
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "Her Doppel...",
+                "narration": "Su Doppel...",
                 "narrationEffect": "in",
                 "turnChangeOut": "whiteOut",
                 "turnEffect": "blackPromist"

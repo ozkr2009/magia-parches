@@ -31,7 +31,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Thanks, mister!",
+                "textLeft": "¡Gracias por el viaje!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -41,7 +41,7 @@
                     }
                 ],
                 "nameRight": "",
-                "textRight": "No problem. You girls enjoy yourselves."
+                "textRight": "No hay problema. Diviértanse."
             },
             {
                 "autoTurnLast": 1,
@@ -71,7 +71,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "I can't believe he's not tired after running@all the way here!"
+                "textLeft": "¡No puedo creer que no esté cansado@después de correr hasta aquí!"
             },
             {
                 "chara": [
@@ -83,7 +83,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Yeah, that was my first time on a rickshaw,@but I can't believe it, either."
+                "textRight": "Sí, fue mi primera vez en un rickshaw y@también me sorprendió."
             },
             {
                 "chara": [
@@ -103,7 +103,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "He was even talking while he ran."
+                "textLeft": "Incluso hablaba mientras corría."
             },
             {
                 "chara": [
@@ -113,7 +113,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "I liked hearing about the old stories from@this neighborhood."
+                "textRight": "Me gustó escuchar las viejas historias@de esta zona."
             },
             {
                 "chara": [
@@ -126,7 +126,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Old stories?"
+                "textLeft": "¿Viejas historias?"
             },
             {
                 "chara": [
@@ -135,7 +135,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yes, like the folk tale from Mizuna Shrine@about the lovers from different castes."
+                "textRight": "Sí, como el cuento popular del Santuario de@Mizuna sobre los amantes de diferentes castas."
             },
             {
                 "chara": [
@@ -148,7 +148,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Wow, that takes me back!"
+                "textRight": "¡Wow, eso me trae recuerdos!"
             },
             {
                 "chara": [
@@ -157,7 +157,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Do you know the story, Sis?"
+                "textLeft": "¿Conoces la historia, hermana?"
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yeah. I heard it when I was looking for you."
+                "textRight": "Sí. La escuché cuando estaba buscándote."
             },
             {
                 "autoTurnLast": 0.1,
@@ -190,8 +190,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| That's right, Iroha was investigating the@Séance Shrine [textBlue:Rumor] here. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Así es, Iroha estaba investigando el [textBlue:Rumor]@del Santuario Séance aquí. |"
             },
             {
                 "chara": [
@@ -203,7 +203,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "[chara:100101:effect_emotion_surprise_0][se:7226_shock]Wait, what?! How do you know that, Eternal@Sakura?!"
+                "textLeft": "[chara:100101:effect_emotion_surprise_0][se:7226_shock]¡Espera! ¿¡Qué!?@¿¡Cómo sabes eso, Sakura Eterna!?"
             },
             {
                 "chara": [
@@ -212,7 +212,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "| I heard it from the Commoner's Horse. |"
+                "textRight": "| Me lo dijo el Caballo Machibito. |"
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "[chara:101403:effect_emotion_surprise_0][se:7226_shock]What?"
+                "textLeft": "[chara:101403:effect_emotion_surprise_0][se:7226_shock]¿¡Eh!?"
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textLeft": "I can hardly believe my ears. [textBlue:Rumors] can@communicate with each other?"
+                "textLeft": "No sabía que los [textBlue:Rumores] pudiesen@comunicarse entre sí."
             },
             {
                 "chara": [
@@ -244,7 +244,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "| We are all essentially citizens of the same@book. |"
+                "textRight": "| Todos somos esencialmente habitantes@del mismo libro. |"
             },
             {
                 "chara": [
@@ -252,7 +252,7 @@
                         "id": 304302
                     }
                 ],
-                "textRight": "| Even if we lose our Uwasa forms, we still@talk to each other inside the book. |"
+                "textRight": "| Incluso si perdemos nuestras formas de Uwasa,@aún hablamos entre nosotros dentro del libro. |"
             },
             {
                 "chara": [
@@ -263,7 +263,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "How extraordinary..."
+                "textLeft": "Algunas cosas son realmente misteriosas..."
             },
             {
                 "chara": [
@@ -293,7 +293,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Hey, everyone. Mind if we stop at the@shrine?"
+                "textRight": "Oigan, ¿qué les parece si pasamos@por el santuario?"
             },
             {
                 "chara": [
@@ -301,7 +301,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "We can say our prayers since we're here@already."
+                "textRight": "Podemos rezar ya que estamos aquí."
             },
             {
                 "autoTurnLast": 1.5,
@@ -365,7 +365,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Hi, Tsukuyo and Tsukasa. [chara:100101:lipSynch_0][wait:0.8][chara:100101:cheek_0][chara:100101:face_mtn_ex_010.exp.json][chara:100101:lipSynch_1]Fancy meeting you@two here."
+                "textRight": "Hola, Tsukuyo y Tsukasa.@[chara:100101:lipSynch_0][wait:0.8][chara:100101:cheek_0][chara:100101:face_mtn_ex_010.exp.json][chara:100101:lipSynch_1]Qué casualidad encontrarlas aquí."
             },
             {
                 "chara": [
@@ -377,7 +377,7 @@
                     }
                 ],
                 "nameLeft": "Tsukuyo",
-                "textLeft": "Y-yes..."
+                "textLeft": "S-sí..."
             },
             {
                 "chara": [
@@ -389,7 +389,7 @@
                     }
                 ],
                 "nameCenter": "Tsukasa",
-                "textCenter": "We often arrange to meet up at Mizuna@Shrine..."
+                "textCenter": "Solemos reunirnos aquí@en el santuario de Mizuna..."
             },
             {
                 "chara": [
@@ -433,7 +433,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "S-[wait:0.8][chara:101901:cheek_0][chara:101901:motion_100][chara:101901:lipSynch_1]see you this evening!"
+                "textCenter": "Nos... [wait:0.8][chara:101901:cheek_0][chara:101901:motion_100][chara:101901:lipSynch_1]¡Nos vemos en la tarde!"
             },
             {
                 "chara": [
@@ -447,7 +447,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Yes, see you then."
+                "textRight": "Sí, hasta luego."
             },
             {
                 "chara": [
@@ -460,8 +460,8 @@
                         "posX": 30
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| Have a pleasant day... |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Que tengan un lindo día... |"
             },
             {
                 "autoTurnLast": 1.5,
@@ -497,7 +497,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Do you think they're bothered by, you know,@what happened before?"
+                "textLeft": "¿Crees que les molesta,@ya sabes, lo que pasó antes?"
             },
             {
                 "chara": [
@@ -507,7 +507,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "It did weigh heavily on all of us."
+                "textRight": "Nos afectó mucho a todas."
             },
             {
                 "chara": [
@@ -520,7 +520,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "But it's still not completely decided."
+                "textLeft": "Pero aún no está completamente decidido."
             },
             {
                 "chara": [
@@ -533,7 +533,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Yeah. We don't know what will happen."
+                "textLeft": "Sí. No sabemos lo que pasará."
             },
             {
                 "chara": [
@@ -543,7 +543,7 @@
                         "motion": 301
                     }
                 ],
-                "textRight": "That's right."
+                "textRight": "Así es."
             },
             {
                 "chara": [
@@ -555,7 +555,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "Let's go inside and write our prayers on@the plaques!"
+                "textRight": "Entremos y escribamos nuestros@deseos en las placas."
             },
             {
                 "chara": [
@@ -566,7 +566,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "That's a ritual for when there's someone@you want to see, right?"
+                "textLeft": "Ese es un ritual para cuando hay alguien@a quien quieres ver, ¿no?"
             },
             {
                 "chara": [
@@ -574,7 +574,7 @@
                         "id": 100701
                     }
                 ],
-                "textLeft": "I don't have anyone I want to see."
+                "textLeft": "No tengo a nadie a quien quiera ver."
             },
             {
                 "chara": [
@@ -583,7 +583,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "It doesn't have to be for someone you want@to see."
+                "textRight": "No tiene por qué ser para alguien@a quien quieras ver."
             },
             {
                 "chara": [
@@ -591,7 +591,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "It can just be a regular prayer you offer to@the gods."
+                "textRight": "Puede ser simplemente una oración normal@que ofrezcas a los dioses."
             },
             {
                 "autoTurnLast": 2.5,
@@ -624,7 +624,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Oops, I forgot...",
+                "textRight": "Ups, lo había olvidado...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -635,7 +635,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "These plaques are pricey."
+                "textLeft": "Estas placas están caras."
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "They're 800 yen each..."
+                "textRight": "Cuestan 800 yenes cada una..."
             },
             {
                 "chara": [
@@ -665,7 +665,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Only 800 yen?"
+                "textLeft": "¿Solo 800 yenes?"
             },
             {
                 "chara": [
@@ -678,7 +678,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Don't chime in when you don't share our@financial perspective, Touka."
+                "textRight": "Touka, me gustaría que no compartieras tu@perspectiva financiera con los demás."
             },
             {
                 "chara": [
@@ -686,7 +686,7 @@
                         "id": 100701
                     }
                 ],
-                "textRight": "You should be more aware of just how wealthy@you are."
+                "textRight": "Deberías ser más consciente@de lo adinerada que eres."
             },
             {
                 "chara": [
@@ -695,7 +695,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "You think so?"
+                "textLeft": "¿Tú crees?"
             },
             {
                 "chara": [
@@ -707,8 +707,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| You shouldn't talk openly about it when@you're out. | "
+                "nameRight": "Sakura Eterna",
+                "textRight": "| No deberías decir eso tan abiertamente@cuando estás afuera. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -745,7 +745,7 @@
                         "id": 100101
                     }
                 ],
-                "textCenter": "Yachiyo paid for mine back then..."
+                "textCenter": "Yachiyo pagó la mía en ese entonces..."
             },
             {
                 "chara": [
@@ -753,7 +753,7 @@
                         "id": 100101
                     }
                 ],
-                "textCenter": "Maybe we should give up on the plaques..."
+                "textCenter": "Tal vez deberíamos olvidarnos de las placas..."
             },
             {
                 "autoTurnLast": 0.1,
@@ -776,7 +776,7 @@
                     }
                 ],
                 "nameRight": "",
-                "textRight": "May I offer a suggestion?"
+                "textRight": "¿Puedo hacer una sugerencia?"
             },
             {
                 "chara": [
@@ -788,7 +788,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Oh, um, yes?"
+                "textLeft": "Oh, um, ¿sí?"
             },
             {
                 "chara": [
@@ -796,7 +796,7 @@
                         "id": 800600
                     }
                 ],
-                "textRight": "You can write your wish on the back of your@shrine fortune and keep it with you."
+                "textRight": "Puedes escribirlo en el reverso de uno@de nuestros omikujis y llevarlo contigo."
             },
             {
                 "chara": [
@@ -804,7 +804,7 @@
                         "id": 800600
                     }
                 ],
-                "textRight": "Hang onto your fortune for a full year."
+                "textRight": "Guárdalo con cuidado durante un año entero."
             },
             {
                 "chara": [
@@ -812,7 +812,7 @@
                         "id": 800600
                     }
                 ],
-                "textRight": "Then, burn it in a bonfire after the new@year and your wish will reach the heavens."
+                "textRight": "Luego, en el año nuevo, quémalo en una hoguera@y tu deseo llegará al cielo."
             },
             {
                 "chara": [
@@ -821,7 +821,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I didn't know that."
+                "textLeft": "No sabía eso."
             },
             {
                 "chara": [
@@ -831,7 +831,7 @@
                         "id": 800600
                     }
                 ],
-                "textRight": "Here's a pen you can borrow."
+                "textRight": "Te puedo prestar un lapicero si quieres."
             },
             {
                 "bgm": "stop",
@@ -843,7 +843,7 @@
                         "motion": 401
                     }
                 ],
-                "textLeft": "Thank you."
+                "textLeft": "Gracias."
             },
             {
                 "bgm": "bgm03_story02",
@@ -853,7 +853,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Let's all write down our wishes."
+                "textLeft": "Escribamos todos nuestros deseos."
             },
             {
                 "chara": [
@@ -873,7 +873,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "You should write yours too, Touka and Nemu."
+                "textLeft": "Ustedes también deberían escribir el suyo,@Touka y Nemu."
             },
             {
                 "chara": [
@@ -883,7 +883,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Okay, I will."
+                "textRight": "Okey, lo haré."
             },
             {
                 "chara": [
@@ -896,7 +896,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "But I don't know what to wish for."
+                "textRight": "Pero no sé qué desear."
             },
             {
                 "chara": [
@@ -905,7 +905,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "What did you write, Iroha?"
+                "textRight": "¿Qué escribiste tú, Iroha?"
             },
             {
                 "chara": [
@@ -928,7 +928,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "I wish for all Magical Girls to get along@with each other."
+                "textLeft": "Deseé que todas las Chicas Mágicas@se llevaran bien entre ellas."
             },
             {
                 "chara": [
@@ -939,7 +939,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "I see."
+                "textRight": "Ya veo."
             },
             {
                 "chara": [
@@ -948,7 +948,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "What will you write, Eternal Sakura?"
+                "textLeft": "¿Qué vas a escribir, Sakura Eterna?"
             },
             {
                 "chara": [
@@ -960,8 +960,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| I don't need one. I am a [textBlue:Rumor]. I'm@happy just watching over you. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Soy un [textBlue:Rumor], no es necesario.@Me basta con poder cuidar de ustedes. |"
             },
             {
                 "autoTurnLast": 2,

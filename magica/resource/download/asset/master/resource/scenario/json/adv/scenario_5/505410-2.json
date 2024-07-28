@@ -5,7 +5,7 @@
                 "bg": "bg_adv_21041.jpg",
                 "bgm": "bgm03_story09",
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@We're here!",
+                "narration": "― Touka ―@¡Llegamos!",
                 "narrationAnchor": "bottom",
                 "narrationBg": "bg_adv_21041.jpg",
                 "narrationCoverOpacity": 110,
@@ -18,7 +18,7 @@
             },
             {
                 "nameNarration": "Ui",
-                "narration": "― Ui ―@Wow!"
+                "narration": "― Ui ―@¡Wow!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -49,7 +49,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "There are so many shops here! Isn't it@great, Iroha?!",
+                "textLeft": "¡Hay muchísimas tiendas aquí!@¿¡No es genial, Iroha!?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -60,7 +60,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "It's not too noisy for you? Will you be@all right?"
+                "textRight": "¿No es demasiado ruidoso para ti?@¿Estarás bien?"
             },
             {
                 "chara": [
@@ -71,7 +71,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Yeah, I'll be fine!"
+                "textLeft": "¡Sí, estaré bien!"
             },
             {
                 "chara": [
@@ -91,7 +91,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "I've never been to such a big shopping@mall before."
+                "textCenter": "Nunca había estado en un@centro comercial tan grande."
             },
             {
                 "chara": [
@@ -100,7 +100,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Same... After I became a Magical Girl, I was@so preoccupied with liberation..."
+                "textRight": "Yo tampoco... Después de volverme una Chica@Mágica, estuve muy concentrada en la liberación..."
             },
             {
                 "chara": [
@@ -112,7 +112,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "textCenter": "[chara:100701:effect_emotion_surprise_0][se:7226_shock]Hey!"
+                "textCenter": "[chara:100701:effect_emotion_surprise_0][se:722 _shock]¡Oigan!"
             },
             {
                 "chara": [
@@ -132,7 +132,7 @@
                         "id": 101403
                     }
                 ],
-                "textLeft": "What is it?"
+                "textLeft": "¿Qué pasa?"
             },
             {
                 "chara": [
@@ -143,7 +143,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "That shop has a bunch of clothes I like!"
+                "textCenter": "¡Esa tienda tiene mucha ropa que me gusta!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -162,7 +162,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Hey, wait, Touka! Don't go off on your own!"
+                "textLeft": "¡Eh, espera, Touka!@¡No te vayas por tu cuenta!"
             },
             {
                 "chara": [
@@ -173,7 +173,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Let's go, Nemu!"
+                "textLeft": "¡Vamos, Nemu!"
             },
             {
                 "chara": [
@@ -184,7 +184,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Okay."
+                "textRight": "Okey."
             },
             {
                 "autoTurnLast": 0.5,
@@ -218,7 +218,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "W-wait! Please don't get lost!"
+                "textLeft": "¡E-esperen! ¡Por favor, no se pierdan!"
             },
             {
                 "chara": [
@@ -228,7 +228,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "Geeze..."
+                "textLeft": "Cielos..."
             },
             {
                 "chara": [
@@ -237,8 +237,8 @@
                         "motion": 100
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| Perhaps it's too late to ask this, but @what's with these \"croquettes\"? |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Quizá sea demasiado tarde para preguntar esto,@pero ¿qué pasa con estos \"korokkes\"? |"
             },
             {
                 "chara": [
@@ -247,7 +247,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Um, how do I answer that..."
+                "textLeft": "Um, cómo decirlo..."
             },
             {
                 "chara": [
@@ -256,7 +256,7 @@
                         "motion": 301
                     }
                 ],
-                "textLeft": "Well, they're made by shaping mashed potatoes@into balls, then deep-frying them."
+                "textLeft": "Bueno, se preparan haciendo bolitas con@puré de patatas y friéndolas."
             },
             {
                 "chara": [
@@ -265,7 +265,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "| The food is in my database, so I know that@already. |"
+                "textRight": "| El platillo está en mi base de datos,@así que eso ya lo sé. |"
             },
             {
                 "chara": [
@@ -274,7 +274,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "| But I don't know where they want to go. |"
+                "textRight": "| Pero no sé adónde quieren ir. |"
             },
             {
                 "chara": [
@@ -285,7 +285,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Oh, that's right, you weren't around with us@back then."
+                "textLeft": "Oh, es verdad, no estabas con nosotras@en ese entonces."
             },
             {
                 "chara": [
@@ -325,7 +325,7 @@
                     }
                 ],
                 "nameLeft": "",
-                "textLeft": "Oh, Ui!",
+                "textLeft": "¡Oh, Ui!",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -335,7 +335,7 @@
                         "id": 800600
                     }
                 ],
-                "textLeft": "Here, this is a photo of that shopping mall@we talked about."
+                "textLeft": "Mira, esta es una foto del centro comercial@del que hablamos."
             },
             {
                 "chara": [
@@ -343,7 +343,7 @@
                         "id": 800600
                     }
                 ],
-                "textLeft": "The croquettes they sell here are just@heavenly!"
+                "textLeft": "¡Los korokkes que venden aquí@son simplemente divinos!"
             },
             {
                 "chara": [
@@ -357,7 +357,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "O-oh, but, she..."
+                "textRight": "O-oh, pero, ella no..."
             },
             {
                 "chara": [
@@ -371,7 +371,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Sis... It's fine..."
+                "textLeft": "Hermana... Está bien..."
             },
             {
                 "chara": [
@@ -379,7 +379,7 @@
                         "id": 101502
                     }
                 ],
-                "textLeft": "I might not be able to eat them now..."
+                "textLeft": "Puede que no pueda comerlos ahora..."
             },
             {
                 "chara": [
@@ -388,7 +388,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "But maybe someday I might be able to!"
+                "textLeft": "¡Pero quizá algún día pueda hacerlo!"
             },
             {
                 "autoTurnLast": 1,
@@ -420,7 +420,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "It's one of the places they wanted to go,@before they started writing their stories.",
+                "textLeft": "Es uno de los lugares a los que querían ir,@antes de que empezaran a escribir sus historias.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -429,7 +429,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "That's why Ui said it's a special place to@her."
+                "textLeft": "Por eso Ui dijo que es un lugar especial para ella."
             },
             {
                 "chara": [
@@ -440,8 +440,8 @@
                         "motion": 100
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| I understand now. I'll make note of it. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Ahora lo entiendo. Lo tendré en cuenta. |"
             },
             {
                 "autoTurnLast": 1,
@@ -488,7 +488,7 @@
                     }
                 ],
                 "nameCenter": "UI & Touka & Nemu",
-                "textCenter": "Let's eat!",
+                "textCenter": "¡A comer!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -508,7 +508,7 @@
                     }
                 ],
                 "nameNarration": "",
-                "narration": "*Chomp*",
+                "narration": "*Ñom*",
                 "narrationEffect": "in"
             },
             {
@@ -538,7 +538,7 @@
                 ],
                 "nameCenter": "Touka",
                 "narrationEffect": "out",
-                "textCenter": "Wow, it's hot... Phew."
+                "textCenter": "Wa, está caliente... uf."
             },
             {
                 "chara": [
@@ -551,7 +551,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "*Munch Munch*"
+                "textRight": "Uf uf."
             },
             {
                 "chara": [
@@ -564,7 +564,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Wow, they're so crispy on the outside and so@steamy on the inside!"
+                "textLeft": "¡Wow, están muy crujientes por fuera y@humeantes por dentro!"
             },
             {
                 "chara": [
@@ -582,7 +582,7 @@
                         "id": 101403
                     }
                 ],
-                "textLeft": "[chara:101501:effect_emotion_joy_0][se:7222_happy]They're delicious!"
+                "textLeft": "[chara:101501:effect_emotion_joy_0][se:7222_happy]¡Están deliciosos!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -609,7 +609,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Ui, try using this sauce."
+                "textRight": "Ui, prueba a usar esta salsa."
             },
             {
                 "chara": [
@@ -620,7 +620,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Okay!"
+                "textLeft": "¡Okey!"
             },
             {
                 "chara": [
@@ -631,7 +631,7 @@
                     }
                 ],
                 "nameNarration": "",
-                "narration": "*Chomp*",
+                "narration": "*Ñom*",
                 "narrationEffect": "in"
             },
             {
@@ -650,7 +650,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textLeft": "Oh my gosh!"
+                "textLeft": "¡Oh, wow!"
             },
             {
                 "chara": [
@@ -660,7 +660,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "It's spicy, and sweet, and bursting with@flavor..."
+                "textLeft": "Es picante, dulce y rebosante de sabor..."
             },
             {
                 "chara": [
@@ -671,7 +671,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I think I might cry!"
+                "textLeft": "¡Creo que podría llorar!"
             },
             {
                 "chara": [
@@ -682,7 +682,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "*Giggle*"
+                "textRight": "*Risilla*"
             },
             {
                 "autoTurnLast": 0.1,
@@ -711,7 +711,7 @@
                         "pos": 2
                     }
                 ],
-                "textCenter": "I want to try your salmon croquette, Nemu."
+                "textCenter": "Quiero probar tu korokke de salmón, Nemu."
             },
             {
                 "chara": [
@@ -722,7 +722,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "I want to try your ground meat one, Touka!"
+                "textLeft": "¡Quiero probar el tuyo de carne picada, Touka!"
             },
             {
                 "chara": [
@@ -732,7 +732,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "May I have a bite of your original croquette@too, Ui?"
+                "textRight": "También me gustaría probar@las croquetas clásicas de Ui."
             },
             {
                 "chara": [
@@ -743,7 +743,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Sure, let's all trade."
+                "textLeft": "Claro, intercambiemos todas."
             },
             {
                 "chara": [
@@ -754,7 +754,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "Yeah!"
+                "textCenter": "¡Sí!"
             },
             {
                 "chara": [
@@ -765,7 +765,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Here you go."
+                "textRight": "Aquí tienes."
             },
             {
                 "autoTurnLast": 0.1,
@@ -804,7 +804,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "I still can't believe we're spending time@together like this. It feels like a dream."
+                "textLeft": "Aún no puedo creer que estemos pasando@tiempo juntas así. Parece un sueño."
             },
             {
                 "chara": [
@@ -812,8 +812,8 @@
                         "id": 304302
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| I feel the same way. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Opino lo mismo. |"
             },
             {
                 "chara": [
@@ -822,7 +822,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "| As an Uwasa, I feel lucky that I can see@the four of you reunite happily like this. |"
+                "textRight": "| Como una Uwasa, me siento feliz de poder ver a@las cuatro reunidas felizmente de esta manera. |"
             },
             {
                 "chara": [
@@ -831,7 +831,7 @@
                         "id": 304302
                     }
                 ],
-                "textRight": "| It's more than I could ask for. |"
+                "textRight": "| Es más de lo que podría pedir. |"
             },
             {
                 "chara": [
@@ -841,7 +841,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "We're all thankful."
+                "textLeft": "Todas estamos agradecidas."
             },
             {
                 "chara": [
@@ -851,7 +851,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "| Yes. |"
+                "textRight": "| Sí. |"
             },
             {
                 "autoTurnLast": 2,
@@ -881,7 +881,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Ahh, that was really delicious.[chara:101501:lipSynch_0][wait:1.0][chara:101501:cheek_0][chara:101501:face_mtn_ex_010.exp.json][chara:101501:lipSynch_1] Where should@we go next?",
+                "textLeft": "Ahh, eso estuvo realmente delicioso.@[chara:101501:lipSynch_0][wait:1.0][chara:101501:cheek_0][chara:101501:face_mtn_ex_010.exp.json][chara:101501:lipSynch_1]¿Adónde debemos ir ahora?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -893,7 +893,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "I'd like to go to the historiography room at@the Central Library..."
+                "textRight": "A mí gustaría ir a la sala de historiografía@de la Biblioteca Central..."
             },
             {
                 "chara": [
@@ -902,7 +902,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "That's that place you wanted to show us,@right?"
+                "textLeft": "¿Ese es un lugar al que querías ir?"
             },
             {
                 "chara": [
@@ -912,7 +912,7 @@
                         "id": 101403
                     }
                 ],
-                "textRight": "Yes, but the library is in a restricted@area within Chuo Ward."
+                "textRight": "Sí, pero la biblioteca está en una zona restringida@dentro del distrito de Chuo."
             },
             {
                 "chara": [
@@ -923,7 +923,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Why don't we go to Mizuna Ward on a rickshaw,@instead?"
+                "textRight": "Así que, ¿por qué no mejor tomamos un@rickshaw hasta el distrito de Mizuna?"
             },
             {
                 "chara": [
@@ -931,7 +931,7 @@
                         "id": 101403
                     }
                 ],
-                "textRight": "We should be able to find one here."
+                "textRight": "Deberíamos poder encontrar uno por esta zona."
             },
             {
                 "chara": [
@@ -944,7 +944,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Yeah! Great idea!"
+                "textLeft": "¡Sí! ¡Buena idea!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -971,7 +971,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "What?! We're doing that, too...?"
+                "textCenter": "¿¡Qué!? ¿También haremos eso...?"
             },
             {
                 "chara": [
@@ -990,7 +990,7 @@
                         "id": 101501
                     }
                 ],
-                "textCenter": "I really want to save the best things for@last, as much as we can..."
+                "textCenter": "Realmente quiero dejar lo mejor para el final@lo más posible..."
             },
             {
                 "autoTurnLast": 2,

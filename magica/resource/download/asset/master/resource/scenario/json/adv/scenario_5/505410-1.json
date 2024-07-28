@@ -18,17 +18,17 @@
             },
             {
                 "bgm": "bgm03_story07",
-                "nameNarration": "Eternal Sakura",
-                "narration": "| A time of peace returned to the Magical@Girls after their long, arduous conflict. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Un tiempo de paz volvió a las Chicas@Mágicas tras su largo y arduo conflicto. |",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| I, too, had completed my duties as an@Uwasa once my flowers fully bloomed. |"
+                "narration": "| Yo también había completado@mis deberes como Uwasa una vez que@mis flores florecieron por completo. |"
             },
             {
-                "narration": "| My [textBlue:Rumor] was rewritten, and I was@connected to Touka's server, reborn as@an Uwasa with ample knowledge. |"
+                "narration": "| Mi [textBlue:Rumor] fue reescrito, y fui@conectada al servidor de Touka,@renaciendo como una Uwasa@con amplios conocimientos. |"
             },
             {
                 "chara": [
@@ -39,7 +39,7 @@
                         "id": 304302
                     }
                 ],
-                "narration": "| I was given only one duty... |"
+                "narration": "| Y se me dio un solo deber... |"
             },
             {
                 "autoTurnLast": 1,
@@ -66,7 +66,7 @@
             },
             {
                 "nameNarration": "",
-                "narration": "*Whisper Whisper*",
+                "narration": "*Susurros* *Susurros*",
                 "narrationBg": "bg_adv_21061.jpg",
                 "narrationEffect": "in",
                 "surround": "7008_station",
@@ -80,7 +80,7 @@
                 ],
                 "nameLeft": "",
                 "narrationEffect": "out",
-                "textLeft": "Hey, wasn't she one of the Magius?"
+                "textLeft": "Oye, ¿no era ella una de las Magius?"
             },
             {
                 "chara": [
@@ -89,7 +89,7 @@
                     }
                 ],
                 "nameRight": "",
-                "textRight": "I didn't know she lived around here."
+                "textRight": "No sabía que vivía por aquí."
             },
             {
                 "chara": [
@@ -97,7 +97,7 @@
                         "id": 802000
                     }
                 ],
-                "textLeft": "What happened with their punishment, anyway?"
+                "textLeft": "¿Y qué pasó con su castigo?"
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                         "id": 800300
                     }
                 ],
-                "textRight": "I heard about what happened the other day,@but..."
+                "textRight": "Me enteré de lo que pasó el otro día, pero..."
             },
             {
                 "autoTurnLast": 1,
@@ -149,7 +149,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textLeft": "Are they Magical Girls? Maybe former@Feathers?"
+                "textLeft": "¿Serán Chicas Mágicas?@¿Quizás ex-Plumas?"
             },
             {
                 "chara": [
@@ -160,7 +160,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Either way, I don't blame them for wondering@what's happening with us."
+                "textLeft": "En cualquier caso, no las culpo por@preguntarse qué pasará con nosotras."
             },
             {
                 "chara": [
@@ -168,7 +168,7 @@
                         "id": 101403
                     }
                 ],
-                "textLeft": "I'd be curious, too."
+                "textLeft": "Yo también tendría curiosidad."
             },
             {
                 "chara": [
@@ -177,8 +177,8 @@
                         "motion": 100
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| But the outcome hasn't been decided. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Pero el desenlace aún no está decidido. |"
             },
             {
                 "chara": [
@@ -189,7 +189,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "It has, at least for me and Touka."
+                "textLeft": "Sí lo está, al menos para Touka y para mí."
             },
             {
                 "chara": [
@@ -210,7 +210,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textRight": "| Was that really the right decision? |"
+                "textRight": "| ¿Realmente fue la decisión correcta? |"
             },
             {
                 "chara": [
@@ -221,7 +221,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "It was. That's why we're going to do our best@to have a great time today."
+                "textLeft": "Lo fue. Por eso vamos a hacer todo lo posible@para pasarlo bien el día de hoy."
             },
             {
                 "chara": [
@@ -231,7 +231,7 @@
                         "id": 101403
                     }
                 ],
-                "textLeft": "We want this to be a day to remember..."
+                "textLeft": "Queremos que sea un día para recordar..."
             },
             {
                 "autoTurnLast": 0.4,
@@ -263,7 +263,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "—so I want to go!",
+                "textRight": "—por eso quiero ir!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -273,8 +273,8 @@
                         "motion": 301
                     }
                 ],
-                "nameLeft": "Iroha.",
-                "textLeft": "I know how you feel, Ui, but I think it'll@be dangerous..."
+                "nameLeft": "Iroha",
+                "textLeft": "Sé cómo te sientes, Ui,@pero creo que sería peligroso..."
             },
             {
                 "chara": [
@@ -283,7 +283,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Even still! Please?!"
+                "textRight": "¡Aún así! ¡Por favor, ¿sí?!"
             },
             {
                 "chara": [
@@ -291,7 +291,7 @@
                         "id": 101501
                     }
                 ],
-                "textRight": "I really want to see the \"Stardust Time@Viewer\" story!"
+                "textRight": "¡Realmente quiero ver la historia del@\"Visor del Tiempo Estelar\"!"
             },
             {
                 "autoTurnLast": 0.4,
@@ -314,7 +314,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "Nyaaargh! Get out of my way!",
+                "textCenter": "¡Nyaaargh! ¡Fuera de mi camino!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -323,7 +323,7 @@
                         "id": 100701
                     }
                 ],
-                "textCenter": "Why are train stations always so crowded?!"
+                "textCenter": "¿¡Por qué las estaciones de tren@están siempre tan llenas!?"
             },
             {
                 "chara": [
@@ -333,7 +333,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "textCenter": "[chara:100701:effect_emotion_angry_1][se:7218_anger]Move!"
+                "textCenter": "[chara:100701:effect_emotion_angry_1][se:7218_anger]¡Muévanse!"
             },
             {
                 "autoTurnLast": 1,
@@ -363,7 +363,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "Looks like they're here.",
+                "textLeft": "Parece que ya están aquí.",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -372,8 +372,8 @@
                         "id": 304302
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| Yes. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Así es. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -407,7 +407,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Hi, Nemu!"
+                "textRight": "¡Hola, Nemu!"
             },
             {
                 "chara": [
@@ -417,7 +417,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Were you waiting long?"
+                "textLeft": "¿Esperaron mucho?"
             },
             {
                 "autoTurnLast": 0.1,
@@ -451,7 +451,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "No, not that long."
+                "textLeft": "No, no tanto."
             },
             {
                 "chara": [
@@ -459,8 +459,8 @@
                         "id": 304302
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| We just got here. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Acabamos de llegar. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -487,7 +487,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "Graaah!"
+                "textCenter": "¡Graaah!"
             },
             {
                 "chara": [
@@ -495,7 +495,7 @@
                         "id": 100701
                     }
                 ],
-                "textCenter": "I should've asked the help to drive me@here."
+                "textCenter": "Debí haberle pedido a la sirvienta@que me condujera hasta aquí..."
             },
             {
                 "autoTurnLast": 0.1,
@@ -524,8 +524,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| She's already tired. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Ya está cansada. |"
             },
             {
                 "chara": [
@@ -535,7 +535,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "Yes. She appears disheveled, too."
+                "textLeft": "Sí. También se ve despeinada."
             },
             {
                 "chara": [
@@ -548,7 +548,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "I don't take trains very often, okay?!"
+                "textRight": "¡No subo a trenes a menudo, ¿okey?!"
             },
             {
                 "chara": [
@@ -559,7 +559,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Wasn't that your choice, Touka? You brought@this upon yourself."
+                "textLeft": "¿No fue esa tu elección, Touka?@Tú te lo buscaste."
             },
             {
                 "chara": [
@@ -568,7 +568,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "I got here all on my own. You should be@praising me!"
+                "textRight": "Llegué hasta aquí por mi cuenta.@¡Deberías elogiarme!"
             },
             {
                 "chara": [
@@ -581,7 +581,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "*Giggle*"
+                "textLeft": "*Risilla*"
             },
             {
                 "chara": [
@@ -591,7 +591,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "Now that we're all here, I think we'll be@able to accomplish today's goal."
+                "textLeft": "Ahora que ya estamos todas aquí,@creo que podremos cumplir el objetivo de hoy."
             },
             {
                 "chara": [
@@ -602,7 +602,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "Yeah, finally."
+                "textRight": "Sí, finalmente."
             },
             {
                 "chara": [
@@ -622,7 +622,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "This still feels like a dream."
+                "textLeft": "Esto aún parece un sueño."
             },
             {
                 "chara": [
@@ -633,7 +633,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "I'm starting to get excited."
+                "textCenter": "Estoy empezando a emocionarme."
             },
             {
                 "autoTurnLast": 0.1,
@@ -663,8 +663,8 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
-                "textCenter": "| It's a one-in-a-million chance. |"
+                "nameCenter": "Sakura Eterna",
+                "textCenter": "| El mapa de Kamihama donde una vez@dibujaron sus sueños. |"
             },
             {
                 "chara": [
@@ -672,7 +672,7 @@
                         "id": 304302
                     }
                 ],
-                "textCenter": "| Somehow, the three of you are finally able@to tour the Kamihama you dreamt about. |"
+                "textCenter": "| Que podamos recorrerlo hoy@es una posibilidad entre un millón. |"
             },
             {
                 "chara": [
@@ -681,7 +681,7 @@
                         "id": 304302
                     }
                 ],
-                "textCenter": "| You could call it a miracle... |"
+                "textCenter": "| Un milagro por así decirlo... |"
             },
             {
                 "chara": [
@@ -691,7 +691,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "| So take this chance today to reignite@your drive to move yourselves forward. |"
+                "textCenter": "| Por eso quiero que usen este día@como una nueva fuente de vitalidad. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -721,7 +721,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "We grasp hope, now..."
+                "textCenter": "Agarramos la esperanza ahora..."
             },
             {
                 "chara": [
@@ -732,7 +732,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "In order to bring it into the future."
+                "textRight": "... para llevarla al futuro."
             },
             {
                 "chara": [
@@ -741,8 +741,8 @@
                         "motion": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| That's right. |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| Así es. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -794,7 +794,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "*Giggle*"
+                "textRight": "*Risilla*"
             },
             {
                 "chara": [
@@ -804,7 +804,7 @@
                         "id": 100701
                     }
                 ],
-                "textRight": "Okay, guess now's the time to use this!"
+                "textRight": "¡Bien, supongo que ahora es el momento@de usar esto!"
             },
             {
                 "chara": [
@@ -817,7 +817,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "A smartphone?"
+                "textLeft": "¿Un celular?"
             },
             {
                 "chara": [
@@ -826,12 +826,12 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "I'll text it to you."
+                "textRight": "Te lo enviaré."
             },
             {
                 "bgm": "stop",
                 "nameNarration": "",
-                "narration": "[se:7106_telmail]*Beep beep*",
+                "narration": "[se:7106_telmail]*Bip bip*",
                 "narrationEffect": "in"
             },
             {
@@ -842,7 +842,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textLeft": "I think I got it."
+                "textLeft": "Creo que lo recibí."
             },
             {
                 "autoTurnLast": 0.01,
@@ -859,7 +859,7 @@
             {
                 "bgm": "bgm03_story19",
                 "nameNarration": "Ui",
-                "narration": "― Ui ―@Hey, this is the map from back then!",
+                "narration": "― Ui ―@¡Ah, este es el mapa de ese entonces!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -870,29 +870,29 @@
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@*Giggle*"
+                "narration": "― Touka ―@*Risilla*"
             },
             {
-                "narration": "― Touka ―@It was basically poster-sized,@so I scanned it."
+                "narration": "― Touka ―@Era tan grande como un póster,@así que lo escaneé."
             },
             {
-                "narration": "― Touka ―@Amazing, right?@Now we can carry it around with us."
+                "narration": "― Touka ―@Increíble, ¿verdad?@Ahora podemos llevarlo con nosotras."
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@For those of us less digitally inclined,@it's a bit difficult to read."
+                "narration": "― Nemu ―@Nos va a costar verlo a las que@no somos buenas con lo digital."
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@Just do your best."
+                "narration": "― Touka ―@Solo haz el esfuerzo."
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "— Iroha —@So if I pinch outwards like this,@the picture will zoom in...?"
+                "narration": "— Iroha —@Entonces, ¿si pellizco así hacia fuera,@la imagen se ampliará...?"
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@See? I'm not the only one."
+                "narration": "― Nemu ―@¿Ves? No soy la única."
             },
             {
                 "autoTurnLast": 0.01,
@@ -929,7 +929,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "I-I'll be fine! I'm getting better at using@my phone!",
+                "textRight": "¡E-estaré bien! ¡Estoy aprendiendo@a usar mejor mi celular!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -941,7 +941,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Anyway, where should we start? This will@take more than a day or two."
+                "textRight": "En fin, ¿por dónde empezamos?@Esto llevará más de un día o dos."
             },
             {
                 "chara": [
@@ -951,7 +951,7 @@
                     }
                 ],
                 "nameLeft": "Nemu",
-                "textLeft": "Let's start with the croquettes."
+                "textLeft": "Entonces vayamos a probar unos korokkes."
             },
             {
                 "chara": [
@@ -964,7 +964,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "[chara:101501:effect_emotion_surprise_0][se:7226_shock]What?!"
+                "textRight": "[chara:101501:effect_emotion_surprise_0][se:7226_shock]¿¡Qué!?"
             },
             {
                 "chara": [
@@ -972,7 +972,7 @@
                         "id": 101501
                     }
                 ],
-                "textRight": "But that's a really special place for me!"
+                "textRight": "¡Pero ese es un lugar muy especial para mí!"
             },
             {
                 "chara": [
@@ -983,7 +983,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "I wanted to save it for later..."
+                "textRight": "Quería guardarlo para más adelante..."
             },
             {
                 "chara": [
@@ -994,7 +994,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "We know better than anyone that life is@short."
+                "textLeft": "Nosotras sabemos mejor que nadie@que la vida es corta."
             },
             {
                 "chara": [
@@ -1007,7 +1007,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Whether we're sick, or we're Magical Girls..."
+                "textRight": "Ya sea que estemos enfermas@o seamos Chicas Mágicas..."
             },
             {
                 "chara": [
@@ -1015,7 +1015,7 @@
                         "id": 100701
                     }
                 ],
-                "textRight": "We've got to treasure every moment we have."
+                "textRight": "Tenemos que atesorar cada momento@que tengamos."
             },
             {
                 "chara": [
@@ -1026,7 +1026,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "If there's somewhere you want to show@us, we should go there right away."
+                "textRight": "Así que si hay algún lugar que quieras visitar,@deberíamos ir allí enseguida."
             },
             {
                 "chara": [
@@ -1046,7 +1046,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "What do you say, Ui?"
+                "textLeft": "¿Qué dices, Ui?"
             },
             {
                 "chara": [
@@ -1066,7 +1066,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Yeah... Okay, that's fine!"
+                "textRight": "Sí... ¡Okey, está bien!"
             },
             {
                 "chara": [
@@ -1077,7 +1077,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "What about you, Eternal Sakura?"
+                "textLeft": "¿Qué hay de ti, Sakura Eterna?"
             },
             {
                 "chara": [
@@ -1089,8 +1089,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| I have nothing to add. My role is to @observe things impartially. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| No tengo nada que añadir. Mi rol es observar@las cosas con imparcialidad. |"
             },
             {
                 "autoTurnLast": 2,

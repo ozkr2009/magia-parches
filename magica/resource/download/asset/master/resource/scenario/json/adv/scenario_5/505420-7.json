@@ -70,7 +70,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Touka...?"
+                "textLeft": "¿Touka...?"
             },
             {
                 "chara": [
@@ -83,7 +83,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "[chara:101403:lipSynch_1]I can't believe her Doppel is appearing at a@time like this..."
+                "textRight": "[chara:101403:lipSynch_1]No puedo creer que su Doppel aparezca@en un momento como este..."
             },
             {
                 "autoTurnLast": 0.2,
@@ -114,7 +114,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Eternal Sakura... Please, see reason...",
+                "textRight": "Sakura Eterna... Por favor, entra en razón...",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -124,7 +124,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -133,7 +133,7 @@
                         "id": 100100
                     }
                 ],
-                "textRight": "You exist to protect the four of us, don't@you?"
+                "textRight": "Tú existes para protegernos a las cuatro, ¿no?"
             },
             {
                 "chara": [
@@ -143,7 +143,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "| And now I exist to kill them. |"
+                "textLeft": "| Y ahora existo para asesinarlas. |"
             },
             {
                 "chara": [
@@ -152,7 +152,7 @@
                         "motion": 301
                     }
                 ],
-                "textRight": "That's a contradiction..."
+                "textRight": "Eso es una contradicción..."
             },
             {
                 "chara": [
@@ -161,7 +161,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "| That's why... |"
+                "textLeft": "| Es por eso que... |"
             },
             {
                 "chara": [
@@ -170,7 +170,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "What?"
+                "textRight": "¿Qué?"
             },
             {
                 "chara": [
@@ -178,7 +178,7 @@
                         "id": 304300
                     }
                 ],
-                "textLeft": "| If I kill one of you, I will probably die@because I went against my [textBlue:Rumor]. |"
+                "textLeft": "| Si asesino a una de ustedes, probablemente@moriré porque fui en contra de mi [textBlue:Rumor]. |"
             },
             {
                 "chara": [
@@ -189,7 +189,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "And you're okay with that?!"
+                "textRight": "¿¡Y eso te parece bien!?"
             },
             {
                 "chara": [
@@ -198,7 +198,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "[flashEffect:flashWhite2][surround:3043A01]| That is my role as an Uwasa. |"
+                "textLeft": "[flashEffect:flashWhite2][surround:3043A01]| Ese es mi rol como Uwasa. |"
             },
             {
                 "chara": [
@@ -210,7 +210,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "[flashEffect:flashRed2][surround:3043A03][chara:100100:effect_shake][bgEffect:shakeLarge]Aaagh!"
+                "textRight": "[flashEffect:flashRed2][surround:3043A03][chara:100100:effect_shake][bgEffect:shakeLarge]¡Aaagh!"
             },
             {
                 "autoTurnLast": 1,
@@ -257,7 +257,7 @@
                         "pos": 2
                     }
                 ],
-                "textRight": "*Gasp* Ugh..."
+                "textRight": "*Jadeo* Ugh..."
             },
             {
                 "chara": [
@@ -274,7 +274,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "| Ui, this doesn't concern you. Get out of@my way. |"
+                "textLeft": "| Ui, esto no te concierne.@Apártate de mi camino. |"
             },
             {
                 "chara": [
@@ -282,7 +282,7 @@
                         "id": 304300
                     }
                 ],
-                "textLeft": "| Or else I will have to adhere to my data@and judge you, too. |"
+                "textLeft": "| Si no, tendré que juzgarte a ti también@de acuerdo con mis datos. |"
             },
             {
                 "chara": [
@@ -292,7 +292,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "I don't care if you do!"
+                "textRight": "¡No me importa!"
             },
             {
                 "chara": [
@@ -301,7 +301,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "[flashEffect:flashWhite2][surround:3043A01]| I see. |"
+                "textLeft": "[flashEffect:flashWhite2][surround:3043A01]| Ya veo. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -344,7 +344,7 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "textLeft": "[flashEffect:flashRed1][chara:100600:effect_shake][bgEffect:shakeLarge][surround:3043A03]Aaaugh!"
+                "textLeft": "[flashEffect:flashRed1][chara:100600:effect_shake][bgEffect:shakeLarge][surround:3043A03]¡Aaaugh!"
             },
             {
                 "chara": [
@@ -357,7 +357,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "[flashEffect:flashRed1][chara:101700:effect_shake][bgEffect:shakeLarge][surround:3043A03]Urgh!"
+                "textRight": "[flashEffect:flashRed1][chara:101700:effect_shake][bgEffect:shakeLarge][surround:3043A03]¡Urgh!"
             },
             {
                 "autoTurnLast": 1,
@@ -384,7 +384,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "Mitama! Mifuyu!"
+                "textCenter": "¡Mitama! ¡Mifuyu!"
             },
             {
                 "chara": [
@@ -396,7 +396,7 @@
                         "pos": 0
                     }
                 ],
-                "textLeft": "I just tripped and fell forward..."
+                "textLeft": "Solo tropecé y caí hacia adelante..."
             },
             {
                 "chara": [
@@ -408,7 +408,7 @@
                         "pos": 2
                     }
                 ],
-                "textRight": "I was trying to talk to her, that's all."
+                "textRight": "Intentaba hablar con ella, eso es todo."
             },
             {
                 "chara": [
@@ -416,7 +416,7 @@
                         "id": 101700
                     }
                 ],
-                "textRight": "I just couldn't control myself at the thought@of seeing this poor little girl get hurt."
+                "textRight": "Sentí pena al pensar que esta pobre niña@saldría herida."
             },
             {
                 "autoTurnLast": 0.1,
@@ -446,8 +446,8 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
-                "textCenter": "| You mean to say you didn't intend to @fight. |"
+                "nameCenter": "Sakura Eterna",
+                "textCenter": "| Quieren decir que no tenían@intención de luchar. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -483,7 +483,7 @@
                         "pos": 1
                     }
                 ],
-                "textLeft": "That's right..."
+                "textLeft": "Así es..."
             },
             {
                 "chara": [
@@ -491,7 +491,7 @@
                         "id": 101700
                     }
                 ],
-                "textRight": "That's exactly what I'm saying."
+                "textRight": "Eso es exactamente lo que estoy diciendo."
             },
             {
                 "chara": [
@@ -501,7 +501,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "Please, stop!"
+                "textCenter": "¡Por favor, deténganse!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -531,8 +531,8 @@
                         "pos": 1
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
-                "textCenter": "| Stand in my way, and I will destroy you. |"
+                "nameCenter": "Sakura Eterna",
+                "textCenter": "| Si se interponen en mi camino, las destruiré. |"
             },
             {
                 "autoTurnLast": 2,
@@ -579,7 +579,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textCenter": "It appears I'll have to stand up for myself@and resist as well..."
+                "textCenter": "Parece que tendré que dar un paso al frente@y resistir también..."
             },
             {
                 "chara": [
@@ -590,7 +590,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "I'm sorry."
+                "textCenter": "Lo siento."
             },
             {
                 "chara": [
@@ -598,7 +598,7 @@
                         "id": 101403
                     }
                 ],
-                "textCenter": "Be it today, or with the Magius, we never@seem to do anything productive..."
+                "textCenter": "Ya sea hoy, o con Magius, parece que@nunca hacemos nada productivo..."
             },
             {
                 "autoTurnLast": 1,
@@ -625,7 +625,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "*Pant* Ugh...",
+                "textCenter": "*Jadeo* Ugh...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -635,7 +635,7 @@
                         "id": 100100
                     }
                 ],
-                "textCenter": "I still haven't heard from Yachiyo and the@others!"
+                "textCenter": "¡Aún no tengo noticias de Yachiyo y las demás!"
             },
             {
                 "chara": [
@@ -656,7 +656,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textCenter": "The map of Kamihama..."
+                "textCenter": "El mapa de Kamihama..."
             },
             {
                 "chara": [
@@ -665,7 +665,7 @@
                         "motion": 301
                     }
                 ],
-                "textCenter": "We were exploring it so happily just a few@hours ago..."
+                "textCenter": "Estábamos explorándolo tan felices@hace solo unas horas..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -685,7 +685,7 @@
             },
             {
                 "nameNarration": "Ui",
-                "narration": "― Ui ―@Hey, this is the map from back then!",
+                "narration": "― Ui ―@¡Ah, este es el mapa de ese entonces!",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -697,17 +697,17 @@
             },
             {
                 "nameNarration": "Touka",
-                "narration": "― Touka ―@*Giggle*"
+                "narration": "― Touka ―@*Risilla*"
             },
             {
-                "narration": "― Touka ―@It was basically poster-sized,@so I scanned it."
+                "narration": "― Touka ―@Era tan grande como un póster,@así que lo escaneé."
             },
             {
-                "narration": "― Touka ―@Amazing, right?@Now we can carry it around with us."
+                "narration": "― Touka ―@Increíble, ¿verdad?@Ahora podemos llevarlo con nosotras."
             },
             {
                 "nameNarration": "Nemu",
-                "narration": "― Nemu ―@For those of us less digitally inclined,@it's a bit difficult to read."
+                "narration": "― Nemu ―@Nos va a costar verlo a las que@no somos buenas con lo digital."
             },
             {
                 "armatureList": [
@@ -750,7 +750,7 @@
                     }
                 ],
                 "surround": "7003_wind",
-                "textCenter": "Pictures!",
+                "textCenter": "¡Fotos!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -764,7 +764,7 @@
                     }
                 ],
                 "surround": "stop",
-                "textCenter": "Mitama! Mifuyu!"
+                "textCenter": "¡Mitama! ¡Mifuyu!"
             },
             {
                 "chara": [
@@ -772,7 +772,7 @@
                         "id": 100100
                     }
                 ],
-                "textCenter": "Ask them to send pictures of the surveys!"
+                "textCenter": "¡Por favor, pídanles a todas que@envíen fotos de las encuestas!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -803,7 +803,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "But we've got our hands full here!",
+                "textRight": "¡Pero estamos muy ocupadas aquí!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -814,7 +814,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -830,13 +830,13 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "We don't have enough time!"
+                "textRight": "¡No tenemos tiempo!"
             },
             {
                 "bgEffect": "shakeSmall",
-                "nameCenter": "Tsukuyo and Tsukusa's Voices",
+                "nameCenter": "Voces de Tsukuyo y Tsukusa",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1018A05][surround:1019A04]Flute Blossom Resonance!"
+                "textCenter": "[flashEffect:flashWhite2][bgEffect:shakeLarge][surround:1018A05][surround:1019A04]¡Resonancia de Flor de Flauta!"
             },
             {
                 "chara": [
@@ -854,7 +854,7 @@
                         "id": 101700
                     }
                 ],
-                "textLeft": "[flashEffect:flashRed2][bgEffect:shakeLarge][surround:1018A06][surround:1019A08][chara:304300:effect_shake]| ...?! |"
+                "textLeft": "[flashEffect:flashRed2][bgEffect:shakeLarge][surround:1018A06][surround:1019A08][chara:304300:effect_shake]| ¿¡...!? |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -884,7 +884,7 @@
                     }
                 ],
                 "nameRight": "Tsukasa",
-                "textRight": "We don't mind if our sentences get a little@heavier!"
+                "textRight": "¡No nos importa que nuestras sentencias@se vuelvan un poco más pesadas!"
             },
             {
                 "chara": [
@@ -894,7 +894,7 @@
                     }
                 ],
                 "nameCenter": "Tsukuyo",
-                "textCenter": "Mifuyu, please use this time to collect the@photographs!"
+                "textCenter": "¡Mifuyu, por favor, utiliza este tiempo@para recolectar las fotografías!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -932,7 +932,7 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "textLeft": "Thank you, Tsukuyo!"
+                "textLeft": "¡Gracias, Tsukuyo!"
             },
             {
                 "chara": [
@@ -942,7 +942,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "Thank you, girls!"
+                "textRight": "¡Gracias, chicas!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -981,7 +981,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textCenter": "Do we really deserve to be protected to this@extent?"
+                "textCenter": "¿Realmente merecemos ser protegidas@hasta tal punto?"
             },
             {
                 "autoTurnLast": 0.1,
@@ -1005,7 +1005,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "*Pant* *Pant*"
+                "textLeft": "*Jadeo* *Jadeo*"
             },
             {
                 "chara": [
@@ -1021,7 +1021,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "You'll see the answer to that soon enough..."
+                "textLeft": "Pronto verás la respuesta..."
             },
             {
                 "chara": [
@@ -1030,7 +1030,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Thank you, Tsukuyo and Tsukasa!"
+                "textLeft": "¡Gracias, Tsukuyo y Tsukasa!"
             },
             {
                 "chara": [
@@ -1039,7 +1039,7 @@
                         "motion": 401
                     }
                 ],
-                "textLeft": "Let me fight, too!"
+                "textLeft": "¡Yo también lucharé!"
             },
             {
                 "autoTurnLast": 2,

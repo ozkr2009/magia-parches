@@ -48,7 +48,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Ui. Please let me explain.",
+                "textRight": "Ui. Por favor, déjame explicarlo.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -63,7 +63,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "I've had enough!"
+                "textLeft": "¡Ya tuve suficiente!"
             },
             {
                 "chara": [
@@ -76,7 +76,7 @@
                         "tear": 1
                     }
                 ],
-                "textLeft": "I cared so much about you two..."
+                "textLeft": "Me preocupaba tanto por ustedes dos..."
             },
             {
                 "chara": [
@@ -84,7 +84,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "And you cared about me. I thought that was..."
+                "textLeft": "Y ustedes se preocuparon por mí.@Pensé que eso era así..."
             },
             {
                 "chara": [
@@ -92,7 +92,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "I thought that was why you protected and@raised me... But I was wrong..."
+                "textLeft": "Pensé que por eso me protegieron y@me educaron... Pero me equivoqué..."
             },
             {
                 "chara": [
@@ -105,7 +105,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textLeft": "You're abandoning me just so you can feel@better about yourselves!"
+                "textLeft": "¡Me están abandonando solo para@sentirse mejor con ustedes mismas!"
             },
             {
                 "chara": [
@@ -117,7 +117,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "That's not true!"
+                "textRight": "¡Eso no es verdad!"
             },
             {
                 "chara": [
@@ -128,7 +128,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Then why... Why are you leaving me behind?!"
+                "textLeft": "Entonces por qué...@¿Por qué me dejan atrás?"
             },
             {
                 "chara": [
@@ -136,7 +136,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "Why didn't you even talk to me about this?!"
+                "textLeft": "¿¡Por qué ni siquiera me hablaron de esto!?"
             },
             {
                 "autoTurnLast": 0.01,
@@ -169,7 +169,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "We'll just cause problems for you if you're@with us, Ui!"
+                "textCenter": "¡Solo te causaríamos problemas@si estuvieras con nosotras, Ui!"
             },
             {
                 "chara": [
@@ -181,7 +181,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "...?!"
+                "textLeft": "¿¡...!?"
             },
             {
                 "chara": [
@@ -197,7 +197,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "I was so relieved when Walpurgisnacht was@defeated and everything was over..."
+                "textCenter": "Me sentí tan aliviada cuando Walpurgisnacht@fue derrotada y todo terminó..."
             },
             {
                 "chara": [
@@ -207,7 +207,7 @@
                         "tear": 1
                     }
                 ],
-                "textCenter": "But every time I think back on it from an@objective point of view..."
+                "textCenter": "Pero cada vez que lo pienso desde@un punto de vista más objetivo..."
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "tear": 1
                     }
                 ],
-                "textCenter": "There must be a lot of people who hate me@because of what happened."
+                "textCenter": "Debe de haber mucha gente@que nos odia por lo que pasó."
             },
             {
                 "chara": [
@@ -226,7 +226,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "The reality is that we committed crimes and@many people hate us. No one trusts us."
+                "textRight": "La realidad es que cometimos crímenes y mucha@gente nos odia. Nadie confía en nosotras."
             },
             {
                 "chara": [
@@ -237,7 +237,7 @@
                         "tear": 1
                     }
                 ],
-                "textRight": "Resentment left unchecked can quickly@escalate into violence aimed at us."
+                "textRight": "Si el resentimiento no se controla, podría@convertirse en violencia contra nosotras."
             },
             {
                 "chara": [
@@ -248,7 +248,7 @@
                         "tear": 1
                     }
                 ],
-                "textCenter": "The greatest fear in my amygdala is that you@get hurt in the process, Ui..."
+                "textCenter": "Nuestro mayor temor es que@salgas herida en el proceso, Ui..."
             },
             {
                 "chara": [
@@ -259,7 +259,7 @@
                         "tear": 1
                     }
                 ],
-                "textRight": "It's very possible that the hatred towards@us could turn towards you."
+                "textRight": "Es muy posible que el odio hacia nosotras@se vuelva hacia ti."
             },
             {
                 "chara": [
@@ -270,7 +270,7 @@
                         "tear": 1
                     }
                 ],
-                "textCenter": "That's why we don't need the surveys."
+                "textCenter": "Por eso no necesitamos las encuestas."
             },
             {
                 "chara": [
@@ -279,7 +279,7 @@
                         "tear": 1
                     }
                 ],
-                "textRight": "The only way we can quell everyone's anger@is to be judged and sentenced to death."
+                "textRight": "La única forma de aplacar la ira de todas@es ser juzgadas y condenadas a muerte."
             },
             {
                 "chara": [
@@ -289,7 +289,7 @@
                         "tear": 1
                     }
                 ],
-                "textRight": "We instigated this tragedy, after all..."
+                "textRight": "Nosotros provocamos esta tragedia,@después de todo..."
             },
             {
                 "chara": [
@@ -301,7 +301,7 @@
                         "tear": 1
                     }
                 ],
-                "textLeft": "B-but...[chara:101501:lipSynch_0][wait:1.0][chara:101501:eyeClose_1][chara:101501:lipSynch_1]you don't have to worry about me..."
+                "textLeft": "P-pero...[chara:101501:lipSynch_0][wait:1.0][chara:101501:eyeClose_1][chara:101501:lipSynch_1] no tienen que preocuparse por mí..."
             },
             {
                 "chara": [
@@ -318,7 +318,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "And no one said you have to choose death@right away..."
+                "textLeft": "Y nadie dijo que tuvieran que@elegir la muerte de inmediato..."
             },
             {
                 "chara": [
@@ -326,7 +326,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "You could have waited until you heard@everyone's opinions."
+                "textLeft": "Podrían haber esperado a escuchar@las opiniones de las demás."
             },
             {
                 "chara": [
@@ -338,7 +338,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "The surveys don't matter! Everyone is@avoiding me, anyway!"
+                "textRight": "¡Las encuestas no importan!@¡De todas formas, todas nos evitan!"
             },
             {
                 "chara": [
@@ -347,7 +347,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Look at the flute sisters!"
+                "textRight": "¡Incluso las hermanas flauta!"
             },
             {
                 "chara": [
@@ -355,7 +355,7 @@
                         "id": 100701
                     }
                 ],
-                "textRight": "They're uncomfortable around me. Everyone@wishes I wasn't around!"
+                "textRight": "Se sienten incómodas a nuestro alrededor.@¡Todas desean que no estemos cerca!"
             },
             {
                 "chara": [
@@ -366,7 +366,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "They ran away from us when we saw them at@the shrine, remember?!"
+                "textRight": "¡Huyeron de nosotras cuando las vimos@en el santuario, ¿recuerdas?!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -401,7 +401,7 @@
                     }
                 ],
                 "nameRight": "Tsukasa",
-                "textRight": "[chara:101901:effect_emotion_surprise_0][se:7226_shock]...?!"
+                "textRight": "[chara:101901:effect_emotion_surprise_0][se:7226_shock]¿¡...!?"
             },
             {
                 "chara": [
@@ -413,7 +413,7 @@
                     }
                 ],
                 "nameLeft": "Tsukuyo",
-                "textLeft": "No, that's not..."
+                "textLeft": "No, eso no es..."
             },
             {
                 "chara": [
@@ -425,7 +425,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "We just didn't know what to say, because the@judgments you received were so harsh!"
+                "textRight": "Simplemente no sabíamos qué decir, ¡porque@las sentencias que recibieron fueron muy duras!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -460,7 +460,7 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "textLeft": "See? You've got it all wrong!"
+                "textLeft": "¿Lo ven? ¡Lo entendieron todo mal!"
             },
             {
                 "chara": [
@@ -468,7 +468,7 @@
                         "id": 100601
                     }
                 ],
-                "textLeft": "How old do you think you are, in the first@place?!"
+                "textLeft": "¿¡Cuántos años tienen, en primer lugar!?"
             },
             {
                 "chara": [
@@ -477,7 +477,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Er..."
+                "textRight": "Er... 12 este año..."
             },
             {
                 "chara": [
@@ -486,7 +486,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "I'm much older than you. It's more or less@too late for me to change my ways."
+                "textLeft": "Yo tengo 19 años, así que ya es un@poco tarde para mí para cambiar."
             },
             {
                 "chara": [
@@ -496,7 +496,7 @@
                         "id": 100601
                     }
                 ],
-                "textLeft": "But you have plenty of time to turn things@around."
+                "textLeft": "Pero ustedes aún tienen mucho tiempo@para cambiar."
             },
             {
                 "chara": [
@@ -505,7 +505,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "Maybe I'm not qualified to say this, since I@couldn't convince you two in the past..."
+                "textLeft": "Tal vez no sea la más indicada para decir esto,@ya que no pude convencerlas en el pasado..."
             },
             {
                 "chara": [
@@ -513,7 +513,7 @@
                         "id": 100601
                     }
                 ],
-                "textLeft": "But I think we older Magical Girls have a@responsibility to guide you to change."
+                "textLeft": "Pero creo que nosotras, las mayores, tenemos@la responsabilidad de guiarlas hacia el cambio."
             },
             {
                 "chara": [
@@ -524,7 +524,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "There's no need for you to die, since you@CAN still change."
+                "textLeft": "No es necesario que mueran,@ya que aún PUEDEN cambiar."
             },
             {
                 "chara": [
@@ -562,7 +562,7 @@
                     }
                 ],
                 "nameLeft": "Mitama",
-                "textLeft": "I agree with Mifuyu..."
+                "textLeft": "Estoy de acuerdo con Mifuyu..."
             },
             {
                 "chara": [
@@ -571,7 +571,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Please, can't you adjust the [textBlue:Rumor] once more?"
+                "textLeft": "Por favor, ¿no pueden ajustar@el [textBlue:Rumor] una vez más?"
             },
             {
                 "chara": [
@@ -591,7 +591,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textRight": "Since the Eternal Sakura is acting as a@judge, I don't know what might happen..."
+                "textRight": "Dado que la Sakura Eterna está actuando@como jueza, no sé lo que podría pasar..."
             },
             {
                 "chara": [
@@ -604,7 +604,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "Anyway, it's fine. We've already made up@our minds."
+                "textCenter": "De todos modos, no pasa nada.@Ya hemos tomado una decisión."
             },
             {
                 "chara": [
@@ -614,7 +614,7 @@
                         "id": 100701
                     }
                 ],
-                "textCenter": "But I'm glad that we still have friends like@you."
+                "textCenter": "Pero me alegro de que aún tengamos@amigas como ustedes."
             },
             {
                 "chara": [
@@ -625,7 +625,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "Me too."
+                "textRight": "Yo también."
             },
             {
                 "bgm": "stop",
@@ -641,7 +641,7 @@
                 ],
                 "nameLeft": "Iroha",
                 "surround": "7003_wind",
-                "textLeft": "Then don't give up."
+                "textLeft": "Entonces no se rindan."
             },
             {
                 "bgm": "bgm05_event05",
@@ -677,7 +677,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "There are people out there collecting the@surveys right now."
+                "textLeft": "Hay gente ahí fuera recogiendo las encuestas@ahora mismo."
             },
             {
                 "chara": [
@@ -687,7 +687,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "I'm asking you, please don't decide the@verdict before we see the survey results..."
+                "textLeft": "Te lo pido, por favor, no decidas el veredicto antes@de que veamos los resultados de las encuestas..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -727,7 +727,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Please, Eternal Sakura..."
+                "textRight": "Por favor, Sakura Eterna..."
             },
             {
                 "autoTurnLast": 1,
@@ -751,7 +751,7 @@
                     }
                 ],
                 "nameLeft": "Eternal Sakura",
-                "textLeft": "| I apologize. It's out of my control. |"
+                "textLeft": "| Lo siento. Está fuera de mi control. |"
             },
             {
                 "autoTurnLast": 0.5,
@@ -788,7 +788,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textCenter": "Dying isn't the answer..."
+                "textCenter": "Morir no es la solución..."
             },
             {
                 "chara": [
@@ -796,7 +796,7 @@
                         "id": 101501
                     }
                 ],
-                "textCenter": "Iroha and so many others were saved thanks@to you..."
+                "textCenter": "Iroha y muchas otras fueron salvadas@gracias a ustedes..."
             },
             {
                 "chara": [
@@ -807,7 +807,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "Even now Magical Girls are having their @Soul Gems' impurities cleansed."
+                "textCenter": "Incluso ahora las impurezas de las Soul Gems@de las Chicas Mágicas están siendo limpiadas."
             },
             {
                 "chara": [
@@ -817,7 +817,7 @@
                         "id": 101501
                     }
                 ],
-                "textCenter": "Who do you think did that?"
+                "textCenter": "¿Quién crees que lo hizo?"
             },
             {
                 "chara": [
@@ -828,7 +828,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "Aren't we all alive now thanks to you two,@Touka and Nemu?!"
+                "textCenter": "¿¡No estamos todas vivas ahora gracias@a ustedes dos, Touka y Nemu!?"
             },
             {
                 "autoTurnLast": 0.1,
@@ -878,7 +878,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Sis..."
+                "textRight": "Hermana..."
             },
             {
                 "chara": [
@@ -889,7 +889,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "If the Eternal Sakura tries to kill you,@I will also fight."
+                "textRight": "Si la Sakura Eterna intenta asesinarlas,@yo también lucharé."
             },
             {
                 "chara": [
@@ -898,7 +898,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "I'll protect my friends until the very end!"
+                "textRight": "¡Protegeré a mis amigas hasta el final!"
             },
             {
                 "chara": [
@@ -909,7 +909,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Yes. You're right."
+                "textLeft": "Sí. Tienes razón."
             },
             {
                 "chara": [
@@ -918,7 +918,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Let's protect them until the surveys@arrive... You and I."
+                "textLeft": "Protejámoslas hasta que lleguen las encuestas...@Tú y yo."
             },
             {
                 "autoTurnLast": 1.5,

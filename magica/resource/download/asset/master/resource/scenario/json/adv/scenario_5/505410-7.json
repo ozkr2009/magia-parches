@@ -44,7 +44,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "I feel a little embarrassed."
+                "textRight": "Me siento un poco avergonzada."
             },
             {
                 "chara": [
@@ -52,8 +52,8 @@
                         "id": 304302
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| Why? |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| ¿Por qué? |"
             },
             {
                 "chara": [
@@ -61,7 +61,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| It felt like a future of joy, where no one@is left out from finding happiness. |"
+                "textLeft": "| Parecía un futuro feliz, en el que nadie@se quedaba sin encontrar la felicidad. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -84,7 +84,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "If anything, it made me wonder if my wish@is any good."
+                "textRight": "En todo caso, me hizo preguntarme@si mi deseo es realmente bueno."
             },
             {
                 "chara": [
@@ -92,7 +92,7 @@
                         "id": 101501
                     }
                 ],
-                "textRight": "I should be the one feeling embarrassed."
+                "textRight": "Debería ser yo la que se sienta avergonzada."
             },
             {
                 "chara": [
@@ -104,7 +104,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Why do you say that?"
+                "textLeft": "¿Por qué dices eso?"
             },
             {
                 "chara": [
@@ -113,7 +113,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Because all I wanted to see is \"the four of@us getting along.\""
+                "textRight": "Porque todo lo que quería ver era a@\"nosotras cuatro llevándonos bien\"."
             },
             {
                 "chara": [
@@ -126,7 +126,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Mine is embarrassing, too."
+                "textLeft": "El mío también es vergonzoso."
             },
             {
                 "chara": [
@@ -134,7 +134,7 @@
                         "id": 100701
                     }
                 ],
-                "textLeft": "I want \"a future where I learn everything@about the universe, and save humanity.\""
+                "textLeft": "Quiero \"un futuro en el que aprenda todo@sobre el universo y salve a la humanidad\"."
             },
             {
                 "chara": [
@@ -147,7 +147,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Mine is \"a future where I'm renowned across@the world\"..."
+                "textRight": "El mío es \"un futuro en el que soy@reconocida en todo el mundo\"..."
             },
             {
                 "chara": [
@@ -155,7 +155,7 @@
                         "id": 101403
                     }
                 ],
-                "textRight": "Mine appears to be the most selfish."
+                "textRight": "El mío parece ser el más egoísta."
             },
             {
                 "chara": [
@@ -175,7 +175,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "But I think it would be wonderful if each of@those futures came true."
+                "textRight": "Pero creo que sería maravilloso que cada uno@de esos futuros se hiciera realidad."
             },
             {
                 "chara": [
@@ -183,8 +183,8 @@
                         "id": 304302
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| I agree. |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| Estoy de acuerdo. |"
             },
             {
                 "chara": [
@@ -195,7 +195,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "| Being alive is a gift in and of itself. |"
+                "textLeft": "| Estar viva es un regalo en sí mismo. |"
             },
             {
                 "chara": [
@@ -206,7 +206,7 @@
                         "motion": 301
                     }
                 ],
-                "textRight": "Because we're Magical Girls, right?"
+                "textRight": "Porque somos Chicas Mágicas, ¿verdad?"
             },
             {
                 "chara": [
@@ -216,7 +216,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| That's right. |"
+                "textLeft": "| Así es. |"
             },
             {
                 "chara": [
@@ -227,7 +227,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "| Which shall we view next? How about@Touka's future? |"
+                "textLeft": "| ¿Cuál deberíamos ver ahora?@¿Qué tal el futuro de Touka? |"
             },
             {
                 "chara": [
@@ -240,7 +240,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Uh, no thanks!"
+                "textRight": "Uh, ¡no gracias!"
             },
             {
                 "chara": [
@@ -250,7 +250,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| Why? |"
+                "textLeft": "| ¿Por qué? |"
             },
             {
                 "chara": [
@@ -261,7 +261,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "It's just too embarrassing when you compare@it to what Iroha wished for."
+                "textRight": "Es demasiado vergonzoso cuando lo comparas@con lo que deseó Iroha."
             },
             {
                 "chara": [
@@ -274,7 +274,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "I don't have the confidence to follow hers@either..."
+                "textRight": "Yo tampoco tengo la confianza@como para hacerlo..."
             },
             {
                 "chara": [
@@ -287,7 +287,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Was my wish that off-putting?"
+                "textLeft": "¿Tan incómodo fue mi deseo...?"
             },
             {
                 "chara": [
@@ -295,7 +295,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "Sorry... Now I feel kind of bad..."
+                "textLeft": "Lo siento... Ahora me siento un poco mal..."
             },
             {
                 "chara": [
@@ -308,7 +308,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "N-no. You shouldn't apologize, Iroha."
+                "textRight": "N-no. No deberías disculparte, Iroha."
             },
             {
                 "chara": [
@@ -321,7 +321,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Our self-absorption is the problem."
+                "textRight": "El problema es nuestro egoísmo."
             },
             {
                 "chara": [
@@ -340,8 +340,8 @@
                         "pos": 2
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| What about yours, Ui...? |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| ¿Qué hay del tuyo, Ui...? |"
             },
             {
                 "chara": [
@@ -349,7 +349,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| Do you not want to see it? |"
+                "textLeft": "| ¿No quieres verlo? |"
             },
             {
                 "chara": [
@@ -359,7 +359,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Yes, I do! Please show me!"
+                "textRight": "¡Sí quiero! ¡Muéstrame, por favor!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -437,8 +437,8 @@
                         "pos": 2
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| All right, I'll ask. |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| Está bien, preguntaré. |"
             },
             {
                 "bgm": "stop",
@@ -462,7 +462,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "| It has nothing to show, it says. |"
+                "textLeft": "| Dice que no tiene nada que mostrar. |"
             },
             {
                 "chara": [
@@ -475,7 +475,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "What...?"
+                "textRight": "¿Qué...?"
             },
             {
                 "chara": [
@@ -486,7 +486,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "| Though we knew that already. |"
+                "textLeft": "| Aunque eso ya lo sabíamos. |"
             },
             {
                 "chara": [
@@ -499,7 +499,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Yeah, I had a feeling..."
+                "textRight": "Sí, tenía el presentimiento..."
             },
             {
                 "chara": [
@@ -512,7 +512,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Ui?"
+                "textLeft": "¿Ui?"
             },
             {
                 "bgm": "bgm03_story08",
@@ -521,7 +521,7 @@
                         "id": 101501
                     }
                 ],
-                "textRight": "...I know what's going on."
+                "textRight": "... Sé lo que está pasando."
             },
             {
                 "chara": [
@@ -529,7 +529,7 @@
                         "id": 101501
                     }
                 ],
-                "textRight": "We probably can't see Touka and Nemu's@futures..."
+                "textRight": "Probablemente no podemos ver@el futuro de Touka y Nemu..."
             },
             {
                 "chara": [
@@ -537,7 +537,7 @@
                         "id": 101501
                     }
                 ],
-                "textRight": "Isn't that right, Eternal Sakura?"
+                "textRight": "¿No es así, Sakura Eterna?"
             },
             {
                 "chara": [
@@ -550,7 +550,7 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -560,7 +560,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textLeft": "| It says yes, nothing is there. |"
+                "textLeft": "| Dice que así es, no hay nada. |"
             },
             {
                 "chara": [
@@ -573,7 +573,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "The four of us can't get along, so we can't@see their futures...?"
+                "textLeft": "¿Nosotras cuatro no podemos llevarnos bien y@por eso no podemos ver sus futuros...?"
             },
             {
                 "chara": [
@@ -582,7 +582,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "They weren't in your future either, Sis."
+                "textRight": "Tampoco estaban en tu futuro, hermana."
             },
             {
                 "chara": [
@@ -593,7 +593,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "That can't mean... Is this a joke...?"
+                "textLeft": "¿¡Eso no significará que...!?@Es una broma, ¿verdad...?"
             },
             {
                 "autoTurnLast": 4,
@@ -627,7 +627,7 @@
                     }
                 ],
                 "nameNarration": "Ui",
-                "narration": "[textRed:The two of them...are planning on dying.]",
+                "narration": "[textRed:Ellas dos... están planeando morir.]",
                 "narrationEffect": "in"
             },
             {
@@ -663,7 +663,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "I thought it was odd that they wanted to@visit all the best places first."
+                "textCenter": "Ya me parecía raro que quisieran visitar@los mejores lugares primero."
             },
             {
                 "chara": [
@@ -673,7 +673,7 @@
                         "motion": 200
                     }
                 ],
-                "textCenter": "It was like they were in a huge rush to@die!"
+                "textCenter": "¡Era como si tuviesen una gran prisa por morir!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -711,7 +711,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Is that true?"
+                "textRight": "¿Es eso cierto?"
             },
             {
                 "chara": [
@@ -728,7 +728,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {

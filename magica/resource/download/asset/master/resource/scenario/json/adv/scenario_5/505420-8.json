@@ -42,9 +42,9 @@
                         "mouthOpen": 1
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
+                "nameCenter": "Sakura Eterna",
                 "textBg": "shout",
-                "textCenter": "[flashEffect:flashWhite2][surround:3043A01]| Yaaaaaahhh! |",
+                "textCenter": "[flashEffect:flashWhite2][surround:3043A01]| ¡Yaaaaaahhh! |",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -69,7 +69,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "[flashEffect:flashRed1][surround:3043A03][chara:100100:effect_shake][bgEffect:shakeLarge]Hurgh...!"
+                "textCenter": "[flashEffect:flashRed1][surround:3043A03][chara:100100:effect_shake][bgEffect:shakeLarge]¡Hurgh...!"
             },
             {
                 "chara": [
@@ -82,7 +82,7 @@
                     }
                 ],
                 "nameRight": "Tsukuyo",
-                "textRight": "Iroha!"
+                "textRight": "¡Iroha!"
             },
             {
                 "chara": [
@@ -94,7 +94,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "I-I'm...okay! I can still fight!"
+                "textCenter": "¡E-estoy... bien! ¡Aún puedo luchar!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -118,12 +118,12 @@
             },
             {
                 "nameNarration": "",
-                "narration": "[se:7106_telmail]*Beep beep*",
+                "narration": "[se:7106_telmail]*Bip bip*",
                 "narrationEffect": "in",
                 "turnChangeOut": "rollOutFast"
             },
             {
-                "narration": "[se:7106_telmail]*Beep Beep*"
+                "narration": "[se:7106_telmail]*Bip bip*"
             },
             {
                 "chara": [
@@ -134,7 +134,7 @@
                 ],
                 "nameRight": "Mitama",
                 "narrationEffect": "out",
-                "textRight": "Iroha! The texts are coming in!"
+                "textRight": "¡Iroha! ¡Los mensajes están llegando!"
             },
             {
                 "chara": [
@@ -144,7 +144,7 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "textLeft": "Yachan and the others are collecting the@surveys right now!"
+                "textLeft": "¡Yachan y las demás están reuniendo@las encuestas ahora mismo!"
             },
             {
                 "autoTurnLast": 0.01,
@@ -175,7 +175,7 @@
                 ],
                 "nameRight": "Iroha",
                 "textBg": "shout",
-                "textRight": "Eternal Sakura!",
+                "textRight": "¡Sakura Eterna!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -185,7 +185,7 @@
                     }
                 ],
                 "textBg": "shout",
-                "textRight": "Please let me submit evidence that the@surveys are coming in!"
+                "textRight": "¡Por favor, déjame presentar pruebas@de que las encuestas están en camino!"
             },
             {
                 "chara": [
@@ -197,7 +197,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "textRight": "*Gasp* *Wheeze*"
+                "textRight": "*Jadeo* *Jadeo*"
             },
             {
                 "bgm": "stop",
@@ -211,7 +211,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "surround": "7003_wind",
                 "textLeft": "| ... |"
             },
@@ -238,7 +238,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "| If I find out you've fabricated evidence,@you, too, will be punished. |"
+                "textLeft": "| Si descubro que has fabricado pruebas,@tú también serás juzgada. |"
             },
             {
                 "chara": [
@@ -246,7 +246,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| Is what you have to submit accurate? |"
+                "textLeft": "| ¿Es correcta la información? |"
             },
             {
                 "chara": [
@@ -257,7 +257,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yes. You can check them yourself."
+                "textRight": "Sí. Puedes comprobarlo tú misma."
             },
             {
                 "chara": [
@@ -266,7 +266,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "| Let me see them. |"
+                "textLeft": "| Déjame verlas. |"
             },
             {
                 "chara": [
@@ -277,7 +277,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Can the trial be delayed?"
+                "textRight": "¿Puede posponerse el juicio?"
             },
             {
                 "chara": [
@@ -286,7 +286,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "| Only after checking the images. If it is@as Nemu Hiiragi said... |"
+                "textLeft": "| Solo después de revisar las imágenes.@Si es como dijo Nemu Hiiragi... |"
             },
             {
                 "chara": [
@@ -294,7 +294,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| ...and the deadline is proven to have been@tampered with, I will accept them. |"
+                "textLeft": "| ... y se demuestra que el plazo de entrega ha sido@manipulado intencionadamente, las aceptaré. |"
             },
             {
                 "chara": [
@@ -302,7 +302,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| But, the surveys must arrive here by the@end of the day. |"
+                "textLeft": "| Pero, las encuestas deberán@llegar aquí al final del día. |"
             },
             {
                 "chara": [
@@ -311,7 +311,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Here you are..."
+                "textRight": "Aquí tienes..."
             },
             {
                 "chara": [
@@ -340,7 +340,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| I will check for traces of data@falsification. |"
+                "textLeft": "| Comprobaré si hay rastros@de falsificación de datos. |"
             },
             {
                 "chara": [
@@ -362,7 +362,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textLeft": "[chara:304302:eyeClose_0][chara:304302:lipSynch_1]| Very well... |"
+                "textLeft": "[chara:304302:eyeClose_0][chara:304302:lipSynch_1]| Muy bien... |"
             },
             {
                 "bgm": "bgm03_story06",
@@ -380,7 +380,7 @@
                     }
                 ],
                 "surround": "stop",
-                "textLeft": "| The evidence is acceptable. Please submit@the surveys by the end of the day. |"
+                "textLeft": "| Las pruebas son aceptables. Por favor,@presenten las encuestas al final del día. |"
             },
             {
                 "chara": [
@@ -392,7 +392,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "Th-thank goodness..."
+                "textRight": "G-gracias a Dios..."
             },
             {
                 "chara": [
@@ -402,7 +402,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| I really mean this... |"
+                "textLeft": "| Lo digo en serio... |"
             },
             {
                 "chara": [
@@ -411,7 +411,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "| Thank you, Iroha. |"
+                "textLeft": "| Muchas gracias, Iroha. |"
             },
             {
                 "chara": [
@@ -419,7 +419,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| I was able to hold myself back because of@your quick thinking. |"
+                "textLeft": "| Pude contenerme gracias a tu rapidez mental. |"
             },
             {
                 "chara": [
@@ -430,7 +430,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "I saw when Ai went into a frenzy, so I knew@what state you were in."
+                "textRight": "Vi cuando Ai entró en frenesí,@así que supe en qué estado estabas."
             },
             {
                 "autoTurnLast": 0.1,
@@ -460,7 +460,7 @@
                     }
                 ],
                 "nameRight": "Mitama",
-                "textRight": "You did wonderfully, Iroha."
+                "textRight": "Lo hiciste de maravilla, Iroha."
             },
             {
                 "chara": [
@@ -472,7 +472,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Thanks for your help, too, Mitama and@Mifuyu."
+                "textLeft": "Gracias también por su ayuda, Mitama y Mifuyu."
             },
             {
                 "autoTurnLast": 0.5,
@@ -499,7 +499,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Sis..."
+                "textRight": "Hermana..."
             },
             {
                 "chara": [
@@ -510,7 +510,7 @@
                         "motion": 301
                     }
                 ],
-                "textLeft": "I'm so relieved."
+                "textLeft": "Estoy tan aliviada."
             },
             {
                 "chara": [
@@ -520,7 +520,7 @@
                         "id": 100100
                     }
                 ],
-                "textLeft": "Now we can wait for Yachiyo and everyone to@get back."
+                "textLeft": "Ahora podemos esperar a que@Yachiyo y las demás regresen."
             },
             {
                 "chara": [
@@ -531,7 +531,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Yeah."
+                "textRight": "Sí."
             },
             {
                 "autoTurnLast": 0.5,
@@ -572,7 +572,7 @@
                     }
                 ],
                 "nameRight": "Tsukasa",
-                "textRight": "But we don't know what the surveys say..."
+                "textRight": "Pero no sabemos lo que dicen las encuestas..."
             },
             {
                 "chara": [
@@ -583,7 +583,7 @@
                     }
                 ],
                 "nameCenter": "Tsukuyo",
-                "textCenter": "I think it'll be all right, Tsukasa."
+                "textCenter": "Creo que todo irá bien, Tsukasa."
             },
             {
                 "chara": [
@@ -593,7 +593,7 @@
                     }
                 ],
                 "nameLeft": "Mifuyu",
-                "textLeft": "Yes. Looking at the photos, I think it will@turn out in our favor."
+                "textLeft": "Sí. Viendo las fotos,@creo que resultará a nuestro favor."
             },
             {
                 "autoTurnLast": 0.5,
@@ -638,7 +638,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Touka and Nemu."
+                "textLeft": "Touka y Nemu."
             },
             {
                 "chara": [
@@ -667,7 +667,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "You should read these."
+                "textLeft": "Deberían leerlas."
             },
             {
                 "chara": [
@@ -675,7 +675,7 @@
                         "id": 100100
                     }
                 ],
-                "textLeft": "They're photos, but you can clearly see@what people have written."
+                "textLeft": "Son fotos, pero se ve claramente@lo que la gente ha escrito."
             },
             {
                 "chara": [
@@ -719,32 +719,32 @@
             {
                 "bgm": "bgm05_event10",
                 "nameNarration": "",
-                "narration": "\"Considering what they did, I don't think@they should be let off without punishment,@but I don't think a death sentence is right,@either. That would just feel wrong.\"",
+                "narration": "\"Teniendo en cuenta todo lo que hicieron,@no creo que deban quedar libres de castigo,@pero tampoco me parece correcta@una condena a muerte.@Eso simplemente se sentiría mal.\"",
                 "narrationEffect": "in",
                 "narrationHAlignment": "left",
                 "narrationPosX": 130,
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "\"The Magical Girls of Kamihama are banding@together now. It's an important time.@I think that killing them sends the wrong@message. Please reconsider.\""
+                "narration": "\"Las Chicas Mágicas de Kamihama@están tratando de unirse ahora.@Es un momento importante.@Creo que matarlas sería un mensaje@equivocado.@Por favor, reconsidérenlo.\""
             },
             {
-                "narration": "\"I'm really angry about what they did to our@city, but I won't feel better if they're@dead. They should atone some other way.\""
+                "narration": "\"Estoy muy enfadada por lo@que le hicieron a nuestra ciudad,@pero matarlas no me haría sentir mejor.@Creo que deberían expiarlo de otra manera.\""
             },
             {
-                "narration": "\"We must take into consideration that many@of us are alive thanks to those girls. We@can't turn our backs on them when we@continue to be indebted to them.\""
+                "narration": "\"Debemos tener en cuenta que muchas de@nosotras estamos vivas gracias a esas chicas.@No podemos darles la espalda cuando@seguimos en deuda con ellas.\""
             },
             {
-                "narration": "\"My house is ruined, so if I saw them in@person I might tell them to go die. But@I'll be fine as long as I don't see them.\""
+                "narration": "\"Mi casa está en ruinas,@así que si las viera en persona@podría decirles que se mueran.@Pero estaré bien mientras no las vea.\""
             },
             {
-                "narration": "\"I heard these girls speak at that meeting.@Aren't they the only ones who know all@about Magical Girls, Witches, and Kyubey?@Wouldn't it be bad if they died?\""
+                "narration": "\"Escuché a esas chicas hablar en esa reunión.@¿Será que son las únicas que saben todo@sobre las Chicas Mágicas, las Brujas y Kyubey?@¿No sería malo perderlas?\""
             },
             {
-                "narration": "\"I don't know who raised them, but they need@a good scolding. Then give them a more@experienced mentor. It'd be awful to kill@them without trying to rehabilitate them. I'd@lose faith in the system if that happened.\""
+                "narration": "\"No sé en qué tipo de ambiente crecieron,@pero no hay duda de que el castigo es@absolutamente necesario, para luego@recibir el apoyo de sus mayores.@Sería horrible matarlas sin intentar@rehabilitarlas. Me decepcionaría que@eso ocurriera.\""
             },
             {
-                "narration": "\"We're almost the same age.@I'd like to meet them.\""
+                "narration": "\"Tenemos casi la misma edad.@Me gustaría hablar con ellas.\""
             },
             {
                 "armatureList": [
@@ -835,7 +835,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Thank goodness..."
+                "textLeft": "Gracias a Dios..."
             },
             {
                 "autoTurnLast": 2,

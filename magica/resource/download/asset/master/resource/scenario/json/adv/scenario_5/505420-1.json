@@ -17,14 +17,14 @@
             },
             {
                 "bgm": "bgm03_story07",
-                "nameNarration": "Eternal Sakura",
-                "narration": "| After Touka and Nemu were sentenced... |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Después de que Touka y Nemu@fueran sentenciadas... |",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| The others were given their judgments@based on the crimes they committed, and any@actions that may lessen their punishment.@The rest of the day went rather quickly. |"
+                "narration": "| En el primer juicio se desarrolló@con gran rapidez en un solo día,@y todas recibieron sus sentencias@en función de los delitos cometidos@y cualquier acción que pudiera@disminuir el castigo. |"
             },
             {
                 "armatureList": [
@@ -53,8 +53,8 @@
             },
             {
                 "bgm": "bgm03_story12",
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Mifuyu Azusa, please come forward. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Mifuyu Azusa, por favor pasa al frente. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
@@ -71,7 +71,7 @@
                 ],
                 "nameRight": "Mifuyu",
                 "narrationEffect": "out",
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -84,7 +84,7 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -99,8 +99,8 @@
                 "textRight": "..."
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Your powers are to be revoked. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Eres sentenciada a la pena incapacitante. |",
                 "narrationEffect": "in"
             },
             {
@@ -114,7 +114,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textRight": "I...[wait:0.8][chara:100601:lipSynch_1]see..."
+                "textRight": "...[wait:0.8][chara:100601:lipSynch_1] Ya veo..."
             },
             {
                 "chara": [
@@ -127,7 +127,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "That means she'll die if she ever tries to@transform again, doesn't it...?"
+                "textRight": "Eso significa que morirá si vuelve@a intentar transformarse, ¿no...?"
             },
             {
                 "chara": [
@@ -137,7 +137,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "| Yes. |"
+                "textLeft": "| Así es. |"
             },
             {
                 "autoTurnLast": 0.01,
@@ -167,7 +167,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "She saved me, though.",
+                "textRight": "Pero ella me salvó.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -179,7 +179,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "She's not allowed to transform anymore...?"
+                "textRight": "¿Ya no tendrá permitido transformarse...?"
             },
             {
                 "chara": [
@@ -189,7 +189,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "Compared to Touka and Nemu's punishments,@hers might be appropriate..."
+                "textLeft": "Tal vez no sea una sorpresa si lo comparamos@con las sentencias de Touka y Nemu..."
             },
             {
                 "chara": [
@@ -197,7 +197,7 @@
                         "id": 100201
                     }
                 ],
-                "textLeft": "I thought they would use the Eternal Sakura@to lessen their punishments..."
+                "textLeft": "Sin embargo... pensé que usarían a la Sakura@Eterna para disminuir sus castigos..."
             },
             {
                 "chara": [
@@ -210,7 +210,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "No, they did the complete opposite..."
+                "textRight": "No, hicieron todo lo contrario..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -233,19 +233,19 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Using the position you had cultivated,@you manipulated vulnerable Magical Girls@to carry out deplorable acts of evil. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Utilizando la posición@que habías alcanzado,@manipulaste a débiles y vulnerables@Chicas Mágicas para llevar a cabo@deplorables actos de maldad. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| You also acknowledge using your influence@to expand and maintain the organization@known as The Wings of the Magius. |"
+                "narration": "| También reconoces haber hecho esfuerzos@para expandir y mantener la organización@conocida como Las Alas del Magius a través@de tu capacidad unificadora y liderazgo. |"
             },
             {
-                "narration": "| As such, the maximum penalty is appropriate;@however, there is testimony that you resisted@orders and helped destroy Fendt Hope. |"
+                "narration": "| Por lo tanto, la pena máxima sería@apropiada, pero también hay testimonios@de que participaste en la resistencia interna@y desempeñaste un papel decisivo en la@destrucción de Fendt Hope. |"
             },
             {
-                "narration": "| With this in mind, your sentence@has been reduced. |"
+                "narration": "| Teniendo esto en cuenta,@tu sentencia ha sido reducida. |"
             },
             {
                 "autoTurnLast": 1.5,
@@ -253,8 +253,8 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Mitama Yakumo. Please come forward. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Mitama Yakumo, por favor pasa al frente. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -270,7 +270,7 @@
                 ],
                 "nameRight": "Mitama",
                 "narrationEffect": "out",
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -283,7 +283,7 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -296,8 +296,8 @@
                 "textRight": "..."
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Your powers are revoked, conditionally. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Eres sentenciada a la pena incapacitante,@bajo condición. |",
                 "narrationEffect": "in"
             },
             {
@@ -309,7 +309,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textRight": "I see..."
+                "textRight": "Ya veo..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -341,7 +341,7 @@
                     }
                 ],
                 "nameRight": "Kanagi",
-                "textRight": "Good... I'm relieved...",
+                "textRight": "Bien... Es un alivio...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -352,7 +352,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "If she got the maximum penalty, you probably@would've obliterated the Eternal Sakura."
+                "textLeft": "Si hubiera sido la pena máxima, probablemente@habrías aniquilado a la Sakura Eterna, ¿no?"
             },
             {
                 "chara": [
@@ -361,7 +361,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "I'm not so sure about that..."
+                "textRight": "Bueno, no estoy tan segura de eso..."
             },
             {
                 "chara": [
@@ -369,7 +369,7 @@
                         "id": 101601
                     }
                 ],
-                "textRight": "The two Magius girls got that sentence.@I wouldn't have been surprised..."
+                "textRight": "Con la sentencia que recibieron las dos chicas@de Magius, no me sorprende..."
             },
             {
                 "chara": [
@@ -382,7 +382,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Besides, Mitama was giving them Grief Seeds,@fully knowing the Magius's objectives..."
+                "textRight": "Además, Mitama les estaba dando Grief Seeds,@sabiendo perfectamente sus objetivos..."
             },
             {
                 "chara": [
@@ -395,7 +395,7 @@
                     }
                 ],
                 "nameRight": "Sana",
-                "textRight": "It's still a heavy sentence, even if it has@been lightened. So was Mifuyu's."
+                "textRight": "Sigue siendo una dura sentencia aunque se@haya reducido, como en el caso de Mifuyu."
             },
             {
                 "chara": [
@@ -405,7 +405,7 @@
                         "id": 100301
                     }
                 ],
-                "textLeft": "I don't get the criteria, but the sentences@seem really serious."
+                "textLeft": "No entiendo el criterio, pero las sentencias@parecen muy serias."
             },
             {
                 "chara": [
@@ -414,7 +414,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I wonder if they're leaving it up to the@Magical Girls in the second trial...?"
+                "textLeft": "Me pregunto si lo dejarán en manos de@las Chicas Mágicas en el segundo juicio..."
             },
             {
                 "autoTurnLast": 0.01,
@@ -437,22 +437,22 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| You misrepresented your position as neutral@while you helped the Magius, fully aware of @their goals and aiding in Eve's growth. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Conocías las verdaderas intenciones@de las Magius, y aun así seguiste@cooperando con ellas bajo la fachada@de tu neutralidad, contribuyendo@al crecimiento de Eve. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| Your serious crime of trafficking Grief@Seeds collected from Magical Girls was the@primary cause of Kamihama's devastation. |"
+                "narration": "| Entre tus crímenes, traficar con las@Grief Seeds obtenidas de las Chicas Mágicas@fue uno grave, y fue la causa principal de@la destrucción de Kamihama. |"
             },
             {
-                "narration": "| Normally you would receive the maximum@penalty, but you helped save some Magical Girls,@and you were integral to Ui's rescue. |"
+                "narration": "| Dicho esto, habrías recibido la pena@máxima, pero también ayudaste a mantener@con vida a muchas Chicas Mágicas y jugaste@un papel importante en el rescate de Ui. |"
             },
             {
-                "narration": "| Therefore, you will receive@a lighter sentence. |"
+                "narration": "| Por lo tanto,@recibirás una sentencia más leve. |"
             },
             {
-                "narration": "| You may only transform to perform your@jobs as Coordinator. I cannot guarantee your@safety if you transform for other purposes. |"
+                "narration": "| En cuanto a la condición@de la transformación, solo podrás@transformarte para realizar tus@trabajos como Coordinadora.@No puedo garantizar tu seguridad@si te transformas para otros fines. |"
             },
             {
                 "autoTurnLast": 1,
@@ -460,8 +460,8 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Amane sisters, please come forward. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Hermanas Amane,@por favor pasen al frente. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
@@ -484,7 +484,7 @@
                 ],
                 "nameCenter": "Tsukuyo",
                 "narrationEffect": "out",
-                "textCenter": "Yes..."
+                "textCenter": "Sí..."
             },
             {
                 "chara": [
@@ -493,7 +493,7 @@
                     }
                 ],
                 "nameRight": "Tsukasa",
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -506,7 +506,7 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -528,8 +528,8 @@
                 "textRight": "..."
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| You two shall have your powers restricted. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Serán sentenciadas a la pena incapacitante. |",
                 "narrationEffect": "in"
             },
             {
@@ -540,7 +540,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textRight": "That means it won't be easy to transform from@now on, right?"
+                "textRight": "Eso significa que no será fácil transformarse@a partir de ahora, ¿verdad?"
             },
             {
                 "chara": [
@@ -549,7 +549,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "We understand..."
+                "textCenter": "Lo entendemos..."
             },
             {
                 "autoTurnLast": 1,
@@ -578,7 +578,7 @@
                     }
                 ],
                 "nameRight": "Tsuruno",
-                "textRight": "The White Feathers didn't know a lot, so @maybe that's why they got off easier...?",
+                "textRight": "Las Plumas Blancas no sabían mucho, así que@quizás por eso se libraron más fácilmente...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -589,7 +589,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "They've been members since the group was@formed, so it's still a heavy sentence..."
+                "textLeft": "Sigue siendo algo fuerte, ya que fueron miembros@desde que se formó la organización."
             },
             {
                 "chara": [
@@ -598,7 +598,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "The other Feathers can't be blamed, so@I suppose it has to be this way."
+                "textLeft": "No se puede culpar a las otras Plumas,@así que supongo que tiene que ser así."
             },
             {
                 "autoTurnLast": 0.2,
@@ -632,7 +632,7 @@
                     }
                 ],
                 "nameRight": "Sana",
-                "textRight": "I'm upset that Alina isn't here..."
+                "textRight": "Me molesta que Alina no esté aquí..."
             },
             {
                 "chara": [
@@ -641,7 +641,7 @@
                     }
                 ],
                 "nameLeft": "Felicia",
-                "textLeft": "No kiddin'..."
+                "textLeft": "Es cierto..."
             },
             {
                 "chara": [
@@ -650,7 +650,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "She never stopped makin' fun of me."
+                "textLeft": "Nunca dejaba de burlarse de mí."
             },
             {
                 "chara": [
@@ -658,7 +658,7 @@
                         "id": 100501
                     }
                 ],
-                "textLeft": "And she tried to destroy everything!"
+                "textLeft": "¡Y trató de destruirlo todo!"
             },
             {
                 "chara": [
@@ -671,7 +671,7 @@
                     }
                 ],
                 "nameRight": "Tsuruno",
-                "textRight": "There's nothing anyone can do if she can't@be found."
+                "textRight": "Pero mientras no la encontremos,@no podemos hacer nada..."
             },
             {
                 "autoTurnLast": 1,
@@ -701,19 +701,19 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| The two of you were in charge of the Black@Feathers, and were founding members of the@group. You also raised Witches, trafficked@Grief Seeds, and defended [textBlue:Rumors]. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Las dos estaban a cargo de las@Plumas Negras y fueron miembros@fundadores de la organización.@También criaban Brujas, traficaban con@Grief Seeds y defendían [textBlue:Rumores]. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| But you were not aware of many important@details, and can't be judged for all crimes. |"
+                "narration": "| Pero no estuvieron al tanto@de muchos detalles importantes,@por lo que no se les puede juzgar@por todos los delitos. |"
             },
             {
-                "narration": "| Also, you led the Feathers when Kamihama@was in a state of panic. Therefore,@you have been given lighter sentences. |"
+                "narration": "| Además, ustedes lideraron a@las Plumas cuando Kamihama@estaba sumida en el caos,@así que decidí que esta sentencia@era la apropiada. |"
             },
             {
-                "narration": "| You were not given the lighter sentence of@monitoring as a caution to you, so that you@think carefully about what you have done. |"
+                "narration": "| No se les impuso la pena leve@de supervisión como advertencia,@a fin de que piensen detenidamente@en lo que han hecho. |"
             },
             {
                 "autoTurnLast": 1,
@@ -752,7 +752,7 @@
                 ],
                 "nameLeft": "Touka",
                 "surround": "7007_evening_townbuzz",
-                "textLeft": "All done, finally.",
+                "textLeft": "Por fin se acabó.",
                 "turnChangeOut": "fadeOut",
                 "turnChangeOutTime": 1
             },
@@ -766,7 +766,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Yes. Thank you, everyone."
+                "textRight": "Sí. Gracias a todas."
             },
             {
                 "chara": [
@@ -777,7 +777,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Trials are always so stuffy. Can't we@shorten them, somehow...?"
+                "textLeft": "Los juicios son siempre tan pesados.@¿No podemos acortarlos, de alguna manera...?"
             },
             {
                 "chara": [
@@ -788,7 +788,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "The second trial will look at the surveys,@so it will definitely take a long time."
+                "textRight": "El segundo juicio analizará todas las encuestas,@por lo que sin duda llevará mucho tiempo."
             },
             {
                 "autoTurnLast": 0.2,
@@ -824,7 +824,7 @@
                 ],
                 "nameLeft": "Ui",
                 "surround": "stop",
-                "textLeft": "How..."
+                "textLeft": "Cómo..."
             },
             {
                 "chara": [
@@ -832,7 +832,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "How can you act so calm...?"
+                "textLeft": "¿Cómo pueden estar tan tranquilas...?"
             },
             {
                 "chara": [
@@ -841,7 +841,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "She told the two of you that you should die!"
+                "textLeft": "¡Les dijo a las dos que debían morir!"
             },
             {
                 "chara": [
@@ -863,8 +863,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| I'm sorry. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Lo siento. |"
             },
             {
                 "chara": [
@@ -873,7 +873,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "It's not your fault, Eternal Sakura..."
+                "textLeft": "No es tu culpa, Sakura Eterna..."
             },
             {
                 "chara": [
@@ -881,7 +881,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "You're just doing your job..."
+                "textLeft": "Solo haces tu trabajo..."
             },
             {
                 "chara": [
@@ -890,7 +890,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "But, but still...!"
+                "textLeft": "Pero, ¡pero aún así...!"
             },
             {
                 "chara": [
@@ -903,7 +903,7 @@
                     }
                 ],
                 "nameRight": "Mifuyu",
-                "textRight": "Ui, it's still only the first trial."
+                "textRight": "Ui, todavía es solo el primer juicio."
             },
             {
                 "chara": [
@@ -911,7 +911,7 @@
                         "id": 100601
                     }
                 ],
-                "textRight": "Today was for receiving rulings based on@the evidence."
+                "textRight": "Hoy era para recibir sentencias@basadas en las pruebas."
             },
             {
                 "chara": [
@@ -919,7 +919,7 @@
                         "id": 100601
                     }
                 ],
-                "textRight": "Please don't worry too much about it."
+                "textRight": "Por favor, no te preocupes demasiado."
             },
             {
                 "chara": [
@@ -936,7 +936,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "I think the two of them are just as worried@as you are."
+                "textRight": "Creo que las dos están tan preocupadas como tú."
             },
             {
                 "chara": [
@@ -944,7 +944,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "In fact, what they've done is commendable."
+                "textRight": "De hecho, lo que hicieron es admirable."
             },
             {
                 "chara": [
@@ -954,7 +954,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "Why...?"
+                "textLeft": "¿Por qué...?"
             },
             {
                 "chara": [
@@ -963,7 +963,7 @@
                         "motion": 301
                     }
                 ],
-                "textRight": "Touka and Nemu adjusted the Eternal Sakura@themselves."
+                "textRight": "Touka y Nemu ajustaron ellas mismas@a la Sakura Eterna."
             },
             {
                 "chara": [
@@ -971,7 +971,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "And they sought a ruling that would be@acceptable to everyone."
+                "textRight": "Por lo que buscaron una sentencia@que fuera aceptable para todas."
             },
             {
                 "chara": [
@@ -982,7 +982,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "[chara:101501:lipSynch_1]That's true..."
+                "textLeft": "[chara:101501:lipSynch_1]Es cierto..."
             },
             {
                 "autoTurnLast": 0.1,
@@ -1023,7 +1023,7 @@
                     }
                 ],
                 "nameLeft": "Mitama",
-                "textLeft": "I believe I received a fair and thorough@ruling."
+                "textLeft": "Yo también creo que he recibido@una sentencia justa."
             },
             {
                 "chara": [
@@ -1031,7 +1031,7 @@
                         "id": 101701
                     }
                 ],
-                "textLeft": "Now is the time to work together with the@Magical Girls of Kamihama, after all."
+                "textLeft": "Ahora es el momento de que las Chicas Mágicas@de Kamihama trabajen juntas."
             },
             {
                 "chara": [
@@ -1040,7 +1040,7 @@
                     }
                 ],
                 "nameCenter": "Tsukuyo",
-                "textCenter": "I agree..."
+                "textCenter": "Estamos de acuerdo..."
             },
             {
                 "chara": [
@@ -1050,7 +1050,7 @@
                     }
                 ],
                 "nameRight": "Tsukasa",
-                "textRight": "We weren't aware of everything, but we still@tried to use Witches to reach our goals."
+                "textRight": "No estábamos al tanto de todo, pero aun así@usamos Brujas para alcanzar nuestros objetivos."
             },
             {
                 "chara": [
@@ -1059,7 +1059,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "We should have thought things over more@carefully at that point..."
+                "textCenter": "Deberíamos haber pensado las cosas@más detenidamente en ese momento..."
             },
             {
                 "chara": [
@@ -1068,7 +1068,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "Yeah, I can't argue with that."
+                "textRight": "Sí, no podemos discutirlo."
             },
             {
                 "chara": [
@@ -1077,7 +1077,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "For sure..."
+                "textCenter": "Así es..."
             },
             {
                 "autoTurnLast": 0.1,
@@ -1115,7 +1115,7 @@
                     }
                 ],
                 "nameRight": "Kanagi",
-                "textRight": "No, there's one thing we can dispute..."
+                "textRight": "No, hay una cosa que podemos discutir..."
             },
             {
                 "chara": [
@@ -1125,7 +1125,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "I agree."
+                "textLeft": "Estoy de acuerdo."
             },
             {
                 "chara": [
@@ -1138,7 +1138,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "What is it?"
+                "textRight": "¿Qué cosa?"
             },
             {
                 "chara": [
@@ -1146,7 +1146,7 @@
                         "id": 100201
                     }
                 ],
-                "textLeft": "The judgments are not taking how old they are@into account."
+                "textLeft": "Las sentencias no están teniendo@en cuenta su edad."
             },
             {
                 "chara": [
@@ -1155,7 +1155,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "These rulings should not be given to girls of@their age."
+                "textLeft": "Estas sentencias no deberían darse@a niñas de su edad."
             },
             {
                 "chara": [
@@ -1168,7 +1168,7 @@
                     }
                 ],
                 "nameRight": "Kanagi",
-                "textRight": "It's clear we're on the same page. Makes@sense, doesn't it, Little Miss Touka?"
+                "textRight": "Parece que pensamos lo mismo.@¿Qué opinas tú, señorita Touka?"
             },
             {
                 "autoTurnLast": 0.1,

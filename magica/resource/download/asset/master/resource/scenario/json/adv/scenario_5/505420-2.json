@@ -30,7 +30,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Taking their ages into account...",
+                "textLeft": "Tener en cuenta sus edades...",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -42,7 +42,7 @@
                     }
                 ],
                 "nameRight": "Yachiyo",
-                "textRight": "It's why I thought they would be safe, even@though the maximum penalty was mentioned."
+                "textRight": "Es por eso que pensé que estarían a salvo,@a pesar de que mencionaron la pena máxima."
             },
             {
                 "chara": [
@@ -50,7 +50,7 @@
                         "id": 100201
                     }
                 ],
-                "textRight": "Touka and Nemu are pretty young, which@should be an advantage..."
+                "textRight": "Touka y Nemu son muy jóvenes,@lo que debería ser una ventaja..."
             },
             {
                 "chara": [
@@ -59,7 +59,7 @@
                         "motion": 301
                     }
                 ],
-                "textRight": "Had you planned from the start that the@other Magical Girls will decide your fate?"
+                "textRight": "¿Acaso habías planeado desde el principio que@las otras Chicas Mágicas decidieran sus destinos?"
             },
             {
                 "autoTurnLast": 0.2,
@@ -104,7 +104,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "We didn't think our ages would matter very@much, so we just didn't add them in."
+                "textLeft": "Simplemente no pensamos que nuestras edades@fueran a importar mucho, así que no las añadimos."
             },
             {
                 "chara": [
@@ -116,7 +116,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "We didn't expect that the judgments would@turn out this way."
+                "textRight": "No esperábamos que las sentencias@terminaran así."
             },
             {
                 "autoTurnLast": 0.1,
@@ -139,7 +139,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "I don't think that's something to shrug off@like that."
+                "textLeft": "No creo que sea algo para tomar tan a la ligera."
             },
             {
                 "chara": [
@@ -171,7 +171,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "It's admirable that you are staying@accountable for your crimes."
+                "textLeft": "Es admirable que se responsabilicen@por sus crímenes."
             },
             {
                 "chara": [
@@ -182,7 +182,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "But you should realize what you've been@told."
+                "textLeft": "Pero deberían darse cuenta@de lo que les han dicho."
             },
             {
                 "chara": [
@@ -190,7 +190,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "You really were given the maximum penalty.@You're being told to die..."
+                "textLeft": "Realmente te dieron la pena máxima.@Te han dicho que debes morir..."
             },
             {
                 "chara": [
@@ -201,7 +201,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Doing this for appearance's sake is fine,@but you have to take this seriously."
+                "textLeft": "Aunque sea solo para guardar las apariencias,@tienen que tomárselo en serio."
             },
             {
                 "chara": [
@@ -209,7 +209,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "The Eternal Sakura will go through with it."
+                "textLeft": "La Sakura Eterna definitivamente las ejecutará."
             },
             {
                 "chara": [
@@ -224,7 +224,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "I'll enter our ages for the next trial.@Don't worry, Iroha."
+                "textCenter": "Me aseguraré de incluir nuestras edades para@el próximo juicio. No te preocupes, Iroha."
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "You have the digital data?"
+                "textRight": "¿Tienes los datos en digital?"
             },
             {
                 "chara": [
@@ -243,7 +243,7 @@
                         "id": 100101
                     }
                 ],
-                "textCenter": "Yeah, I had it ready, I just hadn't entered@it in."
+                "textCenter": "Sí, lo tengo listo,@solo que no lo he ingresado."
             },
             {
                 "autoTurnLast": 0.2,
@@ -281,7 +281,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "I suggested three trials so that it wouldn't@be used to anyone's advantage."
+                "textLeft": "Sugerí tres juicios para que no se utilizara@en beneficio de nadie."
             },
             {
                 "chara": [
@@ -289,7 +289,7 @@
                         "id": 100201
                     }
                 ],
-                "textLeft": "I didn't think we would end up using the@multiple trials to our advantage instead."
+                "textLeft": "No pensé que acabaríamos utilizando los@múltiples juicios en nuestro beneficio."
             },
             {
                 "chara": [
@@ -299,7 +299,7 @@
                     }
                 ],
                 "nameRight": "Tsuruno",
-                "textRight": "So true."
+                "textRight": "Muy cierto."
             },
             {
                 "chara": [
@@ -308,7 +308,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "It's sort of weird that we're relieved that @there's more to come now."
+                "textRight": "Es un poco raro que ahora estemos aliviadas@de que haya más por venir."
             },
             {
                 "autoTurnLast": 1,
@@ -328,14 +328,14 @@
             },
             {
                 "bgm": "bgm03_story07",
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Even after the first trial,@I felt strange about the fact that@I was trying to kill them. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Incluso después del primer juicio,@me sentí extraña por el hecho@de que intentaba asesinarlas. |",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| Because I'm supposed to protect them. |"
+                "narration": "| Porque se supone que debo protegerlas. |"
             },
             {
                 "chara": [
@@ -344,10 +344,10 @@
                         "motion": 100
                     }
                 ],
-                "narration": "| Part of me was clinging to@the second trial for hope. |"
+                "narration": "| Una parte de mí se aferraba@al segundo juicio en busca@de esperanza. |"
             },
             {
-                "narration": "| Though I was capable of ensuring the@trials were fair, I could not say anything@that struck at the heart of the matter. | "
+                "narration": "| Ahora podría hacer una declaración@que me llevara a ser imparcial,@pero no puedo decir algo que@afecte a la raíz del asunto. |"
             },
             {
                 "chara": [
@@ -356,7 +356,7 @@
                         "motion": 300
                     }
                 ],
-                "narration": "| Despite that, Touka and Nemu had@already drawn their conclusions. |"
+                "narration": "| Sin embargo, Touka y Nemu@ya habían sacado sus conclusiones. |"
             },
             {
                 "autoTurnLast": 1,
@@ -388,7 +388,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "The more I look at things objectively, the@more I think I should die...",
+                "textRight": "Cuanto más miro las cosas objetivamente,@más creo que debería morir...",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -403,7 +403,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "The longer you protect us, the longer@everyone's anguish will continue."
+                "textRight": "Cuanto más nos protejan,@más durará la angustia de todos."
             },
             {
                 "chara": [
@@ -412,7 +412,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "We need to atone for what we did, or we@can't move forward into the future."
+                "textRight": "Tenemos que enmendar lo que hicimos,@o no podremos avanzar hacia el futuro."
             },
             {
                 "chara": [
@@ -425,7 +425,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "So you've accepted it..."
+                "textLeft": "Así que lo han aceptado..."
             },
             {
                 "chara": [
@@ -434,7 +434,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "The \"maximum penalty\"..."
+                "textLeft": "La \"pena máxima\"..."
             },
             {
                 "autoTurnLast": 0.5,
@@ -457,8 +457,8 @@
                         "id": 304302
                     }
                 ],
-                "nameNarration": "Eternal Sakura",
-                "narration": "| That's why I was never given the \"new data\"@they discussed before the second trial. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Es por eso que nunca me dieron@los \"nuevos datos\" de los que@hablaron antes del segundo juicio. |",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
@@ -504,7 +504,7 @@
                 ],
                 "nameLeft": "Ui",
                 "textBg": "shout",
-                "textLeft": "You're so stupid! Stupid!",
+                "textLeft": "¡Son unas tontas! ¡Tontas!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -557,7 +557,7 @@
                         "id": 101403
                     }
                 ],
-                "textLeft": "It means you're really... You're really going@to die!"
+                "textLeft": "Significa que realmente...@¡Realmente van a morir!"
             },
             {
                 "chara": [
@@ -567,7 +567,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "If we want to stop this..."
+                "textLeft": "Si queremos detener esto..."
             },
             {
                 "chara": [
@@ -576,7 +576,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "The only way to save you is to eliminate the@Eternal Sakura, isn't it?!"
+                "textLeft": "La única forma de salvarlas es eliminar@a la Sakura Eterna, ¿no es así?"
             },
             {
                 "chara": [
@@ -600,7 +600,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Say something!"
+                "textLeft": "¡Digan algo!"
             },
             {
                 "chara": [
@@ -608,7 +608,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "We should talk about this...[chara:101501:lipSynch_0][wait:1.0][chara:101501:cheek_2][chara:101501:face_mtn_ex_030.exp.json:motion_0][chara:101501:lipSynch_1] Think about how@I feel..."
+                "textLeft": "Deberíamos hablar de esto...@[chara:101501:lipSynch_0][wait:1.0][chara:101501:cheek_2][chara:101501:face_mtn_ex_030.exp.json:motion_0][chara:101501:lipSynch_1]Piensen en cómo me siento..."
             },
             {
                 "chara": [
@@ -620,7 +620,7 @@
                         "id": 101403
                     }
                 ],
-                "textLeft": "The two of you..."
+                "textLeft": "Ustedes dos..."
             },
             {
                 "chara": [
@@ -629,7 +629,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "To me, you're my very best friends. If, after@we survived everything together..."
+                "textLeft": "Para mí, ustedes son mis mejores amigas,@hemos sobrevivido a todo esto juntas..."
             },
             {
                 "chara": [
@@ -638,7 +638,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "We know..."
+                "textCenter": "Lo sabemos..."
             },
             {
                 "chara": [
@@ -647,7 +647,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "But we should..."
+                "textRight": "Pero seguramente..."
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                         "id": 101403
                     }
                 ],
-                "textRight": "We should not be allowed to live in this@world..."
+                "textRight": "No se nos permitirá seguir viviendo@en este mundo..."
             },
             {
                 "chara": [
@@ -670,7 +670,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "That's why we wanted to do what we could,@while we still had time."
+                "textCenter": "Por eso queríamos hacer todo lo que pudiéramos@mientras tuviéramos tiempo."
             },
             {
                 "chara": [
@@ -678,7 +678,7 @@
                         "id": 100701
                     }
                 ],
-                "textCenter": "We explained everything, about the Magius,@and about Magical Girls."
+                "textCenter": "Les explicamos todo, sobre Magius,@y sobre las Chicas Mágicas."
             },
             {
                 "chara": [
@@ -691,7 +691,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "And more than that... We did this for you,@Ui..."
+                "textCenter": "Y más que eso...@Hicimos esto por ti, Ui..."
             },
             {
                 "chara": [
@@ -701,7 +701,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "For me...?!"
+                "textLeft": "¿¡Por mí...!?"
             },
             {
                 "chara": [
@@ -711,7 +711,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "How can any of this be for me?!"
+                "textLeft": "¿¡Cómo puede ser esto por mí!?"
             },
             {
                 "autoTurnLast": 0.1,
@@ -738,7 +738,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Ui, calm down. Things can still change..."
+                "textRight": "Ui, cálmate.@Las cosas aún pueden cambiar..."
             },
             {
                 "chara": [
@@ -746,7 +746,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "We still have those surveys..."
+                "textRight": "Aún tenemos las encuestas..."
             },
             {
                 "autoTurnLast": 2,

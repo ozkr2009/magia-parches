@@ -17,30 +17,30 @@
             },
             {
                 "bgm": "bgm03_story07",
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Based on the surveys that arrived,@Touka and Nemu's sentences were reduced. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| En función de las encuestas@que llegaron, se redujeron las@sentencias de Touka y Nemu. |",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| The surveys also had a big impact on@the rulings for the other defendants. |"
+                "narration": "| Las encuestas también@influyeron mucho en las sentencias@de las demás acusadas. |"
             },
             {
-                "narration": "| Mifuyu Azusa: Monitoring.@Mitama Yakumo: Monitoring.@Amane Sisters: Not Guilty. |",
+                "narration": "| Mifuyu Azusa: Supervisión.@Mitama Yakumo: Supervisión.@Hermanas Amane: Inocentes. |",
                 "narrationHAlignment": "left",
                 "narrationPosX": 180
             },
             {
-                "narration": "| Not enough people requested that these@results be deliberated further, so we@moved on to the final verdict. |",
+                "narration": "| No hubo suficientes personas@que solicitaran que se siguiera@deliberando sobre estos resultados,@así que se pasó al veredicto final. |",
                 "narrationHAlignment": "center",
                 "narrationPosX": 0
             },
             {
-                "narration": "| A few Feathers revealed their identities@and requested they be tried as well, but@given that the Amane sisters were not@guilty, their cases were also dismissed. |"
+                "narration": "| Entonces, algunas Plumas revelaron@sus identidades y pidieron que también@fueran juzgadas, pero al no haber personal@suficiente para supervisar los casos, y al@existir el precedente de las hermanas Amane,@fueron declaradas inocentes. |"
             },
             {
-                "narration": "| Nobody was to be blamed for the natural@disasters and accidents that occurred. |"
+                "narration": "| El juicio por los desastres naturales@y los accidentes, que nadie podía juzgar,@llegó silenciosamente a su fin. |"
             },
             {
                 "autoTurnLast": 2,
@@ -75,7 +75,7 @@
                     }
                 ],
                 "nameRight": "Mifuyu",
-                "textRight": "Yachan, where is my tea?",
+                "textRight": "Yachan, ¿dónde está mi té?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -88,7 +88,7 @@
                     }
                 ],
                 "nameNarration": "",
-                "narration": "*Glare*",
+                "narration": "*Mirada fija*",
                 "narrationEffect": "in"
             },
             {
@@ -101,7 +101,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textRight": "[chara:100601:effect_emotion_surprise_0][se:7226_shock]What?!"
+                "textRight": "[chara:100601:effect_emotion_surprise_0][se:7226_shock]¿¡Ehh!?"
             },
             {
                 "chara": [
@@ -111,7 +111,7 @@
                         "id": 100601
                     }
                 ],
-                "textRight": "What's with that look?"
+                "textRight": "¿A qué viene esa mirada?"
             },
             {
                 "chara": [
@@ -121,7 +121,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "You can get your own tea."
+                "textLeft": "Nada, quiero decir que puedes@prepararte tu propio té."
             },
             {
                 "chara": [
@@ -133,8 +133,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| Shall I take this to the table? |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| ¿Llevo esto a la mesa? |"
             },
             {
                 "chara": [
@@ -145,7 +145,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Yes, thank you."
+                "textLeft": "Sí, gracias."
             },
             {
                 "autoTurnLast": 0.5,
@@ -173,7 +173,7 @@
                         "pos": 2
                     }
                 ],
-                "textLeft": "See? You could learn something from her."
+                "textLeft": "¿Ves? Podrías aprender algo de ella."
             },
             {
                 "chara": [
@@ -185,7 +185,7 @@
                     }
                 ],
                 "nameRight": "Mifuyu",
-                "textRight": "Oh my, do I have less manners than an@Uwasa?!"
+                "textRight": "Oh vaya,@¿¡tengo menos modales que una Uwasa!?"
             },
             {
                 "chara": [
@@ -195,7 +195,7 @@
                         "id": 100201
                     }
                 ],
-                "textLeft": "Take a look around you."
+                "textLeft": "Mira a tu alrededor."
             },
             {
                 "autoTurnLast": 0.2,
@@ -341,7 +341,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "This house isn't a meeting hall...",
+                "textLeft": "Esta casa no es una sala de reuniones...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -350,7 +350,7 @@
                         "id": 100601
                     }
                 ],
-                "textRight": "S-sorry..."
+                "textRight": "L-lo siento..."
             },
             {
                 "autoTurnLast": 0.5,
@@ -372,8 +372,8 @@
                         "id": 304302
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
-                "textCenter": "| Here you go. Hot cocoa for Ui and Touka. |",
+                "nameCenter": "Sakura Eterna",
+                "textCenter": "| Aquí tienen. Cacao caliente para Ui y Touka. |",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -382,7 +382,7 @@
                         "id": 304302
                     }
                 ],
-                "textCenter": "| Coffee for Nemu, and tea for Iroha. |"
+                "textCenter": "| Café para Nemu, y té para Iroha. |"
             },
             {
                 "chara": [
@@ -391,7 +391,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "| Did I get that right? |"
+                "textCenter": "| ¿Todo correcto? |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -436,7 +436,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Yes. Thank you, Eternal Sakura."
+                "textLeft": "Sí. Gracias, Sakura Eterna."
             },
             {
                 "chara": [
@@ -447,7 +447,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "I never thought we'd be able to hang out like@this ever again."
+                "textCenter": "Nunca pensé que podríamos volver a salir así."
             },
             {
                 "chara": [
@@ -458,7 +458,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "No amount of apologizing or penitence will@suffice for what we did..."
+                "textRight": "Ninguna disculpa o penitencia@será suficiente por lo que hicimos..."
             },
             {
                 "chara": [
@@ -467,7 +467,7 @@
                         "motion": 300
                     }
                 ],
-                "textCenter": "I'm sorry, too."
+                "textCenter": "Yo también lo siento."
             },
             {
                 "chara": [
@@ -478,7 +478,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "I think your punishments are more than@enough."
+                "textLeft": "Creo que sus castigos son más que suficientes."
             },
             {
                 "chara": [
@@ -491,7 +491,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Those bracelets are controlling your powers,@right?"
+                "textLeft": "Esos brazaletes en sus muñecas@controlan sus poderes, ¿verdad?"
             },
             {
                 "chara": [
@@ -502,7 +502,7 @@
                         "motion": 0
                     }
                 ],
-                "textCenter": "Yeah."
+                "textCenter": "Sí."
             },
             {
                 "chara": [
@@ -511,7 +511,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "I think it's the same as a Magical Girl@enchanting an object."
+                "textCenter": "Creo que es lo mismo que cuando@una Chica Mágica encanta un objeto."
             },
             {
                 "chara": [
@@ -521,7 +521,7 @@
                         "id": 100701
                     }
                 ],
-                "textCenter": "Even just thinking about transforming put@me in bed for an entire day..."
+                "textCenter": "Solo el pensar en transformarme@me pone en cama por un día entero..."
             },
             {
                 "chara": [
@@ -532,7 +532,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "Y-you shouldn't do that, Touka! What if it@kills you?!"
+                "textLeft": "¡N-no deberías hacer eso, Touka!@¿¡Y si te mata!?"
             },
             {
                 "chara": [
@@ -543,7 +543,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "I would never test my bracelet..."
+                "textRight": "Nunca lo intentaría con mi brazalete..."
             },
             {
                 "chara": [
@@ -551,7 +551,7 @@
                         "id": 101403
                     }
                 ],
-                "textRight": "You'd have to be insane to experiment with@it on your own body."
+                "textRight": "Tendrías que estar loca para experimentar@con ello en tu propio cuerpo."
             },
             {
                 "autoTurnLast": 0.5,
@@ -589,7 +589,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "I feel like if anyone could crack it, Touka@could. That's what's scary."
+                "textLeft": "Siento que si alguien pudiera descifrarlo,@sería Touka. Eso es lo que da miedo."
             },
             {
                 "chara": [
@@ -597,8 +597,8 @@
                         "id": 304302
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| If she does, she will have to fight me@again. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Si lo hace, tendrá que luchar contra mí otra vez. |"
             },
             {
                 "chara": [
@@ -615,7 +615,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "I don't want that!"
+                "textLeft": "¡No quiero eso!"
             },
             {
                 "chara": [
@@ -624,7 +624,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "| Well, now that the trial has concluded, I@can finally speak freely. |"
+                "textRight": "| Bueno, ahora que el juicio ha concluido,@por fin puedo hablar libremente. |"
             },
             {
                 "chara": [
@@ -641,7 +641,7 @@
                     }
                 ],
                 "nameCenter": "Nemu",
-                "textCenter": "What do you want to say?"
+                "textCenter": "¿Qué quieres decir?"
             },
             {
                 "chara": [
@@ -650,7 +650,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "| Look at me. |"
+                "textRight": "| Mírenme. |"
             },
             {
                 "chara": [
@@ -661,7 +661,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Okay."
+                "textLeft": "Okey."
             },
             {
                 "chara": [
@@ -672,7 +672,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "| Here it is. |"
+                "textRight": "| Aquí va. |"
             },
             {
                 "bgm": "stop",
@@ -683,7 +683,7 @@
                         "id": 100701
                     }
                 ],
-                "textLeft": "Huh?"
+                "textLeft": "¿Eh?"
             },
             {
                 "chara": [
@@ -693,7 +693,7 @@
                     }
                 ],
                 "nameNarration": "",
-                "narration": "[bgEffect:shakeSmall][flashEffect:flashWhite2]Slap!",
+                "narration": "[bgEffect:shakeSmall][flashEffect:flashWhite2]¡Slap!",
                 "narrationEffect": "in"
             },
             {
@@ -707,7 +707,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textLeft": "[flashEffect:flashRed1][se:3001_chara_damage][chara:100701:effect_shake]Nyagh!"
+                "textLeft": "[flashEffect:flashRed1][se:3001_chara_damage][chara:100701:effect_shake]¡Nyagh!"
             },
             {
                 "chara": [
@@ -719,7 +719,7 @@
                         "motion": 400
                     }
                 ],
-                "textCenter": "[flashEffect:flashRed1][se:3001_chara_damage][chara:101403:effect_shake]Ow!"
+                "textCenter": "[flashEffect:flashRed1][se:3001_chara_damage][chara:101403:effect_shake]¡Ow!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -757,7 +757,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "She spoke with her hands, not her mouth..."
+                "textRight": "Habló con sus manos, no con su boca..."
             },
             {
                 "autoTurnLast": 0.1,
@@ -806,8 +806,8 @@
                         "pos": 1
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| I thought it necessary to get angry with @you in order to protect you. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Creo que es necesario enfadarme con ustedes@para protegerlas. |"
             },
             {
                 "chara": [
@@ -816,7 +816,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "What's that supposed to mean?!"
+                "textLeft": "¿¡Qué se supone que significa eso!?"
             },
             {
                 "chara": [
@@ -827,7 +827,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "| Don't you dare use me for your own@convenience ever again. |"
+                "textRight": "| Desde ahora, quiero que dejen de@usarme para su propia conveniencia. |"
             },
             {
                 "chara": [
@@ -845,11 +845,11 @@
                         "id": 101403
                     }
                 ],
-                "textRight": "| It won't help you learn to be mature. |"
+                "textRight": "| No les ayudará a madurar. |"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| To tell the truth, the Uwasa have known@your personalities for quite some time. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| A decir verdad, las Uwasa@siempre hemos entendido las@personalidades de ustedes dos. |",
                 "narrationBg": "black",
                 "narrationEffect": "in"
             },
@@ -867,8 +867,8 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "― Uwasa of the Eternal Sakura ―@| Ever since we were created, we watched@over the three of you at the hospital. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "― Uwasa de la Sakura Eterna ―@| Desde que fuimos creadas, hemos cuidado@de ustedes tres en el hospital. |",
                 "narrationAnchor": "bottom",
                 "narrationCoverOpacity": 110,
                 "narrationEffect": "in",
@@ -878,33 +878,33 @@
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "― Uwasa of the Eternal Sakura ―@| I had the chance to speak with other@Uwasa about you on many occasions. |"
+                "narration": "― Uwasa de la Sakura Eterna ―@| Tuve la oportunidad de hablar con otras@Uwasas sobre ustedes en muchas ocasiones. |"
             },
             {
-                "narration": "― Uwasa of the Eternal Sakura ―@| We all felt the same way. |"
+                "narration": "― Uwasa de la Sakura Eterna ―@| Todas sentíamos lo mismo. |"
             },
             {
-                "narration": "― Uwasa of the Eternal Sakura ―@| We worried about the three of you, and@prayed that your dreams would come true. |"
+                "narration": "― Uwasa de la Sakura Eterna ―@| Nos preocupábamos por ustedes tres y@rezábamos para que sus sueños se hicieran@realidad. |"
             },
             {
-                "narration": "― Uwasa of the Eternal Sakura ―@| But we knew about your faults, too. |"
+                "narration": "― Uwasa de la Sakura Eterna ―@| Pero también conocíamos sus defectos. |"
             },
             {
                 "nameNarration": "",
-                "narration": "\"The director's daughter is very demanding.@She does whatever she wants in her lessons,@and knows she's smarter than everyone else.\""
+                "narration": "\"La hija del director es muy egoísta y problemática.@Hace lo que quiere en sus clases del hospital@y se cree mejor que los demás.\""
             },
             {
-                "narration": "\"The hospital director is very ethnocentric,@so she probably gets it from him...\""
+                "narration": "\"El director del hospital es muy etnocéntrico,@así que probablemente lo heredó de él...\""
             },
             {
-                "narration": "\"What about Nemu?\""
+                "narration": "\"¿Qué hay de Nemu?\""
             },
             {
-                "narration": "\"She used to be a crybaby, but now she is@stubborn. She needs people to hear her@opinions, and seeks approval from them.\""
+                "narration": "\"Antes era una llorona, pero ahora es testaruda.@Necesita que la gente escuche su opinión@y busca su aprobación.\""
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "― Uwasa of the Eternal Sakura ―@| We heard people say these things often. |"
+                "nameNarration": "Sakura Eterna",
+                "narration": "― Uwasa de la Sakura Eterna ―@| Oímos a la gente decir estas cosas a menudo. |"
             },
             {
                 "autoTurnLast": 2,

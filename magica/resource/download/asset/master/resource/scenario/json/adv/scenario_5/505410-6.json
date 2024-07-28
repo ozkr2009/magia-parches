@@ -38,7 +38,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textCenter": "It's done. Uwasa, are you ready?"
+                "textCenter": "Está hecho.@Uwasa, ¿estás lista?"
             },
             {
                 "autoTurnLast": 3,
@@ -70,13 +70,13 @@
             {
                 "bgm": "bgm03_story14",
                 "nameNarration": "Uwasa",
-                "narration": "Have you heard? Has anyone told you?@The Uwasa of the Stardust Time Viewer!",
+                "narration": "¿Ya lo escuchaste? ¿Alguien te lo dijo?@¡La Uwasa del Visor del Tiempo Estelar!",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "whiteOut"
             },
             {
-                "narration": "Everyone wants to know the future, to see@their dreams, their hopes, their fate."
+                "narration": "Todo el mundo quiere conocer el futuro,@ver sus sueños, sus esperanzas, su destino."
             },
             {
                 "chara": [
@@ -86,7 +86,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "narration": "Send all of your messages to it,@and it will show you what you want to see!"
+                "narration": "¡Envíale todos tus mensajes,@y te mostrará lo que quieras ver!"
             },
             {
                 "chara": [
@@ -96,10 +96,10 @@
                         "mouthOpen": 0
                     }
                 ],
-                "narration": "But you mustn't believe what you see.@It is only the future for right now!"
+                "narration": "Pero no debes creer lo que veas.@¡Ya que solo es el futuro de ahora!"
             },
             {
-                "narration": "It could change at any moment,@through someone else's will, or your own.@A hot Rumor among the girls in Chuo Ward!"
+                "narration": "Podría cambiar en cualquier momento,@por tú propia voluntad o la de otra persona.@¡Un Rumor caliente entre las chicas@del Distrito de Chuo!"
             },
             {
                 "chara": [
@@ -109,7 +109,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "narration": "I wanna see!"
+                "narration": "¡Quiero verlo!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -143,7 +143,7 @@
                 ],
                 "nameRight": "Nemu",
                 "surround": "7003_wind",
-                "textRight": "Ui, hurry. It won't last very long.",
+                "textRight": "Ui, date prisa. No durará mucho.",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "promist"
             },
@@ -155,7 +155,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Thanks, Nemu!"
+                "textLeft": "¡Gracias, Nemu!"
             },
             {
                 "chara": [
@@ -164,7 +164,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "*Exhale*"
+                "textLeft": "*Exhala*"
             },
             {
                 "chara": [
@@ -173,7 +173,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "Please... [chara:101501:lipSynch_0][wait:0.8][chara:101501:motion_400][chara:101501:lipSynch_1:eyeClose_0]Show me our future!"
+                "textLeft": "Por favor... [chara:101501:lipSynch_0][wait:0.8][chara:101501:motion_400][chara:101501:lipSynch_1:eyeClose_0]¡Muéstranos nuestro futuro!"
             },
             {
                 "autoTurnLast": 1,
@@ -211,7 +211,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Is this...outer space? Is this where the@[textBlue:Rumors] live...?",
+                "textLeft": "¿Esto es... el espacio exterior?@¿Es aquí donde viven los Rumores...?",
                 "turnChangeOut": "whiteOut",
                 "turnChangeOutTime": 3
             },
@@ -222,7 +222,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "I've never seen it firsthand like this, but@you appear to be right."
+                "textRight": "Nunca lo había visto en persona,@pero parece que tienes razón."
             },
             {
                 "chara": [
@@ -235,7 +235,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "It's a miracle that we're alive and touring@the map together..."
+                "textLeft": "Es un milagro que estemos vivas y@recorriendo el mapa juntas..."
             },
             {
                 "chara": [
@@ -244,7 +244,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "So it's bound to show us a bright future,@isn't it?"
+                "textLeft": "Estoy segura de que nos mostrará@un futuro brillante..."
             },
             {
                 "chara": [
@@ -257,7 +257,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Yeah. I'm sure that's what we'll see."
+                "textRight": "Sí. Estoy segura de que eso es lo que veremos."
             },
             {
                 "chara": [
@@ -276,8 +276,8 @@
                         "pos": 2
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| Why am I here, even though I'm an Uwasa? |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| ¿Por qué estoy aquí si soy una Uwasa? |"
             },
             {
                 "chara": [
@@ -287,7 +287,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "To minimize how much magic I'm using."
+                "textRight": "Para minimizar la cantidad de magia@que estoy usando."
             },
             {
                 "chara": [
@@ -297,7 +297,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "| ...?! |"
+                "textLeft": "| ¿¡...!? |"
             },
             {
                 "chara": [
@@ -306,7 +306,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textLeft": "| I see. I'm an interpreter. |"
+                "textLeft": "| Ya veo. Soy una intérprete. |"
             },
             {
                 "chara": [
@@ -319,7 +319,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "An interpreter?"
+                "textRight": "¿Una intérprete?"
             },
             {
                 "chara": [
@@ -330,7 +330,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "| The Stardust Uwasa can't speak, so it will@communicate through me. |"
+                "textLeft": "| La Uwasa Estelar no puede hablar,@así que se comunicará a través de mí. |"
             },
             {
                 "chara": [
@@ -343,7 +343,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "It's like you're receiving a message from the@heavens, isn't it?"
+                "textRight": "Será como hablar con una oráculo."
             },
             {
                 "chara": [
@@ -351,7 +351,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| It's saying that it can show us Iroha@Tamaki's future. |"
+                "textLeft": "| Dice que puede mostrarnos@el futuro de Iroha Tamaki. |"
             },
             {
                 "chara": [
@@ -364,7 +364,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "M-mine?!"
+                "textRight": "¿¡M-mío!?"
             },
             {
                 "chara": [
@@ -375,7 +375,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "| Yes, yours, Iroha. |"
+                "textLeft": "| Sí, el tuyo, Iroha. |"
             },
             {
                 "chara": [
@@ -384,7 +384,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Um, okay! Please tell it that I'm ready."
+                "textRight": "¡Um, okey!@Por favor, dile que estoy lista."
             },
             {
                 "chara": [
@@ -395,7 +395,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "| What future did you wish for, Iroha? |"
+                "textLeft": "| ¿Qué futuro deseaste, Iroha? |"
             },
             {
                 "chara": [
@@ -406,7 +406,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "My future..."
+                "textRight": "Mi futuro..."
             },
             {
                 "chara": [
@@ -415,7 +415,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "I asked for \"a future where all Magical Girls@get along.\""
+                "textRight": "\"Un futuro en el que todas@las Chicas Mágicas se lleven bien\"."
             },
             {
                 "autoTurnLast": 2,
@@ -447,7 +447,7 @@
                     }
                 ],
                 "nameRight": "Yachiyo",
-                "textRight": "That took a long time, Iroha.",
+                "textRight": "Eso llevó mucho tiempo, Iroha.",
                 "turnChangeOut": "whiteOut",
                 "turnEffect": "ef_adv_10"
             },
@@ -460,7 +460,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Yes...but I'm glad I didn't give up..."
+                "textLeft": "Sí... pero me alegro de no haberme rendido..."
             },
             {
                 "chara": [
@@ -469,7 +469,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "That's true. Our system has expanded across@the world now."
+                "textRight": "Cierto. Y ahora nuestro sistema@se ha expandido por todo el mundo."
             },
             {
                 "chara": [
@@ -477,7 +477,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "No one will suffer anymore."
+                "textRight": "Nadie volverá a sufrir."
             },
             {
                 "chara": [
@@ -487,7 +487,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Yes..."
+                "textLeft": "Sí..."
             },
             {
                 "chara": [
@@ -507,7 +507,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "Hey guys! The celebration's about to start!"
+                "textLeft": "¡Oigan, chicas!@¡La celebración está a punto de comenzar!"
             },
             {
                 "chara": [
@@ -519,7 +519,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "There's tons of food here! And it's all way@fancier than Yachiyo's cookin'!"
+                "textRight": "¡Hay toneladas de comida aquí!@¡Y se ve mucho mejor que la comida de Yachiyo!"
             },
             {
                 "chara": [
@@ -532,7 +532,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "I suppose this means you won't eat my simple@dishes anymore, Felicia."
+                "textLeft": "Supongo que esto significa que ya no comerás@mis simples platillos, Felicia."
             },
             {
                 "chara": [
@@ -543,7 +543,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "[chara:100501:effect_emotion_surprise_0][se:7226_shock]Huhhh?! N-no! I was just kiddin', obviously!"
+                "textRight": "[chara:100501:effect_emotion_surprise_0][se:7226_shock]¿¡Huhhh!? ¡N-no!@¡Solo estaba bromeando, en serio!"
             },
             {
                 "chara": [
@@ -563,7 +563,7 @@
                     }
                 ],
                 "nameRight": "Sana",
-                "textRight": "Let's go, Iroha. Everyone is waiting!"
+                "textRight": "Vamos, Iroha.@¡Todas están esperando!"
             },
             {
                 "chara": [
@@ -573,7 +573,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Okay, let's go!"
+                "textLeft": "¡Bien, vamos!"
             },
             {
                 "chara": [
@@ -584,7 +584,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "I'm really happy right now!"
+                "textRight": "¡Estoy muy feliz ahora mismo!"
             },
             {
                 "chara": [
@@ -595,7 +595,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Me too."
+                "textLeft": "Yo también."
             },
             {
                 "chara": [
@@ -608,7 +608,7 @@
                     }
                 ],
                 "nameRight": "Kyubey",
-                "textRight": "Hello, Iroha Tamaki."
+                "textRight": "Hola, Iroha Tamaki."
             },
             {
                 "chara": [
@@ -627,7 +627,7 @@
                         "id": 810000
                     }
                 ],
-                "textRight": "Is it really okay that you invited me?"
+                "textRight": "¿Realmente está bien que me hayas invitado?"
             },
             {
                 "chara": [
@@ -638,7 +638,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "Of course."
+                "textLeft": "Por supuesto."
             },
             {
                 "chara": [
@@ -647,7 +647,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "We have our differences."
+                "textLeft": "Tenemos nuestras diferencias."
             },
             {
                 "chara": [
@@ -655,7 +655,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "But we can finally work to protect the @universe together, now."
+                "textLeft": "Pero ahora por fin podemos trabajar juntos@para proteger el universo."
             },
             {
                 "chara": [
@@ -664,7 +664,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "That's right."
+                "textRight": "Así es."
             },
             {
                 "chara": [
@@ -672,7 +672,7 @@
                         "id": 810000
                     }
                 ],
-                "textRight": "Building and maintaining a good rapport with@you girls is important to me."
+                "textRight": "Construir y mantener una buena relación@con ustedes es importante para mí."
             },
             {
                 "chara": [
@@ -680,7 +680,7 @@
                         "id": 810000
                     }
                 ],
-                "textRight": "I'm glad to be working with you, Iroha@Tamaki."
+                "textRight": "Me alegro de trabajar contigo, Iroha Tamaki."
             },
             {
                 "chara": [
@@ -691,7 +691,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Same here, Kyubey."
+                "textLeft": "Lo mismo digo, Kyubey."
             },
             {
                 "chara": [
@@ -702,7 +702,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "Come on, Ui."
+                "textLeft": "Vamos, Ui."
             },
             {
                 "chara": [
@@ -715,7 +715,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Okay!"
+                "textRight": "¡Okey!"
             },
             {
                 "autoTurnLast": 1,
@@ -736,14 +736,14 @@
             },
             {
                 "nameNarration": "Iroha",
-                "narration": "A world where Magical Girls@don't fight each other.",
+                "narration": "Un mundo donde las Chicas Mágicas@no luchen entre ellas.",
                 "narrationCoverOpacity": 100,
                 "narrationEffect": "in",
                 "turnChangeOut": "whiteOut",
                 "turnChangeOutTime": 3
             },
             {
-                "narration": "In this world, we reach a compromise@with Kyubey, and we succeed in stopping@the destruction of the universe."
+                "narration": "En este mundo, llegamos a un acuerdo@con Kyubey y logramos detener la@destrucción del universo que@Touka y las demás temían."
             },
             {
                 "chara": [
@@ -755,7 +755,7 @@
                         "motion": 300
                     }
                 ],
-                "narration": "But we don't sacrifice@anyone to achieve this."
+                "narration": "Y no sacrificamos a nadie@para conseguirlo."
             },
             {
                 "chara": [
@@ -766,7 +766,7 @@
                         "id": 100101
                     }
                 ],
-                "narration": "It's idealistic, but nobody gets hurt,@and everyone lives happily@ever after in this best ending."
+                "narration": "Es idealista, pero nadie sale herido@y todas viven felices para siempre@en este gran final."
             },
             {
                 "chara": [
@@ -779,7 +779,7 @@
                 ],
                 "nameCenter": "Iroha",
                 "narrationEffect": "out",
-                "textCenter": "(Even as a Magical Girl, I want to be a good@person...)"
+                "textCenter": "(Incluso como Chica Mágica,@quiero ser una buena persona...)"
             },
             {
                 "chara": [
@@ -788,7 +788,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "textCenter": "(I want to achieve this future without anyone@losing their dignity.)"
+                "textCenter": "(Quiero lograr este futuro@sin dañar la dignidad de nadie.)"
             },
             {
                 "autoTurnLast": 2,

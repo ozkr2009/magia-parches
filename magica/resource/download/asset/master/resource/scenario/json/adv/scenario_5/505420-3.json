@@ -139,19 +139,19 @@
             },
             {
                 "bgm": "bgm03_story12",
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Let us begin the second trial. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Comencemos el segundo juicio. |",
                 "narrationEffect": "in",
                 "surround": "stop"
             },
             {
-                "narration": "| The judgments shall be modified based on@surveys distributed to all Magical Girls. |"
+                "narration": "| Las sentencias se modificarán en@función de las encuestas distribuidas@a todas las Chicas Mágicas. |"
             },
             {
-                "narration": "| This trial is divided into three parts.@Touka Satomi and Nemu Hiiragi are first. |"
+                "narration": "| Debido al tiempo necesario@para revisar los contenidos,@este juicio se dividirá en tres partes.@Touka Satomi y Nemu Hiiragi@serán las primeras. |"
             },
             {
-                "narration": "| If anyone has evidence or a statement to@help the defendants, please submit them. |"
+                "narration": "| Así que si alguien tiene@pruebas o algún testimonio@que ayude a las acusadas,@por favor, que los presente. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -181,7 +181,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Iroha... Are the surveys still not here yet?"
+                "textRight": "Iroha... ¿Aún no han llegado las encuestas?"
             },
             {
                 "chara": [
@@ -191,7 +191,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "It doesn't seem like it."
+                "textLeft": "Parece que no."
             },
             {
                 "autoTurnLast": 0.01,
@@ -225,7 +225,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "Maybe someone got caught by a Witch and@couldn't make it?"
+                "textRight": "¿Quizás alguien fue atrapada@por una Bruja y no pudo llegar?"
             },
             {
                 "chara": [
@@ -234,7 +234,7 @@
                     }
                 ],
                 "nameLeft": "Tsuruno",
-                "textLeft": "They're being collected in groups, from the@east, west, south, and center of the city."
+                "textLeft": "Se están recogiendo en grupos,@del este, oeste, centro y sur de la ciudad."
             },
             {
                 "chara": [
@@ -243,7 +243,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "It's hard to believe that all of the groups@are delayed."
+                "textLeft": "Es difícil creer que todos los grupos@estén llegando tarde."
             },
             {
                 "chara": [
@@ -256,7 +256,7 @@
                     }
                 ],
                 "nameRight": "Kanagi",
-                "textRight": "It does seem unnatural. Maybe someone is@interfering..."
+                "textRight": "No parece natural.@Tal vez alguien está interfiriendo..."
             },
             {
                 "chara": [
@@ -268,8 +268,8 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| No materials have been submitted. We shall@reflect on the previous trial results. |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| Ahora, suponiendo que no hay ningún material,@repasaré los resultados del anterior juicio. |"
             },
             {
                 "chara": [
@@ -282,7 +282,7 @@
                     }
                 ],
                 "nameRight": "Yachiyo",
-                "textRight": "This isn't good..."
+                "textRight": "Esto no es bueno..."
             },
             {
                 "autoTurnLast": 1,
@@ -322,7 +322,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -331,17 +331,17 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "| You are to answer for the following@crimes: |"
+                "textLeft": "| Se te acusa principalmente@de los siguientes cargos: |"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| - You planned the events that bring us here.@- You summoned Witches to Kamihama City.@- You used technology to disturb the peace.@- You tricked the Feathers and made them mad.@- You knowingly planned for casualties. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "｜- Ideaste este plan desde cero.@-Trajiste Brujas a Kamihama.@- Usaste ondas de radio y otras tecnologías,@amenazando la vida de la gente.@- Engañaste a las Plumas y las@pusiste en un estado de locura.@- Ejecutaste el plan sabiendo los daños. ｜",
                 "narrationEffect": "in",
                 "narrationHAlignment": "left",
                 "narrationPosX": 130
             },
             {
-                "narration": "| I will skip the details to save time. Do@you disagree with any of these charges? |",
+                "narration": "| Me saltaré los detalles@para ahorrar tiempo.@¿Estás en desacuerdo con alguna@de estas acusaciones? |",
                 "narrationHAlignment": "center",
                 "narrationPosX": 0
             },
@@ -353,11 +353,11 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textRight": "No, they're exactly right."
+                "textRight": "No, está todo correcto."
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| I will address other charges as needed. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Luego abordaremos otros cargos@si es necesario. |",
                 "narrationEffect": "in"
             },
             {
@@ -419,8 +419,8 @@
                         "id": 304302
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| Next, Nemu Hiiragi. |",
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| Siguiente, Nemu Hiiragi. |",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -430,7 +430,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -438,11 +438,11 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| You are to answer for the following@crimes: |"
+                "textLeft": "| Se te acusa principalmente@de los siguientes cargos: |"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| - You created Uwasa involving civilians.@- You supported the summoning of Witches.@- You attempted to cause wide-scale harm.@- You manipulated your followers with Uwasa.@- You knowingly planned for casualties. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "｜ - Creaste Uwasas e involucraste a civiles.@- Apoyaste en el llamamiento de las Brujas.@- Intentaste causar intencionadamente@grandes daños.@- Manipulaste a tus seguidoras con una Uwasa.@- Ejecutaste el plan sabiendo los daños.｜",
                 "narrationEffect": "in",
                 "narrationHAlignment": "left",
                 "narrationPosX": 130
@@ -454,7 +454,7 @@
                         "motion": 100
                     }
                 ],
-                "narration": "| I will skip the details to save time. Do@you disagree with any of these charges? |",
+                "narration": "| Me saltaré los detalles@para ahorrar tiempo.@¿Estás en desacuerdo con alguna@de estas acusaciones? |",
                 "narrationHAlignment": "center",
                 "narrationPosX": 0
             },
@@ -466,7 +466,7 @@
                     }
                 ],
                 "narrationEffect": "out",
-                "textRight": "I do not."
+                "textRight": "No lo estoy."
             },
             {
                 "chara": [
@@ -475,8 +475,8 @@
                         "motion": 0
                     }
                 ],
-                "nameNarration": "Eternal Sakura",
-                "narration": "| I will address other charges as needed. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Luego abordaremos otros cargos@si es necesario. |",
                 "narrationEffect": "in"
             },
             {
@@ -491,7 +491,7 @@
                 ],
                 "nameRight": "Mifuyu",
                 "narrationEffect": "out",
-                "textRight": "Excuse me, may I say something?"
+                "textRight": "Disculpe, ¿puedo decir algo?"
             },
             {
                 "chara": [
@@ -502,7 +502,7 @@
                         "motion": 1
                     }
                 ],
-                "textLeft": "| Defendants may not speak unless called @upon. |"
+                "textLeft": "| Las acusadas no pueden intervenir@a menos que sean llamadas. |"
             },
             {
                 "chara": [
@@ -510,7 +510,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| Please only speak when permitted. |"
+                "textLeft": "| Por favor, hablen solo cuando se les permita. |"
             },
             {
                 "chara": [
@@ -552,7 +552,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "We can't wait any longer...",
+                "textLeft": "No podemos esperar más...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -563,7 +563,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "I'll stop her!"
+                "textRight": "¡La detendré!"
             },
             {
                 "autoTurnLast": 0.2,
@@ -592,7 +592,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "Excuse me!",
+                "textRight": "¡Disculpa!",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -604,8 +604,8 @@
                         "motion": 100
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
-                "textLeft": "| What is it? |"
+                "nameLeft": "Sakura Eterna",
+                "textLeft": "| ¿Qué pasa? |"
             },
             {
                 "chara": [
@@ -616,7 +616,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "The surveys haven't arrived yet."
+                "textRight": "Las encuestas aún no han llegado."
             },
             {
                 "chara": [
@@ -624,7 +624,7 @@
                         "id": 100101
                     }
                 ],
-                "textRight": "May we have until tomorrow to collect them?"
+                "textRight": "¿Podemos tener hasta mañana para recogerlas?"
             },
             {
                 "chara": [
@@ -635,7 +635,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "| The trial has already begun, so we can't@adjourn. |"
+                "textLeft": "| El juicio ya ha comenzado,@así que no podemos suspenderlo. |"
             },
             {
                 "chara": [
@@ -657,7 +657,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "| But I can wait. |"
+                "textLeft": "| Pero puedo esperar. |"
             },
             {
                 "chara": [
@@ -668,7 +668,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "How long do we have...?"
+                "textRight": "¿Cuánto tiempo tenemos...?"
             },
             {
                 "chara": [
@@ -676,7 +676,7 @@
                         "id": 304302
                     }
                 ],
-                "textLeft": "| One hour is within reason. |"
+                "textLeft": "| Una hora está dentro de lo razonable. |"
             },
             {
                 "chara": [
@@ -685,7 +685,7 @@
                         "motion": 301
                     }
                 ],
-                "textRight": "One hour..."
+                "textRight": "Una hora..."
             },
             {
                 "autoTurnLast": 2,

@@ -29,7 +29,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "The historiography room is still there, but@I very much doubt it will be open."
+                "textRight": "La sala de historiografía sigue ahí,@pero dudo mucho que esté abierta."
             },
             {
                 "chara": [
@@ -51,7 +51,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textLeft": "Being here makes me remember that day..."
+                "textLeft": "Estar aquí me hace recordar ese día..."
             },
             {
                 "chara": [
@@ -61,7 +61,7 @@
                         "motion": 300
                     }
                 ],
-                "textRight": "We caused all of this..."
+                "textRight": "Nosotras causamos todo esto..."
             },
             {
                 "bgm": "bgm03_story12",
@@ -76,7 +76,7 @@
                 ],
                 "nameLeft": "Touka",
                 "surround": "stop",
-                "textLeft": "Yeah..."
+                "textLeft": "Sí..."
             },
             {
                 "chara": [
@@ -84,7 +84,7 @@
                         "id": 100701
                     }
                 ],
-                "textLeft": "I keep remembering how I was when I had lost@my memory."
+                "textLeft": "Aún recuerdo cómo era cuando@había perdido la memoria."
             },
             {
                 "autoTurnLast": 0.1,
@@ -106,8 +106,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| You erased your own memories, along with@everyone else's. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Ustedes borraron sus propias memorias,@junto con las de todos los demás. |"
             },
             {
                 "chara": [
@@ -115,7 +115,7 @@
                         "id": 304302
                     }
                 ],
-                "textRight": "| But the opportunity for atonement will@arise, so long as you're alive. |"
+                "textRight": "| Pero mientras vivan,@la oportunidad de redención surgirá. |"
             },
             {
                 "chara": [
@@ -124,7 +124,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "| It's good that you were able to see this. |"
+                "textRight": "| Es bueno que hayan podido ver esto. |"
             },
             {
                 "chara": [
@@ -137,7 +137,7 @@
                     }
                 ],
                 "nameCenter": "Nemu",
-                "textCenter": "This is a moment for self-admonition..."
+                "textCenter": "Este es un recordatorio para nosotras..."
             },
             {
                 "chara": [
@@ -146,7 +146,7 @@
                         "motion": 0
                     }
                 ],
-                "textLeft": "You say that, Eternal Sakura, but we don't@know if our atonement will be accepted."
+                "textLeft": "Dices eso, Sakura Eterna, pero no sabemos@si nuestra redención será aceptada."
             },
             {
                 "autoTurnLast": 0.1,
@@ -184,7 +184,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "Did you insist on seeing these three things,@so we could face reality, Ui?"
+                "textRight": "¿Insististe en ver estas tres cosas para que@pudiéramos afrontar la realidad, Ui?"
             },
             {
                 "bgm": "stop",
@@ -195,7 +195,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "E-er... Not really..."
+                "textLeft": "E-em... No realmente..."
             },
             {
                 "chara": [
@@ -204,7 +204,7 @@
                     }
                 ],
                 "surround": "7003_wind",
-                "textLeft": "I really wanted to use the Stardust Time@Viewer if we could..."
+                "textLeft": "Realmente quería usar el Visor de Tiempo Estelar@si es que estaba disponible..."
             },
             {
                 "chara": [
@@ -215,7 +215,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "That's...!"
+                "textRight": "¡Eso era...!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -248,7 +248,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "That's why I want to go.",
+                "textRight": "—por eso quiero ir!",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -260,7 +260,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "I know how you feel, Ui, but I think it'll@be dangerous..."
+                "textLeft": "Sé cómo te sientes, Ui,@pero creo que sería peligroso..."
             },
             {
                 "chara": [
@@ -269,7 +269,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "Even still! Please?!"
+                "textRight": "¡Aún así! ¡Por favor, ¿sí?!"
             },
             {
                 "chara": [
@@ -277,7 +277,7 @@
                         "id": 101501
                     }
                 ],
-                "textRight": "I really want to see the \"Stardust Time@Viewer\" story!"
+                "textRight": "¡Realmente quiero ver la historia del@\"Visor del Tiempo Estelar\"!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -309,7 +309,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "B-because it's...!",
+                "textLeft": "¡E-era por eso!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -318,7 +318,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "You were against it because it's a story in@the restricted area, weren't you?"
+                "textLeft": "¡Estabas en contra porque era una historia@en el área restringida, ¿no?!"
             },
             {
                 "chara": [
@@ -327,7 +327,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I wanted to come up with an excuse to get in@here so that wouldn't be an issue anymore."
+                "textLeft": "Quería encontrar una excusa para entrar aquí@y que eso dejara de ser un problema."
             },
             {
                 "chara": [
@@ -339,7 +339,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "*Sigh*"
+                "textRight": "Cielos..."
             },
             {
                 "chara": [
@@ -352,7 +352,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "But why do you care so much about the@Stardust Time Viewer?"
+                "textRight": "Pero, ¿por qué te importa tanto@el Visor del Tiempo Estelar?"
             },
             {
                 "chara": [
@@ -363,7 +363,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "Well, you know... I wanted to use it to@help motivate us..."
+                "textLeft": "Bueno, ya sabes...@Quería usarlo para ayudar a motivarnos..."
             },
             {
                 "chara": [
@@ -376,7 +376,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "What do you mean?"
+                "textRight": "¿A qué te refieres?"
             },
             {
                 "autoTurnLast": 2,
@@ -400,8 +400,8 @@
                         "id": 304302
                     }
                 ],
-                "nameCenter": "Eternal Sakura",
-                "textCenter": "| It's a one-in-a-million chance. |",
+                "nameCenter": "Sakura Eterna",
+                "textCenter": "| El mapa de Kamihama donde una vez@dibujaron sus sueños. |",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -411,7 +411,7 @@
                         "id": 304302
                     }
                 ],
-                "textCenter": "| Somehow, the three of you are finally able@to tour the Kamihama you dreamt about. |"
+                "textCenter": "| Que podamos recorrerlo hoy@es una posibilidad entre un millón. |"
             },
             {
                 "chara": [
@@ -420,7 +420,7 @@
                         "id": 304302
                     }
                 ],
-                "textCenter": "| You could call it a miracle... |"
+                "textCenter": "| Un milagro por así decirlo... |"
             },
             {
                 "chara": [
@@ -430,7 +430,7 @@
                         "motion": 100
                     }
                 ],
-                "textCenter": "| So take this chance today to reignite@your drive to move yourselves forward. |"
+                "textCenter": "| Por eso quiero que usen este día@como una nueva fuente de vitalidad. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -460,7 +460,7 @@
                     }
                 ],
                 "nameCenter": "Ui",
-                "textCenter": "We grasp hope, now..."
+                "textCenter": "Agarramos la esperanza ahora..."
             },
             {
                 "chara": [
@@ -471,7 +471,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "In order to bring it into the future."
+                "textRight": "... para llevarla al futuro."
             },
             {
                 "autoTurnLast": 1,
@@ -503,7 +503,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "I wanted us to see the future and draw@strength from it.",
+                "textLeft": "Por eso quería que viéramos el futuro@y sacáramos fuerzas de él.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -512,7 +512,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "And since we wrote our wishes out at the@shrine, I think this is our moment."
+                "textLeft": "Y ya que escribimos nuestros deseos en el@santuario, creo que este es nuestro momento."
             },
             {
                 "chara": [
@@ -523,7 +523,7 @@
                         "motion": 100
                     }
                 ],
-                "textLeft": "We've all written futures that we can have@shown to us now."
+                "textLeft": "Ahora todas podremos ver@el futuro que escribimos."
             },
             {
                 "chara": [
@@ -536,7 +536,7 @@
                     }
                 ],
                 "nameRight": "Iroha",
-                "textRight": "I'm really impressed. You've grown so strong."
+                "textRight": "Estoy realmente impresionada.@Te has hecho muy fuerte."
             },
             {
                 "chara": [
@@ -547,7 +547,7 @@
                         "motion": 400
                     }
                 ],
-                "textLeft": "I was in that Half-Witch for a really long@time. I had to toughen up."
+                "textLeft": "Estuve dentro de esa Media-Bruja mucho tiempo,@así que tuve que fortalecerme."
             },
             {
                 "chara": [
@@ -558,7 +558,7 @@
                         "motion": 401
                     }
                 ],
-                "textRight": "Huh? I'm not sure that...makes sense?"
+                "textRight": "¿Eh? No estoy segura...@de que sea así como funcione..."
             },
             {
                 "chara": [
@@ -571,7 +571,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "All that said, it's impossible to see the @future."
+                "textRight": "Dicho eso, es imposible ver el futuro."
             },
             {
                 "chara": [
@@ -584,7 +584,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "She's right. You should give up on that one,@Ui."
+                "textRight": "Ella tiene razón.@Deberías dejarlo, Ui."
             },
             {
                 "chara": [
@@ -596,7 +596,7 @@
                         "pos": 0
                     }
                 ],
-                "textLeft": "But...the Stardust Time Viewer..."
+                "textLeft": "Pero... el Visor del Tiempo Estelar..."
             },
             {
                 "chara": [
@@ -609,7 +609,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "All of the [textBlue:Uwasa], besides Eternal Sakura,@have been erased and can't be recovered."
+                "textRight": "Todas las [textBlue:Uwasa], a excepción de Sakura Eterna,@han sido borradas y no se pueden recuperar."
             },
             {
                 "chara": [
@@ -622,7 +622,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Oh yeah. You did say you erased them all."
+                "textLeft": "Oh, cierto, dijiste que las habías borrado todas."
             },
             {
                 "chara": [
@@ -632,7 +632,7 @@
                         "id": 100101
                     }
                 ],
-                "textLeft": "Besides, we shouldn't make Nemu do anything@difficult in her condition."
+                "textLeft": "Además, no deberíamos forzar a Nemu@a hacer nada difícil en su estado."
             },
             {
                 "chara": [
@@ -644,8 +644,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| It's possible. You can manifest them@again. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Es posible.@Puedes manifestarlas de nuevo. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -687,7 +687,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "[chara:100701:effect_emotion_surprise_0][se:7226_shock]...?!"
+                "textCenter": "[chara:100701:effect_emotion_surprise_0][se:7226_shock]¿¡...!?"
             },
             {
                 "chara": [
@@ -699,7 +699,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Eternal Sakura!"
+                "textRight": "¡Sakura Eterna!"
             },
             {
                 "chara": [
@@ -709,7 +709,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Touka? Nemu?"
+                "textLeft": "¿Touka? ¿Nemu?"
             },
             {
                 "autoTurnLast": 0.1,
@@ -735,8 +735,8 @@
                         "pos": 2
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| If they were alive like me, I think they@would consume all of your Magic. |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| Si estuvieran vivas como yo,@creo que consumirían toda tu Magia. |"
             },
             {
                 "chara": [
@@ -747,7 +747,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "| But, like when you fought Alina... |"
+                "textRight": "| Pero, al igual que cuando@luchaste contra Alina... |"
             },
             {
                 "chara": [
@@ -755,7 +755,7 @@
                         "id": 304302
                     }
                 ],
-                "textRight": "| If you manifest them for a short time, you@can limit how much magic you consume. |"
+                "textRight": "| Si las manifiestas por poco tiempo, puedes@limitar la cantidad de Magia que consumas. |"
             },
             {
                 "chara": [
@@ -768,7 +768,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Can she really do that?"
+                "textLeft": "¿De verdad puede hacer eso?"
             },
             {
                 "chara": [
@@ -789,7 +789,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "| The Uwasa says yes. |"
+                "textRight": "| La Uwasa dice que sí. |"
             },
             {
                 "chara": [
@@ -802,7 +802,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Please, Nemu!"
+                "textLeft": "¡Por favor, Nemu!"
             },
             {
                 "chara": [
@@ -836,7 +836,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Are we overlooking some other kind of danger?"
+                "textLeft": "¿Estamos pasando por alto@algún otro tipo de peligro?"
             },
             {
                 "chara": [
@@ -846,7 +846,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "No...it'll be okay. I think I can do it..."
+                "textRight": "No... estará bien.@Creo que puedo hacerlo..."
             },
             {
                 "autoTurnLast": 2,

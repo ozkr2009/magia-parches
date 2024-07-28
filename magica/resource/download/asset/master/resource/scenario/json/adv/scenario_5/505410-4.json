@@ -23,7 +23,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Is everyone done writing?",
+                "textCenter": "¿Todas han terminado de escribir?",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -61,7 +61,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Yup, I am!"
+                "textLeft": "¡Síp, ya terminé!"
             },
             {
                 "chara": [
@@ -70,7 +70,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Me too."
+                "textRight": "Yo también."
             },
             {
                 "chara": [
@@ -80,7 +80,7 @@
                     }
                 ],
                 "nameCenter": "Touka",
-                "textCenter": "All done!"
+                "textCenter": "¡Hecho!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -118,7 +118,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "Okay, keep your wishes safe, everyone."
+                "textLeft": "Bien, cuiden muy bien sus deseos."
             },
             {
                 "chara": [
@@ -126,8 +126,8 @@
                         "id": 304302
                     }
                 ],
-                "nameRight": "Eternal Sakura",
-                "textRight": "| Where shall we go next? |"
+                "nameRight": "Sakura Eterna",
+                "textRight": "| ¿Adónde deberíamos ir ahora? |"
             },
             {
                 "chara": [
@@ -140,7 +140,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "It's a bit far, but I want to go to the@lookout point!"
+                "textLeft": "Está un poco lejos,@¡pero quiero ir al mirador!"
             },
             {
                 "autoTurnLast": 0.5,
@@ -171,7 +171,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "You know, the one in Hokuyo Ward?",
+                "textRight": "¿Una colina-mirador en el distrito de Hokuyo...?",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -182,7 +182,7 @@
                     }
                 ],
                 "nameLeft": "",
-                "textLeft": "I went on a day trip there a long time ago."
+                "textLeft": "Fui de excursión allí hace mucho tiempo, pero@es un lugar donde no llega la luz de la ciudad."
             },
             {
                 "chara": [
@@ -192,7 +192,7 @@
                         "id": 801100
                     }
                 ],
-                "textLeft": "The light from the city doesn't reach up@there, so you can see the stars clearly!"
+                "textLeft": "¡Puedes ver las estrellas con mucha claridad!"
             },
             {
                 "chara": [
@@ -203,7 +203,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "A clear, starry sky! I'd love to see that,@too!"
+                "textRight": "¡Un cielo claro y estrellado!@¡A mí también me encantaría verlo!"
             },
             {
                 "autoTurnLast": 1,
@@ -236,7 +236,7 @@
                 ],
                 "nameLeft": "Ui",
                 "surround": "7001_birdsong",
-                "textLeft": "Nooo...[chara:101501:lipSynch_0][wait:1.0][chara:101501:lipSynch_1] I don't want to.",
+                "textLeft": "Nooo...[chara:101501:lipSynch_0][wait:1.0][chara:101501:lipSynch_1] No quiero.",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -249,7 +249,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Ui?"
+                "textRight": "¿Ui?"
             },
             {
                 "chara": [
@@ -260,7 +260,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "I don't want to."
+                "textLeft": "No quiero."
             },
             {
                 "chara": [
@@ -268,7 +268,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "I don't want to go to all the best places@first."
+                "textLeft": "No quiero ir a los mejores lugares primero."
             },
             {
                 "chara": [
@@ -279,7 +279,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "It feels rushed, somehow."
+                "textLeft": "Se siente apresurado, de alguna manera."
             },
             {
                 "chara": [
@@ -290,7 +290,7 @@
                         "motion": 400
                     }
                 ],
-                "textRight": "That's not true."
+                "textRight": "No es cierto."
             },
             {
                 "chara": [
@@ -298,7 +298,7 @@
                         "id": 100701
                     }
                 ],
-                "textRight": "I just think we should go while we're able@to go."
+                "textRight": "Solo creo que deberíamos ir mientras podamos."
             },
             {
                 "chara": [
@@ -311,7 +311,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "I feel essentially the same way as Touka..."
+                "textRight": "Siento lo mismo que Touka..."
             },
             {
                 "chara": [
@@ -321,7 +321,7 @@
                         "id": 101403
                     }
                 ],
-                "textRight": "But I'm sorry, I didn't mean to make you@feel bad."
+                "textRight": "Pero lo siento, no queríamos hacerte sentir mal."
             },
             {
                 "bgm": "stop",
@@ -345,7 +345,7 @@
                     }
                 ],
                 "surround": "stop",
-                "textLeft": "No, I'm sorry. I know I'm being stubborn."
+                "textLeft": "No, sé que estoy siendo egoísta..."
             },
             {
                 "chara": [
@@ -354,7 +354,7 @@
                         "motion": 300
                     }
                 ],
-                "textLeft": "I've just been feeling really nervous is @all..."
+                "textLeft": "Pero, es solo que estoy un poco nerviosa..."
             },
             {
                 "chara": [
@@ -362,7 +362,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "I'm sorry."
+                "textLeft": "Lo siento."
             },
             {
                 "chara": [
@@ -375,7 +375,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Okay. Let's go to the lookout point, then."
+                "textRight": "Okey, entonces vayamos al mirador."
             },
             {
                 "chara": [
@@ -386,7 +386,7 @@
                         "motion": 200
                     }
                 ],
-                "textLeft": "No!"
+                "textLeft": "¡No!"
             },
             {
                 "chara": [
@@ -398,7 +398,7 @@
                         "mouthOpen": 1
                     }
                 ],
-                "textRight": "Whaaaaaat?!"
+                "textRight": "¿¡Ehhhhh!?"
             },
             {
                 "chara": [
@@ -411,7 +411,7 @@
                         "mouthOpen": 0
                     }
                 ],
-                "textLeft": "We can go to the historiography room that@Nemu suggested."
+                "textLeft": "Podemos ir a la sala de historiografía@que Nemu sugirió."
             },
             {
                 "chara": [
@@ -424,7 +424,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "But that place is..."
+                "textRight": "Pero ese lugar..."
             },
             {
                 "autoTurnLast": 1,
@@ -456,7 +456,7 @@
                 ],
                 "nameLeft": "",
                 "nameRight": "Nemu",
-                "textRight": "In the annex wing of the Central Library...",
+                "textRight": "El edificio anexo de la Biblioteca Central...",
                 "turnChangeOut": "fadeOut",
                 "turnEffect": "blackFrame"
             },
@@ -466,7 +466,7 @@
                         "id": 800900
                     }
                 ],
-                "textLeft": "They have a room for historical records.@They display all kinds of interesting stuff!"
+                "textLeft": "Hay una sala de archivos históricos allí.@Tienen muchas cosas interesantes en exhibición."
             },
             {
                 "chara": [
@@ -477,7 +477,7 @@
                         "motion": 200
                     }
                 ],
-                "textRight": "Hmm... That sounds like a fun place."
+                "textRight": "Hmm... Suena como un lugar divertido."
             },
             {
                 "autoTurnLast": 0.5,
@@ -508,7 +508,7 @@
                     }
                 ],
                 "nameRight": "Nemu",
-                "textRight": "Like I said earlier, it's still closed...",
+                "textRight": "Como dije antes, ese lugar sigue cerrado...",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -519,7 +519,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "But if we're going to go to the lookout point@then I want to go everywhere else too!"
+                "textLeft": "¡Pero si vamos a ir al mirador, entonces@también quiero ir a todos los demás sitios!"
             },
             {
                 "chara": [
@@ -532,7 +532,7 @@
                     }
                 ],
                 "nameRight": "Touka",
-                "textRight": "Why?"
+                "textRight": "¿Por qué?"
             },
             {
                 "chara": [
@@ -542,7 +542,7 @@
                         "id": 101501
                     }
                 ],
-                "textLeft": "Because!"
+                "textLeft": "¡Porque...!"
             },
             {
                 "autoTurnLast": 0.1,
@@ -569,7 +569,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "Huh?"
+                "textCenter": "¿Eh?"
             },
             {
                 "autoTurnLast": 0.5,
@@ -599,7 +599,7 @@
                     }
                 ],
                 "nameLeft": "Ui",
-                "textLeft": "Um..."
+                "textLeft": "Emm..."
             },
             {
                 "chara": [
@@ -608,7 +608,7 @@
                         "lipSynch": 0
                     }
                 ],
-                "nameRight": "Eternal Sakura",
+                "nameRight": "Sakura Eterna",
                 "textRight": "| ... |"
             },
             {
@@ -618,7 +618,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textRight": "| I agree with Ui. We should go. |"
+                "textRight": "| Estoy de acuerdo con Ui.@Deberíamos ir. |"
             },
             {
                 "chara": [
@@ -631,7 +631,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Eternal Sakura..."
+                "textLeft": "Sakura Eterna..."
             },
             {
                 "chara": [
@@ -642,7 +642,7 @@
                         "motion": 1
                     }
                 ],
-                "textRight": "| You four wished to visit all of the places@you've heard of, or wrote a story about. |"
+                "textRight": "| Las cuatro pueden visitar los lugares de los que@oyeron hablar y las historias que habían@creado juntas. |"
             },
             {
                 "chara": [
@@ -650,7 +650,7 @@
                         "id": 304302
                     }
                 ],
-                "textRight": "| It was a dream that was likely never going@to come true. |"
+                "textRight": "| Cumplieron un sueño fugaz que era@poco probable que se hiciera realidad. |"
             },
             {
                 "chara": [
@@ -658,7 +658,7 @@
                         "id": 304302
                     }
                 ],
-                "textRight": "| That's why this tour will give you hope for@the future. |"
+                "textRight": "| Por eso este viaje les dará esperanzas@para el futuro. |"
             },
             {
                 "chara": [
@@ -667,7 +667,7 @@
                         "motion": 100
                     }
                 ],
-                "textRight": "| The shrine was just one stop. |"
+                "textRight": "| El santuario de antes era uno de esos lugares. |"
             },
             {
                 "chara": [
@@ -676,7 +676,7 @@
                         "id": 304302
                     }
                 ],
-                "textRight": "| You're making wishes at the shrine because@you're thinking about the future. |"
+                "textRight": "| Pedir un deseo en el santuario es algo que@pueden hacer porque piensan en el futuro. |"
             },
             {
                 "chara": [
@@ -688,7 +688,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "| And if you're looking toward the future,@you must also face reality. |"
+                "textRight": "| Así que, si quieren ver el futuro,@tienen que enfrentarse a la realidad. |"
             },
             {
                 "chara": [
@@ -697,7 +697,7 @@
                         "motion": 0
                     }
                 ],
-                "textRight": "| That is what I think. |"
+                "textRight": "| Eso es lo que pienso. |"
             },
             {
                 "chara": [
@@ -709,7 +709,7 @@
                     }
                 ],
                 "nameLeft": "Touka",
-                "textLeft": "Hmm... You've learned some odd things from@that server."
+                "textLeft": "Hmm... Sí que has aprendido unas cosas@muy raras de ese servidor."
             },
             {
                 "autoTurnLast": 2,

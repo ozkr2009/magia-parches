@@ -112,8 +112,8 @@
                 ]
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Touka Satomi, please come forward. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Touka Satomi, por favor pasa al frente. |",
                 "narrationEffect": "in"
             },
             {
@@ -126,7 +126,7 @@
                 ],
                 "nameRight": "Touka",
                 "narrationEffect": "out",
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -139,7 +139,7 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -149,7 +149,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textLeft": "| You are to receive the maximum penalty. |"
+                "textLeft": "| Eres sentenciada a la pena máxima. |"
             },
             {
                 "autoTurnLast": 0.1,
@@ -188,7 +188,7 @@
                     }
                 ],
                 "nameCenter": "Iroha",
-                "textCenter": "What?!",
+                "textCenter": "¿¡Qué!?",
                 "turnChangeOut": "rollOutFast"
             },
             {
@@ -199,7 +199,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "No, it can't be..."
+                "textLeft": "No, no puede ser..."
             },
             {
                 "chara": [
@@ -211,7 +211,7 @@
                     }
                 ],
                 "nameRight": "Tsuruno",
-                "textRight": "They could've written this part however@they wanted!"
+                "textRight": "¡Podrían haber escrito esta parte@como hubieran querido!"
             },
             {
                 "chara": [
@@ -221,7 +221,7 @@
                         "id": 100301
                     }
                 ],
-                "textRight": "Why didn't they just force her to make the@verdict not guilty?!"
+                "textRight": "¿¡Por qué no simplemente la forzaron@a hacer un veredicto de inocencia!?"
             },
             {
                 "autoTurnLast": 0.1,
@@ -266,7 +266,7 @@
                     }
                 ],
                 "nameRight": "Felicia",
-                "textRight": "Huh, what...?"
+                "textRight": "Eh, ¿qué...?"
             },
             {
                 "chara": [
@@ -276,7 +276,7 @@
                     }
                 ],
                 "nameLeft": "Kanagi",
-                "textLeft": "I'm not sure what steps were taken so far,@but this means they've been truthful."
+                "textLeft": "No conozco los detalles de lo que acabas de decir,@pero esto significa que ellas han sido justas."
             },
             {
                 "chara": [
@@ -286,15 +286,15 @@
                     }
                 ],
                 "nameCenter": "Sana",
-                "textCenter": "This just puts them at a disadvantage..."
+                "textCenter": "Esto solo las pone en desventaja..."
             },
             {
                 "autoTurnLast": 0.2,
                 "turnChangeIn": "rollInFast"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| Nemu Hiiragi, please come forward. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Nemu Hiiragi, por favor pasa al frente. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "rollOutFast"
             },
@@ -310,7 +310,7 @@
                 ],
                 "nameRight": "Nemu",
                 "narrationEffect": "out",
-                "textRight": "Yes..."
+                "textRight": "Sí..."
             },
             {
                 "chara": [
@@ -323,7 +323,7 @@
                         "pos": 0
                     }
                 ],
-                "nameLeft": "Eternal Sakura",
+                "nameLeft": "Sakura Eterna",
                 "textLeft": "| ... |"
             },
             {
@@ -333,7 +333,7 @@
                         "lipSynch": 1
                     }
                 ],
-                "textLeft": "| You are to receive the maximum penalty. |"
+                "textLeft": "| Eres sentenciada a la pena máxima. |"
             },
             {
                 "autoTurnLast": 0.2,
@@ -364,7 +364,7 @@
                 ],
                 "nameRight": "Ui",
                 "textBg": "shout",
-                "textRight": "Touka! Nemu!",
+                "textRight": "¡Touka! ¡Nemu!",
                 "turnChangeOut": "fadeOut"
             },
             {
@@ -375,7 +375,7 @@
                     }
                 ],
                 "nameLeft": "Iroha",
-                "textLeft": "It's okay, Ui. Nothing is decided yet..."
+                "textLeft": "No te preocupes, Ui.@Nada está decidido aún..."
             },
             {
                 "autoTurnLast": 0.1,
@@ -409,7 +409,7 @@
                     }
                 ],
                 "nameRight": "Sana",
-                "textRight": "But why, Eternal Sakura...?"
+                "textRight": "Pero, Sakura Eterna... ¿Por qué...?"
             },
             {
                 "chara": [
@@ -417,7 +417,7 @@
                         "id": 100401
                     }
                 ],
-                "textRight": "Yachiyo said they were just doing it for@show... She said that they're young..."
+                "textRight": "Yachiyo dijo que solo lo hacían para mostrar su@seriedad al respecto... y que aún eran jóvenes..."
             },
             {
                 "chara": [
@@ -427,7 +427,7 @@
                     }
                 ],
                 "nameLeft": "Yachiyo",
-                "textLeft": "That's right..."
+                "textLeft": "Así es..."
             },
             {
                 "chara": [
@@ -441,7 +441,7 @@
                     }
                 ],
                 "nameRight": "Ui",
-                "textRight": "Then why?!"
+                "textRight": "¿¡Entonces por qué!?"
             },
             {
                 "autoTurnLast": 1,
@@ -468,8 +468,8 @@
                         "motion": 300
                     }
                 ],
-                "nameNarration": "Eternal Sakura",
-                "narration": "| I thought so too, but \"maximum penalty\"@were the words I uttered... |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Yo también pensaba eso,@pero \"pena máxima\" fueron las@palabras que salieron de mi boca... |",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
@@ -480,16 +480,16 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| I am the Uwasa of the Eternal Sakura.@I was an Uwasa that awaited Iroha Tamaki,@Ui Tamaki, Touka Satomi, and Nemu Hiiragi. |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| Soy la Uwasa de la Sakura Eterna.@Una Uwasa que esperaba que@Iroha Tamaki, Ui Tamaki,@Touka Satomi y Nemu Hiiragi@se reunieran frente a mí. |",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
             },
             {
-                "narration": "| As such, the purpose of my@existence is to protect them. |"
+                "narration": "| Por lo mismo,@el propósito de mi existencia@es protegerlas. |"
             },
             {
-                "narration": "| But now, I have been appointed@another duty. |"
+                "narration": "| Pero ahora, se me ha asignado@otro deber que cumplir. |"
             },
             {
                 "autoTurnLast": 0.01,
@@ -516,8 +516,8 @@
                 "turnChangeIn": "fadeIn"
             },
             {
-                "nameNarration": "Eternal Sakura",
-                "narration": "| And in order to fulfill that duty, [textRed:I am in@the process of killing two of them...]  |",
+                "nameNarration": "Sakura Eterna",
+                "narration": "| [textRed:Ejecutar a dos de ellas...] |",
                 "narrationBg": "narration",
                 "narrationEffect": "in",
                 "turnChangeOut": "fadeOut"
